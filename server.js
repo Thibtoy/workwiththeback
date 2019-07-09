@@ -4,7 +4,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 //mongoose.connect('mongodb://localhost/WWTBDb', {useCreateIndex: true, useNewUrlParser: true});
-
+const PORT = process.env.PORT || 8000;
 //On définit express dans notre constante "app"
 const app = express();
 
@@ -33,4 +33,4 @@ const fillAppRoute = require('./config/routes/fillApp');
 	  fillAppRoute(app);
 //Mise en place du port d'écoute
 
-app.listen(8000, () => console.log('Listening on port 8000'));
+app.listen(PORT, () => console.log('Listening on '+PORT));
