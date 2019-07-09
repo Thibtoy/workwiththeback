@@ -8,8 +8,6 @@ const PORT = process.env.PORT || 8000;
 //On définit express dans notre constante "app"
 const app = express();
 
-console.log(process.env);
-
 //On prépare le body parser
 const urlencoded = bodyParser.urlencoded({extended:true});
 
@@ -35,4 +33,4 @@ const fillAppRoute = require('./config/routes/fillApp');
 	  fillAppRoute(app);
 //Mise en place du port d'écoute
 
-app.listen(PORT, () => console.log('Listening on the'+PORT));
+app.listen(PORT, () => console.log('Listening on '+PORT));
