@@ -8,6 +8,8 @@ const PORT = process.env.PORT || 8000;
 //On définit express dans notre constante "app"
 const app = express();
 
+console.log(process.env);
+
 //On prépare le body parser
 const urlencoded = bodyParser.urlencoded({extended:true});
 
