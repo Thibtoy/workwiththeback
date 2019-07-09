@@ -8,6 +8,7 @@ const nodeMailer = require('nodemailer');
 
 
 exports.signUp = function(req, res) {
+	console.log(req.body);
 			req.body.password = pH.generate(req.body.password);
 			let type = req.body.type;
 			delete req.body.type;
@@ -54,7 +55,7 @@ exports.activateAccount = function(req, res) {
 		else {
 			query.update({table: decoded.table, fields: {activated: 1}, where:{id: decoded.id}})
 				.then(() => {
-					res.redirect('http://localhost:3000/');
+					res.redirect('https:/evening-forest-89198.herokuapp.com/');
 			})
 				.catch((err) => {
 					console.log(err);
@@ -94,7 +95,7 @@ function sendValidationMail(mail, token) {
     		  '			<body>'+
     		  '				<div><p>Congratulations, your registration on WorkWithTheBest is almost done.<br />'+
     		  '				Click on the link below to validate your account!</p><br />'+
-    		  '				<a href="https:/evening-forest-89198.herokuapp.com//activateAccount?token='+token+'">Click Here</a>'+
+    		  '				<a href="https:/evening-forest-89198.herokuapp.com/activateAccount?token='+token+'">Click Here</a>'+
         	  '			</body>'+
         	  '		</html>'
 	}
