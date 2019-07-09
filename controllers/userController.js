@@ -56,7 +56,7 @@ exports.activateAccount = function(req, res) {
 		else {
 			query.update({table: decoded.table, fields: {activated: 1}, where:{id: decoded.id}})
 				.then(() => {
-					res.redirect('https://evening-forest-89198.herokuapp.com/');
+					res.redirect('https://work-with-the-best.herokuapp.com/');
 			})
 				.catch((err) => {
 					console.log(err);
