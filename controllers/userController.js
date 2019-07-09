@@ -50,7 +50,7 @@ exports.login = function(req, res) {
 
 exports.activateAccount = function(req, res) {
 	let token = req.query.token;
-	console.log(req.query.token);
+	console.log(req.query);
 	jwt.verify(token, config.SECRET, function(err, decoded){
 		if (err) res.status(400).json('Authentication Faillure, maybe the link that you followed is expired :3');
 		else {
