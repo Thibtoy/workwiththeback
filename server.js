@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 app.use(function(req, res, next){
 	res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With, content-type');
 	res.setHeader('Access-Control-Allow-Origin', 'https://work-with-the-best.herokuapp.com');
-	res.setHeader('Access-Control-Allow-Methods', 'GET, POST, Options, PUT, DELETE');
+	res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
 	res.setHeader('Access-Control-Allow-Credentials', true);
 	next();
 });
