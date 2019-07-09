@@ -64,6 +64,7 @@ exports.find = function(options, results) {
 	if (options.limit) query += ' LIMIT '+options.limit;
 	console.log(query);
 	return db.query(query, function(err, data){
+		db.end();
 		if (err) return results(err, null);
 		else if(data.length === 0) return results(null, false);
 		else if(data.length === 1) return results(null, data[0]);
