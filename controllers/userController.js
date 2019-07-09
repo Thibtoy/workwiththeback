@@ -96,7 +96,7 @@ function sendValidationMail(mail, token) {
     		  '			<body>'+
     		  '				<div><p>Congratulations, your registration on WorkWithTheBest is almost done.<br />'+
     		  '				Click on the link below to validate your account!</p><br />'+
-    		  '				<a href="https:/evening-forest-89198.herokuapp.com/activateAccount?token='+token+'">Click Here</a>'+
+    		  '				<a href="https://evening-forest-89198.herokuapp.com/activateAccount?token='+token+'>Click Here</a>'+
         	  '			</body>'+
         	  '		</html>'
 	}
