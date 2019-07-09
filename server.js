@@ -16,7 +16,7 @@ app.use(bodyParser.json());
 
 app.use(function(req, res, next){
 	res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With, content-type');
-	res.setHeader('Access-Control-Allow-Origin', 'https://work-with-the-best.herokuapp.com');
+	res.setHeader('Access-Control-Allow-Origin', 'https://work-with-the-best.herokuapp.com/');
 	res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
 	res.setHeader('Access-Control-Allow-Credentials', true);
 	next();
@@ -33,4 +33,4 @@ const fillAppRoute = require('./config/routes/fillApp');
 	  fillAppRoute(app);
 //Mise en place du port d'écoute
 
-app.listen(PORT, () => console.log('Listening on '+PORT));
+app.listen(PORT, () => console.log('Listening ont '+PORT));
