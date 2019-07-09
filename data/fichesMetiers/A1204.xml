@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1204</code_rome>
+<intitule>Protection du patrimoine naturel</intitule>
+<code_ogr>10</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="16">
+<item_app>
+<code_ogr>10780</code_ogr>
+<libelle>Agent / Agente technique des parcs nationaux</libelle>
+<libelle_court>Agent / Agente technique des parcs nationaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10358</code_ogr>
+<libelle>Agent charg&#0233; / Agente charg&#0233;e de protection et de sauvegarde du patrimoine naturel</libelle>
+<libelle_court>Agent(e) charg&#0233;(e) protection, sauvegarde patrimoine naturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14562</code_ogr>
+<libelle>Eco garde</libelle>
+<libelle_court>Eco garde</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15195</code_ogr>
+<libelle>Garde de parc naturel</libelle>
+<libelle_court>Garde de parc naturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15198</code_ogr>
+<libelle>Garde du littoral</libelle>
+<libelle_court>Garde du littoral</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15199</code_ogr>
+<libelle>Garde forestier / foresti&#0232;re</libelle>
+<libelle_court>Garde forestier / foresti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15200</code_ogr>
+<libelle>Garde moniteur / monitrice de parc national</libelle>
+<libelle_court>Garde moniteur / monitrice de parc national</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15201</code_ogr>
+<libelle>Garde moniteur / monitrice de parc naturel</libelle>
+<libelle_court>Garde moniteur / monitrice de parc naturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15202</code_ogr>
+<libelle>Garde national / nationale de la chasse et de la faune sauvage</libelle>
+<libelle_court>Garde national/nationale de la chasse et de la faune sauvage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15204</code_ogr>
+<libelle>Garde technicien / technicienne de r&#0233;serve naturelle</libelle>
+<libelle_court>Garde technicien / technicienne de r&#0233;serve naturelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15205</code_ogr>
+<libelle>Garde-chasse</libelle>
+<libelle_court>Garde-chasse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15206</code_ogr>
+<libelle>Garde-chasse particulier / particuli&#0232;re</libelle>
+<libelle_court>Garde-chasse particulier / particuli&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15208</code_ogr>
+<libelle>Garde-p&#0234;che</libelle>
+<libelle_court>Garde-p&#0234;che</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15210</code_ogr>
+<libelle>Garde-rivi&#0232;re</libelle>
+<libelle_court>Garde-rivi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19706</code_ogr>
+<libelle>Technicien / Technicienne cyn&#0233;g&#0233;tique</libelle>
+<libelle_court>Technicien / Technicienne cyn&#0233;g&#0233;tique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38379</code_ogr>
+<libelle>Technicien / Technicienne de rivi&#0232;re</libelle>
+<libelle_court>Technicien / Technicienne de rivi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Effectue la surveillance de site (espaces naturels, prot&#0233;g&#0233;s, ...) et veille &#0224; la sauvegarde du patrimoine naturel (r&#0233;serve naturelle, for&#0234;ts, littoral, ...) selon les directives institutionnelles, la r&#0233;glementation environnementale (loi de protection du littoral, ...) et les r&#0232;gles de s&#0233;curit&#0233;.
+Peut sensibiliser diff&#0233;rents publics &#0224; la protection de l&#0039;environnement, ou mettre en place la s&#0233;curisation du public.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP agricole en am&#0233;nagement des espaces naturels.
+Un Brevet de Technicien Agricole en am&#0233;nagement de l&#0039;espace, gestion de la faune sauvage ou un BTS Agricole en gestion et protection de la nature peut &#0234;tre demand&#0233; pour les postes de technicien cyn&#0233;g&#0233;tique.
+Un dipl&#0244;me de niveau Bac &#0224; Bac + 2 (BTS, DUT) dans les domaines de l&#0039;eau et de la protection de l&#0039;environnement peut &#0234;tre demand&#0233; pour les postes de technicien de rivi&#0232;re.
+Une bonne condition physique (acuit&#0233; visuelle, ...) est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de structures publiques (Office National des For&#0234;ts, parcs nationaux, ...) ou priv&#0233;es (associations, for&#0234;ts domaniales, ...), en contact avec diff&#0233;rents intervenants (autorit&#0233;s, unit&#0233;s de secours, scientifiques, visiteurs, ...).
+Elle varie selon le secteur (am&#0233;nagement du territoire, protection du littoral, mise en valeur du patrimoine naturel, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="7">
+<item_env>
+<code_ogr>23688</code_ogr>
+<libelle>Agence de l&#0039;Eau</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23709</code_ogr>
+<libelle>Association de protection de la nature</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24011</code_ogr>
+<libelle>Office National des For&#0234;ts</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24031</code_ogr>
+<libelle>Parc naturel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23485</code_ogr>
+<libelle>Environnement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>100068</code_ogr>
+<libelle>Etudier les &#0233;volutions de la faune et de la flore dans les milieux naturels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>100069</code_ogr>
+<libelle>Surveiller un espace naturel pour la pr&#0233;vention des risques d&#0039;accidents, de pollution, d&#0039;incendie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>100070</code_ogr>
+<libelle>Diagnostiquer l&#0039;&#0233;tat d&#0039;un site et d&#0233;finir les priorit&#0233;s d&#0039;action au sein des milieux inventori&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>100071</code_ogr>
+<libelle>D&#0233;ployer les directives du minist&#0232;re et des collectivit&#0233;s pour la protection et la valorisation des milieux naturels par r&#0233;introduction d&#0039;esp&#0232;ces, restauration de plages ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119180</code_ogr>
+<libelle>&#0201;tablir un rapport d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122820</code_ogr>
+<libelle>Etablir un rapport d&#0039;&#0233;tude</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>113875</code_ogr>
+<libelle>Sensibiliser tous les publics &#0224; la protection et la sauvegarde du patrimoine naturel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119625</code_ogr>
+<libelle>Apporter une assistance technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="16">
+<item_ab_stp>
+<code_ogr>100019</code_ogr>
+<libelle>Caract&#0233;ristiques des &#0233;cosyst&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100091</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233; des espaces et des &#0233;tablissements recevant du public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100158</code_ogr>
+<libelle>Botanique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120439</code_ogr>
+<libelle>Ecologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100051</code_ogr>
+<libelle>Classification des esp&#0232;ces animales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>125265</code_ogr>
+<libelle>Protection et sauvegarde du milieu naturel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120721</code_ogr>
+<libelle>Pr&#0233;vention des risques environnementaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100076</code_ogr>
+<libelle>Droit forestier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100077</code_ogr>
+<libelle>Droit rural</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100050</code_ogr>
+<libelle>R&#0233;glementation des espaces et esp&#0232;ces prot&#0233;g&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100079</code_ogr>
+<libelle>R&#0233;glementation de la chasse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100078</code_ogr>
+<libelle>R&#0233;glementation de la p&#0234;che</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100075</code_ogr>
+<libelle>Utilisation de mat&#0233;riel de capture (seringue hypodermique, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>125711</code_ogr>
+<libelle>Recenser les esp&#0232;ces d&#0039;un espace naturel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125712</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;une &#0233;tude</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125713</code_ogr>
+<libelle>Attribuer des lots de chasses</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125714</code_ogr>
+<libelle>Contr&#0244;ler la pr&#0233;sence d&#0039;animaux ind&#0233;sirables et effectuer la r&#0233;gulation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>100083</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de gestion des milieux aquatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125798</code_ogr>
+<libelle>S&#0233;lectionner un arbre &#0224; abattre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>100087</code_ogr>
+<libelle>Techniques de baguage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100088</code_ogr>
+<libelle>Techniques d&#0039;approche et de manipulation des animaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100089</code_ogr>
+<libelle>Techniques d&#0039;inventaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100086</code_ogr>
+<libelle>Techniques de comptage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113872</code_ogr>
+<libelle>S&#0233;curiser le public et alerter les services comp&#0233;tents de gendarmerie, pompiers, ... lors d&#0039;incidents ou verbaliser les contrevenants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123894</code_ogr>
+<libelle>Planifier des op&#0233;rations de suivi du patrimoine naturel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124319</code_ogr>
+<libelle>Superviser un programme d&#0039;entretien ou de restauration d&#0039;un cours d&#0039;eau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100057</code_ogr>
+<libelle>Techniques de pr&#0233;servation de la biodiversit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113876</code_ogr>
+<libelle>Encadrer ou guider des groupes de scientifiques et de visiteurs, sur des parcs naturels, for&#0234;ts, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1202</code_rome_cible>
+<libelle_rome_cible>Animation d&#0039;activit&#0233;s culturelles ou ludiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11059</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice nature environnement</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1707</code_rome_cible>
+<libelle_rome_cible>Surveillance municipale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15194</code_appellation_cible>
+<libelle_appellation_cible>Garde champ&#0234;tre</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1205</code_rome_cible>
+<libelle_rome_cible>Sylviculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1302</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le et diagnostic technique en agriculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1404</code_rome_cible>
+<libelle_rome_cible>Aquaculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

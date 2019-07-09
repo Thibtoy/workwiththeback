@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1403</code_rome>
+<intitule>Intervention technique en gestion industrielle et logistique</intitule>
+<code_ogr>227</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="24">
+<item_app>
+<code_ogr>10470</code_ogr>
+<libelle>Agent / Agente de lancement en industrie</libelle>
+<libelle_court>Agent / Agente de lancement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10471</code_ogr>
+<libelle>Agent / Agente de lancement-planification en industrie</libelle>
+<libelle_court>Agent / Agente de lancement-planification en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10544</code_ogr>
+<libelle>Agent / Agente de planification en industrie</libelle>
+<libelle_court>Agent / Agente de planification en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10553</code_ogr>
+<libelle>Agent / Agente de pr&#0233;paration en industrie</libelle>
+<libelle_court>Agent / Agente de pr&#0233;paration en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10731</code_ogr>
+<libelle>Agent / Agente d&#0039;ordonnancement en industrie</libelle>
+<libelle_court>Agent / Agente d&#0039;ordonnancement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10732</code_ogr>
+<libelle>Agent / Agente d&#0039;ordonnancement et de planification en industrie</libelle>
+<libelle_court>Agent(e) d&#0039;ordonnancement et de planification en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10733</code_ogr>
+<libelle>Agent / Agente d&#0039;ordonnancement-lancement en industrie</libelle>
+<libelle_court>Agent / Agente d&#0039;ordonnancement-lancement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10734</code_ogr>
+<libelle>Agent / Agente d&#0039;ordonnancement-lancement-planification en industrie</libelle>
+<libelle_court>Agent(e) ordonnancement-lancement-planification en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15331</code_ogr>
+<libelle>Gestionnaire de flux de production</libelle>
+<libelle_court>Gestionnaire de flux de production</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15360</code_ogr>
+<libelle>Gestionnaire d&#0039;ordonnancement</libelle>
+<libelle_court>Gestionnaire d&#0039;ordonnancement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17357</code_ogr>
+<libelle>Ordonnanceur-approvisionneur / Ordonnanceuse-approvisionneuse</libelle>
+<libelle_court>Ordonnanceur-approvisionneur/Ordonnanceuse-approvisionneuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17995</code_ogr>
+<libelle>Pr&#0233;parateur / Pr&#0233;paratrice de fabrication industrielle</libelle>
+<libelle_court>Pr&#0233;parateur / Pr&#0233;paratrice de fabrication industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18041</code_ogr>
+<libelle>Pr&#0233;parateur-planificateur / Pr&#0233;paratrice-planificatrice de production industrielle</libelle>
+<libelle_court>Pr&#0233;parateur(trice)-planificateur(trice) prod industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19891</code_ogr>
+<libelle>Technicien / Technicienne de planification-lancement-ordonnancement de production industrielle</libelle>
+<libelle_court>Technicien(ne) planif-lancement-ordonnancement prod ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20018</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;ordonnancement de production industrielle</libelle>
+<libelle_court>Technicien(ne) d&#0039;ordonnancement de production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20069</code_ogr>
+<libelle>Technicien / Technicienne en gestion de production industrielle</libelle>
+<libelle_court>Technicien(ne) en gestion de production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20070</code_ogr>
+<libelle>Technicien / Technicienne en gestion et production laboratoire</libelle>
+<libelle_court>Technicien/Technicienne en gestion et production laboratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20082</code_ogr>
+<libelle>Technicien / Technicienne en logistique de production industrielle</libelle>
+<libelle_court>Technicien(ne) en logistique de production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20083</code_ogr>
+<libelle>Technicien / Technicienne en logistique industrielle</libelle>
+<libelle_court>Technicien / Technicienne en logistique industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20101</code_ogr>
+<libelle>Technicien / Technicienne en organisation du travail de production industrielle</libelle>
+<libelle_court>Technicien(ne) en organisation production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20205</code_ogr>
+<libelle>Technicien / Technicienne ordonnancement-lancement de production industrielle</libelle>
+<libelle_court>Technicien(ne) ordonnancement-lancement product industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20211</code_ogr>
+<libelle>Technicien / Technicienne planification de production industrielle</libelle>
+<libelle_court>Technicien(ne) planification de production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20212</code_ogr>
+<libelle>Technicien / Technicienne planning et gestion de production industrielle</libelle>
+<libelle_court>Technicien(ne) planning et gestion production industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20206</code_ogr>
+<libelle>Technicien organisateur / Technicienne organisatrice de la gestion de production</libelle>
+<libelle_court>Technicien(ne) organisateur(trice) de gestion de production</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Planifie et g&#0232;re les flux d&#0039;approvisionnement et les d&#0233;lais de fabrication (mati&#0232;res premi&#0232;res, produits, informations, ...) amont et aval &#0224; la production, en fonction des commandes et des imp&#0233;ratifs de l&#0039;entreprise.
+Peut coordonner une &#0233;quipe (approvisionnement, stock, manutention, ...).
+Peut coordonner les flux d&#0039;information interne et externe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet Professionnel, ...) &#0224; Bac+2 (BTS, DUT) en gestion de production, logistique, gestion de flux ou dans le secteur de l&#0039;entreprise.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans le secteur de l&#0039;entreprise ou de la logistique sans dipl&#0244;me particulier.
+La ma&#0238;trise d&#0039;un ou plusieurs logiciels de Production Assist&#0233;e par Ordinateur -GPAO- et autres progiciels de gestion de production et de flux est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, en relation avec diff&#0233;rents services et intervenants (production, achat, qualit&#0233;, fournisseurs, soci&#0233;t&#0233;s de transport, prestataires logistiques, ...).
+Elle varie selon le mode d&#0039;organisation (flux tendu, supply chain, ...), les syst&#0232;mes d&#0039;informatisation et de communication (Progiciel de Gestion Int&#0233;gr&#0233;e -PGI-) et le type de production (petites s&#0233;ries, grandes s&#0233;ries, ...).
+Elle peut s&#0039;effectuer les fins de semaine, jours f&#0233;ri&#0233;s et &#0234;tre soumise &#0224; des astreintes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="32">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>121063</code_ogr>
+<libelle>Planifier un processus de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121059</code_ogr>
+<libelle>Suivre l&#0039;avancement des ordres de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123492</code_ogr>
+<libelle>Lancer des documents de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122722</code_ogr>
+<libelle>Optimiser des modes op&#0233;ratoires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121044</code_ogr>
+<libelle>Actualiser les syst&#0232;mes d&#0039;information en fonction des &#0233;volutions</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123317</code_ogr>
+<libelle>Assister techniquement un service</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="16">
+<item_ab_stp>
+<code_ogr>118517</code_ogr>
+<libelle>Gestion de production</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>140911</code_ogr>
+<libelle>M&#0233;thodes d&#0039;industrialisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102885</code_ogr>
+<libelle>M&#0233;thodes d&#0039;ordonnancement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122425</code_ogr>
+<libelle>M&#0233;thodes et outils de r&#0233;solution de probl&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102392</code_ogr>
+<libelle>M&#0233;thodes d&#0039;approvisionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119000</code_ogr>
+<libelle>Gestion des stocks et des approvisionnements</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102224</code_ogr>
+<libelle>Organisation de la cha&#0238;ne logistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124892</code_ogr>
+<libelle>Caract&#0233;ristiques de la cha&#0238;ne logistique (Supply Chain)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124447</code_ogr>
+<libelle>E-procurement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104150</code_ogr>
+<libelle>Techniques de planification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104663</code_ogr>
+<libelle>R&#0233;glementation des douanes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104084</code_ogr>
+<libelle>R&#0233;glementation du transport de marchandises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121126</code_ogr>
+<libelle>Progiciels de Gestion Int&#0233;gr&#0233;e (PGI) / Enterprise Resource Planning (ERP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114617</code_ogr>
+<libelle>Pr&#0233;parer des dossiers de fabrication et de conditionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121045</code_ogr>
+<libelle>Proposer des &#0233;volutions d&#0039;une cha&#0238;ne logistique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120982</code_ogr>
+<libelle>Suivre les besoins en &#0233;quipements, mat&#0233;riels et consommables</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>113786</code_ogr>
+<libelle>R&#0233;aliser les commandes de mat&#0233;riel, de fournitures, de consommables et v&#0233;rifier la conformit&#0233; des livraisons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119788</code_ogr>
+<libelle>Assister techniquement des collaborateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124536</code_ogr>
+<libelle>Organiser l&#0039;exp&#0233;dition d&#0039;une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123899</code_ogr>
+<libelle>Organiser le planning des activit&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2805</code_rome_cible>
+<libelle_rome_cible>Pilotage d&#0039;installation de production verri&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16156</code_appellation_cible>
+<libelle_appellation_cible>Lanceur / Lanceuse de fabrication en industrie verri&#0232;re</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique d&#0039;exploitation logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1401</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie gestion industrielle et logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2504</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe en industrie de transformation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1103</code_rome_cible>
+<libelle_rome_cible>Supervision d&#0039;entretien et gestion de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1301</code_rome_cible>
+<libelle_rome_cible>Conception et organisation de la cha&#0238;ne logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1302</code_rome_cible>
+<libelle_rome_cible>Direction de site logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

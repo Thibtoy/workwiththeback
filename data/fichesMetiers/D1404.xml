@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>D1404</code_rome>
+<intitule>Relation commerciale en vente de v&#0233;hicules</intitule>
+<code_ogr>105</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="30">
+<item_app>
+<code_ogr>11254</code_ogr>
+<libelle>Assistant / Assistante de vente automobile</libelle>
+<libelle_court>Assistant / Assistante de vente automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11374</code_ogr>
+<libelle>Attach&#0233; commercial / Attach&#0233;e commerciale en automobiles</libelle>
+<libelle_court>Attach&#0233; commercial / Attach&#0233;e commerciale en automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12175</code_ogr>
+<libelle>Chef de groupe v&#0233;hicules d&#0039;occasion</libelle>
+<libelle_court>Chef de groupe v&#0233;hicules d&#0039;occasion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12176</code_ogr>
+<libelle>Chef de groupe v&#0233;hicules neufs</libelle>
+<libelle_court>Chef de groupe v&#0233;hicules neufs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12740</code_ogr>
+<libelle>Commercial / Commerciale en automobiles</libelle>
+<libelle_court>Commercial / Commerciale en automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13397</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re des ventes automobiles</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re des ventes automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13360</code_ogr>
+<libelle>Conseiller commercial / Conseill&#0232;re commerciale en automobiles</libelle>
+<libelle_court>Conseiller commercial/Conseill&#0232;re commerciale en automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13374</code_ogr>
+<libelle>Conseiller commercial / Conseill&#0232;re commerciale en v&#0233;hicules industriels</libelle>
+<libelle_court>Conseiller(&#0232;re) commercial(e) en v&#0233;hicules industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13375</code_ogr>
+<libelle>Conseiller commercial / Conseill&#0232;re commerciale en v&#0233;hicules ou bateaux</libelle>
+<libelle_court>Conseiller(&#0232;re) commercial(e) en v&#0233;hicules ou bateaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13378</code_ogr>
+<libelle>Conseiller commercial / Conseill&#0232;re commerciale motocycles</libelle>
+<libelle_court>Conseiller commercial / Conseill&#0232;re commerciale motocycles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13491</code_ogr>
+<libelle>Conseiller vendeur / Conseill&#0232;re vendeuse d&#0039;autocars</libelle>
+<libelle_court>Conseiller vendeur / Conseill&#0232;re vendeuse d&#0039;autocars</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13492</code_ogr>
+<libelle>Conseiller vendeur / Conseill&#0232;re vendeuse de bateaux de plaisance</libelle>
+<libelle_court>Conseiller(&#0232;re) vendeur(se) de bateaux de plaisance</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13493</code_ogr>
+<libelle>Conseiller vendeur / Conseill&#0232;re vendeuse de v&#0233;hicules de loisirs</libelle>
+<libelle_court>Conseiller(&#0232;re) vendeur(se) de v&#0233;hicules de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13494</code_ogr>
+<libelle>Conseiller vendeur / Conseill&#0232;re vendeuse de v&#0233;hicules poids lourds</libelle>
+<libelle_court>Conseiller(&#0232;re) vendeur(se) de v&#0233;hicules poids lourds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13931</code_ogr>
+<libelle>D&#0233;l&#0233;gu&#0233; commercial / D&#0233;l&#0233;gu&#0233;e commerciale en automobiles</libelle>
+<libelle_court>D&#0233;l&#0233;gu&#0233; commercial / D&#0233;l&#0233;gu&#0233;e commerciale en automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15290</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de n&#0233;goce automobile</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de n&#0233;goce automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16956</code_ogr>
+<libelle>N&#0233;gociant / N&#0233;gociante de v&#0233;hicules d&#0039;occasion</libelle>
+<libelle_court>N&#0233;gociant / N&#0233;gociante de v&#0233;hicules d&#0039;occasion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16957</code_ogr>
+<libelle>N&#0233;gociant / N&#0233;gociante de v&#0233;hicules neufs</libelle>
+<libelle_court>N&#0233;gociant / N&#0233;gociante de v&#0233;hicules neufs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19785</code_ogr>
+<libelle>Technicien / Technicienne de la vente automobile</libelle>
+<libelle_court>Technicien / Technicienne de la vente automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19786</code_ogr>
+<libelle>Technicien / Technicienne de la vente de motocycles</libelle>
+<libelle_court>Technicien / Technicienne de la vente de motocycles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20514</code_ogr>
+<libelle>Vendeur / Vendeuse automobile</libelle>
+<libelle_court>Vendeur / Vendeuse automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20522</code_ogr>
+<libelle>Vendeur / Vendeuse de caravanes/camping car</libelle>
+<libelle_court>Vendeur / Vendeuse de caravanes/camping car</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20528</code_ogr>
+<libelle>Vendeur / Vendeuse de motocycles</libelle>
+<libelle_court>Vendeur / Vendeuse de motocycles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20535</code_ogr>
+<libelle>Vendeur / Vendeuse de v&#0233;hicules neufs</libelle>
+<libelle_court>Vendeur / Vendeuse de v&#0233;hicules neufs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20631</code_ogr>
+<libelle>Vendeur / Vendeuse en v&#0233;hicules anciens</libelle>
+<libelle_court>Vendeur / Vendeuse en v&#0233;hicules anciens</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20632</code_ogr>
+<libelle>Vendeur / Vendeuse en v&#0233;hicules de collection</libelle>
+<libelle_court>Vendeur / Vendeuse en v&#0233;hicules de collection</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20633</code_ogr>
+<libelle>Vendeur / Vendeuse en v&#0233;hicules d&#0039;occasion</libelle>
+<libelle_court>Vendeur / Vendeuse en v&#0233;hicules d&#0039;occasion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20634</code_ogr>
+<libelle>Vendeur / Vendeuse en v&#0233;hicules industriels</libelle>
+<libelle_court>Vendeur / Vendeuse en v&#0233;hicules industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20647</code_ogr>
+<libelle>Vendeur / Vendeuse secteur v&#0233;hicules d&#0039;occasion</libelle>
+<libelle_court>Vendeur / Vendeuse secteur v&#0233;hicules d&#0039;occasion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20648</code_ogr>
+<libelle>Vendeur / Vendeuse secteur v&#0233;hicules neufs</libelle>
+<libelle_court>Vendeur / Vendeuse secteur v&#0233;hicules neufs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Pr&#0233;sente des &#0233;quipements (voitures, motocycles, camping car, bateaux, ...) &#0224; la client&#0232;le, la conseille dans son choix, lui propose des services annexes (financement, extension de garanties, contrat d&#0039;entretien,...) et conclut la vente.
+Peut prospecter une client&#0232;le (particuliers, grands comptes, ...).
+Peut r&#0233;aliser l&#0039;achat de v&#0233;hicules/bateaux.
+Peut coordonner une &#0233;quipe de vente.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec une exp&#0233;rience professionnelle dans le secteur commercial ou technique sans dipl&#0244;me particulier.
+Un dipl&#0244;me de niveau Bac (professionnel, technologique, ..) &#0224; Bac+2 (BTS, DUT, ...) dans le secteur commercial ou technique (m&#0233;canique automobile, nautisme, ...) peut en faciliter l&#0039;acc&#0232;s.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;emploi/m&#0233;tier s&#0039;exerce au sein de concessions, succursales de marque, ... en relation avec les diff&#0233;rents services (constructeur, administratif, comptable, ...) et en contact avec les clients.
+Elle peut impliquer des d&#0233;placements en client&#0232;le.
+L&#0039;activit&#0233; peut varier selon le type de v&#0233;hicules (automobiles, motocycles, bateaux, v&#0233;hicules de loisirs, ...), le type de client&#0232;le (particuliers, professionnels, grands comptes, ...).
+Elle peut s&#0039;exercer le samedi.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="1">
+<item_env>
+<code_ogr>23826</code_ogr>
+<libelle>Concession automobile</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="12">
+<item_ab>
+<code_ogr>118637</code_ogr>
+<libelle>Analyser les besoins du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122187</code_ogr>
+<libelle>Pr&#0233;senter les caract&#0233;ristiques d&#0039;un mod&#0232;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125815</code_ogr>
+<libelle>Conseiller un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122185</code_ogr>
+<libelle>Pr&#0233;senter une offre commerciale et son financement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122186</code_ogr>
+<libelle>D&#0233;finir les modalit&#0233;s d&#0039;une vente avec un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118581</code_ogr>
+<libelle>Suivre le traitement d&#0039;une commande client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122164</code_ogr>
+<libelle>Proposer une solution commerciale appropri&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124094</code_ogr>
+<libelle>Proposer des solutions techniques &#0224; un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119106</code_ogr>
+<libelle>R&#0233;aliser un suivi d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120683</code_ogr>
+<libelle>Collaborer avec l&#0039;ensemble des intervenants &#0224; la r&#0233;alisation d&#0039;un objectif commun</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121910</code_ogr>
+<libelle>Mener une action commerciale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123487</code_ogr>
+<libelle>Monter un dossier de cr&#0233;dit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101399</code_ogr>
+<libelle>Marketing / Mercatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121850</code_ogr>
+<libelle>Entretien de vente</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102224</code_ogr>
+<libelle>Organisation de la cha&#0238;ne logistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121691</code_ogr>
+<libelle>Typologie du client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100340</code_ogr>
+<libelle>Techniques de vente</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122183</code_ogr>
+<libelle>Vendre des produits ou services</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="10">
+<item_as_stp>
+<code_ogr>116593</code_ogr>
+<libelle>Caract&#0233;ristiques des bateaux, voiliers et engins nautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116596</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules deux roues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116598</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules utilitaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126410</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules de collection</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126372</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules de loisirs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126313</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules de soci&#0233;t&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126120</code_ogr>
+<libelle>Caract&#0233;ristiques des v&#0233;hicules industriels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126314</code_ogr>
+<libelle>Caract&#0233;ristiques des voitures d&#0039;occasion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126252</code_ogr>
+<libelle>Caract&#0233;ristiques des voitures neuves</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100215</code_ogr>
+<libelle>Circuits de distribution commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>102229</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;une client&#0232;le d&#0039;entreprises</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102287</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;une client&#0232;le de particuliers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121688</code_ogr>
+<libelle>Logiciel de gestion clients</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121450</code_ogr>
+<libelle>Organiser des visites, prospections ou phoning</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119008</code_ogr>
+<libelle>Assurer un service apr&#0232;s-vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121709</code_ogr>
+<libelle>Service Apr&#0232;s Vente (SAV)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126342</code_ogr>
+<libelle>Assister un client lors de la prise en main d&#0039;un v&#0233;hicule/mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122192</code_ogr>
+<libelle>Estimer la valeur d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122191</code_ogr>
+<libelle>Proposer une offre commerciale adapt&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102250</code_ogr>
+<libelle>Techniques d&#0039;animation d&#0039;&#0233;quipe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1102</code_rome_cible>
+<libelle_rome_cible>Conseil client&#0232;le en assurances</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13359</code_appellation_cible>
+<libelle_appellation_cible>Conseiller commercial / Conseill&#0232;re commerciale en assurances</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1401</code_rome_cible>
+<libelle_rome_cible>Assistanat commercial</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1403</code_rome_cible>
+<libelle_rome_cible>Relation commerciale aupr&#0232;s de particuliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1504</code_rome_cible>
+<libelle_rome_cible>Transaction immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11380</code_appellation_cible>
+<libelle_appellation_cible>Attach&#0233; commercial / Attach&#0233;e commerciale en immobilier</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1406</code_rome_cible>
+<libelle_rome_cible>Management en force de vente</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38245</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice commerce vente</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

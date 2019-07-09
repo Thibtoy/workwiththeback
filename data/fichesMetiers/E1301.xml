@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>E1301</code_rome>
+<intitule>Conduite de machines d&#0039;impression</intitule>
+<code_ogr>132</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="50">
+<item_app>
+<code_ogr>10823</code_ogr>
+<libelle>Aide conducteur / conductrice de machines d&#0039;impression</libelle>
+<libelle_court>Aide conducteur / conductrice de machines d&#0039;impression</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11535</code_ogr>
+<libelle>Bobineur / Bobineuse en industrie graphique</libelle>
+<libelle_court>Bobineur / Bobineuse en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11547</code_ogr>
+<libelle>Bobinier / Bobini&#0232;re en industrie graphique</libelle>
+<libelle_court>Bobinier / Bobini&#0232;re en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11550</code_ogr>
+<libelle>Bobinier-receveur / Bobini&#0232;re-receveuse en industrie graphique</libelle>
+<libelle_court>Bobinier-receveur/Bobini&#0232;re-receveuse en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13060</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; imprimer</libelle>
+<libelle_court>Conducteur / Conductrice de machines &#0224; imprimer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13061</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; imprimer complexe</libelle>
+<libelle_court>Conducteur / Conductrice de machines &#0224; imprimer complexe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13062</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; imprimer offset</libelle>
+<libelle_court>Conducteur / Conductrice de machines &#0224; imprimer offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13067</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; s&#0233;rigraphier</libelle>
+<libelle_court>Conducteur / Conductrice de machines &#0224; s&#0233;rigraphier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13078</code_ogr>
+<libelle>Conducteur / Conductrice de machines de flexographie</libelle>
+<libelle_court>Conducteur / Conductrice de machines de flexographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13088</code_ogr>
+<libelle>Conducteur / Conductrice de machines d&#0039;impression</libelle>
+<libelle_court>Conducteur / Conductrice de machines d&#0039;impression</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13090</code_ogr>
+<libelle>Conducteur / Conductrice de machines feuilles en industrie graphique</libelle>
+<libelle_court>Conducteur(trice) de machines feuilles ind graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13091</code_ogr>
+<libelle>Conducteur / Conductrice de machines feuilles h&#0233;liogravure</libelle>
+<libelle_court>Conducteur / Conductrice de machines feuilles h&#0233;liogravure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13092</code_ogr>
+<libelle>Conducteur / Conductrice de machines feuilles offset</libelle>
+<libelle_court>Conducteur / Conductrice de machines feuilles offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13093</code_ogr>
+<libelle>Conducteur / Conductrice de machines feuilles typographie</libelle>
+<libelle_court>Conducteur / Conductrice de machines feuilles typographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13147</code_ogr>
+<libelle>Conducteur / Conductrice de presses num&#0233;riques d&#0039;imprimerie</libelle>
+<libelle_court>Conducteur / Conductrice de presses num&#0233;riques d&#0039;imprimerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13139</code_ogr>
+<libelle>Conducteur / Conductrice de presses 4 couleurs</libelle>
+<libelle_court>Conducteur / Conductrice de presses 4 couleurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13173</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives</libelle>
+<libelle_court>Conducteur / Conductrice de rotatives</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13166</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives blanchet-blanchet</libelle>
+<libelle_court>Conducteur / Conductrice de rotatives blanchet-blanchet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13167</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives h&#0233;liogravure</libelle>
+<libelle_court>Conducteur / Conductrice de rotatives h&#0233;liogravure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13168</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives monobobine impression continue</libelle>
+<libelle_court>Conducteur(trice) rotatives monobobine impression continue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13169</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives monobobine multicouleur</libelle>
+<libelle_court>Conducteur/Conductrice de rotatives monobobine multicouleur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13170</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives multibobine impression continue</libelle>
+<libelle_court>Conducteur(trice) rotatives multibobine impress continue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13171</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives offset</libelle>
+<libelle_court>Conducteur / Conductrice de rotatives offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13172</code_ogr>
+<libelle>Conducteur / Conductrice de rotatives typographie</libelle>
+<libelle_court>Conducteur / Conductrice de rotatives typographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13296</code_ogr>
+<libelle>Conducteur / Conductrice flexographe</libelle>
+<libelle_court>Conducteur / Conductrice flexographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13301</code_ogr>
+<libelle>Conducteur / Conductrice h&#0233;liogravure</libelle>
+<libelle_court>Conducteur / Conductrice h&#0233;liogravure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13309</code_ogr>
+<libelle>Conducteur / Conductrice offset</libelle>
+<libelle_court>Conducteur / Conductrice offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13310</code_ogr>
+<libelle>Conducteur / Conductrice offset monocouleur</libelle>
+<libelle_court>Conducteur / Conductrice offset monocouleur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13322</code_ogr>
+<libelle>Conducteur / Conductrice rotativiste</libelle>
+<libelle_court>Conducteur / Conductrice rotativiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12850</code_ogr>
+<libelle>Conducteur / Conductrice 1 ou 2 couleurs sur machines &#0224; feuilles</libelle>
+<libelle_court>Conducteur(trice) 1 ou 2 couleurs sur machines &#0224; feuilles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12851</code_ogr>
+<libelle>Conducteur / Conductrice 4 couleurs ou plus sur machines &#0224; bobines</libelle>
+<libelle_court>Conducteur(trice) 4 couleurs ou plus sur machines &#0224; bobines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12852</code_ogr>
+<libelle>Conducteur / Conductrice 4 couleurs ou plus sur machines &#0224; feuilles</libelle>
+<libelle_court>Conducteur(trice) 4 couleurs ou plus sur machines &#0224; feuilles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13341</code_ogr>
+<libelle>Conducteur-tireur-s&#0233;rigraphe / Conductrice-tireuse-s&#0233;rigraphe</libelle>
+<libelle_court>Conducteur-tireur-s&#0233;rigraphe/Conductrice-tireuse-s&#0233;rigraphe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15519</code_ogr>
+<libelle>Imprimeur / Imprimeuse</libelle>
+<libelle_court>Imprimeur / Imprimeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15521</code_ogr>
+<libelle>Imprimeur / Imprimeuse flexographe</libelle>
+<libelle_court>Imprimeur / Imprimeuse flexographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15522</code_ogr>
+<libelle>Imprimeur / Imprimeuse offset</libelle>
+<libelle_court>Imprimeur / Imprimeuse offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15524</code_ogr>
+<libelle>Imprimeur / Imprimeuse rotativiste</libelle>
+<libelle_court>Imprimeur / Imprimeuse rotativiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15525</code_ogr>
+<libelle>Imprimeur / Imprimeuse s&#0233;rigraphe</libelle>
+<libelle_court>Imprimeur / Imprimeuse s&#0233;rigraphe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15530</code_ogr>
+<libelle>Imprimeur / Imprimeuse typographe</libelle>
+<libelle_court>Imprimeur / Imprimeuse typographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16393</code_ogr>
+<libelle>Margeur / Margeuse en industrie graphique</libelle>
+<libelle_court>Margeur / Margeuse en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16396</code_ogr>
+<libelle>Margeur / Margeuse sur machine &#0224; imprimer</libelle>
+<libelle_court>Margeur / Margeuse sur machine &#0224; imprimer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17043</code_ogr>
+<libelle>Offsettiste</libelle>
+<libelle_court>Offsettiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18332</code_ogr>
+<libelle>Receveur / Receveuse en industrie graphique</libelle>
+<libelle_court>Receveur / Receveuse en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18333</code_ogr>
+<libelle>Receveur-bobineur / Receveuse-bobineuse en industrie graphique</libelle>
+<libelle_court>Receveur-bobineur/Receveuse-bobineuse en industrie graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19283</code_ogr>
+<libelle>Rotativiste</libelle>
+<libelle_court>Rotativiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19284</code_ogr>
+<libelle>Rotativiste h&#0233;lio</libelle>
+<libelle_court>Rotativiste h&#0233;lio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19285</code_ogr>
+<libelle>Rotativiste offset</libelle>
+<libelle_court>Rotativiste offset</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19286</code_ogr>
+<libelle>Rotativiste typo</libelle>
+<libelle_court>Rotativiste typo</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19413</code_ogr>
+<libelle>S&#0233;rigraphe</libelle>
+<libelle_court>S&#0233;rigraphe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19631</code_ogr>
+<libelle>Tampographe</libelle>
+<libelle_court>Tampographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0232;gle, surveille et r&#0233;gule une machine &#0224; imprimer simple ou complexe (offset, h&#0233;liogravure, typogravure, ...), sur divers supports (papier, carton, mati&#0232;re plastique, tissu, m&#0233;tal, ...), selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production.
+Effectue le contr&#0244;le de conformit&#0233; des produits imprim&#0233;s et la maintenance de premier niveau des machines et &#0233;quipements.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (professionnel, brevet professionnel, ...) &#0224; Bac+2 (BTS, DUT, ...) dans les secteurs de la communication et des industries graphiques, de l&#0039;imprimerie.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau CAP/BEP en communication et industries graphiques, compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans le secteur.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises d&#0039;impression (imprimerie de labeur, d&#0039;&#0233;dition, de presse ...) ou d&#0039;ateliers int&#0233;gr&#0233;s d&#0039;entreprises, en relation avec diff&#0233;rents services (pr&#0233;presse, fa&#0231;onnage, maintenance, qualit&#0233;, ...).
+Elle varie selon le secteur (imprimerie de labeur, de presse, ...), le type de machines (simples, complexes, ...), la technique d&#0039;impression (s&#0233;rigraphie, flexographie, ...) et le degr&#0233; d&#0039;automatisation du site.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; s&#0039;effectue en atelier et peut impliquer le port de charges.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (chaussures de s&#0233;curit&#0233;, protections anti-bruit, lunettes, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="12">
+<item_env>
+<code_ogr>23716</code_ogr>
+<libelle>Atelier int&#0233;gr&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23448</code_ogr>
+<libelle>Communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23497</code_ogr>
+<libelle>Fa&#0231;onnage/routage</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23524</code_ogr>
+<libelle>Imprimerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23525</code_ogr>
+<libelle>Imprimerie de labeur</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23526</code_ogr>
+<libelle>Imprimerie de presse</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23527</code_ogr>
+<libelle>Imprimerie d&#0039;&#0233;dition</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23532</code_ogr>
+<libelle>Industrie graphique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23570</code_ogr>
+<libelle>Papeterie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>124170</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement d&#0039;un dispositif de s&#0233;curit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102794</code_ogr>
+<libelle>S&#0233;lectionner, doser et m&#0233;langer les encres selon la teinte attendue et les supports &#0224; imprimer</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102795</code_ogr>
+<libelle>Monter la forme imprimante sur la machine, r&#0233;gler les param&#0232;tres d&#0039;impression (calage, encrage, pression des cylindres, ...) et charger les supports d&#0039;impression et les consommables</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102796</code_ogr>
+<libelle>R&#0233;aliser une premi&#0232;re impression avant roulage et proc&#0233;der aux ajustements (densit&#0233;, calage des couleurs, contours, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102797</code_ogr>
+<libelle>Pr&#0233;senter une &#0233;preuve pour obtention du bon &#0224; rouler, lancer et surveiller l&#0039;impression</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124081</code_ogr>
+<libelle>Contr&#0244;ler un produit fini</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125816</code_ogr>
+<libelle>R&#0233;aliser une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102694</code_ogr>
+<libelle>Renseigner les supports de suivi d&#0039;intervention et transmettre les informations au service concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>116752</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de machine d&#0039;impression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116751</code_ogr>
+<libelle>Proc&#0233;dures de maintenance de machines d&#0039;impression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102530</code_ogr>
+<libelle>Techniques d&#0039;impression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104415</code_ogr>
+<libelle>Automatisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102461</code_ogr>
+<libelle>Cha&#0238;ne graphique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102802</code_ogr>
+<libelle>Sp&#0233;cificit&#0233;s des supports d&#0039;impression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102646</code_ogr>
+<libelle>Colorim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102804</code_ogr>
+<libelle>Utiliser des proc&#0233;d&#0233;s ou des techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="9">
+<item_as_stp>
+<code_ogr>100726</code_ogr>
+<libelle>Techniques de lithographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120646</code_ogr>
+<libelle>Techniques de flexographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126355</code_ogr>
+<libelle>Techniques num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126289</code_ogr>
+<libelle>Techniques de taille douce</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126240</code_ogr>
+<libelle>Techniques de s&#0233;rigraphie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126239</code_ogr>
+<libelle>Techniques OFFSET</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126440</code_ogr>
+<libelle>Techniques de typogravure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120641</code_ogr>
+<libelle>Techniques de tampographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120639</code_ogr>
+<libelle>Techniques d&#0039;h&#0233;liogravure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="11">
+<item_as>
+<code_ogr>102813</code_ogr>
+<libelle>Intervenir sur des machines ou &#0233;quipements d&#0039;impression &#0224; feuilles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102890</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; installation robotis&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102891</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; commande num&#0233;rique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102892</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; 1 ou 2 couleurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102893</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; 3 couleurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102894</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; 4 couleurs et plus</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102895</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression automatis&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102896</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression complexes (fa&#0231;onnage incorpor&#0233;)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102897</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; grand format</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102898</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; rotative monobobine</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102899</code_ogr>
+<libelle>Intervenir sur des machines et /ou &#0233;quipements d&#0039;impression &#0224; rotative multibobines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>104855</code_ogr>
+<libelle>Surveiller le fonctionnement des machines et des &#0233;quipements et effectuer des interventions simples en cas d&#0039;incident</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102824</code_ogr>
+<libelle>Lecture de synoptique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114231</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations sur des machines de fa&#0231;onnage ind&#0233;pendantes (massicot, plieuse, relieuse, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102825</code_ogr>
+<libelle>Techniques de finition/fa&#0231;onnage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125514</code_ogr>
+<libelle>Pr&#0233;parer des supports d&#0039;impression pour l&#0039;approvisionnement continu d&#0039;une machine</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114233</code_ogr>
+<libelle>R&#0233;gler des m&#0233;canismes d&#0039;alimentation de supports d&#0039;impression</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1302</code_rome_cible>
+<libelle_rome_cible>Conduite de machines de fa&#0231;onnage routage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1303</code_rome_cible>
+<libelle_rome_cible>Encadrement des industries graphiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1306</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;presse</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1308</code_rome_cible>
+<libelle_rome_cible>Intervention technique en industrie graphique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>J1201</code_rome>
+<intitule>Biologie m&#0233;dicale</intitule>
+<code_ogr>336</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="7">
+<item_app>
+<code_ogr>11525</code_ogr>
+<libelle>Biologiste m&#0233;dical / m&#0233;dicale</libelle>
+<libelle_court>Biologiste m&#0233;dical / m&#0233;dicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14278</code_ogr>
+<libelle>Directeur / Directrice de laboratoire d&#0039;analyses de biologie m&#0233;dicale</libelle>
+<libelle_court>Directeur(trice) labo d&#0039;analyses de biologie m&#0233;dicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14279</code_ogr>
+<libelle>Directeur / Directrice de laboratoire d&#0039;analyses v&#0233;t&#0233;rinaires</libelle>
+<libelle_court>Directeur/Directrice de laboratoire d&#0039;analyses v&#0233;t&#0233;rinaires</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14178</code_ogr>
+<libelle>Directeur adjoint / Directrice adjointe de laboratoire d&#0039;analyses de biologie m&#0233;dicale</libelle>
+<libelle_court>Directeur(trice) adjoint(e) labo analyses biologie m&#0233;dicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14194</code_ogr>
+<libelle>Directeur assistant / Directrice assistante de laboratoire d&#0039;analyses de biologie m&#0233;dicale</libelle>
+<libelle_court>Directeur(trice) assistant(e) labo analyse biologie m&#0233;dicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16564</code_ogr>
+<libelle>M&#0233;decin biologiste</libelle>
+<libelle_court>M&#0233;decin biologiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17679</code_ogr>
+<libelle>Pharmacien / Pharmacienne biologiste</libelle>
+<libelle_court>Pharmacien / Pharmacienne biologiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise ou contr&#0244;le la r&#0233;alisation d&#0039;actes de biologie m&#0233;dicale, interpr&#0232;te et valide les r&#0233;sultats afin de contribuer au diagnostic et au suivi de patients selon les r&#0232;gles du Code de Sant&#0233; Publique.
+Peut organiser la collecte et la dispensation des Produits Sanguins Labiles -PSL-.
+Peut coordonner une &#0233;quipe ou diriger un ou plusieurs laboratoires.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="6">
+Cet emploi/m&#0233;tier est accessible avec un Dipl&#0244;me d&#0039;Etat de Docteur en m&#0233;decine ou pharmacie, compl&#0233;t&#0233; par le Dipl&#0244;me d&#0039;Etudes Sp&#0233;cialis&#0233;es en biologie m&#0233;dicale.
+Des formations compl&#0233;mentaires (toxicologie, cytog&#0233;n&#0233;tique, h&#0233;mobiologie, ...) peuvent &#0234;tre requises.
+L&#0039;attestation de capacit&#0233; de pr&#0233;l&#0232;vement est obligatoire pour les biologistes non m&#0233;decin.
+L&#0039;inscription au tableau de l&#0039;ordre des m&#0233;decins ou des pharmaciens est obligatoire.
+L&#0039;acc&#0232;s dans les &#0233;tablissements de la fonction publique hospitali&#0232;re s&#0039;effectue sur concours sur titre.
+Des vaccinations pr&#0233;vues par le Code de Sant&#0233; Publique sont exig&#0233;es.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de laboratoires d&#0039;analyses m&#0233;dicales en contact avec les patients et en relation avec diff&#0233;rents intervenants (techniciens, personnel m&#0233;dical, soignants, chercheurs, ...).
+Elle peut s&#0039;exercer les fins de semaine et &#0234;tre soumise &#0224; des astreintes ou des gardes.
+L&#0039;activit&#0233; peut impliquer la manipulation de produits &#0224; risques (agents infectieux, toxiques, ...).
+Le port d&#0039;&#0233;quipements de protection (blouse, masque, gants, ...) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23921</code_ogr>
+<libelle>Etablissement du sang</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23985</code_ogr>
+<libelle>Laboratoire d&#0039;analyses m&#0233;dicales</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>121136</code_ogr>
+<libelle>D&#0233;finir les orientations strat&#0233;giques d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121815</code_ogr>
+<libelle>Apporter un appui technique pour le personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123645</code_ogr>
+<libelle>Organiser l&#0039;activit&#0233; d&#0039;un laboratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123318</code_ogr>
+<libelle>Int&#0233;grer des composants d&#0039;&#0233;quipements informatiques ou bureautiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119329</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;un service</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107291</code_ogr>
+<libelle>D&#0233;terminer les modalit&#0233;s de pr&#0233;l&#0232;vement et d&#0039;analyse biologique selon la prescription m&#0233;dicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107292</code_ogr>
+<libelle>R&#0233;aliser l&#0039;analyse biologique ou contr&#0244;ler la conformit&#0233; d&#0039;application des proc&#0233;dures de r&#0233;alisation des analyses par les techniciens</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123160</code_ogr>
+<libelle>Interpr&#0233;ter les r&#0233;sultats d&#0039;une analyse biologique et alerter le prescripteur selon le degr&#0233; d&#0039;urgence</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107294</code_ogr>
+<libelle>R&#0233;diger le compte rendu de l&#0039;analyse biologique, renseigner le dossier du patient et transmettre les informations au patient, au prescripteur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>107296</code_ogr>
+<libelle>Nomenclature des actes de biologie m&#0233;dicale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107295</code_ogr>
+<libelle>Guide de Bonne Ex&#0233;cution des Analyses M&#0233;dicales -GBEA-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119645</code_ogr>
+<libelle>Pr&#0233;l&#0232;vement biologique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117378</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en anatomo-cytopathologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117379</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en bact&#0233;riologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117380</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en biochimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117381</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en cytologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117382</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en h&#0233;matologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117383</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en histo-pathologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117384</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en immunologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117385</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en parasitologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117386</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en virologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>123159</code_ogr>
+<libelle>Concevoir un circuit de biovigilance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123158</code_ogr>
+<libelle>Concevoir un circuit de r&#0233;actovigilance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123157</code_ogr>
+<libelle>Concevoir un circuit d&#0039;h&#0233;movigilance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>107306</code_ogr>
+<libelle>Circuit des vigilances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117074</code_ogr>
+<libelle>Biocontamination</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114998</code_ogr>
+<libelle>D&#0233;finir et organiser la collecte et la dispensation de produits sanguins vers des services de soins</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>123501</code_ogr>
+<libelle>Produits Sanguins Labiles (PSL)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107308</code_ogr>
+<libelle>Proc&#0233;dures de stockage des produits sanguins labiles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119337</code_ogr>
+<libelle>Mettre en place des actions de gestion de ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16564</code_appellation_source>
+<libelle_appellation_source>M&#0233;decin biologiste</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1102</code_rome_cible>
+<libelle_rome_cible>M&#0233;decine g&#0233;n&#0233;raliste et sp&#0233;cialis&#0233;e</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>17679</code_appellation_source>
+<libelle_appellation_source>Pharmacien / Pharmacienne biologiste</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1202</code_rome_cible>
+<libelle_rome_cible>Pharmacie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1402</code_rome_cible>
+<libelle_rome_cible>Conseil en Sant&#0233; Publique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16586</code_appellation_cible>
+<libelle_appellation_cible>M&#0233;decin Inspecteur de Sant&#0233; Publique -MISP-</libelle_appellation_cible>
+<code_appellation_cible>17689</code_appellation_cible>
+<libelle_appellation_cible>Pharmacien Inspecteur / Pharmacienne Inspectrice de Sant&#0233; Publique -PhISP-</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

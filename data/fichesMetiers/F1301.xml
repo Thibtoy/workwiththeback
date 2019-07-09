@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>F1301</code_rome>
+<intitule>Conduite de grue</intitule>
+<code_ogr>154</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="13">
+<item_app>
+<code_ogr>12957</code_ogr>
+<libelle>Conducteur / Conductrice de grue</libelle>
+<libelle_court>Conducteur / Conductrice de grue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12958</code_ogr>
+<libelle>Conducteur / Conductrice de grue &#0224; benne</libelle>
+<libelle_court>Conducteur / Conductrice de grue &#0224; benne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12959</code_ogr>
+<libelle>Conducteur / Conductrice de grue &#0224; tour</libelle>
+<libelle_court>Conducteur / Conductrice de grue &#0224; tour</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12960</code_ogr>
+<libelle>Conducteur / Conductrice de grue d&#0039;armement</libelle>
+<libelle_court>Conducteur / Conductrice de grue d&#0039;armement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12961</code_ogr>
+<libelle>Conducteur / Conductrice de grue de cale</libelle>
+<libelle_court>Conducteur / Conductrice de grue de cale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12962</code_ogr>
+<libelle>Conducteur / Conductrice de grue marteau</libelle>
+<libelle_court>Conducteur / Conductrice de grue marteau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12964</code_ogr>
+<libelle>Conducteur / Conductrice de grue pyl&#0244;ne</libelle>
+<libelle_court>Conducteur / Conductrice de grue pyl&#0244;ne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12965</code_ogr>
+<libelle>Conducteur / Conductrice de grue sapine</libelle>
+<libelle_court>Conducteur / Conductrice de grue sapine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12967</code_ogr>
+<libelle>Conducteur / Conductrice de grue sur rails</libelle>
+<libelle_court>Conducteur / Conductrice de grue sur rails</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13300</code_ogr>
+<libelle>Conducteur grutier / Conductrice gruti&#0232;re</libelle>
+<libelle_court>Conducteur grutier / Conductrice gruti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15432</code_ogr>
+<libelle>Grutier / Gruti&#0232;re</libelle>
+<libelle_court>Grutier / Gruti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15433</code_ogr>
+<libelle>Grutier &#0233;lingueur / Gruti&#0232;re &#0233;lingueuse</libelle>
+<libelle_court>Grutier &#0233;lingueur / Gruti&#0232;re &#0233;lingueuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15434</code_ogr>
+<libelle>Grutier pontier / Gruti&#0232;re ponti&#0232;re</libelle>
+<libelle_court>Grutier pontier / Gruti&#0232;re ponti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+Approvisionne et alimente en mat&#0233;riels et mat&#0233;riaux au moyen d&#0039;une grue les diff&#0233;rents corps de m&#0233;tiers intervenant sur un site (chantier, portuaire, naval) selon les r&#0232;gles de s&#0233;curit&#0233;.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP en conduite de grues.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans ce secteur, sans dipl&#0244;me particulier.
+Un Certificat d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233; par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement est requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce sur les chantiers au sein d&#0039;entreprises du B&#0226;timent et des Travaux Publics -BTP-, du g&#0233;nie civil, des sites portuaires, chantiers navals. Elle peut impliquer des d&#0233;placements sur les chantiers et un &#0233;loignement du domicile de plusieurs jours.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+Elle s&#0039;effectue &#0224; l&#0039;int&#0233;rieur d&#0039;une cabine dont l&#0039;acc&#0232;s est en tr&#0232;s grande hauteur, &#0224; proximit&#0233; du vide.
+Le port d&#0039;&#0233;quipements de protection (casque de chantier, gants, ...) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="10">
+<item_env>
+<code_ogr>24076</code_ogr>
+<libelle>Site portuaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23387</code_ogr>
+<libelle>Activit&#0233;s maritimes sp&#0233;cialis&#0233;es (recherche, avitaillement off shore,...)</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23459</code_ogr>
+<libelle>D&#0233;molition</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23511</code_ogr>
+<libelle>G&#0233;nie militaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23379</code_ogr>
+<libelle>En grande hauteur</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="12">
+<item_ab>
+<code_ogr>116711</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;&#0233;tat du mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123772</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de d&#0233;blocage, stabilisation sur un engin de levage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123001</code_ogr>
+<libelle>Manoeuvrer une grue de chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123002</code_ogr>
+<libelle>Mettre une grue de chantier en &#0233;tat de fonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123503</code_ogr>
+<libelle>Positionner le moufle d&#0039;une grue</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123504</code_ogr>
+<libelle>&#0201;linguer une charge</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123004</code_ogr>
+<libelle>Lever des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>126365</code_ogr>
+<libelle>Distribuer des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121574</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;&#0233;tat de fonctionnement de l&#0039;engin</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124396</code_ogr>
+<libelle>D&#0233;tecter un dysfonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123493</code_ogr>
+<libelle>Manoeuvrer une grue en configuration hors service</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123494</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de s&#0233;curisation de fin de poste</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>116665</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de grues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119373</code_ogr>
+<libelle>Guidage d&#0039;engins de chantier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100290</code_ogr>
+<libelle>Modalit&#0233;s de stockage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104547</code_ogr>
+<libelle>Pneumatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103296</code_ogr>
+<libelle>Techniques d&#0039;&#0233;lingage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="6">
+<item_as_stp>
+<code_ogr>123708</code_ogr>
+<libelle>Grues &#0224; tour (CACES R 377) &#0224; montage automatis&#0233; (GMA) ou &#0224; montage par &#0233;l&#0233;ment (GME)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123711</code_ogr>
+<libelle>Grue &#0224; treillis sur porteur, grue &#0224; treillis automotrice (CACES R 383-1A)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123712</code_ogr>
+<libelle>Grue t&#0233;lescopique sur porteur, grue t&#0233;lescopique automotrice (CACES R 383-1B)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123714</code_ogr>
+<libelle>Grue &#0224; treillis sur chenilles (CACES R 383-2A)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123719</code_ogr>
+<libelle>Grue t&#0233;lescopique sur chenilles (CACES R 383-2B)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123720</code_ogr>
+<libelle>Grue &#0224; treillis sur rails (CACES R 383-2C)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122951</code_ogr>
+<libelle>Participer au r&#0233;glage d&#0039;une grue de chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122950</code_ogr>
+<libelle>Participer au montage d&#0039;une grue de chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123395</code_ogr>
+<libelle>Lever des charges sans visibilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126247</code_ogr>
+<libelle>Distribuer des charges sans visibilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114316</code_ogr>
+<libelle>Sortir et mettre &#0224; l&#0039;eau des bateaux de faible tonnage (&#0060;10T)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119848</code_ogr>
+<libelle>D&#0233;charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119849</code_ogr>
+<libelle>Charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123332</code_ogr>
+<libelle>Manutention portuaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1302</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;engins de terrassement et de carri&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1104</code_rome_cible>
+<libelle_rome_cible>Manoeuvre et conduite d&#0039;engins lourds de manutention</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1101</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;engins agricoles et forestiers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

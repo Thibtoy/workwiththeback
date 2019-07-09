@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>J1402</code_rome>
+<intitule>Di&#0233;t&#0233;tique</intitule>
+<code_ogr>346</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="3">
+<item_app>
+<code_ogr>14169</code_ogr>
+<libelle>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne</libelle>
+<libelle_court>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14171</code_ogr>
+<libelle>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne conseil</libelle>
+<libelle_court>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne conseil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14172</code_ogr>
+<libelle>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne nutritionniste</libelle>
+<libelle_court>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne nutritionniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Elabore le bilan di&#0233;t&#0233;tique et r&#0233;alise le suivi nutritionnel de personnes bien portantes ou de malades (patients hospitalis&#0233;s, diab&#0233;tiques, ...) selon la prescription m&#0233;dicale ou la demande individuelle.
+Conseille et informe les professionnels (de restauration, de sant&#0233;, ...) sur la di&#0233;t&#0233;tique et l&#0039;hygi&#0232;ne alimentaire.
+Peut contr&#0244;ler la cha&#0238;ne alimentaire en collectivit&#0233; (de la conception des menus &#0224; la distribution des repas) selon la r&#0233;glementation en mati&#0232;re d&#0039;hygi&#0232;ne alimentaire.
+Peut diriger un cabinet.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec le BTS de di&#0233;t&#0233;tique ou le DUT G&#0233;nie biologique option di&#0233;t&#0233;tique.
+Des formations compl&#0233;mentaires (nutrition et di&#0233;t&#0233;tique de l&#0039;adulte, sport et nutrition, aliments et sant&#0233;, s&#0233;curit&#0233; alimentaire, ...) peuvent &#0234;tre requises.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce en cabinet ou au sein d&#0039;&#0233;tablissements de soins, de collectivit&#0233;s, d&#0039;entreprises de restauration, ... en relation avec diff&#0233;rents intervenants (personnels de restauration, soignants, service d&#0039;hygi&#0232;ne, ...).
+Elle peut varier selon le secteur (restaurant scolaire, restaurant d&#0039;entreprise, cabinet, h&#0244;pital, ...) ou le public (sportifs, personnes &#0226;g&#0233;es, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23750</code_ogr>
+<libelle>Cabinet m&#0233;dical</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23868</code_ogr>
+<libelle>Entreprise alimentaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23970</code_ogr>
+<libelle>Infrastructure sportive</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24054</code_ogr>
+<libelle>Restaurant de collectivit&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="6">
+<item_ab>
+<code_ogr>107444</code_ogr>
+<libelle>Cerner les habitudes alimentaires, ant&#0233;c&#0233;dents m&#0233;dicaux, traitements des personnes et d&#0233;terminer leurs besoins nutritionnels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107445</code_ogr>
+<libelle>Accompagner les personnes dans la mise en oeuvre du programme nutritionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124916</code_ogr>
+<libelle>Concevoir un menu selon une prescription m&#0233;dicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107447</code_ogr>
+<libelle>Informer et sensibiliser en mati&#0232;re d&#0039;alimentation, d&#0039;hygi&#0232;ne de vie et de pr&#0233;vention des risques (allergies, ob&#0233;sit&#0233;, maladies cardio-vasculaires, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107448</code_ogr>
+<libelle>R&#0233;aliser le suivi di&#0233;t&#0233;tique et &#0233;changer des informations avec diff&#0233;rents intervenants (&#0233;quipe soignante, &#0233;ducative, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107449</code_ogr>
+<libelle>D&#0233;tecter des situations &#0224; risques (troubles du comportement alimentaire, d&#0233;nutrition, ...) et orienter les personnes vers un m&#0233;decin, psychologue</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>107450</code_ogr>
+<libelle>Prise de mesures anthropom&#0233;triques (poids, indice de masse corporelle, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119648</code_ogr>
+<libelle>R&#0233;&#0233;ducation nutritionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119916</code_ogr>
+<libelle>Principes de nutrition et de di&#0233;t&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122435</code_ogr>
+<libelle>Syst&#0232;me Hazard Analysis Critical Control Point  (HACCP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120010</code_ogr>
+<libelle>Production culinaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119074</code_ogr>
+<libelle>Physiopathologie du comportement alimentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124290</code_ogr>
+<libelle>Mettre en place une d&#0233;marche de soins di&#0233;t&#0233;tiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="6">
+<item_as_stp>
+<code_ogr>126216</code_ogr>
+<libelle>Caract&#0233;ristiques des troubles du comportement alimentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126257</code_ogr>
+<libelle>Pathologies digestives</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126125</code_ogr>
+<libelle>Maladies m&#0233;taboliques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126126</code_ogr>
+<libelle>D&#0233;s&#0233;quilibre du poids</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126413</code_ogr>
+<libelle>Allergies alimentaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126127</code_ogr>
+<libelle>Affections cardiaques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124918</code_ogr>
+<libelle>Adapter des menus selon les besoins d&#0039;une structure, les imp&#0233;ratifs budg&#0233;taires et des sp&#0233;cificit&#0233;s du public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124917</code_ogr>
+<libelle>Concevoir un menu</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123854</code_ogr>
+<libelle>Organiser un circuit alimentaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115031</code_ogr>
+<libelle>Concevoir ou faire &#0233;voluer des proc&#0233;dures, les protocoles en mati&#0232;re alimentaire (manipulation et conservation de denr&#0233;es, liaisons chaudes/froides, ...) et en contr&#0244;ler la conformit&#0233; d&#0039;application</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115032</code_ogr>
+<libelle>Concevoir et mettre en place des actions d&#0039;&#0233;ducation nutritionnelle (ateliers d&#0039;initiation au go&#0251;t, semaine &#0224; th&#0232;me)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>107459</code_ogr>
+<libelle>Animer des commissions de menus</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>116384</code_ogr>
+<libelle>Participer &#0224; des instances repr&#0233;sentatives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124125</code_ogr>
+<libelle>R&#0233;aliser une enqu&#0234;te &#0233;pid&#0233;miologique et/ou alimentaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107461</code_ogr>
+<libelle>R&#0233;aliser des actions de suivi consommateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>107603</code_ogr>
+<libelle>Intervenir aupr&#0232;s de sportifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107463</code_ogr>
+<libelle>Intervenir aupr&#0232;s de curistes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107443</code_ogr>
+<libelle>Intervenir aupr&#0232;s de personnes &#0226;g&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>103934</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;adultes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>108468</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;adolescents</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>103935</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;enfants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>118935</code_ogr>
+<libelle>P&#0233;diatrie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107469</code_ogr>
+<libelle>Etapes du d&#0233;veloppement de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119072</code_ogr>
+<libelle>G&#0233;rontologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126299</code_ogr>
+<libelle>R&#0233;aliser des soins aupr&#0232;s de patients hospitalis&#0233;s (soins post-op&#0233;ratoires)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107465</code_ogr>
+<libelle>R&#0233;aliser des soins aupr&#0232;s de patients aliment&#0233;s par voie parent&#0233;rale et/ou ent&#0233;rale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1405</code_rome_cible>
+<libelle_rome_cible>Conseil en information m&#0233;dicale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie qualit&#0233; industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie de production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14170</code_appellation_cible>
+<libelle_appellation_cible>Di&#0233;t&#0233;ticien / Di&#0233;t&#0233;ticienne chef de produit en fabrication industrielle</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1205</code_rome_cible>
+<libelle_rome_cible>Information sociale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11875</code_appellation_cible>
+<libelle_appellation_cible>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;ducation pour la sant&#0233;</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15135</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice de formation param&#0233;dicale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1502</code_rome_cible>
+<libelle_rome_cible>Coordination de services m&#0233;dicaux ou param&#0233;dicaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1103</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement personnel et bien-&#0234;tre de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

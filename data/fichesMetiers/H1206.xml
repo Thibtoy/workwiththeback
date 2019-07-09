@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1206</code_rome>
+<intitule>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</intitule>
+<code_ogr>217</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="131">
+<item_app>
+<code_ogr>10261</code_ogr>
+<libelle>Acousticien / Acousticienne en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Acousticien(ne) en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10320</code_ogr>
+<libelle>A&#0233;rodynamicien / A&#0233;rodynamicienne en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>A&#0233;rodynamicien(ne) en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11124</code_ogr>
+<libelle>Architecte produit industriel</libelle>
+<libelle_court>Architecte produit industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11127</code_ogr>
+<libelle>Architecte spatial / spatiale en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Architecte spatial(e) en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11249</code_ogr>
+<libelle>Assistant / Assistante de recherche clinique en industrie</libelle>
+<libelle_court>Assistant / Assistante de recherche clinique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11349</code_ogr>
+<libelle>Assistant / Assistante technique d&#0039;ing&#0233;nieur / d&#0039;ing&#0233;nieure en &#0233;tudes, recherche et d&#0233;veloppement en industrie</libelle>
+<libelle_court>Assistant(e) technique d&#0039;ing&#0233;nieur(e) ERD en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11398</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de recherche clinique en industrie</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de recherche clinique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11399</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de recherche clinique pharmaceutique en industrie</libelle>
+<libelle_court>Attach&#0233;(e) de recherche clinique pharmaceutique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11521</code_ogr>
+<libelle>Bioinformaticien / Bioinformaticienne en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Bioinformaticien(ne) en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11897</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes analytiques en industrie</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes analytiques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11898</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes cliniques en industrie</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes cliniques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11913</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes gal&#0233;niques en industrie</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes gal&#0233;niques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11916</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes pharmaceutiques en industrie</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes pharmaceutiques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11917</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes projets industriels</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes projets industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12225</code_ogr>
+<libelle>Chef de produit &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Chef de produit &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12230</code_ogr>
+<libelle>Chef de programme d&#0039;essais en &#0233;tudes et d&#0233;veloppement en industrie</libelle>
+<libelle_court>Chef de programme d&#0039;essais en &#0233;tudes d&#0233;velopt en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12244</code_ogr>
+<libelle>Chef de projet &#0233;tudes industrielles</libelle>
+<libelle_court>Chef de projet &#0233;tudes industrielles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140937</code_ogr>
+<libelle>Chef de projet recherche et d&#0233;veloppement &#0233;co-conception en industrie</libelle>
+<libelle_court>Chef de projet RD &#0233;co-conception en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12255</code_ogr>
+<libelle>Chef de projet recherche et d&#0233;veloppement en industrie</libelle>
+<libelle_court>Chef de projet recherche et d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14154</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse mat&#0233;riaux et proc&#0233;d&#0233;s en industrie</libelle>
+<libelle_court>D&#0233;veloppeur/D&#0233;veloppeuse mat&#0233;riaux et proc&#0233;d&#0233;s en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14212</code_ogr>
+<libelle>Directeur / Directrice de bureau d&#0039;&#0233;tudes en industrie</libelle>
+<libelle_court>Directeur / Directrice de bureau d&#0039;&#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14317</code_ogr>
+<libelle>Directeur / Directrice de recherche-d&#0233;veloppement en industrie</libelle>
+<libelle_court>Directeur/Directrice de recherche-d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14365</code_ogr>
+<libelle>Directeur / Directrice des &#0233;tudes en industrie</libelle>
+<libelle_court>Directeur / Directrice des &#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14366</code_ogr>
+<libelle>Directeur / Directrice des &#0233;tudes et du d&#0233;veloppement en industrie</libelle>
+<libelle_court>Directeur(trice) des &#0233;tudes et du d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14481</code_ogr>
+<libelle>Directeur / Directrice technique en &#0233;tudes-recherche-d&#0233;veloppement en industrie</libelle>
+<libelle_court>Directeur(trice) technique &#0233;tud-recherche-d&#0233;velopt industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14880</code_ogr>
+<libelle>Ergonome en industrie</libelle>
+<libelle_court>Ergonome en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14930</code_ogr>
+<libelle>Exp&#0233;rimentateur / Exp&#0233;rimentatrice d&#0039;essais en industrie</libelle>
+<libelle_court>Exp&#0233;rimentateur / Exp&#0233;rimentatrice d&#0039;essais en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14965</code_ogr>
+<libelle>Expert / Experte technologie en industrie</libelle>
+<libelle_court>Expert / Experte technologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15179</code_ogr>
+<libelle>Gal&#0233;niste en industrie</libelle>
+<libelle_court>Gal&#0233;niste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15579</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure agronome en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur(e) agronome en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15584</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure architecture navale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure architecture navale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15593</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure biochimiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure biochimiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15594</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure biologiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure biologiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15596</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure brevet en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure brevet en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15613</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure chimiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure chimiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15626</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;application en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;application en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15628</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de bureau d&#0039;&#0233;tudes en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de bureau d&#0039;&#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15630</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de conception et d&#0233;veloppement en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) de conception et d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15633</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de d&#0233;veloppement de produits en industrie</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure de d&#0233;veloppement produits en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15655</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de piste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de piste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15669</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de recherche proc&#0233;d&#0233;s en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de recherche proc&#0233;d&#0233;s en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15670</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de recherche produits en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de recherche produits en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15678</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de verrerie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de verrerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15683</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des mesures et tests en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des mesures et tests en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15693</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;essais en &#0233;tudes et d&#0233;veloppement en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) d&#0039;essais en &#0233;tudes et d&#0233;veloppement en ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15694</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;essais en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur(e) d&#0039;essais en &#0233;tudes, recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15708</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15712</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes-d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes-d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15713</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes-recherche-d&#0233;veloppement en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) d&#0039;&#0233;tudes-recherche-d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15715</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0233;veloppements en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0233;veloppements en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15718</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;exploitation des moyens en industrie</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure d&#0039;exploitation des moyens en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15737</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en a&#0233;ronautique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en a&#0233;ronautique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15738</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en a&#0233;rospatiale en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en a&#0233;rospatiale en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15741</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en armement en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en armement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15742</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en automatismes en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en automatismes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15743</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en automobile en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en automobile en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15744</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en avionique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en avionique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15746</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en biopuce en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en biopuce en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15747</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en biotechnologie en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en biotechnologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15749</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en chimie en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en chimie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15750</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en composants &#0233;lectroniques en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) en composants &#0233;lectroniques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15752</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en cristallographie en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en cristallographie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15757</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en &#0233;lectronique grand public en industrie</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure en &#0233;lectronique grand public industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15758</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en &#0233;lectronique m&#0233;dicale en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en &#0233;lectronique m&#0233;dicale en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15759</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en &#0233;lectronique professionnelle en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) en &#0233;lectronique professionnelle en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15762</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en g&#0233;nie chimique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en g&#0233;nie chimique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15765</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en innovations technologiques</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en innovations technologiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15768</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en mat&#0233;riaux en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en mat&#0233;riaux en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15772</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en microbiologie en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en microbiologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15773</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en micro-&#0233;lectronique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en micro-&#0233;lectronique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15774</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en nanotechnologie en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en nanotechnologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15778</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en proc&#0233;d&#0233;s, &#0233;tudes et d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en proc&#0233;d&#0233;s, &#0233;tudes et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15781</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en propri&#0233;t&#0233; industrielle</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en propri&#0233;t&#0233; industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15783</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en recherche analytique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en recherche analytique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15784</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en structures a&#0233;ronautiques en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) en structures a&#0233;ronautiques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15787</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en syst&#0232;mes &#0233;lectriques en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en syst&#0232;mes &#0233;lectriques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15789</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en thermodynamique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en thermodynamique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15792</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en veille technologique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en veille technologique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140936</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure ERD en &#0233;co-conception proc&#0233;d&#0233;s</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure ERD en &#0233;co-conception proc&#0233;d&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140935</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure ERD en &#0233;co-conception produits</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure ERD en &#0233;co-conception produits</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15797</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure &#0233;tudes de moyens en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure &#0233;tudes de moyens en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15798</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure &#0233;tudes et proc&#0233;d&#0233;s industriels</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure &#0233;tudes et proc&#0233;d&#0233;s industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15801</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure fiabilit&#0233; en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure fiabilit&#0233; en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15805</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure formulation en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure formulation en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15806</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure frigoriste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure frigoriste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15807</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure g&#0233;nie chimique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure g&#0233;nie chimique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15816</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure hydrobiologiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure hydrobiologiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15817</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure hydrochimiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure hydrochimiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15825</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure instrumentation en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure instrumentation en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15834</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure m&#0233;tallurgiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure m&#0233;tallurgiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15842</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure m&#0233;trologie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure m&#0233;trologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15843</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure militaire en recherche et d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure militaire en recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15844</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure motoriste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure motoriste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15847</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure normalisation en &#0233;tudes, recherche et d&#0233;veloppement</libelle>
+<libelle_court>Ing&#0233;nieur(e) normalisation &#0233;tudes, recherche, d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15857</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure plasturgiste en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure plasturgiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38739</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure recherche d&#0233;veloppement &#0233;nergies renouvelables en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) RD &#0233;nergies renouvelables en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38329</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure recherche d&#0233;veloppement packaging</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure recherche d&#0233;veloppement packaging</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15879</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure robotique en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure robotique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15887</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure sp&#0233;cification en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure sp&#0233;cification en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15896</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure syst&#0232;mes et simulations en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure syst&#0232;mes et simulations en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15897</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure syst&#0232;mes industriels</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure syst&#0232;mes industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15901</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure technique d&#0039;&#0233;tudes en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure technique d&#0039;&#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15905</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure textile en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure textile en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15911</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure validation syst&#0232;mes en industrie</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure validation syst&#0232;mes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15595</code_ogr>
+<libelle>Ing&#0233;nieur biom&#0233;dical / Ing&#0233;nieure biom&#0233;dicale en industrie</libelle>
+<libelle_court>Ing&#0233;nieur biom&#0233;dical / Ing&#0233;nieure biom&#0233;dicale en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15598</code_ogr>
+<libelle>Ing&#0233;nieur calculateur / Ing&#0233;nieure calculatrice en industrie</libelle>
+<libelle_court>Ing&#0233;nieur calculateur / Ing&#0233;nieure calculatrice en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15602</code_ogr>
+<libelle>Ing&#0233;nieur charg&#0233; / Ing&#0233;nieure charg&#0233;e d&#0039;&#0233;tudes industrielles</libelle>
+<libelle_court>Ing&#0233;nieur charg&#0233; / Ing&#0233;nieure charg&#0233;e d&#0039;&#0233;tudes industrielles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15729</code_ogr>
+<libelle>Ing&#0233;nieur &#0233;lectricien / Ing&#0233;nieure &#0233;lectricienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur &#0233;lectricien/Ing&#0233;nieure &#0233;lectricienne en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15735</code_ogr>
+<libelle>Ing&#0233;nieur &#0233;lectronicien / Ing&#0233;nieure &#0233;lectronicienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) &#0233;lectronicien(ne) en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15832</code_ogr>
+<libelle>Ing&#0233;nieur m&#0233;canicien / Ing&#0233;nieure m&#0233;canicienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur m&#0233;canicien / Ing&#0233;nieure m&#0233;canicienne en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15833</code_ogr>
+<libelle>Ing&#0233;nieur m&#0233;catronicien / Ing&#0233;nieure m&#0233;catronicienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur(e) m&#0233;catronicien(ne) en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15851</code_ogr>
+<libelle>Ing&#0233;nieur papetier / Ing&#0233;nieure papeti&#0232;re en industrie</libelle>
+<libelle_court>Ing&#0233;nieur papetier / Ing&#0233;nieure papeti&#0232;re en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15853</code_ogr>
+<libelle>Ing&#0233;nieur physicien / Ing&#0233;nieure physicienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur physicien / Ing&#0233;nieure physicienne en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15906</code_ogr>
+<libelle>Ing&#0233;nieur thermicien / Ing&#0233;nieure thermicienne en industrie</libelle>
+<libelle_court>Ing&#0233;nieur thermicien / Ing&#0233;nieure thermicienne en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16029</code_ogr>
+<libelle>Int&#0233;grateur / Int&#0233;gratrice en industrie</libelle>
+<libelle_court>Int&#0233;grateur / Int&#0233;gratrice en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16738</code_ogr>
+<libelle>Moniteur / Monitrice d&#0039;&#0233;tudes cliniques en industrie</libelle>
+<libelle_court>Moniteur / Monitrice d&#0039;&#0233;tudes cliniques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17020</code_ogr>
+<libelle>Officier / Offici&#0232;re de marque de l&#0039;industrie</libelle>
+<libelle_court>Officier / Offici&#0232;re de marque de l&#0039;industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17694</code_ogr>
+<libelle>Pharmacologue de l&#0039;industrie</libelle>
+<libelle_court>Pharmacologue de l&#0039;industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17732</code_ogr>
+<libelle>Physicien m&#0233;dical / Physicienne m&#0233;dicale ERD en industrie</libelle>
+<libelle_court>Physicien m&#0233;dical / Physicienne m&#0233;dicale ERD en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18672</code_ogr>
+<libelle>Responsable de bureau d&#0039;&#0233;tudes en industrie</libelle>
+<libelle_court>Responsable de bureau d&#0039;&#0233;tudes en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18831</code_ogr>
+<libelle>Responsable de projet industriel</libelle>
+<libelle_court>Responsable de projet industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18834</code_ogr>
+<libelle>Responsable de projet recherche et d&#0233;veloppement</libelle>
+<libelle_court>Responsable de projet recherche et d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18962</code_ogr>
+<libelle>Responsable d&#0039;&#0233;tudes cliniques en industrie</libelle>
+<libelle_court>Responsable d&#0039;&#0233;tudes cliniques en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18964</code_ogr>
+<libelle>Responsable d&#0039;&#0233;tudes et essais en industrie</libelle>
+<libelle_court>Responsable d&#0039;&#0233;tudes et essais en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18965</code_ogr>
+<libelle>Responsable d&#0039;&#0233;tudes industrielles</libelle>
+<libelle_court>Responsable d&#0039;&#0233;tudes industrielles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19010</code_ogr>
+<libelle>Responsable du d&#0233;veloppement pharmaceutique en industrie</libelle>
+<libelle_court>Responsable du d&#0233;veloppement pharmaceutique en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19165</code_ogr>
+<libelle>Responsable recherche-d&#0233;veloppement en industrie</libelle>
+<libelle_court>Responsable recherche-d&#0233;veloppement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19293</code_ogr>
+<libelle>Rudologue en industrie</libelle>
+<libelle_court>Rudologue en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20320</code_ogr>
+<libelle>Thermicien / Thermicienne de l&#0039;industrie</libelle>
+<libelle_court>Thermicien / Thermicienne de l&#0039;industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20392</code_ogr>
+<libelle>Toxicologue de l&#0039;industrie</libelle>
+<libelle_court>Toxicologue de l&#0039;industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20676</code_ogr>
+<libelle>V&#0233;t&#0233;rinaire de l&#0039;industrie</libelle>
+<libelle_court>V&#0233;t&#0233;rinaire de l&#0039;industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Con&#0231;oit et finalise de nouveaux produits ou de nouvelles technologies. Fait &#0233;voluer ceux d&#0233;j&#0224; existants, dans un objectif de d&#0233;veloppement commercial et d&#0039;innovation en milieu industriel.
+D&#0233;finit des moyens, m&#0233;thodes et techniques de valorisation et de mise en oeuvre des r&#0233;sultats de recherche.
+Peut superviser et coordonner un projet, une &#0233;quipe, un service ou un d&#0233;partement.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (Master Professionnel, dipl&#0244;me d&#0039;ing&#0233;nieur, ...) dans un secteur technique (m&#0233;canique, &#0233;lectronique, ...) ou scientifique (physique, chimie, ...).
+Il est &#0233;galement accessible &#0224; partir d&#0039;un dipl&#0244;me de niveau Bac+2 (BTS, DUT) dans les m&#0234;mes secteurs, compl&#0233;t&#0233; par une exp&#0233;rience professionnelle.
+La pratique de l&#0039;anglais est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, de bureaux d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie, d&#0039;organismes de Recherche &#0038; D&#0233;veloppement en relation avec diff&#0233;rents services et intervenants (production, m&#0233;thodes, qualit&#0233;, marketing, commercial, clients, fournisseurs, prestataires de services, ...).
+Elle varie selon le secteur d&#0039;activit&#0233; (a&#0233;ronautique, chimie, &#0233;lectronique, ...), le mode d&#0039;organisation et le type produits d&#0233;velopp&#0233;s.
+L&#0039;activit&#0233; peut s&#0039;effectuer en salle blanche, en zone &#0224; atmosph&#0232;re contr&#0244;l&#0233;e.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- et de protection st&#0233;riles (charlotte, chaussons, ...) peut &#0234;tre exig&#0233; selon la nature des &#0233;tudes et des recherches.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="35">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="11">
+<item_ab>
+<code_ogr>113547</code_ogr>
+<libelle>D&#0233;finir la faisabilit&#0233; et la rentabilit&#0233; d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118500</code_ogr>
+<libelle>Elaborer des propositions techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104508</code_ogr>
+<libelle>D&#0233;finir les m&#0233;thodes, les moyens d&#0039;&#0233;tudes et de conception et leur mise en oeuvre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119161</code_ogr>
+<libelle>Identifier les contraintes d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124529</code_ogr>
+<libelle>D&#0233;terminer des axes d&#0039;&#0233;volution technologiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104376</code_ogr>
+<libelle>Elaborer des solutions techniques et financi&#0232;res</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104510</code_ogr>
+<libelle>R&#0233;aliser des tests et essais, analyser les r&#0233;sultats et d&#0233;terminer les mises au point du produit, du proc&#0233;d&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121624</code_ogr>
+<libelle>Actualiser des dossiers techniques de d&#0233;finition du projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126003</code_ogr>
+<libelle>Concevoir un dossier technique de d&#0233;finition du projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119625</code_ogr>
+<libelle>Apporter une assistance technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="18">
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120880</code_ogr>
+<libelle>Eco-conception</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>115876</code_ogr>
+<libelle>Analyse du Cycle de Vie - ACV  des produits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104515</code_ogr>
+<libelle>Biochimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104513</code_ogr>
+<libelle>Techniques de laboratoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119414</code_ogr>
+<libelle>Audit interne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121863</code_ogr>
+<libelle>Analyse des risques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122425</code_ogr>
+<libelle>M&#0233;thodes et outils de r&#0233;solution de probl&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121126</code_ogr>
+<libelle>Progiciels de Gestion Int&#0233;gr&#0233;e (PGI) / Enterprise Resource Planning (ERP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119520</code_ogr>
+<libelle>Technologie de Groupe Assist&#0233;e par Ordinateur (TGAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119425</code_ogr>
+<libelle>Logiciels de Conception de Fabrication Assist&#0233;e par Ordinateur (CFAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119509</code_ogr>
+<libelle>Logiciels de gestion documentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>104516</code_ogr>
+<libelle>Intervenir en recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>104517</code_ogr>
+<libelle>Intervenir en &#0233;tudes, ing&#0233;nierie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>104518</code_ogr>
+<libelle>Intervenir en d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>104519</code_ogr>
+<libelle>Intervenir en essai, validation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="5">
+<item_as_stp>
+<code_ogr>121068</code_ogr>
+<libelle>March&#0233; des &#0233;nergies</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125614</code_ogr>
+<libelle>Energie renouvelable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120829</code_ogr>
+<libelle>Energie solaire thermique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120655</code_ogr>
+<libelle>Energie solaire photovolta&#0239;que</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120656</code_ogr>
+<libelle>Energie &#0233;olienne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113748</code_ogr>
+<libelle>Concevoir des mod&#0232;les th&#0233;oriques (calcul, simulation, mod&#0233;lisation)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102732</code_ogr>
+<libelle>Langages de programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101397</code_ogr>
+<libelle>Logiciels de mod&#0233;lisation et simulation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114564</code_ogr>
+<libelle>Concevoir des modes op&#0233;ratoires, des proc&#0233;d&#0233;s de fabrication ou d&#0039;industrialisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>118245</code_ogr>
+<libelle>Elaborer un dossier de certification</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123211</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude de brevetabilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>118244</code_ogr>
+<libelle>Elaborer un dossier d&#0039;homologation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120672</code_ogr>
+<libelle>R&#0233;aliser des supports techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122927</code_ogr>
+<libelle>Coordonner des partenariats de recherche et de d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122926</code_ogr>
+<libelle>D&#0233;velopper des partenariats de recherche et de d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>115820</code_ogr>
+<libelle>Techniques de benchmarking</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122460</code_ogr>
+<libelle>Suivre la r&#0233;alisation d&#0039;une prestation technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113325</code_ogr>
+<libelle>Piloter un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122521</code_ogr>
+<libelle>Coordonner un programme de recherche et d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122520</code_ogr>
+<libelle>D&#0233;finir un programme de recherche et d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>109802</code_ogr>
+<libelle>Diriger un service, une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1402</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1501</code_rome_cible>
+<libelle_rome_cible>Direction de laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2402</code_rome_cible>
+<libelle_rome_cible>Recherche en sciences de l&#0039;univers, de la mati&#0232;re et du vivant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="11">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1101</code_rome_cible>
+<libelle_rome_cible>Assistance et support technique client</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1102</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie d&#0039;affaires</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1302</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriels</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie qualit&#0233; industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie de production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1102</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie de maintenance industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1301</code_rome_cible>
+<libelle_rome_cible>Direction de grande entreprise ou d&#0039;&#0233;tablissement public</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

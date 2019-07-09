@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>N2102</code_rome>
+<intitule>Pilotage et navigation technique a&#0233;rienne</intitule>
+<code_ogr>511</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="22">
+<item_app>
+<code_ogr>12596</code_ogr>
+<libelle>Chef Personnel Navigant Technique -PNT-</libelle>
+<libelle_court>Chef Personnel Navigant Technique -PNT-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12597</code_ogr>
+<libelle>Chef pilote a&#0233;ronautique</libelle>
+<libelle_court>Chef pilote a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12728</code_ogr>
+<libelle>Commandant / Commandante de bord avion</libelle>
+<libelle_court>Commandant / Commandante de bord avion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12729</code_ogr>
+<libelle>Commandant / Commandante de bord h&#0233;licopt&#0232;re</libelle>
+<libelle_court>Commandant / Commandante de bord h&#0233;licopt&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13723</code_ogr>
+<libelle>Copilote d&#0039;a&#0233;ronef</libelle>
+<libelle_court>Copilote d&#0039;a&#0233;ronef</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14664</code_ogr>
+<libelle>Electronicien / Electronicienne de bord navigant de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Electronicien / Electronicienne de bord navigant de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15845</code_ogr>
+<libelle>Ing&#0233;nieur navigant / Ing&#0233;nieure navigante a&#0233;ronautique de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Ing&#0233;nieur(e) navigant(e) a&#0233;ronautique de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15846</code_ogr>
+<libelle>Ing&#0233;nieur navigant, navigateur / Ing&#0233;nieure navigante, navigatrice de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Ing&#0233;nieur(e) navigant(e), navigateur(trice) de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16019</code_ogr>
+<libelle>Instructeur / Instructrice simulateur de vol</libelle>
+<libelle_court>Instructeur / Instructrice simulateur de vol</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16524</code_ogr>
+<libelle>M&#0233;canicien navigant / M&#0233;canicienne navigante a&#0233;ronautique de l&#0039;arm&#0233;e</libelle>
+<libelle_court>M&#0233;canicien(ne) navigant(e) a&#0233;ronautique de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16732</code_ogr>
+<libelle>Moniteur / Monitrice de simulateur de vol de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Moniteur / Monitrice de simulateur de vol de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16954</code_ogr>
+<libelle>Navigateur officier / Navigatrice offici&#0232;re syst&#0232;mes d&#0039;armes de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Navigateur(trice) officier(&#0232;re) syst&#0232;mes d&#0039;armes de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17035</code_ogr>
+<libelle>Officier / Offici&#0232;re pilote de ligne -OPL-</libelle>
+<libelle_court>Officier / Offici&#0232;re pilote de ligne -OPL-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17742</code_ogr>
+<libelle>Pilote d&#0039;avion</libelle>
+<libelle_court>Pilote d&#0039;avion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17746</code_ogr>
+<libelle>Pilote de chasse / transport / h&#0233;licopt&#0232;re de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Pilote de chasse / transport / h&#0233;licopt&#0232;re de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17747</code_ogr>
+<libelle>Pilote de ligne a&#0233;rienne</libelle>
+<libelle_court>Pilote de ligne a&#0233;rienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17759</code_ogr>
+<libelle>Pilote d&#0039;essais a&#0233;ronautiques</libelle>
+<libelle_court>Pilote d&#0039;essais a&#0233;ronautiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17762</code_ogr>
+<libelle>Pilote d&#0039;h&#0233;licopt&#0232;re</libelle>
+<libelle_court>Pilote d&#0039;h&#0233;licopt&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17780</code_ogr>
+<libelle>Pilote instructeur / instructrice a&#0233;ronautique</libelle>
+<libelle_court>Pilote instructeur / instructrice a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17784</code_ogr>
+<libelle>Pilote professionnel / professionnelle a&#0233;ronautique</libelle>
+<libelle_court>Pilote professionnel / professionnelle a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18268</code_ogr>
+<libelle>Radariste navigateur a&#0233;rien / navigatrice a&#0233;rienne de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Radariste navigateur a&#0233;rien/navigatrice a&#0233;rienne de l&#0039;arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38517</code_ogr>
+<libelle>Technicien d&#0233;tecteur navigateur a&#0233;rien / Technicienne d&#0233;tectrice navigatrice a&#0233;rienne de l&#0039;arm&#0233;e</libelle>
+<libelle_court>Technicien(ne) d&#0233;tecteur(trice) navigateur(trice) a&#0233;rien(ne)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Pilote un a&#0233;ronef (avion, h&#0233;licopt&#0232;re, ...) pour le transport de passagers, fret, sacs postaux, ... ou la r&#0233;alisation d&#0039;une activit&#0233; a&#0233;rienne (photographie, &#0233;pandage agricole, sauvetage, ...), en fonction de param&#0232;tres techniques (carburant, m&#0233;t&#0233;o, ...), op&#0233;rationnels (&#0233;tat de l&#0039;appareil, plan de vol, ...) et financiers, selon la r&#0233;glementation a&#0233;rienne et les r&#0232;gles de s&#0233;curit&#0233; des biens et des personnes.
+Peut former des pilotes au sol sur simulateur, en vol ou v&#0233;rifier les connaissances techniques en vol.
+Peut encadrer un &#0233;quipage.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="6">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un Bac scientifique compl&#0233;t&#0233; par la licence de pilote professionnel (Commercial Pilote Licence -CPL-) et des qualifications sp&#0233;cifiques (vol aux instruments -IR-, travail en &#0233;quipage -MCC-, ...) &#0224; renouveler p&#0233;riodiquement.
+Son acc&#0232;s dans les compagnies a&#0233;riennes habilit&#0233;es ou dans l&#0039;arm&#0233;e s&#0039;effectue sur concours avec un Bac scientifique ou professionnel et plus g&#0233;n&#0233;ralement avec un Bac+2 scientifique (Classes Pr&#0233;paratoires aux Grandes Ecoles -CPGE-, BTS, ...).
+Il est compl&#0233;t&#0233; par une formation th&#0233;orique et pratique de plusieurs mois.
+Une aptitude physique et mentale attest&#0233;e par un Centre d&#0039;Examen M&#0233;dical du Personnel Navigant -CEMPN- est indispensable.
+Un casier judiciaire exempt de toute mention contradictoire est obligatoire.
+La pratique de l&#0039;anglais g&#0233;n&#0233;ral et technique est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de compagnies a&#0233;riennes, soci&#0233;t&#0233;s sp&#0233;cialis&#0233;es dans le travail a&#0233;rien, compagnies a&#0233;riennes taxi, a&#0233;roclubs, entreprises priv&#0233;es, d&#0233;fense nationale (arm&#0233;e de l&#0039;air, de terre, marine, gendarmerie), ... en contact permanent avec les centres de contr&#0244;le a&#0233;rien et les &#0233;quipes au sol. Elle peut impliquer un &#0233;loignement du domicile de plusieurs jours.
+Elle varie selon le type d&#0039;a&#0233;ronef (avion, h&#0233;licopt&#0232;re, ...) et le secteur (transport de passagers, &#0233;pandage, ...).
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="7">
+<item_env>
+<code_ogr>23680</code_ogr>
+<libelle>A&#0233;roclub</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23819</code_ogr>
+<libelle>Compagnie a&#0233;rienne</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23820</code_ogr>
+<libelle>Compagnie a&#0233;rienne avion-taxi</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23831</code_ogr>
+<libelle>Constructeur a&#0233;ronautique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24099</code_ogr>
+<libelle>Soci&#0233;t&#0233; de Travail A&#0233;rien</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>110166</code_ogr>
+<libelle>Contr&#0244;ler le dossier de vol, le plan de vol, les donn&#0233;es techniques de l&#0039;appareil et v&#0233;rifier le niveau de carburant et les conditions m&#0233;t&#0233;orologiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110167</code_ogr>
+<libelle>Proc&#0233;der aux contr&#0244;les et &#0224; la pr&#0233;paration du poste de pilotage, des &#0233;quipements et mat&#0233;riels de la cellule avec le personnel navigant commercial -PNC-</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110168</code_ogr>
+<libelle>Transmettre et &#0233;changer les informations de vol avec le personnel de bord et le personnel technique au sol</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110169</code_ogr>
+<libelle>Organiser ou superviser les op&#0233;rations &#0224; bord (chargement, accueil passagers, ...) et mettre en place des mesures d&#0039;urgence en cas d&#0039;al&#0233;as</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110170</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de mise en vol, de pilotage et d&#0039;atterrissage de l&#0039;appareil et proc&#0233;der aux v&#0233;rifications techniques &#0224; chaque &#0233;tape</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>110171</code_ogr>
+<libelle>Contr&#0244;ler les param&#0232;tres de navigation et de fonctionnement de l&#0039;appareil en vol et adapter le plan de vol en liaison avec les centres de contr&#0244;le a&#0233;rien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110172</code_ogr>
+<libelle>R&#0233;aliser les diff&#0233;rents comptes rendus de fin de vol et les transmettre au service concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>119061</code_ogr>
+<libelle>Syst&#0232;me de navigation embarqu&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110150</code_ogr>
+<libelle>Pratique de l&#0039;anglais technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109964</code_ogr>
+<libelle>Code de l&#0039;aviation civile</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107020</code_ogr>
+<libelle>Gestuelle de communication avec le personnel de piste</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110177</code_ogr>
+<libelle>Terminologie a&#0233;ronautique (IATA, alphabet a&#0233;ronautique, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119044</code_ogr>
+<libelle>Logiciels a&#0233;ronautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106997</code_ogr>
+<libelle>Caract&#0233;ristiques techniques des a&#0233;ronefs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110179</code_ogr>
+<libelle>Principes m&#0233;caniques du vol et de la navigation a&#0233;rienne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110180</code_ogr>
+<libelle>R&#0232;gles de communication radio a&#0233;ronautique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110181</code_ogr>
+<libelle>Modes de calcul du chargement carburant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119068</code_ogr>
+<libelle>M&#0233;t&#0233;orologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120482</code_ogr>
+<libelle>Piloter un avion n&#0233;cessitant une qualification homologu&#0233;e Flight Crew Licencing (FCL)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="5">
+<item_as_stp>
+<code_ogr>120483</code_ogr>
+<libelle>Pilote de Ligne Avion (PL pratique, -ATPL-)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120484</code_ogr>
+<libelle>Pilote Professionnel Avion (PP, CPL)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120486</code_ogr>
+<libelle>Qualification machine Avion (1&#0232;re QT JAR25, QT Multipilote)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120485</code_ogr>
+<libelle>Travail en Equipage Avion (FTE, MCC)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120487</code_ogr>
+<libelle>Vol aux instruments Avion (IFR, IR)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120488</code_ogr>
+<libelle>Piloter un h&#0233;licopt&#0232;re n&#0233;cessitant une qualification homologu&#0233;e Flight Crew Licencing (FCL)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>120489</code_ogr>
+<libelle>Pilote de Ligne H&#0233;licopt&#0232;re -PLH- pratique, (ATPL -H-)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120490</code_ogr>
+<libelle>Pilote Professionnel H&#0233;licopt&#0232;re -PPH-, (CPL, H&#0233;licopt&#0232;re -H-)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120491</code_ogr>
+<libelle>Travail en Equipage H&#0233;licopt&#0232;re (MCC -H-)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120492</code_ogr>
+<libelle>Vol aux instruments H&#0233;licopt&#0232;re (PPH/IFR, IR -H-)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124342</code_ogr>
+<libelle>Former au pilotage d&#0039;un h&#0233;licopt&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124350</code_ogr>
+<libelle>Former au pilotage d&#0039;un avion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="12">
+<item_as_stp>
+<code_ogr>124343</code_ogr>
+<libelle>Adjoint pilote priv&#0233; h&#0233;licopt&#0232;re (IATH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124349</code_ogr>
+<libelle>Qualification de classe avion (CRIA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124354</code_ogr>
+<libelle>Qualification de vol avion (FIA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124357</code_ogr>
+<libelle>Qualification de vol h&#0233;licopt&#0232;re (FIH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124344</code_ogr>
+<libelle>Pilote priv&#0233; h&#0233;licopt&#0232;re (ITTH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124345</code_ogr>
+<libelle>Pilote professionnel h&#0233;licopt&#0232;re (IPPH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124351</code_ogr>
+<libelle>Qualification de type avion (TRIA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124346</code_ogr>
+<libelle>Qualification de type h&#0233;licopt&#0232;re (TRIH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124352</code_ogr>
+<libelle>Qualification de vol aux instruments avion (IRIA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124355</code_ogr>
+<libelle>Qualification de vol aux instruments h&#0233;licopt&#0232;re (IRIH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124353</code_ogr>
+<libelle>Entra&#0238;neur de vol synth&#0233;tique avion (SFIA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124359</code_ogr>
+<libelle>Entra&#0238;neur de vol synth&#0233;tique h&#0233;licopt&#0232;re (SFIH)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124066</code_ogr>
+<libelle>Contr&#0244;ler les connaissances d&#0039;un pilote</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>124065</code_ogr>
+<libelle>Examinateur de Qualification de Classe (CRE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124067</code_ogr>
+<libelle>Examinateur de Qualification de Type (TRE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124068</code_ogr>
+<libelle>Examinateur de Vol (FE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124070</code_ogr>
+<libelle>Examinateur de Vol aux Instruments (IRE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>110207</code_ogr>
+<libelle>R&#0233;aliser des vols a&#0233;riens court et moyen courrier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110208</code_ogr>
+<libelle>R&#0233;aliser des vols a&#0233;riens long courrier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>110209</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;&#0233;vacuation sanitaire par transport a&#0233;rien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110210</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fret par transport a&#0233;rien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110211</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transport a&#0233;rien de passagers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="10">
+<item_as>
+<code_ogr>110212</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification Agricole, &#0233;pandage dispersion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110213</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification banderoles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110214</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification H&#0233;litreuillage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110215</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification largage de charges toute nature</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110216</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification lutte incendie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110217</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification relev&#0233;s, photographie, surveillance a&#0233;rienne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110218</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification remorquage planeur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110219</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification transport de charges &#0224; l&#0039;&#0233;lingue</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110220</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification v&#0233;rification de lignes &#0233;lectriques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110221</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de &#0171; Travail A&#0233;rien &#0187; n&#0233;cessitant une qualification largage de parachutistes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>124897</code_ogr>
+<libelle>Participer &#0224; une op&#0233;ration militaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124898</code_ogr>
+<libelle>Participer &#0224; une action ou mission humanitaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124899</code_ogr>
+<libelle>Participer &#0224; une action ou mission de D&#0233;fense</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115581</code_ogr>
+<libelle>Effectuer une v&#0233;rification ext&#0233;rieure de l&#0039;appareil avant le d&#0233;collage (cales mises en place, chargement des soutes, du carburant, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107019</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;avitaillement carburant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123881</code_ogr>
+<libelle>Concevoir un rapport d&#0039;&#0233;tat de service</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125962</code_ogr>
+<libelle>Contr&#0244;ler les autorisations, les habilitations du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115583</code_ogr>
+<libelle>Commander un &#0233;quipage (pilotes, Personnel Navigant Commercial)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16954</code_appellation_source>
+<libelle_appellation_source>Navigateur officier / Navigatrice offici&#0232;re syst&#0232;mes d&#0039;armes de l&#0039;arm&#0233;e</libelle_appellation_source>
+<code_appellation_source>17746</code_appellation_source>
+<libelle_appellation_source>Pilote de chasse / transport / h&#0233;licopt&#0232;re de l&#0039;arm&#0233;e</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1703</code_rome_cible>
+<libelle_rome_cible>Direction op&#0233;rationnelle de la d&#0233;fense</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15144</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice technique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N2202</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le de la navigation a&#0233;rienne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N2205</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;escale et exploitation a&#0233;roportuaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

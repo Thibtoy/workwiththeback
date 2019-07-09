@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>D1202</code_rome>
+<intitule>Coiffure</intitule>
+<code_ogr>88</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="21">
+<item_app>
+<code_ogr>11221</code_ogr>
+<libelle>Assistant / Assistante de coiffure</libelle>
+<libelle_court>Assistant / Assistante de coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11208</code_ogr>
+<libelle>Assistant coiffeur / Assistante coiffeuse</libelle>
+<libelle_court>Assistant coiffeur / Assistante coiffeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12010</code_ogr>
+<libelle>Chef coiffeur / coiffeuse</libelle>
+<libelle_court>Chef coiffeur / coiffeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12688</code_ogr>
+<libelle>Coiffeur / Coiffeuse</libelle>
+<libelle_court>Coiffeur / Coiffeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12689</code_ogr>
+<libelle>Coiffeur / Coiffeuse &#0224; domicile</libelle>
+<libelle_court>Coiffeur / Coiffeuse &#0224; domicile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12691</code_ogr>
+<libelle>Coiffeur / Coiffeuse dames</libelle>
+<libelle_court>Coiffeur / Coiffeuse dames</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12693</code_ogr>
+<libelle>Coiffeur / Coiffeuse messieurs</libelle>
+<libelle_court>Coiffeur / Coiffeuse messieurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12694</code_ogr>
+<libelle>Coiffeur / Coiffeuse mixte</libelle>
+<libelle_court>Coiffeur / Coiffeuse mixte</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12696</code_ogr>
+<libelle>Coiffeur / Coiffeuse styliste</libelle>
+<libelle_court>Coiffeur / Coiffeuse styliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12697</code_ogr>
+<libelle>Coiffeur / Coiffeuse visagiste</libelle>
+<libelle_court>Coiffeur / Coiffeuse visagiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38654</code_ogr>
+<libelle>Coiffeur barbier / Coiffeuse barbi&#0232;re</libelle>
+<libelle_court>Coiffeur barbier / Coiffeuse barbi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12690</code_ogr>
+<libelle>Coiffeur cr&#0233;ateur / Coiffeuse cr&#0233;atrice</libelle>
+<libelle_court>Coiffeur cr&#0233;ateur / Coiffeuse cr&#0233;atrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12719</code_ogr>
+<libelle>Coloriste permanentiste</libelle>
+<libelle_court>Coloriste permanentiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15125</code_ogr>
+<libelle>Formateur coiffeur / Formatrice coiffeuse</libelle>
+<libelle_court>Formateur coiffeur / Formatrice coiffeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15309</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante salon de coiffure</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante salon de coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15310</code_ogr>
+<libelle>G&#0233;rant technicien / G&#0233;rante technicienne de salon de coiffure</libelle>
+<libelle_court>G&#0233;rant technicien/G&#0233;rante technicienne de salon de coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17951</code_ogr>
+<libelle>Posticheur / Posticheuse</libelle>
+<libelle_court>Posticheur / Posticheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19172</code_ogr>
+<libelle>Responsable salon de coiffure</libelle>
+<libelle_court>Responsable salon de coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19552</code_ogr>
+<libelle>Styliste visagiste en coiffure</libelle>
+<libelle_court>Styliste visagiste en coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20043</code_ogr>
+<libelle>Technicien / Technicienne en coloration</libelle>
+<libelle_court>Technicien / Technicienne en coloration</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19704</code_ogr>
+<libelle>Technicien coupeur / Technicienne coupeuse en coiffure</libelle>
+<libelle_court>Technicien coupeur / Technicienne coupeuse en coiffure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="5">
+Effectue des soins et traitements capillaires dans un but d&#0039;hygi&#0232;ne et d&#0039;esth&#0233;tique.
+Conseille et aide au choix de coiffures, de coupes et coiffes en tenant compte de la mode, de la morphologie et du go&#0251;t du client.
+Peut r&#0233;aliser l&#0039;application de coloration temporaire ou durable.
+Intervient dans l&#0039;accueil des clients et la vente de produits (accessoires de coiffure, produits de traitement capillaire, produits de beaut&#0233;, ...).
+Peut coordonner une &#0233;quipe ou diriger un salon.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP ou un Brevet Professionnel en coiffure.
+Une ou plusieurs formation(s) compl&#0233;mentaire(s) (styliste visagiste, coloriste, permanentiste) peu(vent)t &#0234;tre requise(s).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de salons de coiffure, instituts de beaut&#0233;, ... en contact avec des clients, fournisseurs.
+Elle peut impliquer des d&#0233;placements (domicile, structure m&#0233;dicalis&#0233;e, maison de retraite, ...).
+Elle varie selon le lieu de prestation (salon, domicile du client, structure m&#0233;dicale, maison de retraite, ...) et la client&#0232;le.
+Elle peut s&#0039;exercer les fins de semaine.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="13">
+<item_env>
+<code_ogr>23771</code_ogr>
+<libelle>Centre de formation pour adultes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23974</code_ogr>
+<libelle>Institut de beaut&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24061</code_ogr>
+<libelle>Salon de coiffure</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23543</code_ogr>
+<libelle>Loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23555</code_ogr>
+<libelle>M&#0233;dicosocial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23562</code_ogr>
+<libelle>Mode</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23637</code_ogr>
+<libelle>Services &#0224; la personne</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23638</code_ogr>
+<libelle>Spectacle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23652</code_ogr>
+<libelle>Tourisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>101901</code_ogr>
+<libelle>Accueillir le client et l&#0039;installer</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101902</code_ogr>
+<libelle>Identifier la coiffure attendue (coupe, coloration, traitement, ...) et conseiller le client (morphologie, implantation des cheveux, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101903</code_ogr>
+<libelle>R&#0233;aliser le diagnostic capillaire, les pr&#0233;parations du lavage et le shampoing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101904</code_ogr>
+<libelle>Couper les cheveux (d&#0233;grad&#0233;s, effil&#0233;s, piquet&#0233;s)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101905</code_ogr>
+<libelle>Proc&#0233;der &#0224; la mise en forme ou en volume des cheveux (enroulement, bouclage, brushing, ...), au coiffage, &#0224; la fixation ou brillance (laque, gel, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101906</code_ogr>
+<libelle>Pr&#0233;senter au client sa coiffure sous diff&#0233;rents angles pour recueillir son avis</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124629</code_ogr>
+<libelle>Entretenir un outil ou mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124543</code_ogr>
+<libelle>Entretenir des locaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124548</code_ogr>
+<libelle>Entretenir un poste de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117532</code_ogr>
+<libelle>Disposer des produits sur le lieu de vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="8">
+<item_ab_stp>
+<code_ogr>101909</code_ogr>
+<libelle>Diagnostic capillaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101910</code_ogr>
+<libelle>Techniques de coupes de cheveux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123058</code_ogr>
+<libelle>Techniques de s&#0233;chage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101343</code_ogr>
+<libelle>Principes de la relation client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101913</code_ogr>
+<libelle>Coiffure femme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101914</code_ogr>
+<libelle>Coiffure homme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101912</code_ogr>
+<libelle>Coiffure enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101908</code_ogr>
+<libelle>Manipulation d&#0039;outil tranchant (ciseaux de coupe, cranteur, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114126</code_ogr>
+<libelle>Pr&#0233;parer et appliquer des produits colorants, d&#0233;colorants (m&#0232;ches, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101915</code_ogr>
+<libelle>Techniques de d&#0233;coloration, de coloration de cheveux (contraste, ton sur ton, d&#0039;oxydation, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>101916</code_ogr>
+<libelle>R&#0233;aliser des prestations de coiffure afro-antillaise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101917</code_ogr>
+<libelle>R&#0233;aliser des prestations de manucure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101918</code_ogr>
+<libelle>R&#0233;aliser des prestations de montage de chevelures de remplacement ou de postiches</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101919</code_ogr>
+<libelle>R&#0233;aliser des prestations de montage de chignons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101920</code_ogr>
+<libelle>R&#0233;aliser des prestations de rasage et taille de moustaches et barbes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101921</code_ogr>
+<libelle>R&#0233;aliser des prestations de tressage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119893</code_ogr>
+<libelle>Techniques de raccord, de rajouts, d&#0039;extensions</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101923</code_ogr>
+<libelle>Techniques de pose de perruques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114127</code_ogr>
+<libelle>Pr&#0233;senter et conseiller &#0224; un client des prestations, des produits et accessoires capillaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114129</code_ogr>
+<libelle>R&#0233;aliser des s&#0233;ances de formation sur mod&#0232;les</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122351</code_ogr>
+<libelle>Vendre une prestation ou un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124615</code_ogr>
+<libelle>Renseigner une fiche client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102068</code_ogr>
+<libelle>Encaisser le montant d&#0039;une vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113954</code_ogr>
+<libelle>Transmettre les techniques du m&#0233;tier ou mener des actions de sensibilisation au m&#0233;tier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113952</code_ogr>
+<libelle>R&#0233;aliser la gestion administrative d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1208</code_rome_cible>
+<libelle_rome_cible>Soins esth&#0233;tiques et corporels</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1501</code_rome_cible>
+<libelle_rome_cible>Coiffure et maquillage spectacle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1214</code_rome_cible>
+<libelle_rome_cible>Vente en habillement et accessoires de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1301</code_rome_cible>
+<libelle_rome_cible>Management de magasin de d&#0233;tail</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1403</code_rome_cible>
+<libelle_rome_cible>Relation commerciale aupr&#0232;s de particuliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

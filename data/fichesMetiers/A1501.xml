@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1501</code_rome>
+<intitule>Aide aux soins animaux</intitule>
+<code_ogr>32</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="17">
+<item_app>
+<code_ogr>10899</code_ogr>
+<libelle>Aide-v&#0233;t&#0233;rinaire</libelle>
+<libelle_court>Aide-v&#0233;t&#0233;rinaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11449</code_ogr>
+<libelle>Auxiliaire de sant&#0233; animale</libelle>
+<libelle_court>Auxiliaire de sant&#0233; animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11450</code_ogr>
+<libelle>Auxiliaire de soins aux animaux</libelle>
+<libelle_court>Auxiliaire de soins aux animaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11451</code_ogr>
+<libelle>Auxiliaire de soins v&#0233;t&#0233;rinaires</libelle>
+<libelle_court>Auxiliaire de soins v&#0233;t&#0233;rinaires</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11452</code_ogr>
+<libelle>Auxiliaire de v&#0233;t&#0233;rinaire</libelle>
+<libelle_court>Auxiliaire de v&#0233;t&#0233;rinaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11463</code_ogr>
+<libelle>Auxiliaire Sp&#0233;cialis&#0233; / Sp&#0233;cialis&#0233;e V&#0233;t&#0233;rinaire -ASV-</libelle>
+<libelle_court>Auxiliaire Sp&#0233;cialis&#0233; / Sp&#0233;cialis&#0233;e V&#0233;t&#0233;rinaire -ASV-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11464</code_ogr>
+<libelle>Auxiliaire v&#0233;t&#0233;rinaire</libelle>
+<libelle_court>Auxiliaire v&#0233;t&#0233;rinaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11465</code_ogr>
+<libelle>Auxiliaire V&#0233;t&#0233;rinaire Qualifi&#0233; / Qualifi&#0233;e -AVQ-</libelle>
+<libelle_court>Auxiliaire V&#0233;t&#0233;rinaire Qualifi&#0233; / Qualifi&#0233;e -AVQ-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38730</code_ogr>
+<libelle>Gar&#0231;on / Fille de cour d&#0039;entra&#0238;nement de chevaux</libelle>
+<libelle_court>Gar&#0231;on / Fille de cour d&#0039;entra&#0238;nement de chevaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38815</code_ogr>
+<libelle>Garde d&#0039;animaux de compagnie - Pet sitter</libelle>
+<libelle_court>Garde d&#0039;animaux de compagnie - Pet sitter</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140928</code_ogr>
+<libelle>Groom chevaux</libelle>
+<libelle_court>Groom chevaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19442</code_ogr>
+<libelle>Soigneur / Soigneuse de chevaux</libelle>
+<libelle_court>Soigneur / Soigneuse de chevaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19445</code_ogr>
+<libelle>Soigneur / Soigneuse de m&#0233;nagerie</libelle>
+<libelle_court>Soigneur / Soigneuse de m&#0233;nagerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19447</code_ogr>
+<libelle>Soigneur / Soigneuse d&#0039;&#0233;quid&#0233;s</libelle>
+<libelle_court>Soigneur / Soigneuse d&#0039;&#0233;quid&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19448</code_ogr>
+<libelle>Soigneur / Soigneuse en parc zoologique</libelle>
+<libelle_court>Soigneur / Soigneuse en parc zoologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19449</code_ogr>
+<libelle>Soigneur / Soigneuse en pension animale</libelle>
+<libelle_court>Soigneur / Soigneuse en pension animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19441</code_ogr>
+<libelle>Soigneur animalier / Soigneuse animali&#0232;re</libelle>
+<libelle_court>Soigneur animalier / Soigneuse animali&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise des soins de confort animalier (pr&#0233;paration, distribution de nourriture, nettoyage de l&#0039;environnement, ...) selon les besoins et caract&#0233;ristiques de l&#0039;animal.
+Peut mener des actions d&#0039;assistance au praticien v&#0233;t&#0233;rinaire lors de soins v&#0233;t&#0233;rinaires.
+Peut r&#0233;aliser le suivi administratif de la structure.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec le dipl&#0244;me d&#0039;Auxiliaire Sp&#0233;cialis&#0233; V&#0233;t&#0233;rinaire (ASV) ou le titre professionnel d&#0039;Auxiliaire V&#0233;t&#0233;rinaire.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau CAP/BEP dans le secteur commercial ou agricole.
+Des vaccinations pr&#0233;vues par le Code de Sant&#0233; Publique peuvent &#0234;tre requises.
+Des permis et habilitations sp&#0233;cifiques sont requis pour le transport des animaux.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de cabinets, cliniques, centres hospitaliers v&#0233;t&#0233;rinaires, de parcs animaliers, au contact des animaux et en relation avec diff&#0233;rents intervenants (propri&#0233;taires, d&#0233;l&#0233;gu&#0233;s v&#0233;t&#0233;rinaires, ...).
+Le port d&#0039;une tenue professionnelle (blouse, masque, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23709</code_ogr>
+<libelle>Association de protection de la nature</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23787</code_ogr>
+<libelle>Centre &#0233;questre / Club hippique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23795</code_ogr>
+<libelle>Chenil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23919</code_ogr>
+<libelle>Etablissement de soins v&#0233;t&#0233;rinaires</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23956</code_ogr>
+<libelle>Haras</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24027</code_ogr>
+<libelle>Parc animalier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>100408</code_ogr>
+<libelle>Identifier le motif de consultation et son degr&#0233; d&#0039;urgence et informer le client sur les modalit&#0233;s de prise en charge de l&#0039;animal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>100409</code_ogr>
+<libelle>Pr&#0233;parer et installer l&#0039;animal (d&#0233;sinfection, rasage, mise en cage, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>100410</code_ogr>
+<libelle>Pr&#0233;parer le mat&#0233;riel et apporter une aide technique au v&#0233;t&#0233;rinaire, &#0224; l&#0039;&#0233;leveur, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>100462</code_ogr>
+<libelle>Conseiller sur l&#0039;alimentation, les soins, la m&#0233;dication de l&#0039;animal ou proc&#0233;der &#0224; la vente de m&#0233;dicaments, d&#0039;apports nutritionnels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124548</code_ogr>
+<libelle>Entretenir un poste de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124335</code_ogr>
+<libelle>D&#0233;sinfecter et d&#0233;contaminer un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124337</code_ogr>
+<libelle>D&#0233;truire des d&#0233;chets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="5">
+<item_ab_stp>
+<code_ogr>100088</code_ogr>
+<libelle>Techniques d&#0039;approche et de manipulation des animaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100414</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100132</code_ogr>
+<libelle>Biologie animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101064</code_ogr>
+<libelle>Zoologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100149</code_ogr>
+<libelle>Pathologies animales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>100415</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;&#0233;quid&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>100416</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;animaux de compagnie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>100417</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;animaux de rapport (vaches, porcs, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>100418</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;animaux en captivit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>100472</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;animaux de comp&#0233;tition</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>100263</code_ogr>
+<libelle>R&#0233;aliser des d&#0233;placements n&#0233;cessitant un certificat de transport d&#0039;animaux vivants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113946</code_ogr>
+<libelle>Surveiller l&#0039;&#0233;tat clinique de l&#0039;animal, effectuer le suivi post-op&#0233;ratoire et intervenir selon n&#0233;cessit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>100295</code_ogr>
+<libelle>Pr&#0233;parer les aliments et les distribuer aux animaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>118972</code_ogr>
+<libelle>Nutrition animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>116802</code_ogr>
+<libelle>R&#0233;aliser les soins d&#0039;hygi&#0232;ne et de confort des animaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>113955</code_ogr>
+<libelle>Dispenser des soins d&#0039;esth&#0233;tique &#0224; un animal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>120679</code_ogr>
+<libelle>Entretenir l&#0039;environnement des animaux domestiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120678</code_ogr>
+<libelle>Promener des animaux domestiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120680</code_ogr>
+<libelle>Nourrir des animaux domestiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113949</code_ogr>
+<libelle>Pr&#0233;parer les accessoires de radiologie et proc&#0233;der au d&#0233;veloppement des clich&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>124531</code_ogr>
+<libelle>Tenir inform&#0233; le praticien des activit&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>120722</code_ogr>
+<libelle>Planifier des rendez-vous</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120697</code_ogr>
+<libelle>Assurer un accueil t&#0233;l&#0233;phonique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113951</code_ogr>
+<libelle>Renseigner le dossier de soins de l&#0039;animal et proc&#0233;der &#0224; la d&#0233;livrance de produits v&#0233;t&#0233;rinaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100420</code_ogr>
+<libelle>R&#0232;gles de d&#0233;livrance des m&#0233;dicaments v&#0233;t&#0233;rinaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113952</code_ogr>
+<libelle>R&#0233;aliser la gestion administrative d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1408</code_rome_cible>
+<libelle_rome_cible>&#0201;levage d&#0039;animaux sauvages ou de compagnie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>10967</code_appellation_cible>
+<libelle_appellation_cible>Animalier / Animali&#0232;re de laboratoire</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1303</code_rome_cible>
+<libelle_rome_cible>Assistance m&#0233;dico-technique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1503</code_rome_cible>
+<libelle_rome_cible>Toilettage des animaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1701</code_rome_cible>
+<libelle_rome_cible>Conservation et reconstitution d&#0039;esp&#0232;ces animales</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1609</code_rome_cible>
+<libelle_rome_cible>Secr&#0233;tariat et assistanat m&#0233;dical ou m&#0233;dico-social</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

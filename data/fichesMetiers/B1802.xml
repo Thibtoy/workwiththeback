@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>B1802</code_rome>
+<intitule>R&#0233;alisation d&#0039;articles en cuir et mat&#0233;riaux souples (hors v&#0234;tement)</intitule>
+<code_ogr>50</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="16">
+<item_app>
+<code_ogr>11562</code_ogr>
+<libelle>Bottier / Botti&#0232;re</libelle>
+<libelle_court>Bottier / Botti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11578</code_ogr>
+<libelle>Bourrelier / Bourreli&#0232;re</libelle>
+<libelle_court>Bourrelier / Bourreli&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11718</code_ogr>
+<libelle>Ceinturier / Ceinturi&#0232;re</libelle>
+<libelle_court>Ceinturier / Ceinturi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15024</code_ogr>
+<libelle>Fabricant / Fabricante de chaussures sur mesure</libelle>
+<libelle_court>Fabricant / Fabricante de chaussures sur mesure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15177</code_ogr>
+<libelle>Gainier / Gaini&#0232;re</libelle>
+<libelle_court>Gainier / Gaini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15185</code_ogr>
+<libelle>Gantier / Ganti&#0232;re</libelle>
+<libelle_court>Gantier / Ganti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15237</code_ogr>
+<libelle>Garnisseur / Garnisseuse automobile</libelle>
+<libelle_court>Garnisseur / Garnisseuse automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16329</code_ogr>
+<libelle>Malletier / Malleti&#0232;re</libelle>
+<libelle_court>Malletier / Malleti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16411</code_ogr>
+<libelle>Maroquinier / Maroquini&#0232;re</libelle>
+<libelle_court>Maroquinier / Maroquini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17567</code_ogr>
+<libelle>Parurier / Paruri&#0232;re</libelle>
+<libelle_court>Parurier / Paruri&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19406</code_ogr>
+<libelle>Sellier / Selli&#0232;re</libelle>
+<libelle_court>Sellier / Selli&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19407</code_ogr>
+<libelle>Sellier-garnisseur / Selli&#0232;re-garnisseuse</libelle>
+<libelle_court>Sellier-garnisseur / Selli&#0232;re-garnisseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19408</code_ogr>
+<libelle>Sellier-garnisseur / Selli&#0232;re-garnisseuse automobile</libelle>
+<libelle_court>Sellier-garnisseur / Selli&#0232;re-garnisseuse automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19409</code_ogr>
+<libelle>Sellier-harnacheur / Selli&#0232;re-harnacheuse</libelle>
+<libelle_court>Sellier-harnacheur / Selli&#0232;re-harnacheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19410</code_ogr>
+<libelle>Sellier-maroquinier / Selli&#0232;re-maroquini&#0232;re</libelle>
+<libelle_court>Sellier-maroquinier / Selli&#0232;re-maroquini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20716</code_ogr>
+<libelle>Voilier / Voili&#0232;re</libelle>
+<libelle_court>Voilier / Voili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise &#0224; la main ou &#0224; la machine les op&#0233;rations (coupe, couture, collage, ...) n&#0233;cessaires &#0224; la fabrication d&#0039;objets en cuir et autres mat&#0233;riaux souples (chaussures, sacs, selles, gants, ...) &#0224; l&#0039;unit&#0233; ou en petite s&#0233;rie selon les sp&#0233;cificit&#0233;s des clients, les r&#0232;gles d&#0039;hygi&#0232;ne et de s&#0233;curit&#0233;.
+Peut r&#0233;parer ou restaurer des articles endommag&#0233;s, concevoir de nouvelles collections et mod&#0232;les.
+Peut coordonner une &#0233;quipe et diriger une structure.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="1">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP &#0224; Bac (Bac professionnel, Brevet de compagnon, ...) en sellerie, en confection de chaussures, en maroquinerie, ...
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises artisanales (atelier de bottier, sellier, ...), de manufactures, de services de l&#0039;Etat, parfois en contact avec des clients et de multiples intervenants (d&#0233;corateur, styliste, costumier, &#0233;b&#0233;niste, sous-traitants, ...).
+Le port d&#0039;&#0233;quipements de protection ou d&#0039;une tenue professionnelle (gants, blouse, ...) peut &#0234;tre requis pour certaines activit&#0233;s (coupe, collage, d&#0233;capage, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24003</code_ogr>
+<libelle>Manufacture</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23514</code_ogr>
+<libelle>Habillement et accessoires</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23638</code_ogr>
+<libelle>Spectacle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>101090</code_ogr>
+<libelle>D&#0233;finir avec le client les caract&#0233;ristiques de l&#0039;article &#0224; r&#0233;aliser selon ses souhaits, ses besoins et l&#0039;informer sur les conditions de r&#0233;alisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125755</code_ogr>
+<libelle>R&#0233;aliser manuellement un gabarit, patron</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101125</code_ogr>
+<libelle>S&#0233;lectionner les mat&#0233;riaux, produits et accessoires de l&#0039;article</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101126</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de coupe de mat&#0233;riaux (positionnement de gabarit, ...) manuellement ou &#0224; l&#0039;aide d&#0039;une machine</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101127</code_ogr>
+<libelle>Assembler (collage, couture) les pi&#0232;ces de l&#0039;article (tige, soufflet) manuellement ou &#0224; l&#0039;aide d&#0039;une machine</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101128</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de finition sur les pi&#0232;ces et articles mont&#0233;s (coupe de fil, teinte de tranche, nourriture du cuir, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101129</code_ogr>
+<libelle>V&#0233;rifier la conformit&#0233; des pi&#0232;ces/articles fa&#0231;onn&#0233;s (aspect de teinte, r&#0233;gularit&#0233; des coutures, ...) et proc&#0233;der aux actions correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>100800</code_ogr>
+<libelle>Techniques de collage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101136</code_ogr>
+<libelle>Techniques d&#0039;assemblage &#0171; sellier &#0187;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101135</code_ogr>
+<libelle>Techniques d&#0039;assemblage &#0171; rembord&#0233; &#0187;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100741</code_ogr>
+<libelle>Techniques de piq&#0251;re machine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101134</code_ogr>
+<libelle>Techniques de prise de mesures (habillement)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100753</code_ogr>
+<libelle>Couture manuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100820</code_ogr>
+<libelle>Caract&#0233;ristiques des cuirs et peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118952</code_ogr>
+<libelle>Techniques de clouage, cloutage, rivetage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101130</code_ogr>
+<libelle>Lecture de dessins, croquis</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101133</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riaux souples</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="9">
+<item_as>
+<code_ogr>125355</code_ogr>
+<libelle>Fa&#0231;onner des sacs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125354</code_ogr>
+<libelle>Fa&#0231;onner des bagages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>101139</code_ogr>
+<libelle>Fa&#0231;onner de la petite maroquinerie (portefeuilles, ceintures, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125356</code_ogr>
+<libelle>Fa&#0231;onner des selles et harnachements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125357</code_ogr>
+<libelle>Fa&#0231;onner des si&#0232;ges et des &#0233;quipements de locaux publics</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>101143</code_ogr>
+<libelle>Fa&#0231;onner des b&#0226;ches, tentes, stores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125352</code_ogr>
+<libelle>Fabriquer des articles chaussants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125353</code_ogr>
+<libelle>Fa&#0231;onner des articles de bureau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>101146</code_ogr>
+<libelle>Fa&#0231;onner des gants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="8">
+<item_as_stp>
+<code_ogr>124831</code_ogr>
+<libelle>Transformation de mat&#0233;riaux souples</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101150</code_ogr>
+<libelle>Types de morphologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103597</code_ogr>
+<libelle>Menuiserie aluminium</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103596</code_ogr>
+<libelle>Menuiserie bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101147</code_ogr>
+<libelle>Utilisation de machines &#0224; bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101148</code_ogr>
+<libelle>Utilisation de machine &#0224; triple entra&#0238;nement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101149</code_ogr>
+<libelle>Utilisation de machine &#0224; coudre le cuir</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>105575</code_ogr>
+<libelle>R&#0233;aliser la pr&#0233;paration de pi&#0232;ces par parage (biseau, rembord, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105576</code_ogr>
+<libelle>R&#0233;aliser la pr&#0233;paration de pi&#0232;ces par refente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105577</code_ogr>
+<libelle>R&#0233;aliser la pr&#0233;paration de pi&#0232;ces par rembordage, rempliage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125970</code_ogr>
+<libelle>Restaurer des pi&#0232;ces de maroquinerie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="5">
+<item_as_stp>
+<code_ogr>100597</code_ogr>
+<libelle>Principes de conservation pr&#0233;ventive</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101898</code_ogr>
+<libelle>Techniques de restauration</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119295</code_ogr>
+<libelle>Caract&#0233;ristiques et propri&#0233;t&#0233;s des bois et d&#0233;riv&#0233;s du bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105185</code_ogr>
+<libelle>Proc&#0233;dures de nettoyage/d&#0233;capage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106558</code_ogr>
+<libelle>Utilisation d&#0039;instrument et de logiciel de d&#0233;termination de teinte (colorim&#0232;tre, nuancier, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125752</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de mise en volume et garnissage d&#0039;article</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101159</code_ogr>
+<libelle>Techniques de garnissage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114007</code_ogr>
+<libelle>Recouvrir de cuir ou d&#0039;autres mat&#0233;riaux souples des objets ou supports rigides</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101160</code_ogr>
+<libelle>Techniques de gainage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114008</code_ogr>
+<libelle>Proc&#0233;der &#0224; l&#0039;essayage et aux ajustements n&#0233;cessaires selon diff&#0233;rents crit&#0232;res (esth&#0233;tique, confort, dynamique, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125191</code_ogr>
+<libelle>D&#0233;corer des pi&#0232;ces ou des articles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>101162</code_ogr>
+<libelle>Techniques de broderie main</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101161</code_ogr>
+<libelle>Techniques de dorure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100958</code_ogr>
+<libelle>Techniques de sertissage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>101299</code_ogr>
+<libelle>Poser des stores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105163</code_ogr>
+<libelle>Assembler-monter des b&#0226;ches</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125008</code_ogr>
+<libelle>Concevoir de nouveaux mod&#0232;les et accessoires pour une collection</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100610</code_ogr>
+<libelle>Techniques de dessin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101107</code_ogr>
+<libelle>Techniques de patronnage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113954</code_ogr>
+<libelle>Transmettre les techniques du m&#0233;tier ou mener des actions de sensibilisation au m&#0233;tier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1806</code_rome_cible>
+<libelle_rome_cible>Tapisserie - d&#0233;coration en ameublement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1206</code_rome_cible>
+<libelle_rome_cible>R&#0233;paration d&#0039;articles en cuir et mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1214</code_rome_cible>
+<libelle_rome_cible>Vente en habillement et accessoires de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2401</code_rome_cible>
+<libelle_rome_cible>Assemblage - montage d&#0039;articles en cuirs, peaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="8">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1301</code_rome_cible>
+<libelle_rome_cible>Management de magasin de d&#0233;tail</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1205</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes - mod&#0232;les en industrie des mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16709</code_appellation_cible>
+<libelle_appellation_cible>Mod&#0233;liste chaussures</libelle_appellation_cible>
+<code_appellation_cible>16714</code_appellation_cible>
+<libelle_appellation_cible>Mod&#0233;liste en maroquinerie</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2505</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe ou d&#0039;atelier en mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>11562</code_appellation_source>
+<libelle_appellation_source>Bottier / Botti&#0232;re</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1411</code_rome_cible>
+<libelle_rome_cible>Proth&#0232;ses et orth&#0232;ses</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11563</code_appellation_cible>
+<libelle_appellation_cible>Bottier / Botti&#0232;re orthop&#0233;diste</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2109</code_rome_cible>
+<libelle_rome_cible>Enseignement technique et professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15144</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice technique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1502</code_rome_cible>
+<libelle_rome_cible>Costume et habillage spectacle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>F1604</code_rome>
+<intitule>Montage d&#0039;agencements</intitule>
+<code_ogr>164</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="28">
+<item_app>
+<code_ogr>10345</code_ogr>
+<libelle>Agenceur / Agenceuse de cuisine</libelle>
+<libelle_court>Agenceur / Agenceuse de cuisine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10346</code_ogr>
+<libelle>Agenceur / Agenceuse de stands</libelle>
+<libelle_court>Agenceur / Agenceuse de stands</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12449</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe en agencement</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe en agencement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16000</code_ogr>
+<libelle>Installateur / Installatrice de cuisines</libelle>
+<libelle_court>Installateur / Installatrice de cuisines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16002</code_ogr>
+<libelle>Installateur / Installatrice de stands</libelle>
+<libelle_court>Installateur / Installatrice de stands</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16074</code_ogr>
+<libelle>Jointeur / Jointeuse plaquiste</libelle>
+<libelle_court>Jointeur / Jointeuse plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16761</code_ogr>
+<libelle>Monteur / Monteuse d&#0039;agencement en isolation thermique</libelle>
+<libelle_court>Monteur / Monteuse d&#0039;agencement en isolation thermique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16762</code_ogr>
+<libelle>Monteur / Monteuse d&#0039;agencement en isolation thermique et phonique</libelle>
+<libelle_court>Monteur(se) d&#0039;agencement en isolation thermique et phonique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16771</code_ogr>
+<libelle>Monteur / Monteuse de chambres blanches</libelle>
+<libelle_court>Monteur / Monteuse de chambres blanches</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16772</code_ogr>
+<libelle>Monteur / Monteuse de chambres froides</libelle>
+<libelle_court>Monteur / Monteuse de chambres froides</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16776</code_ogr>
+<libelle>Monteur / Monteuse de cloisons</libelle>
+<libelle_court>Monteur / Monteuse de cloisons</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16794</code_ogr>
+<libelle>Monteur / Monteuse de stands</libelle>
+<libelle_court>Monteur / Monteuse de stands</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16805</code_ogr>
+<libelle>Monteur / Monteuse en agencement</libelle>
+<libelle_court>Monteur / Monteuse en agencement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16808</code_ogr>
+<libelle>Monteur / Monteuse en chambres froides et entrep&#0244;ts frigorifiques</libelle>
+<libelle_court>Monteur(se) en chambres froides et entrep&#0244;ts frigorifiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16818</code_ogr>
+<libelle>Monteur / Monteuse en &#0233;l&#0233;ments pr&#0233;-fabriqu&#0233;s</libelle>
+<libelle_court>Monteur / Monteuse en &#0233;l&#0233;ments pr&#0233;-fabriqu&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16821</code_ogr>
+<libelle>Monteur / Monteuse en faux-plafonds</libelle>
+<libelle_court>Monteur / Monteuse en faux-plafonds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16850</code_ogr>
+<libelle>Monteur / Monteuse plaquiste</libelle>
+<libelle_court>Monteur / Monteuse plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16846</code_ogr>
+<libelle>Monteur jointeur / Monteuse jointeuse plaquiste</libelle>
+<libelle_court>Monteur jointeur / Monteuse jointeuse plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16892</code_ogr>
+<libelle>Monteur-poseur / Monteuse-poseuse en agencement</libelle>
+<libelle_court>Monteur-poseur / Monteuse-poseuse en agencement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17821</code_ogr>
+<libelle>Plaquiste</libelle>
+<libelle_court>Plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38064</code_ogr>
+<libelle>Plaquiste enduiseur / enduiseuse</libelle>
+<libelle_court>Plaquiste enduiseur / enduiseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17831</code_ogr>
+<libelle>Pl&#0226;trier-plaquiste / Pl&#0226;tri&#0232;re-plaquiste</libelle>
+<libelle_court>Pl&#0226;trier-plaquiste / Pl&#0226;tri&#0232;re-plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17911</code_ogr>
+<libelle>Poseur / Poseuse de cloisons</libelle>
+<libelle_court>Poseur / Poseuse de cloisons</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17912</code_ogr>
+<libelle>Poseur / Poseuse de cloisons pr&#0233;fabriqu&#0233;es</libelle>
+<libelle_court>Poseur / Poseuse de cloisons pr&#0233;fabriqu&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17917</code_ogr>
+<libelle>Poseur / Poseuse de cuisines</libelle>
+<libelle_court>Poseur / Poseuse de cuisines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17918</code_ogr>
+<libelle>Poseur / Poseuse de faux-plafonds</libelle>
+<libelle_court>Poseur / Poseuse de faux-plafonds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17930</code_ogr>
+<libelle>Poseur / Poseuse de plaques de pl&#0226;tre</libelle>
+<libelle_court>Poseur / Poseuse de plaques de pl&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19307</code_ogr>
+<libelle>Sapeur / Sapeuse de construction modulaire militaire</libelle>
+<libelle_court>Sapeur / Sapeuse de construction modulaire militaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Proc&#0232;de &#0224; l&#0039;assemblage de panneaux pr&#0233;fabriqu&#0233;s (agglom&#0233;r&#0233;s, stratifi&#0233;s, placopl&#0226;tre) selon les r&#0232;gles de s&#0233;curit&#0233;. Effectue le montage et la pose de cloisons, de doublages, de sols ou de faux-plafonds pour corriger les caract&#0233;ristiques g&#0233;om&#0233;triques ou acoustiques d&#0039;une pi&#0232;ce, isoler un b&#0226;timent ou agencer un int&#0233;rieur &#0224; des fins diverses (magasins, ...).
+Peut agencer des cuisines, des stands et des b&#0226;timents modulaires pr&#0233;fabriqu&#0233;s.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP en agencement et menuiserie (bois, aluminium et PVC).
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans ce secteur sans dipl&#0244;me particulier.
+Un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet Professionnel) peut &#0234;tre demand&#0233; pour les postes d&#0039;encadrement d&#0039;&#0233;quipe.
+Une habilitation aux risques d&#0039;origine &#0233;lectrique est exig&#0233;e.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce sur des chantiers de construction, des sites industriels au sein d&#0039;entreprises du b&#0226;timent, d&#0039;entreprises artisanales, de soci&#0233;t&#0233;s de services parfois en contact avec des clients. Elle peut impliquer des d&#0233;placements et un &#0233;loignement du domicile de plusieurs jours.
+Elle peut s&#0039;exercer les fins de semaine et &#0234;tre soumise &#0224; des astreintes.
+Elle peut s&#0039;effectuer en hauteur et impliquer le port de charges.
+Le port d&#0039;&#0233;quipements de protection (chaussures de s&#0233;curit&#0233;, gants, ...) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23430</code_ogr>
+<libelle>Carrosserie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>119936</code_ogr>
+<libelle>Implanter une zone de chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121159</code_ogr>
+<libelle>S&#0233;curiser une zone de chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125181</code_ogr>
+<libelle>Monter un &#0233;chafaudage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>103531</code_ogr>
+<libelle>R&#0233;aliser et fixer des huisseries, encadrements et montants en fonction des r&#0233;servations ou des ouvertures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122637</code_ogr>
+<libelle>Fixer l&#0039;ossature d&#0039;un agencement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122639</code_ogr>
+<libelle>Poser des plafonds suspendus</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122638</code_ogr>
+<libelle>Poser des sols</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122945</code_ogr>
+<libelle>Monter des cloisons ou faux-plafonds</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123392</code_ogr>
+<libelle>Renforcer une structure compos&#0233;e de panneaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>103775</code_ogr>
+<libelle>R&#0233;aliser et lisser les joints</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119295</code_ogr>
+<libelle>Caract&#0233;ristiques et propri&#0233;t&#0233;s des bois et d&#0233;riv&#0233;s du bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103535</code_ogr>
+<libelle>Caract&#0233;ristiques des profil&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103536</code_ogr>
+<libelle>Caract&#0233;ristiques du placopl&#0226;tre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100854</code_ogr>
+<libelle>Techniques de tra&#0231;age</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103395</code_ogr>
+<libelle>Equerrage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103537</code_ogr>
+<libelle>Techniques d&#0039;application d&#0039;enduit</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103070</code_ogr>
+<libelle>Lecture de plan, de sch&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101095</code_ogr>
+<libelle>Prise de mesures</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103315</code_ogr>
+<libelle>Prise d&#0039;aplomb et de niveau</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100800</code_ogr>
+<libelle>Techniques de collage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>121311</code_ogr>
+<libelle>Plates-formes &#0233;l&#0233;vatrices mobiles de personnes ou PEMP (CACES R 386)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123699</code_ogr>
+<libelle>Engins de manutention, chariot de chantier (CACES R 372-9)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126510</code_ogr>
+<libelle>Montage, d&#0233;montage et utilisation des &#0233;chafaudages roulants (CACES R 457)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126509</code_ogr>
+<libelle>Montage, utilisation et d&#0233;montage des &#0233;chafaudages de pied (CACES R 408)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124184</code_ogr>
+<libelle>R&#0233;aliser une intervention n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124200</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux hors tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124201</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux sous tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>126235</code_ogr>
+<libelle>R&#0233;aliser des agencements de b&#0226;teaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126096</code_ogr>
+<libelle>R&#0233;aliser des agencements de camping-cars, caravanes, mobile home</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126097</code_ogr>
+<libelle>R&#0233;aliser des agencements de chambres froides</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126349</code_ogr>
+<libelle>R&#0233;aliser des agencements de stands</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126236</code_ogr>
+<libelle>R&#0233;aliser des agencements de chambres blanches</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126280</code_ogr>
+<libelle>R&#0233;aliser des agencements de cuisines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126191</code_ogr>
+<libelle>R&#0233;aliser des agencements de magasins</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121343</code_ogr>
+<libelle>Poser des appareils &#0233;lectriques simples</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122970</code_ogr>
+<libelle>Poser des &#0233;l&#0233;ments sanitaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100286</code_ogr>
+<libelle>Techniques de soudure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106747</code_ogr>
+<libelle>Plomberie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125749</code_ogr>
+<libelle>R&#0233;aliser les finitions d&#0039;un ouvrage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119005</code_ogr>
+<libelle>Poser des mat&#0233;riaux isolants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122133</code_ogr>
+<libelle>Poser un rev&#0234;tement de sol ou mural</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>103402</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riaux isolants</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103599</code_ogr>
+<libelle>Normes d&#0039;isolation phonique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103611</code_ogr>
+<libelle>Types d&#0039;isolation thermique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123422</code_ogr>
+<libelle>Rev&#0234;tements souples</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>104888</code_ogr>
+<libelle>Monter des meubles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>118773</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; des travaux jusqu&#0039;&#0224; r&#0233;ception</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125815</code_ogr>
+<libelle>Conseiller un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1607</code_rome_cible>
+<libelle_rome_cible>Pose de fermetures menuis&#0233;es</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2201</code_rome_cible>
+<libelle_rome_cible>Assemblage d&#0039;ouvrages en bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>10345</code_appellation_source>
+<libelle_appellation_source>Agenceur / Agenceuse de cuisine</libelle_appellation_source>
+<code_appellation_source>10346</code_appellation_source>
+<libelle_appellation_source>Agenceur / Agenceuse de stands</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1301</code_rome_cible>
+<libelle_rome_cible>D&#0233;coration d&#0039;espaces de vente et d&#0039;exposition</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1601</code_rome_cible>
+<libelle_rome_cible>Application et d&#0233;coration en pl&#0226;tre, stuc et staff</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1606</code_rome_cible>
+<libelle_rome_cible>Peinture en b&#0226;timent</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1609</code_rome_cible>
+<libelle_rome_cible>Pose de rev&#0234;tements souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1503</code_rome_cible>
+<libelle_rome_cible>D&#0233;cor et accessoires spectacle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

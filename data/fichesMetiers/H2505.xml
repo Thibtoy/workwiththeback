@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2505</code_rome>
+<intitule>Encadrement d&#0039;&#0233;quipe ou d&#0039;atelier en mat&#0233;riaux souples</intitule>
+<code_ogr>266</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="27">
+<item_app>
+<code_ogr>10646</code_ogr>
+<libelle>Agent / Agente d&#0039;encadrement d&#0039;atelier de piquage</libelle>
+<libelle_court>Agent / Agente d&#0039;encadrement d&#0039;atelier de piquage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10988</code_ogr>
+<libelle>Animateur / Animatrice d&#0039;atelier de production textile</libelle>
+<libelle_court>Animateur / Animatrice d&#0039;atelier de production textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12048</code_ogr>
+<libelle>Chef d&#0039;atelier en chaussures</libelle>
+<libelle_court>Chef d&#0039;atelier en chaussures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12404</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe d&#0039;atelier de tricotage</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe d&#0039;atelier de tricotage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12441</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe des industries des mat&#0233;riaux souples</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe des industries des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12460</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe en maroquinerie</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe en maroquinerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12487</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe pr&#0233;paration en chaussures</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe pr&#0233;paration en chaussures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13568</code_ogr>
+<libelle>Contrema&#0238;tre / Contrema&#0238;tresse de teinture textile</libelle>
+<libelle_court>Contrema&#0238;tre / Contrema&#0238;tresse de teinture textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13581</code_ogr>
+<libelle>Contrema&#0238;tre / Contrema&#0238;tresse tulliste</libelle>
+<libelle_court>Contrema&#0238;tre / Contrema&#0238;tresse tulliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18629</code_ogr>
+<libelle>Responsable d&#0039;atelier d&#0039;assemblage-montage en habillement</libelle>
+<libelle_court>Responsable d&#0039;atelier d&#0039;assemblage-montage en habillement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18630</code_ogr>
+<libelle>Responsable d&#0039;atelier d&#0039;assemblage-montage en industries des cuirs et peaux et mat&#0233;riaux associ&#0233;s</libelle>
+<libelle_court>Responsable d&#0039;atelier montage en ind des cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18631</code_ogr>
+<libelle>Responsable d&#0039;atelier de blanchisserie industrielle</libelle>
+<libelle_court>Responsable d&#0039;atelier de blanchisserie industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18632</code_ogr>
+<libelle>Responsable d&#0039;atelier de coupe en industrie des mat&#0233;riaux souples</libelle>
+<libelle_court>Responsable atelier coupe en industrie des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18633</code_ogr>
+<libelle>Responsable d&#0039;atelier de fabrication de produits nontiss&#0233;s</libelle>
+<libelle_court>Responsable d&#0039;atelier de fabrication de produits nontiss&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18635</code_ogr>
+<libelle>Responsable d&#0039;atelier de filature</libelle>
+<libelle_court>Responsable d&#0039;atelier de filature</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18636</code_ogr>
+<libelle>Responsable d&#0039;atelier de finition des industries des mat&#0233;riaux souples</libelle>
+<libelle_court>Responsable atelier finition des inds des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18642</code_ogr>
+<libelle>Responsable d&#0039;atelier de production cuirs et peaux</libelle>
+<libelle_court>Responsable d&#0039;atelier de production cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18644</code_ogr>
+<libelle>Responsable d&#0039;atelier de production habillement</libelle>
+<libelle_court>Responsable d&#0039;atelier de production habillement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18645</code_ogr>
+<libelle>Responsable d&#0039;atelier de production textile</libelle>
+<libelle_court>Responsable d&#0039;atelier de production textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18647</code_ogr>
+<libelle>Responsable d&#0039;atelier de tissage</libelle>
+<libelle_court>Responsable d&#0039;atelier de tissage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18648</code_ogr>
+<libelle>Responsable d&#0039;atelier de tricotage</libelle>
+<libelle_court>Responsable d&#0039;atelier de tricotage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18649</code_ogr>
+<libelle>Responsable d&#0039;atelier d&#0039;ennoblissement textile</libelle>
+<libelle_court>Responsable d&#0039;atelier d&#0039;ennoblissement textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18658</code_ogr>
+<libelle>Responsable d&#0039;atelier finissage cuir</libelle>
+<libelle_court>Responsable d&#0039;atelier finissage cuir</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18722</code_ogr>
+<libelle>Responsable de groupe de machines textiles</libelle>
+<libelle_court>Responsable de groupe de machines textiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18772</code_ogr>
+<libelle>Responsable de ligne de fabrication textile</libelle>
+<libelle_court>Responsable de ligne de fabrication textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18914</code_ogr>
+<libelle>Responsable d&#0039;&#0233;quipe de production traitement de linge</libelle>
+<libelle_court>Responsable d&#0039;&#0233;quipe de production traitement de linge</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19047</code_ogr>
+<libelle>Responsable d&#0039;unit&#0233; de production cuirs et peaux</libelle>
+<libelle_court>Responsable d&#0039;unit&#0233; de production cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Organise l&#0039;activit&#0233; d&#0039;une ou plusieurs &#0233;quipes d&#0039;op&#0233;rateurs (coupeur, m&#0233;canicien en confection, op&#0233;rateur de blanchisserie, ...) ou de conducteurs de machines (tisserand, bonnetier, ...) de fabrication, de traitement ou de confection de mat&#0233;riaux souples (cuir, textile, ...).
+Effectue le suivi de la fabrication selon les r&#0232;gles de s&#0233;curit&#0233;, d&#0039;hygi&#0232;ne et d&#0039;environnement et les imp&#0233;ratifs de production.
+Organise et effectue le suivi de l&#0039;approvisionnement de l&#0039;atelier et apporte un appui technique aux op&#0233;rateurs ou conducteurs.
+Peut superviser le fonctionnement des &#0233;quipements (r&#0233;glages, diagnostic de dysfonctionnement, maintenance, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (Bac professionnel, ...) &#0224; Bac +2 (BTS) en m&#0233;canique, textile, chimie, ... compl&#0233;t&#0233; par une exp&#0233;rience professionnelle en production dans l&#0039;industrie textile.
+La ma&#0238;trise de l&#0039;outil informatique (traitement de texte, tableur, Gestion de Production Assist&#0233;e par Ordinateur -GPAO-, ...) est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles ou de manufactures de fabrication de mati&#0232;res premi&#0232;res (fil, cuir, ...), de tissus, d&#0039;articles de confection ou de traitement et d&#0039;entretien textile.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- ou d&#0039;une tenue professionnelle (gants, blouse, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="16">
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24003</code_ogr>
+<libelle>Manufacture</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23398</code_ogr>
+<libelle>Ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23423</code_ogr>
+<libelle>Blanchisserie industrielle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23426</code_ogr>
+<libelle>Bonneterie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23428</code_ogr>
+<libelle>Broderie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23460</code_ogr>
+<libelle>Dentelle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23499</code_ogr>
+<libelle>Filature</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23507</code_ogr>
+<libelle>Ganterie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23514</code_ogr>
+<libelle>Habillement et accessoires</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23542</code_ogr>
+<libelle>Linge de maison</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23550</code_ogr>
+<libelle>Maroquinerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23632</code_ogr>
+<libelle>Sellerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23646</code_ogr>
+<libelle>Tannerie, m&#0233;gisserie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23651</code_ogr>
+<libelle>Tissage</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="17">
+<item_ab>
+<code_ogr>123917</code_ogr>
+<libelle>Planifier les &#0233;tapes d&#0039;une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124801</code_ogr>
+<libelle>Identifier les caract&#0233;ristiques d&#0039;une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120247</code_ogr>
+<libelle>&#0201;tablir un mode op&#0233;ratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118365</code_ogr>
+<libelle>Affecter le personnel sur des postes de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119282</code_ogr>
+<libelle>S&#0233;lectionner des machines et outillages appropri&#0233;s &#0224; une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118364</code_ogr>
+<libelle>R&#0233;partir l&#0039;activit&#0233; entre les ateliers/&#0233;quipes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117717</code_ogr>
+<libelle>Organiser l&#0039;approvisionnement du chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117520</code_ogr>
+<libelle>Contr&#0244;ler la gestion des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120790</code_ogr>
+<libelle>Identifier les anomalies ou les dysfonctionnements d&#0039;une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>115028</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;activit&#0233; de la structure, du service et identifier des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124079</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;aspect d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123572</code_ogr>
+<libelle>Superviser l&#0039;affectation de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121220</code_ogr>
+<libelle>Contr&#0244;ler et r&#0233;diger l&#0039;application des consignes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121049</code_ogr>
+<libelle>Apporter un appui technique aux services qualit&#0233;, maintenance, m&#0233;thodes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124678</code_ogr>
+<libelle>Sensibiliser un public &#0224; une d&#0233;marche qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123933</code_ogr>
+<libelle>Mettre en oeuvre des actions d&#0039;am&#0233;lioration</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124620</code_ogr>
+<libelle>V&#0233;rifier les &#0233;l&#0233;ments d&#0039;activit&#0233; et de gestion administrative du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="28">
+<item_ab_stp>
+<code_ogr>123880</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et de salubrit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105671</code_ogr>
+<libelle>M&#0233;thodes de Gestion des Moyens de Production</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122425</code_ogr>
+<libelle>M&#0233;thodes et outils de r&#0233;solution de probl&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100820</code_ogr>
+<libelle>Caract&#0233;ristiques des cuirs et peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101119</code_ogr>
+<libelle>Caract&#0233;ristiques des tissus et mati&#0232;res textiles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118517</code_ogr>
+<libelle>Gestion de production</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124541</code_ogr>
+<libelle>Proc&#0233;dures de d&#0233;pollution</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101065</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105666</code_ogr>
+<libelle>Electrom&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104425</code_ogr>
+<libelle>Hydraulique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104547</code_ogr>
+<libelle>Pneumatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118749</code_ogr>
+<libelle>Dessin technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104415</code_ogr>
+<libelle>Automatisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105705</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de traitement m&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105706</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de traitement thermique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105359</code_ogr>
+<libelle>Modalit&#0233;s de traitement chimique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124831</code_ogr>
+<libelle>Transformation de mat&#0233;riaux souples</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102884</code_ogr>
+<libelle>Programmation de machine &#0224; commandes num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105672</code_ogr>
+<libelle>Gestion administrative du personnel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>124868</code_ogr>
+<libelle>Superviser une unit&#0233; de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124823</code_ogr>
+<libelle>Superviser un atelier de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124822</code_ogr>
+<libelle>Superviser une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114748</code_ogr>
+<libelle>R&#0233;aliser des tests de contr&#0244;le de conformit&#0233; de mati&#0232;res, produits ou analyser des r&#0233;sultats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122329</code_ogr>
+<libelle>Planifier des interventions de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>105718</code_ogr>
+<libelle>Modalit&#0233;s de maintenance</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119506</code_ogr>
+<libelle>Logiciels de Gestion de Maintenance Assist&#0233;e par Ordinateur (GMAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114749</code_ogr>
+<libelle>D&#0233;terminer la faisabilit&#0233; et les &#0233;tapes d&#0039;industrialisation de nouveaux produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1403</code_rome_cible>
+<libelle_rome_cible>Intervention technique en gestion industrielle et logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="8">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11388</code_appellation_cible>
+<libelle_appellation_cible>Attach&#0233; commercial / Attach&#0233;e commerciale grandes et moyennes surfaces de vente (GMS)</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie de production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2504</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe en industrie de transformation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1203</code_rome_cible>
+<libelle_rome_cible>Encadrement technique en insertion professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2109</code_rome_cible>
+<libelle_rome_cible>Enseignement technique et professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15144</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice technique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1101</code_rome_cible>
+<libelle_rome_cible>Achats</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

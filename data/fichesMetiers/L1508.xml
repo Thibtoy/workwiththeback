@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1508</code_rome>
+<intitule>Prise de son et sonorisation</intitule>
+<code_ogr>454</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="15">
+<item_app>
+<code_ogr>11339</code_ogr>
+<libelle>Assistant / Assistante son</libelle>
+<libelle_court>Assistant / Assistante son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11207</code_ogr>
+<libelle>Assistant chef op&#0233;rateur / Assistante chef op&#0233;ratrice son</libelle>
+<libelle_court>Assistant chef op&#0233;rateur / Assistante chef op&#0233;ratrice son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11481</code_ogr>
+<libelle>Backliner</libelle>
+<libelle_court>Backliner</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12586</code_ogr>
+<libelle>Chef op&#0233;rateur / op&#0233;ratrice du son</libelle>
+<libelle_court>Chef op&#0233;rateur / op&#0233;ratrice du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12839</code_ogr>
+<libelle>Concepteur / Conceptrice son</libelle>
+<libelle_court>Concepteur / Conceptrice son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15725</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure du son</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17193</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice du son</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17658</code_ogr>
+<libelle>Perchiste</libelle>
+<libelle_court>Perchiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17660</code_ogr>
+<libelle>Perchman / Perchwoman</libelle>
+<libelle_court>Perchman / Perchwoman</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17986</code_ogr>
+<libelle>Preneur / Preneuse de son</libelle>
+<libelle_court>Preneur / Preneuse de son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38480</code_ogr>
+<libelle>Pupitreur / Pupitreuse son</libelle>
+<libelle_court>Pupitreur / Pupitreuse son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18420</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse du son</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19455</code_ogr>
+<libelle>Sonorisateur / Sonorisatrice</libelle>
+<libelle_court>Sonorisateur / Sonorisatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20022</code_ogr>
+<libelle>Technicien / Technicienne du son</libelle>
+<libelle_court>Technicien / Technicienne du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20233</code_ogr>
+<libelle>Technicien r&#0233;alisateur / Technicienne r&#0233;alisatrice radio</libelle>
+<libelle_court>Technicien r&#0233;alisateur / Technicienne r&#0233;alisatrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="5">
+R&#0233;alise l&#0039;installation et les r&#0233;glages des &#0233;l&#0233;ments de sonorisation (micros, enceintes, amplis, ...).
+Proc&#0232;de &#0224; la diffusion ou &#0224; l&#0039;enregistrement des sons (ambiances, voix, dialogues, ...) de spectacles, de tournages selon les imp&#0233;ratifs de la production et la r&#0233;glementation relative aux niveaux sonores.
+Effectue l&#0039;entretien et la maintenance du mat&#0233;riel son.
+Peut r&#0233;aliser la prise de son &#0224; l&#0039;aide d&#0039;une perche sur un tournage.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau BTS &#0224; Bac+5 (Master, Ecole d&#0039;audiovisuel, ...) dans les secteurs du son et de l&#0039;audiovisuel.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau Bac en audiovisuel, cin&#0233;ma, spectacle ou musique compl&#0233;t&#0233; par une exp&#0233;rience professionnelle.
+Les recrutements sont ouverts sur contrat de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, sur vacation ou sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e (cha&#0238;nes de t&#0233;l&#0233;vision, soci&#0233;t&#0233;s de production, soci&#0233;t&#0233;s prestataires techniques de service, ...).
+Une bonne acuit&#0233; auditive est recommand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="6">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce pour des soci&#0233;t&#0233;s de production, des compagnies, ... sur des lieux de tournage, de spectacle, en studios d&#0039;enregistrement en coordination avec des &#0233;quipes techniques et en contact avec diff&#0233;rents intervenants (r&#0233;alisation, interpr&#0232;tes, journalistes, ...).
+Elle peut impliquer des d&#0233;placements et un &#0233;loignement du domicile de plusieurs jours.
+Elle varie selon le secteur (spectacle vivant, cin&#0233;ma, audiovisuel, musique, ...) et la nature du projet.
+L&#0039;activit&#0233; est soumise au rythme de la programmation des spectacles et des tournages.
+L&#0039;activit&#0233; peut s&#0039;effectuer en r&#0233;gie, &#0224; l&#0039;ext&#0233;rieur, en zone &#0224; niveau sonore &#0233;lev&#0233; et impliquer la manipulation de charges.
+Le port d&#0039;&#0233;quipements de protection (bouchons anti-bruits) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="15">
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23905</code_ogr>
+<libelle>Entreprise d&#0039;&#0233;dition phonographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24128</code_ogr>
+<libelle>Village vacances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23652</code_ogr>
+<libelle>Tourisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>125485</code_ogr>
+<libelle>Identifier les caract&#0233;ristiques d&#0039;un lieu de repr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125232</code_ogr>
+<libelle>D&#0233;terminer le type et l&#0039;emplacement du mat&#0233;riel sonore</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124209</code_ogr>
+<libelle>Installer du mat&#0233;riel de sonorisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125484</code_ogr>
+<libelle>S&#0039;assurer du bon fonctionnement d&#0039;&#0233;quipements sonores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125696</code_ogr>
+<libelle>Poser des micros sur des intervenants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125239</code_ogr>
+<libelle>Diffuser une composition sonore (bande son, musique, effets sonsores)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125816</code_ogr>
+<libelle>R&#0233;aliser une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="20">
+<item_ab_stp>
+<code_ogr>116767</code_ogr>
+<libelle>Proc&#0233;dures de maintenance de mat&#0233;riel son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116768</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de mat&#0233;riel son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108911</code_ogr>
+<libelle>R&#0232;gles et modalit&#0233;s d&#0039;installation du mat&#0233;riel son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109326</code_ogr>
+<libelle>M&#0233;thodes d&#0039;&#0233;galisation de sons</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109325</code_ogr>
+<libelle>Niveaux de puissances acoustiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109324</code_ogr>
+<libelle>Principes d&#0039;implantation du mat&#0233;riel son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103130</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109323</code_ogr>
+<libelle>Types de consoles (analogique, num&#0233;rique)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109322</code_ogr>
+<libelle>Types de mat&#0233;riel de sonorisation (haut-parleur, micros, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100827</code_ogr>
+<libelle>Electroacoustique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117392</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en acoustique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119516</code_ogr>
+<libelle>Logiciel son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102023</code_ogr>
+<libelle>Lecture de fiche technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118331</code_ogr>
+<libelle>Utilisation d&#0039;outillages manuels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102144</code_ogr>
+<libelle>Appr&#0233;ciation auditive</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109327</code_ogr>
+<libelle>R&#0233;glementation des niveaux sonores</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122263</code_ogr>
+<libelle>D&#0233;finir des besoins en &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125483</code_ogr>
+<libelle>Enregistrer des voix et des sons additionnels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>109330</code_ogr>
+<libelle>Fonctionnement de magn&#0233;tophone analogique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109329</code_ogr>
+<libelle>Fonctionnement de magn&#0233;tophone num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125698</code_ogr>
+<libelle>Effectuer des prises de son avec une perche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109331</code_ogr>
+<libelle>Techniques de prise de son</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125026</code_ogr>
+<libelle>Caler des sons (musique, bruitage, jingle) sur un sc&#0233;nario</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124728</code_ogr>
+<libelle>Mixer des sources sonores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109309</code_ogr>
+<libelle>Types de tables de mixage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124700</code_ogr>
+<libelle>Accorder un instrument de musique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2105</code_rome_cible>
+<libelle_rome_cible>Enseignement artistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38339</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice en techniques du son</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1507</code_rome_cible>
+<libelle_rome_cible>Montage audiovisuel et post-production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16862</code_appellation_cible>
+<libelle_appellation_cible>Monteur / Monteuse son</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1509</code_rome_cible>
+<libelle_rome_cible>R&#0233;gie g&#0233;n&#0233;rale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14478</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice technique cin&#0233;ma</libelle_appellation_cible>
+<code_appellation_cible>14485</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice technique spectacle vivant</libelle_appellation_cible>
+<code_appellation_cible>38667</code_appellation_cible>
+<libelle_appellation_cible>R&#0233;gisseur / R&#0233;gisseuse de studio d&#0039;enregistrement</libelle_appellation_cible>
+<code_appellation_cible>18423</code_appellation_cible>
+<libelle_appellation_cible>R&#0233;gisseur g&#0233;n&#0233;ral / R&#0233;gisseuse g&#0233;n&#0233;rale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

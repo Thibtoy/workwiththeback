@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2209</code_rome>
+<intitule>Intervention technique en ameublement et bois</intitule>
+<code_ogr>245</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="33">
+<item_app>
+<code_ogr>10415</code_ogr>
+<libelle>Agent / Agente de contr&#0244;le de montage sur bois</libelle>
+<libelle_court>Agent / Agente de contr&#0244;le de montage sur bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10545</code_ogr>
+<libelle>Agent / Agente de planification en industrie du bois</libelle>
+<libelle_court>Agent / Agente de planification en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10696</code_ogr>
+<libelle>Agent / Agente des m&#0233;thodes en industrie du bois</libelle>
+<libelle_court>Agent / Agente des m&#0233;thodes en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14019</code_ogr>
+<libelle>Dessinateur / Dessinatrice de charpentes en bois</libelle>
+<libelle_court>Dessinateur / Dessinatrice de charpentes en bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14021</code_ogr>
+<libelle>Dessinateur / Dessinatrice de maisons &#0224; ossature bois</libelle>
+<libelle_court>Dessinateur / Dessinatrice de maisons &#0224; ossature bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14026</code_ogr>
+<libelle>Dessinateur / Dessinatrice de structures en bois</libelle>
+<libelle_court>Dessinateur / Dessinatrice de structures en bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14043</code_ogr>
+<libelle>Dessinateur / Dessinatrice en agencement</libelle>
+<libelle_court>Dessinateur / Dessinatrice en agencement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14045</code_ogr>
+<libelle>Dessinateur / Dessinatrice en ameublement</libelle>
+<libelle_court>Dessinateur / Dessinatrice en ameublement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14061</code_ogr>
+<libelle>Dessinateur / Dessinatrice en industrie du bois</libelle>
+<libelle_court>Dessinateur / Dessinatrice en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14068</code_ogr>
+<libelle>Dessinateur / Dessinatrice en menuiserie</libelle>
+<libelle_court>Dessinateur / Dessinatrice en menuiserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14082</code_ogr>
+<libelle>Dessinateur / Dessinatrice gabarits bois</libelle>
+<libelle_court>Dessinateur / Dessinatrice gabarits bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14093</code_ogr>
+<libelle>Dessinateur-m&#0233;treur / Dessinatrice-m&#0233;treuse bois</libelle>
+<libelle_court>Dessinateur-m&#0233;treur / Dessinatrice-m&#0233;treuse bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14094</code_ogr>
+<libelle>Dessinateur-m&#0233;treur / Dessinatrice-m&#0233;treuse charpente</libelle>
+<libelle_court>Dessinateur-m&#0233;treur / Dessinatrice-m&#0233;treuse charpente</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14099</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse de charpentes en bois</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) de charpentes en bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14100</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse de maisons &#0224; ossature bois</libelle>
+<libelle_court>Dessinateur(rice)-projeteur(se) de maisons &#0224; ossature bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14103</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse de structures en bois</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) de structures en bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14106</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en agencement</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en agencement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14107</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en ameublement</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en ameublement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14125</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en menuiserie</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en menuiserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14097</code_ogr>
+<libelle>Dessinateur-projeteur calculateur / Dessinatrice-projeteuse calculatrice de structure bois</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) structure bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19677</code_ogr>
+<libelle>Technicien / Technicienne bois</libelle>
+<libelle_court>Technicien / Technicienne bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19678</code_ogr>
+<libelle>Technicien / Technicienne bois pour machine &#0224; commande num&#0233;rique</libelle>
+<libelle_court>Technicien(ne) bois pour machine &#0224; commande num&#0233;rique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19701</code_ogr>
+<libelle>Technicien / Technicienne contr&#0244;le-qualit&#0233; en industrie du bois</libelle>
+<libelle_court>Technicien(ne) contr&#0244;le-qualit&#0233; en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19749</code_ogr>
+<libelle>Technicien / Technicienne de d&#0233;veloppement en industrie du bois</libelle>
+<libelle_court>Technicien(ne) de d&#0233;veloppement en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19771</code_ogr>
+<libelle>Technicien / Technicienne de fabrication-production en industrie du bois</libelle>
+<libelle_court>Technicien(ne) de fabrication-production en ind du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19890</code_ogr>
+<libelle>Technicien / Technicienne de planification en industrie du bois</libelle>
+<libelle_court>Technicien(ne) de planification en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19947</code_ogr>
+<libelle>Technicien / Technicienne des industries de l&#0039;ameublement et du bois</libelle>
+<libelle_court>Technicien(ne) des inds de l&#0039;ameublement et du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19962</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;&#0233;tudes en industrie du bois</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;&#0233;tudes en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19966</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;&#0233;tudes-recherche-d&#0233;veloppement en industrie du bois</libelle>
+<libelle_court>Technicien(ne) &#0233;tudes-recherche-d&#0233;veloppement ind du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20180</code_ogr>
+<libelle>Technicien / Technicienne lancement-ordonnancement en industrie du bois</libelle>
+<libelle_court>Technicien(ne) lancement-ordonnancement en ind du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20198</code_ogr>
+<libelle>Technicien / Technicienne m&#0233;thodes en industrie du bois</libelle>
+<libelle_court>Technicien / Technicienne m&#0233;thodes en industrie du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20227</code_ogr>
+<libelle>Technicien / Technicienne prototypiste bois</libelle>
+<libelle_court>Technicien / Technicienne prototypiste bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20394</code_ogr>
+<libelle>Traceur / Traceuse de structures en bois</libelle>
+<libelle_court>Traceur / Traceuse de structures en bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Con&#0231;oit des produits relatifs aux industries de l&#0039;ameublement et du bois et les formalise par des plans norm&#0233;s ou d&#0233;finit les &#0233;l&#0233;ments n&#0233;cessaires &#0224; leur fabrication (dossier, devis de production, cahier des charges, ...) selon les imp&#0233;ratifs de production (quantit&#0233;s, d&#0233;lais, qualit&#0233;, ...).
+Peut &#0233;laborer des proc&#0233;dures qualit&#0233; et des solutions d&#0039;am&#0233;lioration de productivit&#0233; (techniques, organisationnelles, ...).
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet Professionnel, ...) &#0224; Bac+2 (BTS, DUT, ...) dans le secteur du bois.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans le secteur du bois ou en industrie (m&#0233;canique, &#0233;lectrom&#0233;canique, automatisme, ...) compl&#0233;t&#0233;e par une formation sp&#0233;cifique aux industries du bois.
+La ma&#0238;trise d&#0039;outils informatiques (logiciels de bureautique, de Conception Assist&#0233;e par Ordinateur -CAO-, de Gestion de Production Assist&#0233;e par Ordinateur -GPAO-, ...) est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de transformation du bois (scieries, menuiseries industrielles, fabricants de meubles, d&#0039;&#0233;l&#0233;ments d&#0039;agencement, de charpentes, ...) en relation avec diff&#0233;rents services ou intervenants (commercial, production, clients, fournisseurs, sous-traitants, ...).
+Elle varie selon le secteur (transformation du bois, ameublement, ...), le degr&#0233; d&#0039;automatisation du site.
+L&#0039;activit&#0233; s&#0039;effectue en bureau, en atelier, en laboratoire, sur chantier.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="16">
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23393</code_ogr>
+<libelle>Agencement, d&#0233;coration int&#0233;rieure</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23398</code_ogr>
+<libelle>Ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23488</code_ogr>
+<libelle>Fabrication de chalets et de maisons &#0224; ossature bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23489</code_ogr>
+<libelle>Fabrication de charpentes</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23491</code_ogr>
+<libelle>Fabrication de panneaux bois et d&#0233;riv&#0233;s</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23492</code_ogr>
+<libelle>Fabrication de parquets, lambris, moulures, ...</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23495</code_ogr>
+<libelle>Fabrication d&#0039;emballages</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23533</code_ogr>
+<libelle>Industrie m&#0233;canique du bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23557</code_ogr>
+<libelle>Menuiserie industrielle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23593</code_ogr>
+<libelle>Premi&#0232;re transformation du bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23627</code_ogr>
+<libelle>Scierie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23628</code_ogr>
+<libelle>Seconde transformation du bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23638</code_ogr>
+<libelle>Spectacle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="11">
+<item_ab>
+<code_ogr>105103</code_ogr>
+<libelle>Analyser une commande de production bois, d&#0039;ameublement (contraintes techniques, quantit&#0233;s, ...) et v&#0233;rifier sa faisabilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122161</code_ogr>
+<libelle>Tracer les plans ou croquis d&#0039;un ouvrage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124811</code_ogr>
+<libelle>Identifier des contraintes dimensionnelles, fonctionnelles et physiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>105105</code_ogr>
+<libelle>Concevoir et faire &#0233;voluer les nomenclatures des composants (pi&#0232;ces, quincaillerie, ...) de l&#0039;ensemble (meuble, agencement, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120261</code_ogr>
+<libelle>D&#0233;finir les proc&#0233;d&#0233;s, moyens et modes op&#0233;ratoires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120260</code_ogr>
+<libelle>Analyser les &#0233;l&#0233;ments de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120627</code_ogr>
+<libelle>Concevoir un dossier de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117243</code_ogr>
+<libelle>Etablir un devis</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123094</code_ogr>
+<libelle>&#0201;valuer des co&#0251;ts de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123095</code_ogr>
+<libelle>D&#0233;terminer des d&#0233;lais de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121806</code_ogr>
+<libelle>Concevoir des plannings de production et des programmes de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="14">
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119425</code_ogr>
+<libelle>Logiciels de Conception de Fabrication Assist&#0233;e par Ordinateur (CFAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119295</code_ogr>
+<libelle>Caract&#0233;ristiques et propri&#0233;t&#0233;s des bois et d&#0233;riv&#0233;s du bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124458</code_ogr>
+<libelle>Langages de programmation de Commande Num&#0233;rique (CN)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126026</code_ogr>
+<libelle>R&#0233;sistance Des Mat&#0233;riaux (RDM)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102885</code_ogr>
+<libelle>M&#0233;thodes d&#0039;ordonnancement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104969</code_ogr>
+<libelle>Gammes de produits bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104882</code_ogr>
+<libelle>Styles de mobilier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100594</code_ogr>
+<libelle>Dessin industriel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120242</code_ogr>
+<libelle>R&#0233;diger une notice technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114234</code_ogr>
+<libelle>Concevoir des solutions techniques et organisationnelles d&#0039;am&#0233;lioration de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100906</code_ogr>
+<libelle>Ergonomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123618</code_ogr>
+<libelle>Concevoir une proc&#0233;dure de maintenance de l&#0039;&#0233;quipement de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104415</code_ogr>
+<libelle>Automatisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124680</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;application de proc&#0233;dures qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123873</code_ogr>
+<libelle>Mettre en place des proc&#0233;dures qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124600</code_ogr>
+<libelle>Elaborer un programme d&#0039;essai</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>124670</code_ogr>
+<libelle>S&#0233;lectionner un intervenant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117999</code_ogr>
+<libelle>Effectuer le suivi d&#0039;une action de sous-traitance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124669</code_ogr>
+<libelle>Identifier des besoins en sous traitance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121049</code_ogr>
+<libelle>Apporter un appui technique aux services qualit&#0233;, maintenance, m&#0233;thodes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2204</code_rome_cible>
+<libelle_rome_cible>Encadrement des industries de l&#0039;ameublement et du bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="9">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1401</code_rome_cible>
+<libelle_rome_cible>Assistanat commercial</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1407</code_rome_cible>
+<libelle_rome_cible>Relation technico-commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1203</code_rome_cible>
+<libelle_rome_cible>Conception et dessin produits m&#0233;caniques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1403</code_rome_cible>
+<libelle_rome_cible>Intervention technique en gestion industrielle et logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2109</code_rome_cible>
+<libelle_rome_cible>Enseignement technique et professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1101</code_rome_cible>
+<libelle_rome_cible>Achats</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

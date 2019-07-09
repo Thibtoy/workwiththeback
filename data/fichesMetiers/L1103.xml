@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1103</code_rome>
+<intitule>Pr&#0233;sentation de spectacles ou d&#0039;&#0233;missions</intitule>
+<code_ogr>437</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="8">
+<item_app>
+<code_ogr>11034</code_ogr>
+<libelle>Animateur / Animatrice de spectacles</libelle>
+<libelle_court>Animateur / Animatrice de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11062</code_ogr>
+<libelle>Animateur / Animatrice radio</libelle>
+<libelle_court>Animateur / Animatrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11069</code_ogr>
+<libelle>Animateur / Animatrice TV</libelle>
+<libelle_court>Animateur / Animatrice TV</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11991</code_ogr>
+<libelle>Chauffeur / Chauffeuse de salle</libelle>
+<libelle_court>Chauffeur / Chauffeuse de salle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38458</code_ogr>
+<libelle>Chroniqueur / Chroniqueuse TV / Radio</libelle>
+<libelle_court>Chroniqueur / Chroniqueuse TV / Radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18050</code_ogr>
+<libelle>Pr&#0233;sentateur / Pr&#0233;sentatrice de spectacles</libelle>
+<libelle_court>Pr&#0233;sentateur / Pr&#0233;sentatrice de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18051</code_ogr>
+<libelle>Pr&#0233;sentateur / Pr&#0233;sentatrice radio</libelle>
+<libelle_court>Pr&#0233;sentateur / Pr&#0233;sentatrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18052</code_ogr>
+<libelle>Pr&#0233;sentateur / Pr&#0233;sentatrice TV</libelle>
+<libelle_court>Pr&#0233;sentateur / Pr&#0233;sentatrice TV</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Pr&#0233;sente et anime des &#0233;missions t&#0233;l&#0233;vis&#0233;es, radiophoniques (culturelles, de divertissement, ...) ou des spectacles (cirque, danse, ...), selon la r&#0233;glementation audiovisuelle et les imp&#0233;ratifs de programmation de la cha&#0238;ne, de la radio (programmation musicale, publicit&#0233;s, ...) ou du spectacle.
+Peut concevoir un projet d&#0039;&#0233;mission (litt&#0233;raire, magazine sant&#0233;, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec une exp&#0233;rience professionnelle dans les domaines de l&#0039;animation (radio, t&#0233;l&#0233;vision, ...) sans dipl&#0244;me particulier.
+Un dipl&#0244;me de niveau Bac+2 (L2, BTS) &#0224; Master (M1, M2, ...) en journalisme ou dans une sp&#0233;cialit&#0233; (histoire, sant&#0233;, ...) peut &#0234;tre demand&#0233;.
+Des d&#0233;marches actives sont n&#0233;cessaires pour l&#0039;obtention de nouveaux contrats.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de cha&#0238;nes de t&#0233;l&#0233;vision, de stations radio, pour des compagnies de spectacle vivant (danse, cirque, ...), des prestataires de services (&#0233;v&#0232;nementiel) en relation avec diff&#0233;rents intervenants (techniciens lumi&#0232;re, son, directeur d&#0039;antenne, organisateur, ...).
+Elle peut impliquer des d&#0233;placements et un &#0233;loignement du domicile de plusieurs jours (tourn&#0233;es, enregistrements d&#0039;&#0233;mission, ...).
+L&#0039;activit&#0233; est soumise au rythme de la programmation des &#0233;missions, des spectacles.
+Elle s&#0039;effectue en studio d&#0039;enregistrement (radio, t&#0233;l&#0233;vision, ...), sur sc&#0232;ne.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23737</code_ogr>
+<libelle>Cabaret</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23793</code_ogr>
+<libelle>Cha&#0238;ne de t&#0233;l&#0233;vision</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24107</code_ogr>
+<libelle>Station de radio</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23562</code_ogr>
+<libelle>Mode</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23606</code_ogr>
+<libelle>Radio</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23648</code_ogr>
+<libelle>T&#0233;l&#0233;vision</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>125984</code_ogr>
+<libelle>Collecter des informations dans le cadre d&#0039;une &#0233;mission</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125088</code_ogr>
+<libelle>Concevoir un projet radiophonique ou t&#0233;l&#0233;vis&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125997</code_ogr>
+<libelle>Choisir des participants pour un spectacle, une &#0233;mission</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125675</code_ogr>
+<libelle>Pr&#0233;senter des invit&#0233;s, candidats, auditeurs et leur actualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125676</code_ogr>
+<libelle>Pr&#0233;senter les sujets d&#0039;une &#0233;mission</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125434</code_ogr>
+<libelle>Interviewer des participants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125435</code_ogr>
+<libelle>R&#0233;guler les &#0233;changes entre les participants d&#0039;un d&#0233;bat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>108931</code_ogr>
+<libelle>R&#0233;daction de synopsis</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108930</code_ogr>
+<libelle>Appropriation d&#0039;espace sc&#0233;nique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108938</code_ogr>
+<libelle>Techniques d&#0039;&#0233;criture t&#0233;l&#0233;visuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108937</code_ogr>
+<libelle>Techniques d&#0039;&#0233;criture radiophonique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108936</code_ogr>
+<libelle>Techniques d&#0039;interview</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108093</code_ogr>
+<libelle>M&#0233;thodes d&#0039;investigation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108933</code_ogr>
+<libelle>Techniques d&#0039;animation radio</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108934</code_ogr>
+<libelle>Techniques d&#0039;animation t&#0233;l&#0233;vision</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108932</code_ogr>
+<libelle>Techniques de diction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108935</code_ogr>
+<libelle>Techniques d&#0039;animation de d&#0233;bat</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117908</code_ogr>
+<libelle>Pr&#0233;senter un spectacle ou une &#0233;mission</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="12">
+<item_as_stp>
+<code_ogr>120505</code_ogr>
+<libelle>Domaine vie pratique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126116</code_ogr>
+<libelle>Actualit&#0233; quotidienne / informations</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126305</code_ogr>
+<libelle>Cirque (M. ou Mme Loyal)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126366</code_ogr>
+<libelle>Commentaire de programmes en direct (rencontre sportive, d&#0233;fil&#0233; militaire, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126066</code_ogr>
+<libelle>Divertissements (jeux, vari&#0233;t&#0233;s, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126067</code_ogr>
+<libelle>Emissions &#0224; th&#0232;mes (litt&#0233;rature, sport, cin&#0233;ma, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126205</code_ogr>
+<libelle>Emissions avec d&#0233;bats</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126117</code_ogr>
+<libelle>M&#0233;t&#0233;orologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126248</code_ogr>
+<libelle>Num&#0233;ros visuels, cabaret, autres spectacles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126206</code_ogr>
+<libelle>Programmes jeunesse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126306</code_ogr>
+<libelle>Programmes musicaux (classiques, jazz, rock, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126406</code_ogr>
+<libelle>Vie pratique (sant&#0233;, cuisine, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125773</code_ogr>
+<libelle>Animer un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125981</code_ogr>
+<libelle>Diffuser des morceaux de musique pour une &#0233;mission radio</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125982</code_ogr>
+<libelle>S&#0233;lectionner des morceaux de musique pour une &#0233;mission radio</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>126061</code_ogr>
+<libelle>Styles musicaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115383</code_ogr>
+<libelle>Pr&#0233;senter des lots et d&#0233;cerner des cadeaux, des prix &#0224; un candidat dans le cadre d&#0039;un jeu, d&#0039;un concours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125670</code_ogr>
+<libelle>Proc&#0233;der &#0224; la pr&#0233;paration d&#0039;un &#0233;v&#0232;nement artistique (coiffure, maquillage, costume)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>108923</code_ogr>
+<libelle>Techniques de coiffage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102199</code_ogr>
+<libelle>Techniques de maquillage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1501</code_rome_cible>
+<libelle_rome_cible>Animation de vente</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1101</code_rome_cible>
+<libelle_rome_cible>Animation musicale et sc&#0233;nique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1106</code_rome_cible>
+<libelle_rome_cible>Journalisme et information m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13847</code_appellation_cible>
+<libelle_appellation_cible>Critique d&#0039;art, cin&#0233;ma, th&#0233;&#0226;tre, litt&#0233;rature, musique</libelle_appellation_cible>
+<code_appellation_cible>16084</code_appellation_cible>
+<libelle_appellation_cible>Journaliste</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

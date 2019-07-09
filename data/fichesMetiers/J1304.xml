@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>J1304</code_rome>
+<intitule>Aide en pu&#0233;riculture</intitule>
+<code_ogr>341</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="1">
+<item_app>
+<code_ogr>11448</code_ogr>
+<libelle>Auxiliaire de pu&#0233;riculture</libelle>
+<libelle_court>Auxiliaire de pu&#0233;riculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+R&#0233;alise la prise en charge d&#0039;enfants de la naissance &#0224; quinze ans, les guide dans les gestes de la vie quotidienne et effectue des soins d&#0039;hygi&#0232;ne, de confort afin de contribuer &#0224; leur bien-&#0234;tre et leur d&#0233;veloppement.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec le Dipl&#0244;me d&#0039;Etat d&#0039;Auxiliaire de Pu&#0233;riculture -DEAP-.
+Des formations compl&#0233;mentaires (prise en charge de la douleur, ...) peuvent &#0234;tre requises.
+Des vaccinations pr&#0233;vues par le Code de Sant&#0233; Publique sont exig&#0233;es.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce en &#0233;tablissements de soins (h&#0244;pital, clinique, ...), en structures d&#0039;accueil (cr&#0232;che, halte-garderie, ...) en contact avec les enfants et les familles et au sein d&#0039;une &#0233;quipe pluridisciplinaire (pu&#0233;ricultrice, sage-femme, &#0233;ducateur de jeunes enfants, ...).
+Elle varie selon la structure (maternit&#0233;, cr&#0232;che, ...) et le public (enfants bien portants, malades, handicap&#0233;s).
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, par roulement, les fins de semaine, de nuit et &#0234;tre soumise &#0224; des gardes en milieu hospitalier.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23774</code_ogr>
+<libelle>Centre de Protection Maternelle et Infantile</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24109</code_ogr>
+<libelle>Structure d&#0039;accueil petite enfance</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>107368</code_ogr>
+<libelle>Accueillir l&#0039;enfant et le guider &#0224; son arriv&#0233;e dans la structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107369</code_ogr>
+<libelle>Pr&#0233;parer et donner le repas, la prescription m&#0233;dicale &#0224; l&#0039;enfant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107370</code_ogr>
+<libelle>R&#0233;aliser les soins et signaler les modifications de l&#0039;&#0233;tat de sant&#0233; de l&#0039;enfant aux pu&#0233;ricultrices, aux parents, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107371</code_ogr>
+<libelle>Accompagner l&#0039;enfant dans l&#0039;apprentissage des gestes de la vie quotidienne et des r&#0232;gles de vie en collectivit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120683</code_ogr>
+<libelle>Collaborer avec l&#0039;ensemble des intervenants &#0224; la r&#0233;alisation d&#0039;un objectif commun</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119106</code_ogr>
+<libelle>R&#0233;aliser un suivi d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124543</code_ogr>
+<libelle>Entretenir des locaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107372</code_ogr>
+<libelle>Am&#0233;nager le lieu de vie, d&#0039;accueil des enfants et v&#0233;rifier la s&#0233;curit&#0233; des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>107375</code_ogr>
+<libelle>Pathologies de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107374</code_ogr>
+<libelle>Psychologie de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107376</code_ogr>
+<libelle>Soins de nursing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119325</code_ogr>
+<libelle>Psychomotricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107373</code_ogr>
+<libelle>Identification des signes et du degr&#0233; de la douleur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103918</code_ogr>
+<libelle>Techniques d&#0039;&#0233;veil de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122435</code_ogr>
+<libelle>Syst&#0232;me Hazard Analysis Critical Control Point  (HACCP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100414</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102065</code_ogr>
+<libelle>Di&#0233;t&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115016</code_ogr>
+<libelle>Pr&#0233;parer la salle d&#0039;accouchement, le mat&#0233;riel d&#0039;accueil et d&#0039;examen de l&#0039;enfant et aider l&#0039;&#0233;quipe de soins lors de la naissance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107255</code_ogr>
+<libelle>Protocoles de lutte contre les infections nosocomiales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115017</code_ogr>
+<libelle>Accompagner les parents dans les premiers gestes maternels/paternels (prise du biberon, toilette, change, /...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115018</code_ogr>
+<libelle>Surveiller l&#0039;&#0233;tat clinique d&#0039;un enfant et informer l&#0039;&#0233;quipe soignante selon n&#0233;cessit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>107384</code_ogr>
+<libelle>Protocoles de prise en charge d&#0039;un enfant en n&#0233;o-natalogie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107382</code_ogr>
+<libelle>Protocoles de soins pr&#0233; et post-op&#0233;ratoires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115019</code_ogr>
+<libelle>Proposer et animer des activit&#0233;s d&#0039;&#0233;veil et intervenir en cas de chute, dispute, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115020</code_ogr>
+<libelle>R&#0233;aliser la prise des mesures biom&#0233;triques (poids, taille, ...) d&#0039;un enfant et communiquer les informations &#0224; l&#0039;&#0233;quipe m&#0233;dicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115021</code_ogr>
+<libelle>Trier le mat&#0233;riel, les instruments m&#0233;dicaux selon le type de traitement (st&#0233;rilisation, destruction, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100453</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de st&#0233;rilisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1203</code_rome_cible>
+<libelle_rome_cible>Animation de loisirs aupr&#0232;s d&#0039;enfants ou d&#0039;adolescents</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1501</code_rome_cible>
+<libelle_rome_cible>Soins d&#0039;hygi&#0232;ne, de confort du patient</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1301</code_rome_cible>
+<libelle_rome_cible>Accompagnement m&#0233;dicosocial</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1505</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers sp&#0233;cialis&#0233;s en pr&#0233;vention</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1506</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers g&#0233;n&#0233;ralistes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1507</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers sp&#0233;cialis&#0233;s en pu&#0233;riculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1202</code_rome_cible>
+<libelle_rome_cible>&#0201;ducation de jeunes enfants</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

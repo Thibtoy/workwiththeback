@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1303</code_rome>
+<intitule>Intervention technique en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriel</intitule>
+<code_ogr>224</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="14">
+<item_app>
+<code_ogr>11054</code_ogr>
+<libelle>Animateur / Animatrice en d&#0233;chets en industrie</libelle>
+<libelle_court>Animateur / Animatrice en d&#0233;chets en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11055</code_ogr>
+<libelle>Animateur / Animatrice en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE-</libelle>
+<libelle_court>Animateur/Animatrice en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11056</code_ogr>
+<libelle>Animateur / Animatrice en s&#0233;curit&#0233; du travail</libelle>
+<libelle_court>Animateur / Animatrice en s&#0233;curit&#0233; du travail</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11063</code_ogr>
+<libelle>Animateur / Animatrice s&#0233;curit&#0233; environnement</libelle>
+<libelle_court>Animateur / Animatrice s&#0233;curit&#0233; environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13616</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de s&#0233;curit&#0233; en risques industriels</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de s&#0233;curit&#0233; en risques industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20038</code_ogr>
+<libelle>Technicien / Technicienne en analyse de pollution</libelle>
+<libelle_court>Technicien / Technicienne en analyse de pollution</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20062</code_ogr>
+<libelle>Technicien / Technicienne en environnement industriel</libelle>
+<libelle_court>Technicien / Technicienne en environnement industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20063</code_ogr>
+<libelle>Technicien / Technicienne en environnement, s&#0233;curit&#0233; et conditions de travail</libelle>
+<libelle_court>Technicien(ne) environ, s&#0233;curit&#0233; et conditions de travail</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20068</code_ogr>
+<libelle>Technicien / Technicienne en g&#0233;nie sanitaire en industrie</libelle>
+<libelle_court>Technicien / Technicienne en g&#0233;nie sanitaire en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20071</code_ogr>
+<libelle>Technicien / Technicienne en hygi&#0232;ne et environnement</libelle>
+<libelle_court>Technicien / Technicienne en hygi&#0232;ne et environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20072</code_ogr>
+<libelle>Technicien / Technicienne en Hygi&#0232;ne, S&#0233;curit&#0233;, Environnement industriel -HSE-</libelle>
+<libelle_court>Technicien/Technicienne Hygi&#0232;ne S&#0233;curit&#0233; Environ industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20105</code_ogr>
+<libelle>Technicien / Technicienne en pr&#0233;vention des risques industriels</libelle>
+<libelle_court>Technicien(ne) en pr&#0233;vention des risques industriels</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20111</code_ogr>
+<libelle>Technicien / Technicienne en radioprotection</libelle>
+<libelle_court>Technicien / Technicienne en radioprotection</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20124</code_ogr>
+<libelle>Technicien / Technicienne en s&#0233;curit&#0233; industrielle</libelle>
+<libelle_court>Technicien / Technicienne en s&#0233;curit&#0233; industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Suit et v&#0233;rifie la d&#0233;clinaison des r&#0232;gles d&#0039;hygi&#0232;ne, s&#0233;curit&#0233; et environnement aupr&#0232;s des &#0233;quipes et des installations par rapport &#0224; la r&#0233;glementation et aux normes.
+Identifie des &#0233;volutions de pr&#0233;vention des risques (consignes, m&#0233;thodes, moyens de protection,...) et suit leur mise en oeuvre dans un objectif de protection et de r&#0233;duction des impacts et des risques de l&#0039;activit&#0233; industrielle sur les personnes, les biens et l&#0039;environnement.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, DUT) en hygi&#0232;ne, s&#0233;curit&#0233; et environnement ou dans le secteur technique ou scientifique de l&#0039;entreprise.
+Des habilitations sp&#0233;cifiques (radioprotection, &#0233;lectricit&#0233;, audit, ...) ou des vaccinations particuli&#0232;res peuvent &#0234;tre requises selon le secteur d&#0039;activit&#0233;.
+La pratique de l&#0039;anglais (vocabulaire technique) peut &#0234;tre exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, d&#0039;organismes de contr&#0244;le, de laboratoires de recherche, de bureaux d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie, de services de l&#0039;Etat, des arm&#0233;es, en relation avec l&#0039;ensemble du personnel, diff&#0233;rents services et intervenants (production/exploitation, maintenance, transport, secours, sous-traitants, prestataires, ...). Elle peut impliquer des d&#0233;placements.
+Elle varie selon le secteur (nucl&#0233;aire, chimie, alimentaire, ...), la r&#0233;glementation de l&#0039;&#0233;tablissement (SEVESO, Installation Class&#0233;e pour la Protection de l&#0039;Environnement -ICPE-, ...), le type de process et la nature des produits fabriqu&#0233;s ou stock&#0233;s.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s et &#0234;tre soumise &#0224; des astreintes.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (masque, gants, casque de protection, ...) peut &#0234;tre exig&#0233;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="39">
+<item_env>
+<code_ogr>23682</code_ogr>
+<libelle>A&#0233;roport</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24017</code_ogr>
+<libelle>Organisme de contr&#0244;le et de certification</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24076</code_ogr>
+<libelle>Site portuaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24078</code_ogr>
+<libelle>Soci&#0233;t&#0233; d&#0039;autoroute</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>120281</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;application de proc&#0233;dures Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123311</code_ogr>
+<libelle>Analyser un dysfonctionnement ou une non-conformit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119800</code_ogr>
+<libelle>D&#0233;finir des mesures de pr&#0233;vention des risques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104651</code_ogr>
+<libelle>Suivre des indicateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124181</code_ogr>
+<libelle>&#0201;tablir un rapport d&#0039;accident et d&#0039;incident</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121529</code_ogr>
+<libelle>Etablir un compte rendu d&#0039;analyse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124677</code_ogr>
+<libelle>Former &#0224; une d&#0233;marche Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (HSE)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124676</code_ogr>
+<libelle>Promouvoir des proc&#0233;dures Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (HSE)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="14">
+<item_ab_stp>
+<code_ogr>101450</code_ogr>
+<libelle>Techniques de protection et de pr&#0233;vention des pollutions</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104606</code_ogr>
+<libelle>Utilisation de mat&#0233;riel de contr&#0244;le et mesure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101424</code_ogr>
+<libelle>R&#0233;glementation du transport de mati&#0232;res et produits dangereux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104637</code_ogr>
+<libelle>Caract&#0233;ristiques des &#0233;quipements de protection</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100161</code_ogr>
+<libelle>Toxicologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100906</code_ogr>
+<libelle>Ergonomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121863</code_ogr>
+<libelle>Analyse des risques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101449</code_ogr>
+<libelle>R&#0233;glementation s&#0233;curit&#0233; incendie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101425</code_ogr>
+<libelle>R&#0233;glementation des Installations Class&#0233;es pour la Protection de l&#0039;Environnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101065</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126526</code_ogr>
+<libelle>Intervenir en Hygi&#0232;ne, S&#0233;curit&#0233;, Environnement en industrie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="12">
+<item_as_stp>
+<code_ogr>124944</code_ogr>
+<libelle>S&#0233;curit&#0233; du travail</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105823</code_ogr>
+<libelle>Hygi&#0232;ne industrielle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118136</code_ogr>
+<libelle>Environnement / nature</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121066</code_ogr>
+<libelle>Gestion des risques (Risk Management)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120814</code_ogr>
+<libelle>Gestion des risques chimiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123641</code_ogr>
+<libelle>Gestion des risques biologiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106945</code_ogr>
+<libelle>Radioprotection</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124936</code_ogr>
+<libelle>Protection des biens</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124938</code_ogr>
+<libelle>Protection des personnes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115839</code_ogr>
+<libelle>D&#0233;marche qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116842</code_ogr>
+<libelle>Plans de Pr&#0233;vention des Risques Technologiques (PPRT)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120721</code_ogr>
+<libelle>Pr&#0233;vention des risques environnementaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122105</code_ogr>
+<libelle>Contr&#0244;ler la validit&#0233; de qualification des moyens et des personnes (habilitation, autorisation, agr&#0233;ment)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121049</code_ogr>
+<libelle>Apporter un appui technique aux services qualit&#0233;, maintenance, m&#0233;thodes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123818</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;ex&#0233;cution des consignes de r&#0233;alisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121220</code_ogr>
+<libelle>Contr&#0244;ler et r&#0233;diger l&#0039;application des consignes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124921</code_ogr>
+<libelle>Entretenir un &#0233;quipement de contr&#0244;le ou de mesure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>118662</code_ogr>
+<libelle>Utilisation d&#0039;&#0233;quipements et d&#0039;appareils de mesure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114604</code_ogr>
+<libelle>R&#0233;aliser des relev&#0233;s, mesures, pr&#0233;l&#0232;vements, identifier des &#0233;carts (taux, seuil, ...) et pr&#0233;coniser des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114605</code_ogr>
+<libelle>R&#0233;aliser ou participer &#0224; la r&#0233;alisation d&#0039;&#0233;tudes de risques (identification, recensement, &#0233;valuation, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121669</code_ogr>
+<libelle>&#0201;tablir un Plan de Pr&#0233;vention des Risques (PPR)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101397</code_ogr>
+<libelle>Logiciels de mod&#0233;lisation et simulation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114606</code_ogr>
+<libelle>V&#0233;rifier le fonctionnement d&#0039;installations de surveillance et de traitement de rejets (eau, fum&#0233;es, ...) ou de d&#0233;chets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114607</code_ogr>
+<libelle>S&#0233;lectionner des fili&#0232;res de traitement des d&#0233;chets (industriels, sp&#0233;ciaux, ...) et tracer leur parcours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1301</code_rome_cible>
+<libelle_rome_cible>Inspection de conformit&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>20038</code_appellation_source>
+<libelle_appellation_source>Technicien / Technicienne en analyse de pollution</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1503</code_rome_cible>
+<libelle_rome_cible>Intervention technique en laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1506</code_rome_cible>
+<libelle_rome_cible>Intervention technique qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1705</code_rome_cible>
+<libelle_rome_cible>S&#0233;curit&#0233; civile et secours</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1302</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriels</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2306</code_rome_cible>
+<libelle_rome_cible>Supervision d&#0039;exploitation &#0233;co-industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

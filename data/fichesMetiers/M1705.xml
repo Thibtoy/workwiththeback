@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1705</code_rome>
+<intitule>Marketing</intitule>
+<code_ogr>487</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="31">
+<item_app>
+<code_ogr>10273</code_ogr>
+<libelle>Adjoint / Adjointe au directeur / &#0224; la directrice marketing</libelle>
+<libelle_court>Adjoint / Adjointe au directeur / &#0224; la directrice marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10274</code_ogr>
+<libelle>Adjoint / Adjointe au directeur / &#0224; la directrice mercatique</libelle>
+<libelle_court>Adjoint / Adjointe au directeur / &#0224; la directrice mercatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11191</code_ogr>
+<libelle>Assistant / Assistante au directeur / &#0224; la directrice marketing</libelle>
+<libelle_court>Assistant(e) au directeur / &#0224; la directrice marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11192</code_ogr>
+<libelle>Assistant / Assistante au directeur / &#0224; la directrice mercatique</libelle>
+<libelle_court>Assistant(e) au directeur / &#0224; la directrice mercatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11303</code_ogr>
+<libelle>Assistant / Assistante marketing</libelle>
+<libelle_court>Assistant / Assistante marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39007</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;acquisition online</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;acquisition online</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11759</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;affaires marketing</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;affaires marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38907</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;affiliation et de partenariats e-commerce</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;affiliation et de partenariats e-commerce</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38908</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;affiliation et de partenariats web</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;affiliation et de partenariats web</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11826</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de mission marketing</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de mission marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11849</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de projet marketing</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de projet marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12169</code_ogr>
+<libelle>Chef de groupe marketing</libelle>
+<libelle_court>Chef de groupe marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12171</code_ogr>
+<libelle>Chef de groupe mercatique</libelle>
+<libelle_court>Chef de groupe mercatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13550</code_ogr>
+<libelle>Consultant / Consultante marketing</libelle>
+<libelle_court>Consultant / Consultante marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38973</code_ogr>
+<libelle>Digital brand manager - Responsable de la marque en ligne</libelle>
+<libelle_court>Digital brand manager - Responsable de la marque en ligne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14271</code_ogr>
+<libelle>Directeur / Directrice de la mercatique</libelle>
+<libelle_court>Directeur / Directrice de la mercatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14429</code_ogr>
+<libelle>Directeur / Directrice du marketing</libelle>
+<libelle_court>Directeur / Directrice du marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14460</code_ogr>
+<libelle>Directeur / Directrice marketing produits</libelle>
+<libelle_court>Directeur / Directrice marketing produits</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38400</code_ogr>
+<libelle>Fundraiser - Collecteur / Collectrice de fonds</libelle>
+<libelle_court>Fundraiser - Collecteur / Collectrice de fonds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140906</code_ogr>
+<libelle>Gestionnaire de planning e-mailing</libelle>
+<libelle_court>Gestionnaire de planning e-mailing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38793</code_ogr>
+<libelle>Mobile marketer</libelle>
+<libelle_court>Mobile marketer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39006</code_ogr>
+<libelle>Responsable acquisition online</libelle>
+<libelle_court>Responsable acquisition online</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38905</code_ogr>
+<libelle>Responsable affiliation et partenariats e-commerce</libelle>
+<libelle_court>Responsable affiliation et partenariats e-commerce</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38906</code_ogr>
+<libelle>Responsable affiliation et partenariats web</libelle>
+<libelle_court>Responsable affiliation et partenariats web</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18703</code_ogr>
+<libelle>Responsable de d&#0233;partement marketing</libelle>
+<libelle_court>Responsable de d&#0233;partement marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19013</code_ogr>
+<libelle>Responsable du marketing</libelle>
+<libelle_court>Responsable du marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19125</code_ogr>
+<libelle>Responsable marketing</libelle>
+<libelle_court>Responsable marketing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38974</code_ogr>
+<libelle>Responsable marketing digital</libelle>
+<libelle_court>Responsable marketing digital</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19126</code_ogr>
+<libelle>Responsable marketing Internet</libelle>
+<libelle_court>Responsable marketing Internet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19129</code_ogr>
+<libelle>Responsable mercaticien / mercaticienne</libelle>
+<libelle_court>Responsable mercaticien / mercaticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38794</code_ogr>
+<libelle>Web marketer</libelle>
+<libelle_court>Web marketer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+D&#0233;finit et met en oeuvre la strat&#0233;gie marketing (tarifs, promotion, communication, gammes de produits, supports techniques, ...) pour l&#0039;ensemble des produits de l&#0039;entreprise.
+Peut diriger un service ou coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un Master (M1, Master professionnel, dipl&#0244;me d&#0039;&#0233;cole de commerce, ...) dans un secteur technique ou commercial, compl&#0233;t&#0233; par une exp&#0233;rience professionnelle en tant que chef de produit ou chef de groupe.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="1">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, de soci&#0233;t&#0233;s d&#0039;&#0233;tudes, d&#0039;agences marketing, ... en relation avec diff&#0233;rents services (commercial, communication, production, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="43">
+<item_env>
+<code_ogr>23691</code_ogr>
+<libelle>Agence de promotion et de marketing direct</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24014</code_ogr>
+<libelle>Organisation humanitaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24021</code_ogr>
+<libelle>Organisme d&#0039;&#0233;tudes et de sondage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24081</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23394</code_ogr>
+<libelle>Agriculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23399</code_ogr>
+<libelle>Aquaculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23412</code_ogr>
+<libelle>Banque</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23501</code_ogr>
+<libelle>Finance</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23532</code_ogr>
+<libelle>Industrie graphique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23584</code_ogr>
+<libelle>Pisciculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23631</code_ogr>
+<libelle>S&#0233;curit&#0233;, hygi&#0232;ne, environnement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23652</code_ogr>
+<libelle>Tourisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="13">
+<item_ab>
+<code_ogr>119817</code_ogr>
+<libelle>Concevoir la strat&#0233;gie marketing de l&#0039;entreprise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117327</code_ogr>
+<libelle>R&#0233;aliser un plan marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122304</code_ogr>
+<libelle>Optimiser le ciblage d&#0039;une campagne de marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118743</code_ogr>
+<libelle>Mettre en oeuvre une campagne promotionnelle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118742</code_ogr>
+<libelle>Concevoir la campagne promotionnelle d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121221</code_ogr>
+<libelle>Concevoir des supports de promotion des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122454</code_ogr>
+<libelle>R&#0233;aliser le bilan des actions marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120914</code_ogr>
+<libelle>Proposer des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119478</code_ogr>
+<libelle>Elaborer un budget</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109395</code_ogr>
+<libelle>Suivre un budget</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101311</code_ogr>
+<libelle>Assister les collaborateurs au niveau commercial et technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119330</code_ogr>
+<libelle>R&#0233;aliser la gestion des ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123182</code_ogr>
+<libelle>Animer une r&#0233;union</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="21">
+<item_ab_stp>
+<code_ogr>119719</code_ogr>
+<libelle>Marketing des r&#0233;seaux sociaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>115917</code_ogr>
+<libelle>Marketing digital</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120542</code_ogr>
+<libelle>Marketing mobile</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120541</code_ogr>
+<libelle>Marketing on line</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120606</code_ogr>
+<libelle>Webmarketing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121250</code_ogr>
+<libelle>Merchandising / Marchandisage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121691</code_ogr>
+<libelle>Typologie du client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104150</code_ogr>
+<libelle>Techniques de planification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100215</code_ogr>
+<libelle>Circuits de distribution commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119703</code_ogr>
+<libelle>Search Engine Marketing (SEM)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117224</code_ogr>
+<libelle>Outils de web analyse - web analytics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123797</code_ogr>
+<libelle>Outils de Business Intelligence (BI)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123361</code_ogr>
+<libelle>Outils de planification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="4">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>120587</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de marketing relationnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122299</code_ogr>
+<libelle>Elaborer une strat&#0233;gie de marketing digital</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121237</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de d&#0233;veloppement de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121238</code_ogr>
+<libelle>Participer &#0224; la d&#0233;finition d&#0039;une strat&#0233;gie de d&#0233;veloppement de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121206</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de d&#0233;veloppement de la marque employeur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120556</code_ogr>
+<libelle>&#0201;valuer l&#0039;impact d&#0039;une strat&#0233;gie marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>117687</code_ogr>
+<libelle>Marketing relationnel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>119270</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>120555</code_ogr>
+<libelle>Participer aux phases cr&#0233;atives d&#0039;un projet marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117698</code_ogr>
+<libelle>Concevoir des mod&#0232;les de d&#0233;tection des insights consommateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>120552</code_ogr>
+<libelle>Analyser les insights et les usages des consommateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122301</code_ogr>
+<libelle>Mesurer le Retour sur investissement (ROI) d&#0039;une action marketing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>115701</code_ogr>
+<libelle>Mener une campagne d&#0039;e-mailing</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>101400</code_ogr>
+<libelle>Econom&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115820</code_ogr>
+<libelle>Techniques de benchmarking</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115923</code_ogr>
+<libelle>Insights marketing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>120170</code_ogr>
+<libelle>Qualifier le potentiel des grands donateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>120169</code_ogr>
+<libelle>D&#0233;finir les cibles grands donateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122749</code_ogr>
+<libelle>Elaborer une strat&#0233;gie grands donateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121426</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de collecte de fonds</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123848</code_ogr>
+<libelle>Mettre en place une campagne de collecte de fonds</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121262</code_ogr>
+<libelle>Am&#0233;liorer le positionnement d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>113391</code_ogr>
+<libelle>Coordonner les op&#0233;rations marketing d&#0039;un site Internet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124447</code_ogr>
+<libelle>E-procurement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101859</code_ogr>
+<libelle>R&#0233;glementation du commerce &#0233;lectronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="6">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1103</code_rome_cible>
+<libelle_rome_cible>Communication</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1401</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement et promotion publicitaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1402</code_rome_cible>
+<libelle_rome_cible>&#0201;laboration de plan m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1403</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes et prospectives socio-&#0233;conomiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11908</code_appellation_cible>
+<libelle_appellation_cible>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en marketing</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1703</code_rome_cible>
+<libelle_rome_cible>Management et gestion de produit</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1707</code_rome_cible>
+<libelle_rome_cible>Strat&#0233;gie commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14197</code_appellation_cible>
+<libelle_appellation_cible>Directeur commercial / Directrice commerciale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

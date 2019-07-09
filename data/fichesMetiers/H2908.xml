@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2908</code_rome>
+<intitule>Modelage de mat&#0233;riaux non m&#0233;talliques</intitule>
+<code_ogr>285</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="22">
+<item_app>
+<code_ogr>12043</code_ogr>
+<libelle>Chef d&#0039;atelier de modelage</libelle>
+<libelle_court>Chef d&#0039;atelier de modelage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16376</code_ogr>
+<libelle>Maquettiste modeleur / modeleuse</libelle>
+<libelle_court>Maquettiste modeleur / modeleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16439</code_ogr>
+<libelle>Matriceur / Matriceuse en c&#0233;ramique</libelle>
+<libelle_court>Matriceur / Matriceuse en c&#0233;ramique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16691</code_ogr>
+<libelle>Modeleur / Modeleuse bois</libelle>
+<libelle_court>Modeleur / Modeleuse bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16692</code_ogr>
+<libelle>Modeleur / Modeleuse c&#0233;ramiste</libelle>
+<libelle_court>Modeleur / Modeleuse c&#0233;ramiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16693</code_ogr>
+<libelle>Modeleur / Modeleuse en c&#0233;ramique</libelle>
+<libelle_court>Modeleur / Modeleuse en c&#0233;ramique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16694</code_ogr>
+<libelle>Modeleur / Modeleuse en fonderie</libelle>
+<libelle_court>Modeleur / Modeleuse en fonderie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16696</code_ogr>
+<libelle>Modeleur / Modeleuse mati&#0232;res plastiques</libelle>
+<libelle_court>Modeleur / Modeleuse mati&#0232;res plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16697</code_ogr>
+<libelle>Modeleur / Modeleuse mouliste</libelle>
+<libelle_court>Modeleur / Modeleuse mouliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16698</code_ogr>
+<libelle>Modeleur / Modeleuse plaquiste</libelle>
+<libelle_court>Modeleur / Modeleuse plaquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16699</code_ogr>
+<libelle>Modeleur / Modeleuse r&#0233;sine</libelle>
+<libelle_court>Modeleur / Modeleuse r&#0233;sine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16703</code_ogr>
+<libelle>Modeleur / Modeleuse sur mat&#0233;riaux non m&#0233;talliques</libelle>
+<libelle_court>Modeleur / Modeleuse sur mat&#0233;riaux non m&#0233;talliques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16704</code_ogr>
+<libelle>Modeleur / Modeleuse sur pl&#0226;tre</libelle>
+<libelle_court>Modeleur / Modeleuse sur pl&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16705</code_ogr>
+<libelle>Modeleur / Modeleuse technique</libelle>
+<libelle_court>Modeleur / Modeleuse technique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16706</code_ogr>
+<libelle>Modeleur traditionnel / Modeleuse traditionnelle</libelle>
+<libelle_court>Modeleur traditionnel / Modeleuse traditionnelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16707</code_ogr>
+<libelle>Modeleur traditionnel / Modeleuse traditionnelle en c&#0233;ramique</libelle>
+<libelle_court>Modeleur traditionnel/Modeleuse traditionnelle en c&#0233;ramique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16928</code_ogr>
+<libelle>Mouliste en c&#0233;ramique</libelle>
+<libelle_court>Mouliste en c&#0233;ramique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16929</code_ogr>
+<libelle>Mouliste en mat&#0233;riaux composites</libelle>
+<libelle_court>Mouliste en mat&#0233;riaux composites</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16930</code_ogr>
+<libelle>Mouliste en mat&#0233;riaux non m&#0233;talliques</libelle>
+<libelle_court>Mouliste en mat&#0233;riaux non m&#0233;talliques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17001</code_ogr>
+<libelle>Noyauteur / Noyauteuse en c&#0233;ramique</libelle>
+<libelle_court>Noyauteur / Noyauteuse en c&#0233;ramique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17002</code_ogr>
+<libelle>Noyauteur / Noyauteuse main sur mat&#0233;riaux non m&#0233;talliques</libelle>
+<libelle_court>Noyauteur / Noyauteuse main sur mat&#0233;riaux non m&#0233;talliques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20204</code_ogr>
+<libelle>Technicien modeleur / Technicienne modeleuse</libelle>
+<libelle_court>Technicien modeleur / Technicienne modeleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise des outillages non m&#0233;talliques (mod&#0232;les, matrice, moules, ...) destin&#0233;s aux industries de moulage (fonderie, c&#0233;ramique, plasturgie, ...), selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production (qualit&#0233;, d&#0233;lais, ...).
+Peut cr&#0233;er des mod&#0232;les originaux, r&#0233;aliser des moules de s&#0233;rie et effectuer des essais de moules.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP/BEP &#0224; Bac professionnel en modelage, mise en forme des mat&#0233;riaux (r&#0233;alisation des outillages non m&#0233;talliques), ... ou avec une exp&#0233;rience professionnelle dans ces secteurs ou dans un m&#0233;tier manuel (m&#0233;canique, menuiserie, ...).
+Un BTS/DUT peut &#0234;tre demand&#0233; pour des activit&#0233;s de conception.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles ou artisanales de modelage, fonderie, moulage, ... en relation avec diff&#0233;rents services (bureau des m&#0233;thodes, bureau d&#0039;&#0233;tudes, production, service commercial, ...).
+Elle varie selon le secteur (c&#0233;ramique, plasturgie, ...) et le degr&#0233; d&#0039;automatisation du site.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; s&#0039;effectue en atelier, parfois en zone &#0224; temp&#0233;rature &#0233;lev&#0233;e.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (gants, ...) est exig&#0233;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="9">
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23502</code_ogr>
+<libelle>Fonderie, forge</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23529</code_ogr>
+<libelle>Industrie c&#0233;ramique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>106158</code_ogr>
+<libelle>D&#0233;terminer les phases de conception ou les op&#0233;rations de fa&#0231;onnage de l&#0039;outillage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116710</code_ogr>
+<libelle>Pr&#0233;parer le mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106160</code_ogr>
+<libelle>Reporter les cotes sur les mat&#0233;riaux, d&#0233;terminer les plans de joint, les lignes de d&#0233;pouille et effectuer les trac&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106161</code_ogr>
+<libelle>Former les mat&#0233;riaux par usinage, modelage, d&#0233;coupage, formage, sculpture, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106162</code_ogr>
+<libelle>Assembler et fixer les &#0233;l&#0233;ments selon l&#0039;ordre de montage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106163</code_ogr>
+<libelle>R&#0233;aliser un premier moule ou un moule-m&#0232;re &#0224; partir d&#0039;un mod&#0232;le par enterrage, coffrage, coulage de pl&#0226;tre, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106164</code_ogr>
+<libelle>Proc&#0233;der aux op&#0233;rations de finition sur les surfaces des mod&#0232;les, moules, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123624</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122960</code_ogr>
+<libelle>Poncer des supports</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="15">
+<item_ab_stp>
+<code_ogr>104905</code_ogr>
+<libelle>Utilisation de machine-outil</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119994</code_ogr>
+<libelle>Techniques d&#0039;enterrage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106170</code_ogr>
+<libelle>Techniques d&#0039;estampage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106171</code_ogr>
+<libelle>Caract&#0233;ristiques techniques des moules</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124757</code_ogr>
+<libelle>Fonte &#0224; la cire perdue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123432</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de stratification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106174</code_ogr>
+<libelle>Caract&#0233;ristiques des pl&#0226;tres de moulage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103070</code_ogr>
+<libelle>Lecture de plan, de sch&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106166</code_ogr>
+<libelle>Dosage de mat&#0233;riau (pl&#0226;tre, r&#0233;sine, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100506</code_ogr>
+<libelle>Utilisation d&#0039;outils &#0224; bois manuels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100507</code_ogr>
+<libelle>Utilisation d&#0039;outillages &#0233;lectroportatifs (scie &#0233;lectrique, ponceuse, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100800</code_ogr>
+<libelle>Techniques de collage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100819</code_ogr>
+<libelle>Techniques de polissage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106168</code_ogr>
+<libelle>Crit&#0232;res de d&#0233;moulage (d&#0233;pouilles, rayons, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121308</code_ogr>
+<libelle>Ponts roulants (CACES R 318)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>104937</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fabrication/d&#0039;usinage sur des machines-outils conventionnelles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104936</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fabrication/d&#0039;usinage sur des machines-outils &#0224; commandes num&#0233;riques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104932</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fabrication/d&#0039;usinage sur des centres d&#0039;usinage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106175</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fabrication/d&#0039;usinage sur des machines &#0224; bois traditionnelles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106176</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de fabrication/d&#0039;usinage sur des machines de prototypage rapide</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>105971</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en m&#0233;taux ferreux (fonte, acier, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106014</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en m&#0233;taux non ferreux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106177</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en bois</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105976</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en plastiques et composites</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106178</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux composites</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106054</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en c&#0233;ramique, min&#0233;raux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106179</code_ogr>
+<libelle>Intervenir sur des mat&#0233;riaux en cire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114810</code_ogr>
+<libelle>Appliquer des produits de protection ou de d&#0233;moulage sur des parties de moule, matrice</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114811</code_ogr>
+<libelle>R&#0233;aliser des moules de s&#0233;rie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>106181</code_ogr>
+<libelle>Techniques de coulage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106180</code_ogr>
+<libelle>Utilisation de banc de coulage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117366</code_ogr>
+<libelle>R&#0233;aliser des plans d&#0039;outillages non m&#0233;talliques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>100594</code_ogr>
+<libelle>Dessin industriel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119426</code_ogr>
+<libelle>Logiciels de Fabrication Assist&#0233;e par Ordinateur (FAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121331</code_ogr>
+<libelle>Concevoir des nouveaux produits ou mod&#0232;les</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121415</code_ogr>
+<libelle>Pr&#0233;senter des nouveaux produits ou mod&#0232;les</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100381</code_ogr>
+<libelle>Argumentation commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124888</code_ogr>
+<libelle>Entretenir des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114814</code_ogr>
+<libelle>R&#0233;parer, modifier ou transformer des outillages non m&#0233;talliques (mod&#0232;les, moule, matrice, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2910</code_rome_cible>
+<libelle_rome_cible>Moulage sable</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2903</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement d&#0039;usinage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3203</code_rome_cible>
+<libelle_rome_cible>Fabrication de pi&#0232;ces en mat&#0233;riaux composites</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

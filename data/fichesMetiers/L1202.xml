@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1202</code_rome>
+<intitule>Musique et chant</intitule>
+<code_ogr>439</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="66">
+<item_app>
+<code_ogr>38256</code_ogr>
+<libelle>Accord&#0233;oniste</libelle>
+<libelle_court>Accord&#0233;oniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38257</code_ogr>
+<libelle>Altiste</libelle>
+<libelle_court>Altiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11146</code_ogr>
+<libelle>Arrangeur musical / Arrangeuse musicale</libelle>
+<libelle_court>Arrangeur musical / Arrangeuse musicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11433</code_ogr>
+<libelle>Auteur-compositeur / Auteure-compositrice</libelle>
+<libelle_court>Auteur-compositeur / Auteure-compositrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11434</code_ogr>
+<libelle>Auteur-compositeur-interpr&#0232;te / Auteure-compositrice-interpr&#0232;te</libelle>
+<libelle_court>Auteur(e)-compositeur(trice)-interpr&#0232;te</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11435</code_ogr>
+<libelle>Auteur-interpr&#0232;te / Auteure-interpr&#0232;te</libelle>
+<libelle_court>Auteur-interpr&#0232;te / Auteure-interpr&#0232;te</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38258</code_ogr>
+<libelle>Bassiste</libelle>
+<libelle_court>Bassiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38259</code_ogr>
+<libelle>Bassoniste</libelle>
+<libelle_court>Bassoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38260</code_ogr>
+<libelle>Batteur / Batteuse</libelle>
+<libelle_court>Batteur / Batteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11733</code_ogr>
+<libelle>Chanteur / Chanteuse</libelle>
+<libelle_court>Chanteur / Chanteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38261</code_ogr>
+<libelle>Chanteur / Chanteuse de bals, soir&#0233;es priv&#0233;es</libelle>
+<libelle_court>Chanteur / Chanteuse de bals, soir&#0233;es priv&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38262</code_ogr>
+<libelle>Chanteur / Chanteuse de jazz et funk</libelle>
+<libelle_court>Chanteur / Chanteuse de jazz et funk</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38263</code_ogr>
+<libelle>Chanteur / Chanteuse de musique ethnique et traditionnelle</libelle>
+<libelle_court>Chanteur / Chanteuse de musique ethnique et traditionnelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38264</code_ogr>
+<libelle>Chanteur / Chanteuse de rap</libelle>
+<libelle_court>Chanteur / Chanteuse de rap</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38265</code_ogr>
+<libelle>Chanteur / Chanteuse de revue, music hall, com&#0233;die musicale</libelle>
+<libelle_court>Chanteur / Chanteuse de revue, music hall, com&#0233;die musicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38266</code_ogr>
+<libelle>Chanteur / Chanteuse de rock-pop</libelle>
+<libelle_court>Chanteur / Chanteuse de rock-pop</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11734</code_ogr>
+<libelle>Chanteur / Chanteuse de vari&#0233;t&#0233;s</libelle>
+<libelle_court>Chanteur / Chanteuse de vari&#0233;t&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11735</code_ogr>
+<libelle>Chanteur / Chanteuse lyrique</libelle>
+<libelle_court>Chanteur / Chanteuse lyrique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11736</code_ogr>
+<libelle>Chanteur / Chanteuse soliste</libelle>
+<libelle_court>Chanteur / Chanteuse soliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38270</code_ogr>
+<libelle>Chanteur lyrique baryton</libelle>
+<libelle_court>Chanteur lyrique baryton</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38271</code_ogr>
+<libelle>Chanteur lyrique basse</libelle>
+<libelle_court>Chanteur lyrique basse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38272</code_ogr>
+<libelle>Chanteur lyrique contre-t&#0233;nor</libelle>
+<libelle_court>Chanteur lyrique contre-t&#0233;nor</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38273</code_ogr>
+<libelle>Chanteur lyrique t&#0233;nor</libelle>
+<libelle_court>Chanteur lyrique t&#0233;nor</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38267</code_ogr>
+<libelle>Chanteuse lyrique alto contre-alto</libelle>
+<libelle_court>Chanteuse lyrique alto contre-alto</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38268</code_ogr>
+<libelle>Chanteuse lyrique mezzo-soprano</libelle>
+<libelle_court>Chanteuse lyrique mezzo-soprano</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38269</code_ogr>
+<libelle>Chanteuse lyrique soprano</libelle>
+<libelle_court>Chanteuse lyrique soprano</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12089</code_ogr>
+<libelle>Chef de chant</libelle>
+<libelle_court>Chef de chant</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12105</code_ogr>
+<libelle>Chef de choeur</libelle>
+<libelle_court>Chef de choeur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12529</code_ogr>
+<libelle>Chef d&#0039;orchestre</libelle>
+<libelle_court>Chef d&#0039;orchestre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12634</code_ogr>
+<libelle>Choriste</libelle>
+<libelle_court>Choriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38274</code_ogr>
+<libelle>Clarinettiste</libelle>
+<libelle_court>Clarinettiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38275</code_ogr>
+<libelle>Claveciniste</libelle>
+<libelle_court>Claveciniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12783</code_ogr>
+<libelle>Compositeur / Compositrice</libelle>
+<libelle_court>Compositeur / Compositrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38276</code_ogr>
+<libelle>Contre bassoniste</libelle>
+<libelle_court>Contre bassoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38277</code_ogr>
+<libelle>Contrebassiste</libelle>
+<libelle_court>Contrebassiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38278</code_ogr>
+<libelle>Corniste</libelle>
+<libelle_court>Corniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14192</code_ogr>
+<libelle>Directeur / Directrice artistique musique</libelle>
+<libelle_court>Directeur / Directrice artistique musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14363</code_ogr>
+<libelle>Directeur / Directrice des choeurs</libelle>
+<libelle_court>Directeur / Directrice des choeurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38279</code_ogr>
+<libelle>Fl&#0251;tiste</libelle>
+<libelle_court>Fl&#0251;tiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38280</code_ogr>
+<libelle>Guitariste</libelle>
+<libelle_court>Guitariste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38281</code_ogr>
+<libelle>Harmoniciste</libelle>
+<libelle_court>Harmoniciste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38282</code_ogr>
+<libelle>Harpiste</libelle>
+<libelle_court>Harpiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38283</code_ogr>
+<libelle>Hautbo&#0239;ste</libelle>
+<libelle_court>Hautbo&#0239;ste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38284</code_ogr>
+<libelle>Joueur / Joueuse de synth&#0233;tiseur</libelle>
+<libelle_court>Joueur / Joueuse de synth&#0233;tiseur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38285</code_ogr>
+<libelle>Joueur / Joueuse d&#0039;instrument ethnique ou traditionnel</libelle>
+<libelle_court>Joueur / Joueuse d&#0039;instrument ethnique ou traditionnel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16935</code_ogr>
+<libelle>Musicien / Musicienne</libelle>
+<libelle_court>Musicien / Musicienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16936</code_ogr>
+<libelle>Musicien / Musicienne de vari&#0233;t&#0233;s</libelle>
+<libelle_court>Musicien / Musicienne de vari&#0233;t&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16937</code_ogr>
+<libelle>Musicien / Musicienne d&#0039;orchestre</libelle>
+<libelle_court>Musicien / Musicienne d&#0039;orchestre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16022</code_ogr>
+<libelle>Musicien / Musicienne instrumentiste</libelle>
+<libelle_court>Musicien / Musicienne instrumentiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38286</code_ogr>
+<libelle>Musicien / Musicienne Musique Assist&#0233;e par Ordinateur - MAO -</libelle>
+<libelle_court>Musicien / Musicienne Musique Assist&#0233;e par Ordinateur - MAO</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16939</code_ogr>
+<libelle>Musicien / Musicienne soliste</libelle>
+<libelle_court>Musicien / Musicienne soliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16940</code_ogr>
+<libelle>Musicien-accompagnateur / Musicienne-accompagnatrice</libelle>
+<libelle_court>Musicien-accompagnateur / Musicienne-accompagnatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17356</code_ogr>
+<libelle>Orchestrateur / Orchestratrice</libelle>
+<libelle_court>Orchestrateur / Orchestratrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38287</code_ogr>
+<libelle>Organiste</libelle>
+<libelle_court>Organiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38288</code_ogr>
+<libelle>Percussionniste</libelle>
+<libelle_court>Percussionniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38289</code_ogr>
+<libelle>Pianiste</libelle>
+<libelle_court>Pianiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18409</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse des choeurs</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse des choeurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18419</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse d&#0039;orchestre</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse d&#0039;orchestre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38290</code_ogr>
+<libelle>Saxophoniste</libelle>
+<libelle_court>Saxophoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38291</code_ogr>
+<libelle>Timbalier / Timbali&#0232;re</libelle>
+<libelle_court>Timbalier / Timbali&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38292</code_ogr>
+<libelle>Tromboniste</libelle>
+<libelle_court>Tromboniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38293</code_ogr>
+<libelle>Trompettiste</libelle>
+<libelle_court>Trompettiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38294</code_ogr>
+<libelle>Tubiste / Contre tubiste</libelle>
+<libelle_court>Tubiste / Contre tubiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38295</code_ogr>
+<libelle>Violoncelliste</libelle>
+<libelle_court>Violoncelliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38296</code_ogr>
+<libelle>Violoniste</libelle>
+<libelle_court>Violoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38297</code_ogr>
+<libelle>Xylophoniste</libelle>
+<libelle_court>Xylophoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Interpr&#0232;te vocalement et instrumentalement des oeuvres musicales (symphonies, concerto, chansons, ...) lors de repr&#0233;sentations (concerts, op&#0233;ra, com&#0233;dies musicales, festivals, bals, ...), d&#0039;enregistrements (radio, t&#0233;l&#0233;vision, ...), selon les imp&#0233;ratifs de tournage, de programmation.
+Peut composer les paroles, la m&#0233;lodie d&#0039;une oeuvre musicale.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec une formation en musique et/ou en chant (conservatoires, &#0233;coles de musique, ...), compl&#0233;t&#0233;e par une exp&#0233;rience professionnelle dans ces secteurs.
+La pratique r&#0233;guli&#0232;re de la musique et/ou du chant est indispensable.
+Des d&#0233;marches actives (auditions) sont n&#0233;cessaires pour l&#0039;obtention de contrats.
+Les recrutements sont g&#0233;n&#0233;ralement ouverts sur contrats de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, parfois sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e ou sur concours pour certaines structures (orchestre r&#0233;gional, orchestres subventionn&#0233;s par l&#0039;Etat ou appartenant aux Arm&#0233;es, ...).
+Une bonne acuit&#0233; auditive est recommand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;orchestres, de conservatoires, de groupes de musique, en solo, sur des lieux de spectacle, de tournage, en studio (radio, enregistrement, ...) en relation avec diff&#0233;rents intervenants (techniciens son, lumi&#0232;re, producteur de musique, tourneur, ...).
+Elle peut impliquer des d&#0233;placements (tourn&#0233;es, ...) et un &#0233;loignement du domicile de plusieurs jours ou semaines.
+L&#0039;activit&#0233; est soumise au rythme de la programmation des spectacles et des enregistrements.
+La r&#0233;mun&#0233;ration est g&#0233;n&#0233;ralement constitu&#0233;e d&#0039;un cachet et peut &#0234;tre compl&#0233;t&#0233;e par une r&#0233;tribution au titre des droits d&#0039;auteur.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="15">
+<item_env>
+<code_ogr>23708</code_ogr>
+<libelle>Association culturelle ou de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23737</code_ogr>
+<libelle>Cabaret</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23854</code_ogr>
+<libelle>Ecole d&#0039;enseignement artistique et conservatoire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23905</code_ogr>
+<libelle>Entreprise d&#0039;&#0233;dition phonographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24012</code_ogr>
+<libelle>Orchestre</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24060</code_ogr>
+<libelle>Salle polyvalente, salle des f&#0234;tes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23606</code_ogr>
+<libelle>Radio</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23648</code_ogr>
+<libelle>T&#0233;l&#0233;vision</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>119833</code_ogr>
+<libelle>D&#0233;finir les conditions d&#0039;un tour de chant / concert</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124734</code_ogr>
+<libelle>Pratiquer des exercices instrumentaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124733</code_ogr>
+<libelle>Pratiquer des exercices vocaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124736</code_ogr>
+<libelle>R&#0233;p&#0233;ter une oeuvre musicale pour une repr&#0233;sentation ou un enregistrement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124731</code_ogr>
+<libelle>Modifier la mise en sc&#0232;ne d&#0039;une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124730</code_ogr>
+<libelle>Modifier l&#0039;interpr&#0233;tation d&#0039;une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117848</code_ogr>
+<libelle>Interpr&#0233;ter une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124013</code_ogr>
+<libelle>Reproduire une m&#0233;lodie/musique apr&#0232;s &#0233;coute</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124706</code_ogr>
+<libelle>Adapter le programme d&#0039;un tour de chant / concert</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="16">
+<item_ab_stp>
+<code_ogr>124016</code_ogr>
+<libelle>Pratique du chant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108990</code_ogr>
+<libelle>Solf&#0232;ge</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108417</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres classiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123975</code_ogr>
+<libelle>Art dramatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102144</code_ogr>
+<libelle>Appr&#0233;ciation auditive</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108984</code_ogr>
+<libelle>Placement de voix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108418</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres contemporaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107554</code_ogr>
+<libelle>Techniques respiratoires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108960</code_ogr>
+<libelle>Techniques d&#0039;interpr&#0233;tation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108957</code_ogr>
+<libelle>Principes de mise en sc&#0232;ne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108989</code_ogr>
+<libelle>Rythmique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102481</code_ogr>
+<libelle>Techniques de m&#0233;morisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100799</code_ogr>
+<libelle>Histoire de la musique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107550</code_ogr>
+<libelle>Techniques d&#0039;&#0233;chauffement de la voix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108932</code_ogr>
+<libelle>Techniques de diction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126227</code_ogr>
+<libelle>Pratiquer un instrument de musique sp&#0233;cifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="26">
+<item_as_stp>
+<code_ogr>117800</code_ogr>
+<libelle>Pratique de l&#0039;accord&#0233;on</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117808</code_ogr>
+<libelle>Pratique du basson</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117801</code_ogr>
+<libelle>Pratique de la batterie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117802</code_ogr>
+<libelle>Pratique de la clarinette</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119153</code_ogr>
+<libelle>Pratique du clavecin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117810</code_ogr>
+<libelle>Pratique du clavier (instrument de musique)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117803</code_ogr>
+<libelle>Pratique de la contrebasse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126515</code_ogr>
+<libelle>Pratique du cor</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117853</code_ogr>
+<libelle>Pratique du cornet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117811</code_ogr>
+<libelle>Pratique du djembe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117804</code_ogr>
+<libelle>Pratique de la fl&#0251;te</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117805</code_ogr>
+<libelle>Pratique de la guitare, basse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117806</code_ogr>
+<libelle>Pratique de la harpe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117812</code_ogr>
+<libelle>Pratique du hautbois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124017</code_ogr>
+<libelle>Pratique d&#0039;instruments de musique traditionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119154</code_ogr>
+<libelle>Pratique de l&#0039;orgue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117822</code_ogr>
+<libelle>Pratique des percussions, timbales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117813</code_ogr>
+<libelle>Pratique du piano</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117814</code_ogr>
+<libelle>Pratique du saxophone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117815</code_ogr>
+<libelle>Pratique du synth&#0233;tiseur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117816</code_ogr>
+<libelle>Pratique du trombone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117807</code_ogr>
+<libelle>Pratique de la trompette</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117817</code_ogr>
+<libelle>Pratique du tuba</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117819</code_ogr>
+<libelle>Pratique du violoncelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117818</code_ogr>
+<libelle>Pratique du violon, alto</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117820</code_ogr>
+<libelle>Pratique du xylophone, vibraphone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126533</code_ogr>
+<libelle>Interpr&#0233;ter une oeuvre musicale selon un r&#0233;pertoire sp&#0233;cifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="10">
+<item_as_stp>
+<code_ogr>117837</code_ogr>
+<libelle>R&#0233;pertoire de musique classique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117842</code_ogr>
+<libelle>R&#0233;pertoire de musiques hard/m&#0233;tal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117843</code_ogr>
+<libelle>R&#0233;pertoire de musiques jazz/blues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117839</code_ogr>
+<libelle>R&#0233;pertoire de musiques &#0233;lectroniques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117840</code_ogr>
+<libelle>R&#0233;pertoire de musiques du monde et traditionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117838</code_ogr>
+<libelle>R&#0233;pertoire de musique d&#0039;op&#0233;ra</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117844</code_ogr>
+<libelle>R&#0233;pertoire de musiques pop/rock</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117845</code_ogr>
+<libelle>R&#0233;pertoire de musiques rap/RnB/soul</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117846</code_ogr>
+<libelle>R&#0233;pertoire de musiques reggae</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117841</code_ogr>
+<libelle>R&#0233;pertoire de musiques de vari&#0233;t&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126534</code_ogr>
+<libelle>Interpr&#0233;ter vocalement une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="6">
+<item_as_stp>
+<code_ogr>126369</code_ogr>
+<libelle>Pratique de chant: tessiture baryton</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126159</code_ogr>
+<libelle>Pratique de chant: tessiture basse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126309</code_ogr>
+<libelle>Pratique de chant: tessiture t&#0233;nor</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126250</code_ogr>
+<libelle>Pratique de chant: tessiture contralto ou alto</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126068</code_ogr>
+<libelle>Pratique de chant: tessiture mezzo-soprano</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126310</code_ogr>
+<libelle>Pratique de chant: tessiture soprano</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117856</code_ogr>
+<libelle>Interpr&#0233;ter une oeuvre musicale en solo</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124726</code_ogr>
+<libelle>Identifier les caract&#0233;ristiques d&#0039;une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119823</code_ogr>
+<libelle>Composer la partition d&#0039;une oeuvre musicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119519</code_ogr>
+<libelle>Musique Assist&#0233;e par Ordinateur (MAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109034</code_ogr>
+<libelle>Transposition de partition</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125218</code_ogr>
+<libelle>&#0201;crire les paroles d&#0039;une chanson</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>126207</code_ogr>
+<libelle>Pratique d&#0039;un instrument de musique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124700</code_ogr>
+<libelle>Accorder un instrument de musique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124711</code_ogr>
+<libelle>Diriger un orchestre ou un choeur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109035</code_ogr>
+<libelle>Gestuelle de direction d&#0039;orchestre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124724</code_ogr>
+<libelle>G&#0233;rer la logistique d&#0039;un ensemble instrumental ou vocal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124725</code_ogr>
+<libelle>G&#0233;rer l&#0039;encadrement d&#0039;un ensemble instrumental ou vocal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1202</code_rome_cible>
+<libelle_rome_cible>Animation d&#0039;activit&#0233;s culturelles ou ludiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>11733</code_appellation_source>
+<libelle_appellation_source>Chanteur / Chanteuse</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>38261</code_appellation_source>
+<libelle_appellation_source>Chanteur / Chanteuse de bals, soir&#0233;es priv&#0233;es</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>11734</code_appellation_source>
+<libelle_appellation_source>Chanteur / Chanteuse de vari&#0233;t&#0233;s</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>16935</code_appellation_source>
+<libelle_appellation_source>Musicien / Musicienne</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>16936</code_appellation_source>
+<libelle_appellation_source>Musicien / Musicienne de vari&#0233;t&#0233;s</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1101</code_rome_cible>
+<libelle_rome_cible>Animation musicale et sc&#0233;nique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11032</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>11033</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es priv&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>11032</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>11033</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es priv&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>11032</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>11033</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es priv&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>11032</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>11033</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es priv&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>11032</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>11033</code_appellation_cible>
+<libelle_appellation_cible>Animateur / Animatrice de soir&#0233;es priv&#0233;es</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2103</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;&#0233;tablissement et d&#0039;enseignement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14246</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice de conservatoire musique et danse</libelle_appellation_cible>
+<code_appellation_cible>14342</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice d&#0039;&#0233;cole de musique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2105</code_rome_cible>
+<libelle_rome_cible>Enseignement artistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18116</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure de chant</libelle_appellation_cible>
+<code_appellation_cible>18137</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure de piano</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2106</code_rome_cible>
+<libelle_rome_cible>Enseignement des &#0233;coles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16306</code_appellation_cible>
+<libelle_appellation_cible>Ma&#0238;tre d&#0233;l&#0233;gu&#0233; / Ma&#0238;tresse d&#0233;l&#0233;gu&#0233;e pour l&#0039;enseignement de la musique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2107</code_rome_cible>
+<libelle_rome_cible>Enseignement g&#0233;n&#0233;ral du second degr&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18149</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure d&#0039;&#0233;ducation musicale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1203</code_rome_cible>
+<libelle_rome_cible>Art dramatique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1303</code_rome_cible>
+<libelle_rome_cible>Promotion d&#0039;artistes et de spectacles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

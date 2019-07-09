@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>N4105</code_rome>
+<intitule>Conduite et livraison par tourn&#0233;es sur courte distance</intitule>
+<code_ogr>527</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="22">
+<item_app>
+<code_ogr>10877</code_ogr>
+<libelle>Aide-livreur / Aide-livreuse</libelle>
+<libelle_court>Aide-livreur / Aide-livreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11998</code_ogr>
+<libelle>Chauffeur-jockey / Chauffeuse-jockey</libelle>
+<libelle_court>Chauffeur-jockey / Chauffeuse-jockey</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11999</code_ogr>
+<libelle>Chauffeur-livreur / Chauffeuse-livreuse</libelle>
+<libelle_court>Chauffeur-livreur / Chauffeuse-livreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12000</code_ogr>
+<libelle>Chauffeur-livreur pr&#0233;parateur / Chauffeuse-livreuse pr&#0233;paratrice de commande</libelle>
+<libelle_court>Chauffeur(se)-livreur(se) pr&#0233;parateur(trice) de commande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12001</code_ogr>
+<libelle>Chauffeur-magasinier / Chauffeuse-magasini&#0232;re</libelle>
+<libelle_court>Chauffeur-magasinier / Chauffeuse-magasini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12887</code_ogr>
+<libelle>Conducteur / Conductrice de benne &#0224; ordures</libelle>
+<libelle_court>Conducteur / Conductrice de benne &#0224; ordures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13294</code_ogr>
+<libelle>Conducteur / Conductrice enl&#0232;vement de d&#0233;chets</libelle>
+<libelle_court>Conducteur / Conductrice enl&#0232;vement de d&#0233;chets</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12859</code_ogr>
+<libelle>Conducteur collecteur / Conductrice collectrice de lait</libelle>
+<libelle_court>Conducteur collecteur / Conductrice collectrice de lait</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12860</code_ogr>
+<libelle>Conducteur convoyeur / Conductrice convoyeuse de v&#0233;hicule</libelle>
+<libelle_court>Conducteur convoyeur / Conductrice convoyeuse de v&#0233;hicule</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13303</code_ogr>
+<libelle>Conducteur livreur / Conductrice livreuse de b&#0233;ton pr&#0234;t &#0224; l&#0039;emploi</libelle>
+<libelle_court>Conducteur(trice) livreur(se) de b&#0233;ton pr&#0234;t &#0224; l&#0039;emploi</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13305</code_ogr>
+<libelle>Conducteur livreur / Conductrice livreuse messagerie</libelle>
+<libelle_court>Conducteur livreur / Conductrice livreuse messagerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13306</code_ogr>
+<libelle>Conducteur livreur / Conductrice livreuse poids lourds</libelle>
+<libelle_court>Conducteur livreur / Conductrice livreuse poids lourds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13302</code_ogr>
+<libelle>Conducteur livreur avitailleur / Conductrice livreuse avitailleuse en carburant</libelle>
+<libelle_court>Conducteur(trice) livreur(se) avitailleur(se) en carburant</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13304</code_ogr>
+<libelle>Conducteur livreur installateur / Conductrice livreuse installatrice</libelle>
+<libelle_court>Conducteur(trice) livreur(se) installateur(trice)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13336</code_ogr>
+<libelle>Conducteur-livreur / Conductrice-livreuse</libelle>
+<libelle_court>Conducteur-livreur / Conductrice-livreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13337</code_ogr>
+<libelle>Conducteur-livreur / Conductrice-livreuse de marchandises</libelle>
+<libelle_court>Conducteur-livreur / Conductrice-livreuse de marchandises</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16204</code_ogr>
+<libelle>Livreur / Livreuse</libelle>
+<libelle_court>Livreur / Livreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16205</code_ogr>
+<libelle>Livreur / Livreuse de marchandises &#0224; domicile</libelle>
+<libelle_court>Livreur / Livreuse de marchandises &#0224; domicile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16206</code_ogr>
+<libelle>Livreur / Livreuse de plats cuisin&#0233;s</libelle>
+<libelle_court>Livreur / Livreuse de plats cuisin&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16208</code_ogr>
+<libelle>Livreur / Livreuse en alimentation</libelle>
+<libelle_court>Livreur / Livreuse en alimentation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16207</code_ogr>
+<libelle>Livreur distributeur / Livreuse distributrice de repas</libelle>
+<libelle_court>Livreur distributeur / Livreuse distributrice de repas</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16209</code_ogr>
+<libelle>Livreur-vendeur / Livreuse-vendeuse</libelle>
+<libelle_court>Livreur-vendeur / Livreuse-vendeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Livre ou enl&#0232;ve des marchandises, colis, mat&#0233;riaux, d&#0233;chets, ... &#0224; partir d&#0039;une tourn&#0233;e pr&#0233;d&#0233;finie et sur un p&#0233;rim&#0232;tre g&#0233;ographique restreint.
+Effectue le circuit de livraison au moyen d&#0039;un v&#0233;hicule l&#0233;ger ou d&#0039;un v&#0233;hicule poids lourd selon la r&#0233;glementation du transport routier et les imp&#0233;ratifs de satisfaction de la client&#0232;le (d&#0233;lais, qualit&#0233;, ...).
+R&#0233;alise les op&#0233;rations li&#0233;es &#0224; la livraison (parcours, chargement/d&#0233;chargement des marchandises, &#0233;margement des documents de livraison, ...).
+Peut effectuer des interventions sp&#0233;cifiques (pr&#0233;paration de commandes, montage de meubles, encaissement, portage de repas, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="6">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle. Un CAP/BEP (livreur, conduite routi&#0232;re, ...) peut en faciliter l&#0039;acc&#0232;s.
+Le permis B ou BE (pr&#0233;c&#0233;demment EB) est exig&#0233; pour la conduite de v&#0233;hicule l&#0233;ger.
+Les permis C, C1, CE, C1E (pr&#0233;c&#0233;demment C ou EC) compl&#0233;t&#0233;s par la Formation Initiale Minimum Obligatoire -FIMO- sont exig&#0233;s pour la conduite de v&#0233;hicules poids lourd (PTAC&#0062; &#0224; 3,5T). Un renouvellement p&#0233;riodique de la FIMO par la Formation Continue Obligatoire -FCO- est exig&#0233;.
+Une carte chronotachygraphe est obligatoire pour la conduite de v&#0233;hicules de transport de marchandises de plus de 3,5 tonnes.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite en S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+Des habilitations sp&#0233;cifiques (certificats de formation ADR) peuvent &#0234;tre requises selon les produits transport&#0233;s (produits p&#0233;troliers, radioactifs, ...) d&#0233;finis par un code ONU.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce pour le compte d&#0039;entreprises de transport, messagerie, b&#0226;timent, distribution, location de v&#0233;hicules,... en relation avec diff&#0233;rents services ou interlocuteurs (service exploitation et d&#0233;p&#0244;t, service commercial, clients, ...).
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, fractionn&#0233;s, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; s&#0039;effectue en zone de trafic (arr&#0234;ts fr&#0233;quents, stationnement urbain, ...) et peut impliquer la manutention de charges lourdes et encombrantes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="24">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23725</code_ogr>
+<libelle>Boutique, commerce de d&#0233;tail</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23877</code_ogr>
+<libelle>Entreprise de forage/extraction</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23900</code_ogr>
+<libelle>Entreprise de transport/messagerie/groupage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23969</code_ogr>
+<libelle>Industrie manufacturi&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23394</code_ogr>
+<libelle>Agriculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23399</code_ogr>
+<libelle>Aquaculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23444</code_ogr>
+<libelle>Commerce de gros</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23445</code_ogr>
+<libelle>Commerce/grande distribution</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23501</code_ogr>
+<libelle>Finance</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23519</code_ogr>
+<libelle>H&#0244;tellerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23523</code_ogr>
+<libelle>Immobilier</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23577</code_ogr>
+<libelle>P&#0234;che</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23622</code_ogr>
+<libelle>Restauration</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23625</code_ogr>
+<libelle>Sant&#0233; et action sociale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>124794</code_ogr>
+<libelle>V&#0233;rifier des documents de livraison</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124795</code_ogr>
+<libelle>D&#0233;finir un itin&#0233;raire en fonction des consignes de livraison</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119849</code_ogr>
+<libelle>Charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125102</code_ogr>
+<libelle>Livrer une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119847</code_ogr>
+<libelle>Actualiser les donn&#0233;es de suivi de la livraison ou de l&#0039;enl&#0232;vement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116663</code_ogr>
+<libelle>R&#0233;aliser l&#0039;entretien du mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="15">
+<item_ab_stp>
+<code_ogr>121418</code_ogr>
+<libelle>M&#0233;thodes de plan de tourn&#0233;e</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100341</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;encaissement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119260</code_ogr>
+<libelle>Maintenance de premier niveau</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121002</code_ogr>
+<libelle>Maintenance de v&#0233;hicules</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109486</code_ogr>
+<libelle>Lecture de plan urbain</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120372</code_ogr>
+<libelle>Utilisation de mat&#0233;riel de navigation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100089</code_ogr>
+<libelle>Techniques d&#0039;inventaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119055</code_ogr>
+<libelle>Caract&#0233;ristiques du chronotachygraphe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101343</code_ogr>
+<libelle>Principes de la relation client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104084</code_ogr>
+<libelle>R&#0233;glementation du transport de marchandises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101829</code_ogr>
+<libelle>Utilisation d&#0039;engins de manutention non motoris&#0233;s (transpalette, diable, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110020</code_ogr>
+<libelle>Techniques d&#0039;arrimage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110034</code_ogr>
+<libelle>Modalit&#0233;s de chargement/d&#0233;chargement de marchandises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110028</code_ogr>
+<libelle>Lecture de carte routi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="12">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>110560</code_ogr>
+<libelle>Conduire un v&#0233;hicule n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120409</code_ogr>
+<libelle>Formation Initiale Minimum Obligatoire (FIMO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123723</code_ogr>
+<libelle>Formation Continue Obligatoire (FCO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120393</code_ogr>
+<libelle>R&#0233;aliser des d&#0233;placements de produits dangereux n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="8">
+<item_as_stp>
+<code_ogr>120394</code_ogr>
+<libelle>Certificat de formation ADR - Formation de base (mati&#0232;res ou liquides dangereux)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120395</code_ogr>
+<libelle>Certificat de formation ADR Citerne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120420</code_ogr>
+<libelle>Certificat de formation ADR - Citerne &#0233;tendue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120396</code_ogr>
+<libelle>Certificat de formation ADR Citerne gaz</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120399</code_ogr>
+<libelle>Certificat de formation ADR sp&#0233;cialisation classe 1 (explosibles)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120421</code_ogr>
+<libelle>Certificat de formation ADR - Sp&#0233;cialisation classe 7 (mati&#0232;res radioactives)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120397</code_ogr>
+<libelle>Certificat de formation ADR sp&#0233;cialisation GPL</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120398</code_ogr>
+<libelle>Certificat de formation ADR sp&#0233;cialisation produits p&#0233;troliers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123697</code_ogr>
+<libelle>Chariots tracteurs et &#0224; plateau porteur de capacit&#0233; inf&#0233;rieure &#0224; 6 000 kg (CACES R 389-2)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123721</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs &#0224; m&#0226;t r&#0233;tractable (CACES R 389-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123722</code_ogr>
+<libelle>D&#0233;placement, chargement, transfert de chariots sans activit&#0233; de production (CACES R 389-6)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120408</code_ogr>
+<libelle>Grues auxiliaires de chargement de v&#0233;hicules (CACES R 390)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="8">
+<item_as>
+<code_ogr>110561</code_ogr>
+<libelle>Conduire un v&#0233;hicule de moins de 3,5 t et moins de 14 m3</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120419</code_ogr>
+<libelle>Conduire un v&#0233;hicule frigorifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120388</code_ogr>
+<libelle>Conduire un camion toupie b&#0233;ton</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110562</code_ogr>
+<libelle>Conduire un v&#0233;hicule de moins de 3,5 t et plus de 14 m3</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110563</code_ogr>
+<libelle>Conduire un v&#0233;hicule poids lourds de moins de 7,5 t</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110564</code_ogr>
+<libelle>Conduire un v&#0233;hicule poids lourds de plus de 7,5 t</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110565</code_ogr>
+<libelle>Conduire un v&#0233;hicule citerne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110567</code_ogr>
+<libelle>Conduire un camion benne &#0224; ordures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>110568</code_ogr>
+<libelle>Proc&#0233;der &#0224; l&#0039;avitaillement en carburant d&#0039;un avion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110569</code_ogr>
+<libelle>Proc&#0233;der &#0224; l&#0039;avitaillement en carburant d&#0039;un navire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110570</code_ogr>
+<libelle>Proc&#0233;der &#0224; l&#0039;avitaillement en carburant d&#0039;une p&#0233;niche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107019</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;avitaillement carburant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115636</code_ogr>
+<libelle>Livrer des plateaux-repas &#0224; domicile</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121181</code_ogr>
+<libelle>Installer des &#0233;quipements &#0233;lectroniques et &#0233;lectrom&#0233;nagers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125109</code_ogr>
+<libelle>Monter du mobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121646</code_ogr>
+<libelle>Enregistrer les donn&#0233;es d&#0039;une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121937</code_ogr>
+<libelle>Pr&#0233;senter les caract&#0233;ristiques d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100381</code_ogr>
+<libelle>Argumentation commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115640</code_ogr>
+<libelle>D&#0233;placer et ranger des v&#0233;hicules dans un parc d&#0039;entreposage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121703</code_ogr>
+<libelle>R&#0233;aliser des &#0233;chantillons tests</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122865</code_ogr>
+<libelle>R&#0233;aliser la collecte de lait</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100359</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et de s&#0233;curit&#0233; alimentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113751</code_ogr>
+<libelle>Conduire un v&#0233;hicule particulier vers son lieu de livraison ou d&#0039;enl&#0232;vement (convoyage inter-sites, rapatriement)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>12</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125495</code_ogr>
+<libelle>Evacuer des d&#0233;chets recyclables</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124569</code_ogr>
+<libelle>Evacuer des d&#0233;chets courants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106413</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;&#0233;vacuation des d&#0233;chets</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="9">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1702</code_rome_cible>
+<libelle_rome_cible>Personnel du hall</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20717</code_appellation_cible>
+<libelle_appellation_cible>Voiturier / Voituri&#0232;re</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1202</code_rome_cible>
+<libelle_rome_cible>Entretien et surveillance du trac&#0233; routier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>17596</code_appellation_cible>
+<libelle_appellation_cible>Patrouilleur autoroutier / Patrouilleuse autorouti&#0232;re</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2303</code_rome_cible>
+<libelle_rome_cible>Nettoyage des espaces urbains</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13243</code_appellation_cible>
+<libelle_appellation_cible>Conducteur / Conductrice d&#0039;engins l&#0233;gers de nettoiement</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2503</code_rome_cible>
+<libelle_rome_cible>S&#0233;curit&#0233; et surveillance priv&#0233;es</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13670</code_appellation_cible>
+<libelle_appellation_cible>Convoyeur / Convoyeuse de fonds</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1102</code_rome_cible>
+<libelle_rome_cible>D&#0233;m&#0233;nagement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1103</code_rome_cible>
+<libelle_rome_cible>Magasinage et pr&#0233;paration de commandes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4101</code_rome_cible>
+<libelle_rome_cible>Conduite de transport de marchandises sur longue distance</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4102</code_rome_cible>
+<libelle_rome_cible>Conduite de transport de particuliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4104</code_rome_cible>
+<libelle_rome_cible>Courses et livraisons express</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="7">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1204</code_rome_cible>
+<libelle_rome_cible>Location de v&#0233;hicules ou de mat&#0233;riel de loisirs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1404</code_rome_cible>
+<libelle_rome_cible>Relation commerciale en vente de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1303</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance de distributeurs automatiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1305</code_rome_cible>
+<libelle_rome_cible>Conduite de v&#0233;hicules sanitaires</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2110</code_rome_cible>
+<libelle_rome_cible>Formation en conduite de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4103</code_rome_cible>
+<libelle_rome_cible>Conduite de transport en commun sur route</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4203</code_rome_cible>
+<libelle_rome_cible>Intervention technique d&#0039;exploitation des transports routiers de marchandises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

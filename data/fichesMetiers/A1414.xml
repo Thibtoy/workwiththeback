@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1414</code_rome>
+<intitule>Horticulture et mara&#0238;chage</intitule>
+<code_ogr>28</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="52">
+<item_app>
+<code_ogr>11166</code_ogr>
+<libelle>Aspigiculteur / Aspigicultrice</libelle>
+<libelle_court>Aspigiculteur / Aspigicultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11608</code_ogr>
+<libelle>Bulbiculteur / Bulbicultrice</libelle>
+<libelle_court>Bulbiculteur / Bulbicultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11731</code_ogr>
+<libelle>Champignonniste</libelle>
+<libelle_court>Champignonniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12114</code_ogr>
+<libelle>Chef de culture champignonniste</libelle>
+<libelle_court>Chef de culture champignonniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12115</code_ogr>
+<libelle>Chef de culture en exploitation mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Chef de culture en exploitation mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12116</code_ogr>
+<libelle>Chef de culture floriculture</libelle>
+<libelle_court>Chef de culture floriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12117</code_ogr>
+<libelle>Chef de culture horticole</libelle>
+<libelle_court>Chef de culture horticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12118</code_ogr>
+<libelle>Chef de culture mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Chef de culture mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12119</code_ogr>
+<libelle>Chef de culture p&#0233;pini&#0232;re</libelle>
+<libelle_court>Chef de culture p&#0233;pini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38774</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe en production mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe en production mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12520</code_ogr>
+<libelle>Chef d&#0039;exploitation en mara&#0238;chage-horticulture</libelle>
+<libelle_court>Chef d&#0039;exploitation en mara&#0238;chage-horticulture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13216</code_ogr>
+<libelle>Conducteur / Conductrice de travaux horticoles</libelle>
+<libelle_court>Conducteur / Conductrice de travaux horticoles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13846</code_ogr>
+<libelle>Cressiculteur / Cressicultrice</libelle>
+<libelle_court>Cressiculteur / Cressicultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13874</code_ogr>
+<libelle>Cultivateur / Cultivatrice de primeurs</libelle>
+<libelle_court>Cultivateur / Cultivatrice de primeurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13875</code_ogr>
+<libelle>Cultivateur / Cultivatrice d&#0039;endives</libelle>
+<libelle_court>Cultivateur / Cultivatrice d&#0039;endives</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14364</code_ogr>
+<libelle>Directeur / Directrice des cultures</libelle>
+<libelle_court>Directeur / Directrice des cultures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14824</code_ogr>
+<libelle>Endivier / Endivi&#0232;re</libelle>
+<libelle_court>Endivier / Endivi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15098</code_ogr>
+<libelle>Floriculteur / Floricultrice</libelle>
+<libelle_court>Floriculteur / Floricultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15476</code_ogr>
+<libelle>Horticulteur / Horticultrice</libelle>
+<libelle_court>Horticulteur / Horticultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16164</code_ogr>
+<libelle>Lavandiculteur / Lavandicultrice</libelle>
+<libelle_court>Lavandiculteur / Lavandicultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16384</code_ogr>
+<libelle>Mara&#0238;cher / Mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Mara&#0238;cher / Mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17372</code_ogr>
+<libelle>Osi&#0233;riculteur / Osi&#0233;ricultrice</libelle>
+<libelle_court>Osi&#0233;riculteur / Osi&#0233;ricultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17388</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re agricole en mara&#0238;chage-horticulture</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re agricole en mara&#0238;chage-horticulture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17411</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re champignonniste</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re champignonniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17424</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re de champignonni&#0232;re</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re de champignonni&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17427</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re de culture mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re de culture mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17494</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re en production horticole biologique</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re en production horticole biologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17495</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re en production mara&#0238;ch&#0232;re biologique</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re en production mara&#0238;ch&#0232;re biologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17496</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re en production p&#0233;pini&#0232;re biologique</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re en production p&#0233;pini&#0232;re biologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17504</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re horticole</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re horticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17505</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re horticole serriste</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re horticole serriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17516</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re p&#0233;pini&#0233;riste</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re p&#0233;pini&#0233;riste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17530</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re serriste</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re serriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17506</code_ogr>
+<libelle>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17507</code_ogr>
+<libelle>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re de culture l&#0233;gumi&#0232;re</libelle>
+<libelle_court>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re de culture l&#0233;gumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17508</code_ogr>
+<libelle>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re primeuriste</libelle>
+<libelle_court>Ouvrier mara&#0238;cher / Ouvri&#0232;re mara&#0238;ch&#0232;re primeuriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17653</code_ogr>
+<libelle>P&#0233;pini&#0233;riste</libelle>
+<libelle_court>P&#0233;pini&#0233;riste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17654</code_ogr>
+<libelle>P&#0233;pini&#0233;riste viticole</libelle>
+<libelle_court>P&#0233;pini&#0233;riste viticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18067</code_ogr>
+<libelle>Primeuriste</libelle>
+<libelle_court>Primeuriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18088</code_ogr>
+<libelle>Producteur / Productrice de plantes &#0224; parfum</libelle>
+<libelle_court>Producteur / Productrice de plantes &#0224; parfum</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18089</code_ogr>
+<libelle>Producteur / Productrice de plantes aromatiques</libelle>
+<libelle_court>Producteur / Productrice de plantes aromatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18090</code_ogr>
+<libelle>Producteur / Productrice de plantes in vitro</libelle>
+<libelle_court>Producteur / Productrice de plantes in vitro</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18091</code_ogr>
+<libelle>Producteur / Productrice de plantes m&#0233;dicinales</libelle>
+<libelle_court>Producteur / Productrice de plantes m&#0233;dicinales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18095</code_ogr>
+<libelle>Producteur / Productrice de semences</libelle>
+<libelle_court>Producteur / Productrice de semences</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18097</code_ogr>
+<libelle>Producteur / Productrice de tabac</libelle>
+<libelle_court>Producteur / Productrice de tabac</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18224</code_ogr>
+<libelle>Producteur / Productrice de tomates</libelle>
+<libelle_court>Producteur / Productrice de tomates</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18681</code_ogr>
+<libelle>Responsable de champignonni&#0232;re</libelle>
+<libelle_court>Responsable de champignonni&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19282</code_ogr>
+<libelle>Rosi&#0233;riste</libelle>
+<libelle_court>Rosi&#0233;riste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19357</code_ogr>
+<libelle>Second / Seconde d&#0039;exploitation horticole</libelle>
+<libelle_court>Second / Seconde d&#0039;exploitation horticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19411</code_ogr>
+<libelle>Semencier / Semenci&#0232;re</libelle>
+<libelle_court>Semencier / Semenci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19414</code_ogr>
+<libelle>Serriste</libelle>
+<libelle_court>Serriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19610</code_ogr>
+<libelle>Tabaculteur / Tabacultrice</libelle>
+<libelle_court>Tabaculteur / Tabacultrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise les op&#0233;rations de mise en culture (semis, repiquage, traitement, r&#0233;colte, ...) d&#0039;esp&#0232;ces v&#0233;g&#0233;tales (horticole, mara&#0238;ch&#0232;re, p&#0233;pini&#0232;re) selon les r&#0232;gles de s&#0233;curit&#0233; et les objectifs d&#0039;exploitations (commerciaux, qualitatifs, ...).
+Peut r&#0233;aliser les op&#0233;rations de conditionnement des produits r&#0233;colt&#0233;s.
+Peut coordonner une &#0233;quipe ou diriger une exploitation.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP Agricole en production horticole sp&#0233;cialit&#0233; production florale et l&#0233;gumi&#0232;re.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans le secteur sans dipl&#0244;me particulier.
+Un Bac professionnel ou BTS Agricole en production horticole peut &#0234;tre demand&#0233; pour les fonctions d&#0039;encadrement.
+Un Brevet Professionnel de Responsable d&#0039;Exploitation Agricole -BPREA- est requis pour l&#0039;obtention de financements sp&#0233;cifiques (pr&#0234;ts bonifi&#0233;s) destin&#0233;s &#0224; faciliter l&#0039;installation des jeunes agriculteurs.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre exig&#0233;(s).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises horticoles, mara&#0238;ch&#0232;res ou p&#0233;pini&#0233;ristes en relation avec diff&#0233;rents interlocuteurs (exploitant, chef de culture, conseillers techniques, clients...).
+Elle varie selon le mode de production (sous serre, plein champ, ...) et le type de produit (primeur, fleur, champignon, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s et est soumise au rythme des saisons.
+L&#0039;activit&#0233; s&#0039;effectue &#0224; l&#0039;ext&#0233;rieur ou sous serre et peut impliquer le port de charges.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23794</code_ogr>
+<libelle>Champignonni&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23882</code_ogr>
+<libelle>Entreprise de mara&#0238;chage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23908</code_ogr>
+<libelle>Entreprise horticole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24033</code_ogr>
+<libelle>P&#0233;pini&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23518</code_ogr>
+<libelle>Horticulture - mara&#0238;chage</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>122704</code_ogr>
+<libelle>Identifier le type d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125978</code_ogr>
+<libelle>Pr&#0233;parer le mat&#0233;riel, les mat&#0233;riaux et les outillages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123046</code_ogr>
+<libelle>Surveiller l&#0039;&#0233;tat d&#0039;une plantation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122581</code_ogr>
+<libelle>Entretenir une plantation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123033</code_ogr>
+<libelle>R&#0233;colter un produit agricole</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124888</code_ogr>
+<libelle>Entretenir des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122730</code_ogr>
+<libelle>Pr&#0233;parer les sols et les plantations (&#0233;pandage, semis, r&#0233;colte, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>100158</code_ogr>
+<libelle>Botanique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122001</code_ogr>
+<libelle>Engins agricoles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123754</code_ogr>
+<libelle>Caract&#0233;ristiques des parasites animaux et v&#0233;g&#0233;taux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100011</code_ogr>
+<libelle>Techniques culturales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121998</code_ogr>
+<libelle>Produits phytosanitaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101869</code_ogr>
+<libelle>R&#0233;glementation phytosanitaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123721</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs &#0224; m&#0226;t r&#0233;tractable (CACES R 389-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122832</code_ogr>
+<libelle>Poser un &#0233;quipement d&#0039;irrigation et d&#0039;arrosage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122833</code_ogr>
+<libelle>R&#0233;gler un &#0233;quipement d&#0039;irrigation et d&#0039;arrosage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123019</code_ogr>
+<libelle>Techniques de conditionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121752</code_ogr>
+<libelle>Commercialiser les produits d&#0039;une exploitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100381</code_ogr>
+<libelle>Argumentation commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122573</code_ogr>
+<libelle>Planifier une op&#0233;ration de semis, de traitement ou de r&#0233;colte sur un site d&#0039;exploitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123361</code_ogr>
+<libelle>Outils de planification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119000</code_ogr>
+<libelle>Gestion des stocks et des approvisionnements</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1203</code_rome_cible>
+<libelle_rome_cible>Am&#0233;nagement et entretien des espaces verts</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1405</code_rome_cible>
+<libelle_rome_cible>Arboriculture et viticulture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1101</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;engins agricoles et forestiers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1201</code_rome_cible>
+<libelle_rome_cible>B&#0251;cheronnage et &#0233;lagage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1205</code_rome_cible>
+<libelle_rome_cible>Sylviculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1302</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le et diagnostic technique en agriculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1416</code_rome_cible>
+<libelle_rome_cible>Polyculture, &#0233;levage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

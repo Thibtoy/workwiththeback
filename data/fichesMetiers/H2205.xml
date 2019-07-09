@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2205</code_rome>
+<intitule>Premi&#0232;re transformation de bois d&#0039;oeuvre</intitule>
+<code_ogr>241</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="27">
+<item_app>
+<code_ogr>12069</code_ogr>
+<libelle>Chef de bois</libelle>
+<libelle_court>Chef de bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12424</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe de parc &#0224; bois</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe de parc &#0224; bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12425</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe de parc &#0224; grumes</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe de parc &#0224; grumes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12431</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe de scierie</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe de scierie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12651</code_ogr>
+<libelle>Classeur / Classeuse de bois</libelle>
+<libelle_court>Classeur / Classeuse de bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12653</code_ogr>
+<libelle>Classeur / Classeuse qualit&#0233; en premi&#0232;re transformation du bois</libelle>
+<libelle_court>Classeur(se) qualit&#0233; en premi&#0232;re transformation du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12988</code_ogr>
+<libelle>Conducteur / Conductrice de ligne de sciage bois</libelle>
+<libelle_court>Conducteur / Conductrice de ligne de sciage bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13099</code_ogr>
+<libelle>Conducteur / Conductrice de massicot en premi&#0232;re transformation du bois</libelle>
+<libelle_court>Conducteur(trice) massicot en premi&#0232;re transformation bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13178</code_ogr>
+<libelle>Conducteur / Conductrice de s&#0233;choirs en premi&#0232;re transformation du bois</libelle>
+<libelle_court>Conducteur(trice) s&#0233;choirs en premi&#0232;re transformation bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13312</code_ogr>
+<libelle>Conducteur op&#0233;rateur / Conductrice op&#0233;ratrice de scierie</libelle>
+<libelle_court>Conducteur op&#0233;rateur / Conductrice op&#0233;ratrice de scierie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13945</code_ogr>
+<libelle>D&#0233;ligneur / D&#0233;ligneuse</libelle>
+<libelle_court>D&#0233;ligneur / D&#0233;ligneuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13987</code_ogr>
+<libelle>D&#0233;rouleur / D&#0233;rouleuse en premi&#0232;re transformation du bois</libelle>
+<libelle_court>D&#0233;rouleur / D&#0233;rouleuse en premi&#0232;re transformation du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14571</code_ogr>
+<libelle>Ecorceur / Ecorceuse de scierie</libelle>
+<libelle_court>Ecorceur / Ecorceuse de scierie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15066</code_ogr>
+<libelle>Fendeur / Fendeuse de merrains</libelle>
+<libelle_court>Fendeur / Fendeuse de merrains</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15336</code_ogr>
+<libelle>Gestionnaire de parc &#0224; grumes</libelle>
+<libelle_court>Gestionnaire de parc &#0224; grumes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16417</code_ogr>
+<libelle>Marqueur / Marqueuse de scierie</libelle>
+<libelle_court>Marqueur / Marqueuse de scierie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17139</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de premi&#0232;re transformation du bois d&#0039;oeuvre</libelle>
+<libelle_court>Op&#0233;rateur(trice) de premi&#0232;re transformation du bois d&#0039;oeuvre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17161</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de sciage bois</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de sciage bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17461</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re de scierie</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re de scierie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19270</code_ogr>
+<libelle>Rogneur / Rogneuse</libelle>
+<libelle_court>Rogneur / Rogneuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19324</code_ogr>
+<libelle>Scieur / Scieuse bois</libelle>
+<libelle_court>Scieur / Scieuse bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19329</code_ogr>
+<libelle>Scieur / Scieuse de reprise</libelle>
+<libelle_court>Scieur / Scieuse de reprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19331</code_ogr>
+<libelle>Scieur / Scieuse de t&#0234;te</libelle>
+<libelle_court>Scieur / Scieuse de t&#0234;te</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20401</code_ogr>
+<libelle>Traceur-d&#0233;biteur / Traceuse-d&#0233;biteuse en premi&#0232;re transformation du bois</libelle>
+<libelle_court>Traceur(se)-d&#0233;biteur(se) en premi&#0232;re transformation du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20422</code_ogr>
+<libelle>Trancheur / Trancheuse bois</libelle>
+<libelle_court>Trancheur / Trancheuse bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20454</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de bois</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20466</code_ogr>
+<libelle>Tron&#0231;onneur / Tron&#0231;onneuse en premi&#0232;re transformation du bois</libelle>
+<libelle_court>Tron&#0231;onneur/Tron&#0231;onneuse en premi&#0232;re transformation du bois</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise des op&#0233;rations de d&#0233;bit (sciage de t&#0234;te, de reprise, ...) ou de triage (classement qualitatif, dimensionnel) de bois d&#0039;essences diverses selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production (optimisation des d&#0233;coupes, qualit&#0233;, co&#0251;ts, d&#0233;lais, ...).
+Peut effectuer des op&#0233;rations de valorisation (traitement, s&#0233;chage, d&#0233;lignage, tron&#0231;onnage, corroyage, ...) et de stockage du bois d&#0233;bit&#0233;.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP en industries du bois, en conduite de machines en scierie.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans le m&#0234;me secteur sans dipl&#0244;me particulier.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de premi&#0232;re transformation du bois (scieries artisanales, industrielles, industries m&#0233;caniques du bois, ...).
+Elle varie selon la taille et le degr&#0233; d&#0039;automatisation de l&#0039;entreprise.
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s ou par roulement.
+L&#0039;activit&#0233; s&#0039;effectue en atelier ferm&#0233; ou semi-ouvert, parfois &#0224; l&#0039;ext&#0233;rieur (parc &#0224; grumes) et peut impliquer le port de charges.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (chaussures de s&#0233;curit&#0233;, protections anti-bruit, lunettes, ...) est exig&#0233;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23533</code_ogr>
+<libelle>Industrie m&#0233;canique du bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23593</code_ogr>
+<libelle>Premi&#0232;re transformation du bois</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23627</code_ogr>
+<libelle>Scierie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23378</code_ogr>
+<libelle>En ext&#0233;rieur</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="12">
+<item_ab>
+<code_ogr>104976</code_ogr>
+<libelle>S&#0233;lectionner les grumes (essence, qualit&#0233;, dimensions, ...) en fonction de la commande, d&#0233;terminer et marquer les d&#0233;coupes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104977</code_ogr>
+<libelle>Eliminer les corps &#0233;trangers (&#0233;l&#0233;ments m&#0233;talliques, ...), &#0233;corcer et tron&#0231;onner les grumes (transformation en billes, billons, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123337</code_ogr>
+<libelle>Alimenter une machine industrielle en mati&#0232;re ou produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104979</code_ogr>
+<libelle>Positionner et maintenir la mati&#0232;re d&#0039;oeuvre sur la machine</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104980</code_ogr>
+<libelle>S&#0233;lectionner les outils (lames de scie, couteaux, ...), les monter et les r&#0233;gler (position, tension, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122096</code_ogr>
+<libelle>Contr&#0244;ler le d&#0233;roulement des &#0233;tapes de production et le rythme de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122099</code_ogr>
+<libelle>Contr&#0244;ler la qualit&#0233; d&#0039;une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119106</code_ogr>
+<libelle>R&#0233;aliser un suivi d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124888</code_ogr>
+<libelle>Entretenir des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>126028</code_ogr>
+<libelle>Optimiser le rendement mati&#0232;re d&#0039;une grume</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="14">
+<item_ab_stp>
+<code_ogr>124468</code_ogr>
+<libelle>Machines &#0224; commandes num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101829</code_ogr>
+<libelle>Utilisation d&#0039;engins de manutention non motoris&#0233;s (transpalette, diable, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104985</code_ogr>
+<libelle>Utilisation de mat&#0233;riel de d&#0233;tection de corps &#0233;tranger (&#0233;l&#0233;ments m&#0233;talliques, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100102</code_ogr>
+<libelle>Techniques de cubage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104987</code_ogr>
+<libelle>Techniques de d&#0233;bit sur liste</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102884</code_ogr>
+<libelle>Programmation de machine &#0224; commandes num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104969</code_ogr>
+<libelle>Gammes de produits bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104547</code_ogr>
+<libelle>Pneumatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104986</code_ogr>
+<libelle>Proc&#0233;dures de r&#0233;glage des outils (tension des lames, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102181</code_ogr>
+<libelle>Calcul dimensionnel (surface, volume, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117647</code_ogr>
+<libelle>Modalit&#0233;s d&#0039;approvisionnement d&#0039;une ligne de production de premi&#0232;re transformation de bois d&#0039;oeuvre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="10">
+<item_as>
+<code_ogr>104988</code_ogr>
+<libelle>R&#0233;gler, conduire une  broyeuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104989</code_ogr>
+<libelle>R&#0233;gler, conduire une  d&#0233;rouleuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104990</code_ogr>
+<libelle>R&#0233;gler, conduire une &#0233;corceuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104991</code_ogr>
+<libelle>R&#0233;gler, conduire une  ligne de sciage automatis&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104992</code_ogr>
+<libelle>R&#0233;gler, conduire une  scie &#0224; canters</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104993</code_ogr>
+<libelle>R&#0233;gler, conduire une  scie de reprise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104994</code_ogr>
+<libelle>R&#0233;gler, conduire une  scie de t&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104995</code_ogr>
+<libelle>R&#0233;gler, conduire une  scie mobile</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104996</code_ogr>
+<libelle>R&#0233;gler, conduire une  scie tron&#0231;onneuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104997</code_ogr>
+<libelle>R&#0233;gler, conduire une  trancheuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114669</code_ogr>
+<libelle>R&#0233;ceptionner des grumes (classement, triage, ...) et les stocker selon l&#0039;essence et l&#0039;utilisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114670</code_ogr>
+<libelle>Surveiller des machines ou &#0233;quipements de premi&#0232;re transformation du bois (scieuse, tron&#0231;onneuse, &#0233;corceuse, ...) &#0224; partir d&#0039;une salle de contr&#0244;le ou d&#0039;une cabine de pilotage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>104999</code_ogr>
+<libelle>Logiciels de conduite d&#0039;installation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125802</code_ogr>
+<libelle>Valoriser un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100290</code_ogr>
+<libelle>Modalit&#0233;s de stockage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114666</code_ogr>
+<libelle>R&#0233;gler des &#0233;quipements (autoclaves, &#0233;tuves, ...) de traitement du bois (s&#0233;chage, pr&#0233;servation, ...) et surveiller leur fonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>104939</code_ogr>
+<libelle>Cycles de s&#0233;chage des essences de bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119295</code_ogr>
+<libelle>Caract&#0233;ristiques et propri&#0233;t&#0233;s des bois et d&#0233;riv&#0233;s du bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103626</code_ogr>
+<libelle>Techniques de traitement du bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120114</code_ogr>
+<libelle>Fendre une grume &#0224; merrain</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>124495</code_ogr>
+<libelle>Tonnellerie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2202</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de fabrication de l&#0039;ameublement et du bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1201</code_rome_cible>
+<libelle_rome_cible>B&#0251;cheronnage et &#0233;lagage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2203</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;installation de production de panneaux bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2204</code_rome_cible>
+<libelle_rome_cible>Encadrement des industries de l&#0039;ameublement et du bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1104</code_rome_cible>
+<libelle_rome_cible>Manoeuvre et conduite d&#0039;engins lourds de manutention</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

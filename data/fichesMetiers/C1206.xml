@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>C1206</code_rome>
+<intitule>Gestion de client&#0232;le bancaire</intitule>
+<code_ogr>70</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="18">
+<item_app>
+<code_ogr>11391</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de client&#0232;le de banque</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de client&#0232;le de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11767</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le bancaire</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11770</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le commerciale de banque</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le commerciale de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11771</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le de banque</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11775</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le entreprises de banque</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le entreprises de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11777</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le particuliers de banque</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le particuliers de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11779</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le professionnelle de banque</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le professionnelle de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38326</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le rachat de cr&#0233;dits</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le rachat de cr&#0233;dits</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11798</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de gestion bancaire</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de gestion bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11866</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de relations client&#0232;le bancaire</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de relations client&#0232;le bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13387</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re de client&#0232;le bancaire</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re de client&#0232;le bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38956</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en cr&#0233;dit immobilier</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en cr&#0233;dit immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13448</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en produit &#0233;pargne</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en produit &#0233;pargne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13379</code_ogr>
+<libelle>Conseiller commercial professionnel / Conseill&#0232;re commerciale professionnelle secteur bancaire</libelle>
+<libelle_court>Conseiller(&#0232;re) commercial professionnel secteur bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13456</code_ogr>
+<libelle>Conseiller financier / Conseill&#0232;re financi&#0232;re banque postale</libelle>
+<libelle_court>Conseiller financier / Conseill&#0232;re financi&#0232;re banque postale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13457</code_ogr>
+<libelle>Conseiller financier / Conseill&#0232;re financi&#0232;re client&#0232;le professionnelle</libelle>
+<libelle_court>Conseiller(&#0232;re) financier(&#0232;re) client&#0232;le professionnelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38957</code_ogr>
+<libelle>Courtier / Courti&#0232;re en pr&#0234;ts immobiliers</libelle>
+<libelle_court>Courtier / Courti&#0232;re en pr&#0234;ts immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15324</code_ogr>
+<libelle>Gestionnaire de client&#0232;le bancaire</libelle>
+<libelle_court>Gestionnaire de client&#0232;le bancaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Assure le conseil, la promotion et la vente des produits et services financiers de son &#0233;tablissement, aupr&#0232;s d&#0039;une client&#0232;le de particuliers, de professionnels et d&#0039;entreprises, selon la r&#0233;glementation bancaire.
+Peut r&#0233;aliser des analyses de march&#0233; d&#0039;entreprises. Peut accorder ou refuser des demandes de pr&#0234;ts.
+Peut aussi proposer des produits d&#0039;assurances.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, DUT, ...) dans le secteur commercial ou bancaire.
+Une exp&#0233;rience professionnelle dans le secteur ainsi qu&#0039;une formation professionnelle de l&#0039;Institut Technique de Banque peuvent &#0234;tre requises pour les postes en relation avec les entreprises.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;agences bancaires, de bureaux de poste, d&#0039;organismes de cr&#0233;dits, de plates-formes t&#0233;l&#0233;phoniques en contact avec les clients. Elle peut impliquer des d&#0233;placements.
+Elle varie selon la client&#0232;le (particuliers, professionnels, PME/PMI, ...).
+Elle peut s&#0039;exercer le samedi.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23700</code_ogr>
+<libelle>Agence postale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23914</code_ogr>
+<libelle>Etablissement bancaire et financier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24018</code_ogr>
+<libelle>Organisme de cr&#0233;dit</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24040</code_ogr>
+<libelle>Plate-forme t&#0233;l&#0233;phonique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="11">
+<item_ab>
+<code_ogr>122023</code_ogr>
+<libelle>Consulter des fichiers clients en pr&#0233;paration d&#0039;entretiens programm&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117344</code_ogr>
+<libelle>Elaborer des propositions commerciales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124230</code_ogr>
+<libelle>R&#0233;aliser le bilan de la situation financi&#0232;re d&#0039;un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122193</code_ogr>
+<libelle>Promouvoir un produit financier aupr&#0232;s d&#0039;une client&#0232;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>101563</code_ogr>
+<libelle>Arr&#0234;ter les termes d&#0039;un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122889</code_ogr>
+<libelle>Collecter l&#0039;ensemble des justificatifs clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124568</code_ogr>
+<libelle>Renseigner un formulaire de contractualisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121427</code_ogr>
+<libelle>D&#0233;velopper un portefeuille clients et prospects</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124297</code_ogr>
+<libelle>Surveiller des comptes d&#0233;biteurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123487</code_ogr>
+<libelle>Monter un dossier de cr&#0233;dit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>100340</code_ogr>
+<libelle>Techniques de vente</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101343</code_ogr>
+<libelle>Principes de la relation client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101507</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;administration de compte bancaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101504</code_ogr>
+<libelle>Proc&#0233;dures de transfert de devises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101503</code_ogr>
+<libelle>Modes de paiement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108336</code_ogr>
+<libelle>Droit fiscal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101351</code_ogr>
+<libelle>Caract&#0233;ristiques des produits financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101505</code_ogr>
+<libelle>R&#0233;glementation bancaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121077</code_ogr>
+<libelle>Comptabilit&#0233; bancaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121688</code_ogr>
+<libelle>Logiciel de gestion clients</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124139</code_ogr>
+<libelle>Conseiller une entreprise en mati&#0232;re de gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124140</code_ogr>
+<libelle>Conseiller des clients en mati&#0232;re de gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101570</code_ogr>
+<libelle>Sp&#0233;cificit&#0233;s juridiques des professions lib&#0233;rales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122978</code_ogr>
+<libelle>March&#0233; des entreprises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124241</code_ogr>
+<libelle>R&#0233;aliser une activit&#0233; n&#0233;cessitant la certification AMF (Autorit&#0233; des March&#0233;s Financiers)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>125746</code_ogr>
+<libelle>Recommandations AMF</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101534</code_ogr>
+<libelle>Economie des march&#0233;s financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>118391</code_ogr>
+<libelle>D&#0233;velopper un r&#0233;seau d&#0039;apporteurs d&#0039;affaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122458</code_ogr>
+<libelle>G&#0233;rer un r&#0233;seau d&#0039;apporteurs d&#0039;affaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123022</code_ogr>
+<libelle>Analyser les potentialit&#0233;s d&#0039;un march&#0233; d&#0039;entreprises clientes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124242</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude de faisabilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122550</code_ogr>
+<libelle>Proposer des solutions de financements ou de placements pour une entreprise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122549</code_ogr>
+<libelle>Participer aux projets de d&#0233;veloppement d&#0039;une soci&#0233;t&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101573</code_ogr>
+<libelle>Analyse comptable et financi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>101370</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie commerciale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121406</code_ogr>
+<libelle>Cibler une gamme de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121405</code_ogr>
+<libelle>Cibler un panel de clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101399</code_ogr>
+<libelle>Marketing / Mercatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126261</code_ogr>
+<libelle>Rechercher et n&#0233;gocier des offres de cr&#0233;dit aupr&#0232;s de partenaires bancaires, monter des dossiers de pr&#0234;ts immobiliers ou de rachat de cr&#0233;dits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121470</code_ogr>
+<libelle>Techniques de n&#0233;gociation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124640</code_ogr>
+<libelle>Arr&#0234;ter une d&#0233;cision de demande de cr&#0233;dit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122711</code_ogr>
+<libelle>Rendre une d&#0233;cision sur une demande de cr&#0233;dit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121704</code_ogr>
+<libelle>Analyse des risques financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122801</code_ogr>
+<libelle>Alerter un client du lancement de proc&#0233;dures de sanction</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122498</code_ogr>
+<libelle>Proposer des produits d&#0039;assurance &#0224; un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>118381</code_ogr>
+<libelle>Produits d&#0039;assurance vie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118385</code_ogr>
+<libelle>Produits d&#0039;assurance Incendie, Accidents, Risques Divers (IARD)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101460</code_ogr>
+<libelle>R&#0233;glementation des produits d&#0039;assurances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1102</code_rome_cible>
+<libelle_rome_cible>Conseil client&#0232;le en assurances</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1502</code_rome_cible>
+<libelle_rome_cible>Gestion locative immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1203</code_rome_cible>
+<libelle_rome_cible>Relation clients banque/finance</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11369</code_appellation_cible>
+<libelle_appellation_cible>Attach&#0233; commercial / Attach&#0233;e commerciale bancaire entreprise</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1205</code_rome_cible>
+<libelle_rome_cible>Conseil en gestion de patrimoine financier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1207</code_rome_cible>
+<libelle_rome_cible>Management en exploitation bancaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1704</code_rome_cible>
+<libelle_rome_cible>Management relation client&#0232;le</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

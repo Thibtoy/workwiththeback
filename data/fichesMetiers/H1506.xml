@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1506</code_rome>
+<intitule>Intervention technique qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</intitule>
+<code_ogr>234</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="40">
+<item_app>
+<code_ogr>10419</code_ogr>
+<libelle>Agent / Agente de contr&#0244;le destructif en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Agent(e) contr&#0244;le destructif en m&#0233;canique et travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10422</code_ogr>
+<libelle>Agent / Agente de contr&#0244;le non destructif en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Agent(e) de contr&#0244;le non destructif m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10423</code_ogr>
+<libelle>Agent / Agente de contr&#0244;le qualit&#0233; en m&#0233;canique</libelle>
+<libelle_court>Agent / Agente de contr&#0244;le qualit&#0233; en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10469</code_ogr>
+<libelle>Agent / Agente de laboratoire en m&#0233;tallurgie</libelle>
+<libelle_court>Agent / Agente de laboratoire en m&#0233;tallurgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10773</code_ogr>
+<libelle>Agent / Agente technique de laboratoire de m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Agent(e) technique labo m&#0233;trologie m&#0233;canique, travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11322</code_ogr>
+<libelle>Assistant / Assistante qualit&#0233; fabrication en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Assistant(e) qualit&#0233; fabrication m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12399</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe contr&#0244;le qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe contr&#0244;le qualit&#0233; m&#0233;canique et travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13585</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse assemblage a&#0233;ronautique</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse assemblage a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13588</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse Contr&#0244;le Non Destructif -CND- en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur/Contr&#0244;leuse -CND- en m&#0233;can et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13596</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de fabrication m&#0233;canique</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de fabrication m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13613</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de produit fini en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) produit fini en m&#0233;canique et travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13617</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de structure des mat&#0233;riaux en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) structure mat&#0233;riaux m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13635</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse en m&#0233;trologie dimensionnelle en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) m&#0233;trologie dimension m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13636</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse en m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13650</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13658</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse technique du travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse technique du travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13637</code_ogr>
+<libelle>Contr&#0244;leur final / Contr&#0244;leuse finale en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) final(e) en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13644</code_ogr>
+<libelle>Contr&#0244;leur non destructif / Contr&#0244;leuse non destructive en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) non destructif(ve) m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13663</code_ogr>
+<libelle>Contr&#0244;leur volant / Contr&#0244;leuse volante en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Contr&#0244;leur(se) volant(e) en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13664</code_ogr>
+<libelle>Contr&#0244;leur-essayeur / Contr&#0244;leuse-essayeuse sur voiture</libelle>
+<libelle_court>Contr&#0244;leur-essayeur / Contr&#0244;leuse-essayeuse sur voiture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13666</code_ogr>
+<libelle>Contr&#0244;leur-v&#0233;rificateur / Contr&#0244;leuse-v&#0233;rificatrice en m&#0233;canique</libelle>
+<libelle_court>Contr&#0244;leur(se)-v&#0233;rificateur(trice) en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13667</code_ogr>
+<libelle>Contr&#0244;leur-v&#0233;rificateur / Contr&#0244;leuse-v&#0233;rificatrice m&#0233;canique</libelle>
+<libelle_court>Contr&#0244;leur-v&#0233;rificateur/Contr&#0244;leuse-v&#0233;rificatrice m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15936</code_ogr>
+<libelle>Inspecteur / Inspectrice de fabrication en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Inspecteur(trice) fabrication m&#0233;canique et travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15987</code_ogr>
+<libelle>Inspecteur / Inspectrice qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Inspecteur(trice) qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15965</code_ogr>
+<libelle>Inspecteur dimensionnel / Inspectrice dimensionnelle en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Inspecteur(trice) dimensionnel(le) m&#0233;canique, travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17117</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de magn&#0233;toscopie en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Op&#0233;rateur(trice) magn&#0233;toscopie m&#0233;canique et travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17277</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice spectom&#0232;tre en m&#0233;tallurgie</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice spectom&#0232;tre en m&#0233;tallurgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19661</code_ogr>
+<libelle>Technicien / Technicienne assurance-qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) assurance-qualit&#0233; m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19698</code_ogr>
+<libelle>Technicien / Technicienne contr&#0244;le et mesure en m&#0233;canique</libelle>
+<libelle_court>Technicien / Technicienne contr&#0244;le et mesure en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19700</code_ogr>
+<libelle>Technicien / Technicienne contr&#0244;le visuel dimensionnel en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(e) contr&#0244;le en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19737</code_ogr>
+<libelle>Technicien / Technicienne de contr&#0244;le m&#0233;tallurgique</libelle>
+<libelle_court>Technicien / Technicienne de contr&#0244;le m&#0233;tallurgique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20039</code_ogr>
+<libelle>Technicien / Technicienne en analyse physique et qualit&#0233; des mat&#0233;riaux</libelle>
+<libelle_court>Technicien(ne) en analyse physique et qualit&#0233; des mat&#0233;riaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20050</code_ogr>
+<libelle>Technicien / Technicienne en contr&#0244;le et qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) contr&#0244;le et qualit&#0233; m&#0233;canique travail m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20051</code_ogr>
+<libelle>Technicien / Technicienne en Contr&#0244;le Non Destructif -CND- en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien/Technicienne en CND en m&#0233;ca et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20092</code_ogr>
+<libelle>Technicien / Technicienne en m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20178</code_ogr>
+<libelle>Technicien / Technicienne laboratoire en m&#0233;tallurgie</libelle>
+<libelle_court>Technicien / Technicienne laboratoire en m&#0233;tallurgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20203</code_ogr>
+<libelle>Technicien / Technicienne m&#0233;trologue en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) m&#0233;trologue en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20229</code_ogr>
+<libelle>Technicien / Technicienne qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20231</code_ogr>
+<libelle>Technicien / Technicienne qualit&#0233; produit et m&#0233;trologie en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) qualit&#0233; et m&#0233;trologie en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20232</code_ogr>
+<libelle>Technicien radiologue industriel / Technicienne radiologue industrielle en m&#0233;canique et travail des m&#0233;taux</libelle>
+<libelle_court>Technicien(ne) radiologue ind m&#0233;canique travail des m&#0233;taux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+Contr&#0244;le la conformit&#0233; d&#0039;application des proc&#0233;dures qualit&#0233; de fabrication de produits industriels. Renseigne les supports de suivi et de tra&#0231;abilit&#0233; des contr&#0244;les et des produits en fonction des normes qualit&#0233;, cahiers des charges, commandes clients.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet Professionnel, ...) &#0224; Bac+2 (BTS, ...) en m&#0233;canique, chaudronnerie, m&#0233;trologie, mesures physiques, ...
+Il est &#0233;galement accessible avec un CAP/BEP dans les m&#0234;mes secteurs, compl&#0233;t&#0233; par une exp&#0233;rience professionnelle.
+Des habilitations (contr&#0244;le, radioprotection, audit, cofrend, ...) peuvent &#0234;tre requises.
+La ma&#0238;trise de l&#0039;outil informatique (outil bureautique, progiciels de gestion de donn&#0233;es li&#0233;es &#0224; la production, ...) peut &#0234;tre exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, chantiers navals en relation avec diff&#0233;rents services et intervenants (production, m&#0233;thodes, &#0233;tudes, clients, sous-traitants, fournisseurs, auditeurs, ...).
+Elle varie selon le secteur (fabrication d&#0039;&#0233;quipements, a&#0233;ronautique, ...), le domaine (syst&#0232;me qualit&#0233;, assurance qualit&#0233;, contr&#0244;le qualit&#0233;, ...), le mode d&#0039;organisation (&#0238;lot, ligne), les proc&#0233;d&#0233;s de fabrication et le type de produits fabriqu&#0233;s.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s.
+L&#0039;activit&#0233; peut s&#0039;effectuer en laboratoire.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (gants, lunettes, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="35">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24017</code_ogr>
+<libelle>Organisme de contr&#0244;le et de certification</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>125499</code_ogr>
+<libelle>Pr&#0233;parer un contr&#0244;le technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119364</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124680</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;application de proc&#0233;dures qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117194</code_ogr>
+<libelle>Identifier des non-conformit&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123863</code_ogr>
+<libelle>D&#0233;terminer des actions correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119355</code_ogr>
+<libelle>Interpr&#0233;ter des donn&#0233;es de contr&#0244;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121525</code_ogr>
+<libelle>Concevoir des outils de suivi de la qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121049</code_ogr>
+<libelle>Apporter un appui technique aux services qualit&#0233;, maintenance, m&#0233;thodes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119507</code_ogr>
+<libelle>Logiciels de Gestion de Production Assist&#0233;e Par Ordinateur (GPAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119414</code_ogr>
+<libelle>Audit interne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122425</code_ogr>
+<libelle>M&#0233;thodes et outils de r&#0233;solution de probl&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104723</code_ogr>
+<libelle>Dispositifs d&#0039;assurance-qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121126</code_ogr>
+<libelle>Progiciels de Gestion Int&#0233;gr&#0233;e (PGI) / Enterprise Resource Planning (ERP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126527</code_ogr>
+<libelle>R&#0233;aliser des contr&#0244;les de conformit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="26">
+<item_as_stp>
+<code_ogr>123517</code_ogr>
+<libelle>Contr&#0244;le d&#0039;assemblage de structure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117410</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le de caract&#0233;risation de surface</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117412</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le de comportement de mati&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117411</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le de dimension, g&#0233;om&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101049</code_ogr>
+<libelle>Caract&#0233;ristiques des alliages de m&#0233;taux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117414</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le d&#0039;&#0233;tanch&#0233;it&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117415</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le dans le domaine fonctionnel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117416</code_ogr>
+<libelle>M&#0233;thodes de contr&#0244;le de structure des mat&#0233;riaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104617</code_ogr>
+<libelle>M&#0233;tallurgie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105941</code_ogr>
+<libelle>Techniques de chaudronnerie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100825</code_ogr>
+<libelle>Techniques de fonderie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104807</code_ogr>
+<libelle>Utilisation d&#0039;instruments de mesure tridimensionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104808</code_ogr>
+<libelle>M&#0233;tallographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104623</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de soudage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125620</code_ogr>
+<libelle>Contr&#0244;le par &#0233;lectromagn&#0233;tisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125616</code_ogr>
+<libelle>Contr&#0244;le par brouillards</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125617</code_ogr>
+<libelle>Contr&#0244;le par cam&#0233;ra</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125621</code_ogr>
+<libelle>Contr&#0244;le par fluorescence</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125622</code_ogr>
+<libelle>Contr&#0244;le par magn&#0233;toscopie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125624</code_ogr>
+<libelle>Contr&#0244;le par r&#0233;action chimique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125625</code_ogr>
+<libelle>Contr&#0244;le par r&#0233;sistance et essai m&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125623</code_ogr>
+<libelle>Contr&#0244;le par radiographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125626</code_ogr>
+<libelle>Contr&#0244;le par ressuage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125627</code_ogr>
+<libelle>Contr&#0244;le par spectrom&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125628</code_ogr>
+<libelle>Contr&#0244;le par ultrasons</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125619</code_ogr>
+<libelle>Contr&#0244;le visuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114654</code_ogr>
+<libelle>R&#0233;gler et contr&#0244;ler le fonctionnement des instruments de contr&#0244;le et de mesure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124681</code_ogr>
+<libelle>Contr&#0244;ler les qualifications du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124559</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; de r&#0233;alisation de fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121615</code_ogr>
+<libelle>Actualiser des outils de suivi de la qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124613</code_ogr>
+<libelle>Elaborer un outil de suivi</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124678</code_ogr>
+<libelle>Sensibiliser un public &#0224; une d&#0233;marche qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120695</code_ogr>
+<libelle>Traiter des dossiers de contentieux (litiges, r&#0233;clamations ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119363</code_ogr>
+<libelle>Mettre en place une d&#0233;marche qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1301</code_rome_cible>
+<libelle_rome_cible>Inspection de conformit&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1503</code_rome_cible>
+<libelle_rome_cible>Intervention technique en laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2503</code_rome_cible>
+<libelle_rome_cible>Pilotage d&#0039;unit&#0233; &#0233;l&#0233;mentaire de production m&#0233;canique ou de travail des m&#0233;taux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="7">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1101</code_rome_cible>
+<libelle_rome_cible>Assistance et support technique client</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1207</code_rome_cible>
+<libelle_rome_cible>R&#0233;daction technique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1210</code_rome_cible>
+<libelle_rome_cible>Intervention technique en &#0233;tudes, recherche et d&#0233;veloppement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1501</code_rome_cible>
+<libelle_rome_cible>Direction de laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie qualit&#0233; industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1504</code_rome_cible>
+<libelle_rome_cible>Intervention technique en contr&#0244;le essai qualit&#0233; en &#0233;lectricit&#0233; et &#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

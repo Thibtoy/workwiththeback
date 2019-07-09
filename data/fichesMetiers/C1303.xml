@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>C1303</code_rome>
+<intitule>Gestion de portefeuilles sur les march&#0233;s financiers</intitule>
+<code_ogr>74</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="7">
+<item_app>
+<code_ogr>11396</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de gestion sous mandat</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de gestion sous mandat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15275</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de banque priv&#0233;e</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de banque priv&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15292</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de portefeuille financier</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de portefeuille financier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15296</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de Soci&#0233;t&#0233; d&#0039;Investissement &#0224; Capital Variable -SICAV-</libelle>
+<libelle_court>G&#0233;rant/G&#0233;rante de Soci&#0233;t&#0233; d&#0039;Investissement -SICAV-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15305</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante d&#0039;obligations</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante d&#0039;obligations</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15306</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante d&#0039;Organisme de Placement Collectif en Valeurs Mobili&#0232;res -OPCMV-</libelle>
+<libelle_court>G&#0233;rant/G&#0233;rante d&#0039;Organisme de Placement Collectif -OPCMV-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15308</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante obligataire</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante obligataire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+Optimiser le rendement de portefeuilles constitu&#0233;s d&#0039;actifs financiers pour le compte de tiers (entreprises, particuliers, institutionnels) ou pour l&#0039;entreprise d&#0039;appartenance, sous le contr&#0244;le de l&#0039;Autorit&#0233; des March&#0233;s Financiers -AMF- et selon la l&#0233;gislation.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (Master professionnel, dipl&#0244;me d&#0039;&#0233;cole de commerce, ...) dans le secteur de la finance, de la banque ou du commerce compl&#0233;t&#0233; par une exp&#0233;rience professionnelle en gestion financi&#0232;re.
+La pratique de l&#0039;anglais est requise.
+Une autorisation d&#0039;exercer (agr&#0233;ment AMF, ...) peut &#0234;tre demand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de soci&#0233;t&#0233;s financi&#0232;res (banque, soci&#0233;t&#0233; de gestion de patrimoine, ...), en relation avec diff&#0233;rents intervenants (op&#0233;rateurs sur march&#0233;s de capitaux, ...), parfois en contact avec les clients. Elle peut impliquer des d&#0233;placements internationaux, parfois une r&#0233;sidence permanente &#0224; l&#0039;&#0233;tranger.
+Elle varie selon le secteur (investissement, banque, assurance, ...).
+La r&#0233;mun&#0233;ration est constitu&#0233;e d&#0039;un fixe g&#0233;n&#0233;ralement associ&#0233; &#0224; des primes (performance, ...) ou de commissions en rapport avec le montant des encours g&#0233;r&#0233;s.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23822</code_ogr>
+<libelle>Compagnie d&#0039;assurances/mutuelle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23914</code_ogr>
+<libelle>Etablissement bancaire et financier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24082</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil et gestion de patrimoine</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24102</code_ogr>
+<libelle>Soci&#0233;t&#0233; d&#0039;investissement</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>118730</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude de march&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124791</code_ogr>
+<libelle>Identifier les priorit&#0233;s du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121717</code_ogr>
+<libelle>Evaluer des actifs financiers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123372</code_ogr>
+<libelle>Identifier les besoins en renouvellement de titres/actifs financiers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124872</code_ogr>
+<libelle>Surveiller l&#0039;&#0233;quilibre de r&#0233;partition d&#0039;un portefeuille suivant des crit&#0232;res de rentabilit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>101615</code_ogr>
+<libelle>R&#0233;guler la vente d&#0039;actifs financiers sur le march&#0233; boursier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124171</code_ogr>
+<libelle>&#0201;tablir un rapport de gestion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124172</code_ogr>
+<libelle>&#0201;tablir un rapport de performance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="16">
+<item_ab_stp>
+<code_ogr>121704</code_ogr>
+<libelle>Analyse des risques financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101534</code_ogr>
+<libelle>Economie des march&#0233;s financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101590</code_ogr>
+<libelle>Macro&#0233;conomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101589</code_ogr>
+<libelle>Micro&#0233;conomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101591</code_ogr>
+<libelle>Math&#0233;matiques financi&#0232;res</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101516</code_ogr>
+<libelle>Calculs financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101505</code_ogr>
+<libelle>R&#0233;glementation bancaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121943</code_ogr>
+<libelle>Loi de s&#0233;curit&#0233; financi&#0232;re (LSF)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101351</code_ogr>
+<libelle>Caract&#0233;ristiques des produits financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101360</code_ogr>
+<libelle>Comptabilit&#0233; g&#0233;n&#0233;rale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121076</code_ogr>
+<libelle>Comptabilit&#0233; des op&#0233;rations de march&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113389</code_ogr>
+<libelle>Veille concurrentielle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120299</code_ogr>
+<libelle>Veille informationnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121072</code_ogr>
+<libelle>Anglais financier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>124144</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de march&#0233; d&#0039;actions et d&#0039;indices boursiers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124145</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de march&#0233; des devises ou Forex</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124146</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de march&#0233; des produits d&#0233;riv&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124147</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de march&#0233; des taux d&#0039;int&#0233;r&#0234;ts</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124241</code_ogr>
+<libelle>R&#0233;aliser une activit&#0233; n&#0233;cessitant la certification AMF (Autorit&#0233; des March&#0233;s Financiers)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>125746</code_ogr>
+<libelle>Recommandations AMF</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122618</code_ogr>
+<libelle>D&#0233;finir les modalit&#0233;s du mandat de gestion d&#0039;un portefeuille financier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121290</code_ogr>
+<libelle>Analyser les march&#0233;s financiers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121291</code_ogr>
+<libelle>D&#0233;terminer la valeur boursi&#0232;re des entreprises cot&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1205</code_rome_cible>
+<libelle_rome_cible>Conseil en gestion de patrimoine financier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1301</code_rome_cible>
+<libelle_rome_cible>Front office march&#0233;s financiers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1105</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes actuarielles en assurances</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1207</code_rome_cible>
+<libelle_rome_cible>Management en exploitation bancaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1403</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes et prospectives socio-&#0233;conomiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

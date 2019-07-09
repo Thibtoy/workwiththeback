@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>G1701</code_rome>
+<intitule>Conciergerie en h&#0244;tellerie</intitule>
+<code_ogr>203</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="6">
+<item_app>
+<code_ogr>11215</code_ogr>
+<libelle>Assistant / Assistante concierge d&#0039;h&#0244;tel</libelle>
+<libelle_court>Assistant / Assistante concierge d&#0039;h&#0244;tel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12015</code_ogr>
+<libelle>Chef concierge d&#0039;h&#0244;tel</libelle>
+<libelle_court>Chef concierge d&#0039;h&#0244;tel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12844</code_ogr>
+<libelle>Concierge d&#0039;entreprise</libelle>
+<libelle_court>Concierge d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12845</code_ogr>
+<libelle>Concierge d&#0039;h&#0244;tel</libelle>
+<libelle_court>Concierge d&#0039;h&#0244;tel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38085</code_ogr>
+<libelle>Majordome en h&#0244;tellerie</libelle>
+<libelle_court>Majordome en h&#0244;tellerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17975</code_ogr>
+<libelle>Premier / Premi&#0232;re concierge d&#0039;h&#0244;tel</libelle>
+<libelle_court>Premier / Premi&#0232;re concierge d&#0039;h&#0244;tel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Organise et coordonne les services du hall (bagagerie, voiturier, ...) et contribue au confort des clients de l&#0039;h&#0244;tel durant leur s&#0233;jour (r&#0233;servation des spectacles, location de voitures, achats divers, ...) selon la charte qualit&#0233; de l&#0039;&#0233;tablissement.
+Peut effectuer des r&#0233;servations de chambres.
+Peut recruter et former du personnel pour le hall.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (professionnel, technologique, ...) &#0224; Bac+2 (BTS, dipl&#0244;me de l&#0039;Institut de Conciergerie Internationale) en h&#0244;tellerie.
+Il est &#0233;galement accessible avec un CAP/BEP compl&#0233;t&#0233; par une exp&#0233;rience professionnelle en h&#0244;tellerie ou en restauration.
+La pratique de l&#0039;outil informatique (logiciel de r&#0233;servation, tableur, ...) et des technologies de l&#0039;information et de la communication (Internet, intranet, ...) est requise.
+La pratique d&#0039;une ou plusieurs langue(s) &#0233;trang&#0232;re(s), en particulier l&#0039;anglais, est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;h&#0244;tels 3, 4 ou 5 &#0233;toiles, de r&#0233;sidences h&#0244;teli&#0232;res, de r&#0233;sidences de tourisme, de villages de vacances en relation avec les clients et diff&#0233;rents intervenants (r&#0233;ception, bagagerie, restaurant, service d&#0039;&#0233;tage, ...).
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s et de nuit.
+La r&#0233;mun&#0233;ration est constitu&#0233;e d&#0039;un fixe parfois associ&#0233; &#0224; des avantages (repas, logement, ...) et des pourboires.
+Le port d&#0039;un uniforme est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23960</code_ogr>
+<libelle>H&#0244;tel 3 &#0233;toiles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23961</code_ogr>
+<libelle>H&#0244;tel 4 &#0233;toiles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23962</code_ogr>
+<libelle>H&#0244;tel 5 &#0233;toiles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24051</code_ogr>
+<libelle>R&#0233;sidence de tourisme</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24052</code_ogr>
+<libelle>R&#0233;sidence h&#0244;teli&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24128</code_ogr>
+<libelle>Village vacances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>114528</code_ogr>
+<libelle>Renseigner les clients sur les services de l&#0039;&#0233;tablissement et les spectacles, les restaurants, les sites touristiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104278</code_ogr>
+<libelle>Conseiller et orienter les clients dans leurs d&#0233;marches durant leur s&#0233;jour (choix de visite, achat d&#0039;objets particuliers, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104279</code_ogr>
+<libelle>R&#0233;aliser, confirmer des r&#0233;servations de billets d&#0039;avion, de tickets de spectacle, de restaurant pour les clients de l&#0039;&#0233;tablissement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104280</code_ogr>
+<libelle>Superviser le service de la bagagerie, le stationnement des v&#0233;hicules et organiser le transport des bagages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121796</code_ogr>
+<libelle>Organiser un planning du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>109607</code_ogr>
+<libelle>Accueillir les personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121740</code_ogr>
+<libelle>Tenir un journal comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>101343</code_ogr>
+<libelle>Principes de la relation client</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104283</code_ogr>
+<libelle>Environnement culturel et touristique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104107</code_ogr>
+<libelle>Syst&#0232;me d&#0039;information et de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119527</code_ogr>
+<libelle>Logiciels de r&#0233;servation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118471</code_ogr>
+<libelle>Langue &#0233;trang&#0232;re - Anglais</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120697</code_ogr>
+<libelle>Assurer un accueil t&#0233;l&#0233;phonique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114522</code_ogr>
+<libelle>Enregistrer des r&#0233;servations de chambres, de suites et actualiser le planning d&#0039;occupation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114523</code_ogr>
+<libelle>R&#0233;aliser des courses &#0224; la demande d&#0039;un client ou pour les besoins de l&#0039;&#0233;tablissement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>104288</code_ogr>
+<libelle>Surveiller les lieux, les biens et effectuer des rondes de pr&#0233;vention et de d&#0233;tection de risques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101449</code_ogr>
+<libelle>R&#0233;glementation s&#0233;curit&#0233; incendie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104285</code_ogr>
+<libelle>Fonctionnalit&#0233;s des &#0233;quipements et syst&#0232;mes de s&#0233;curit&#0233; (alarmes, d&#0233;tecteurs, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114524</code_ogr>
+<libelle>Apporter les bagages, les paquets des clients dans leur chambre, leur suite, leur v&#0233;hicule</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124524</code_ogr>
+<libelle>Recruter du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1503</code_rome_cible>
+<libelle_rome_cible>Management du personnel d&#0039;&#0233;tage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1703</code_rome_cible>
+<libelle_rome_cible>R&#0233;ception en h&#0244;tellerie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1401</code_rome_cible>
+<libelle_rome_cible>Assistance de direction d&#0039;h&#0244;tel-restaurant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1402</code_rome_cible>
+<libelle_rome_cible>Management d&#0039;h&#0244;tel-restaurant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1403</code_rome_cible>
+<libelle_rome_cible>Gestion de structure de loisirs ou d&#0039;h&#0233;bergement touristique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

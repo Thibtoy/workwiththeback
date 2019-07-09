@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>F1104</code_rome>
+<intitule>Dessin BTP et paysage</intitule>
+<code_ogr>145</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>38931</code_ogr>
+<libelle>BIM Modeleur / Modeleuse</libelle>
+<libelle_court>BIM Modeleur / Modeleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12702</code_ogr>
+<libelle>Collaborateur / Collaboratrice d&#0039;architecte</libelle>
+<libelle_court>Collaborateur / Collaboratrice d&#0039;architecte</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12752</code_ogr>
+<libelle>Commis / Commise d&#0039;architecte</libelle>
+<libelle_court>Commis / Commise d&#0039;architecte</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14016</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;am&#0233;nagements ext&#0233;rieurs</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;am&#0233;nagements ext&#0233;rieurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14020</code_ogr>
+<libelle>Dessinateur / Dessinatrice de la construction</libelle>
+<libelle_court>Dessinateur / Dessinatrice de la construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14028</code_ogr>
+<libelle>Dessinateur / Dessinatrice des travaux publics</libelle>
+<libelle_court>Dessinateur / Dessinatrice des travaux publics</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14031</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;&#0233;tudes du BTP</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;&#0233;tudes du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14036</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;ex&#0233;cution du BTP</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;ex&#0233;cution du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14041</code_ogr>
+<libelle>Dessinateur / Dessinatrice du b&#0226;timent</libelle>
+<libelle_court>Dessinateur / Dessinatrice du b&#0226;timent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14042</code_ogr>
+<libelle>Dessinateur / Dessinatrice du BTP</libelle>
+<libelle_court>Dessinateur / Dessinatrice du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14044</code_ogr>
+<libelle>Dessinateur / Dessinatrice en am&#0233;nagements int&#0233;rieurs</libelle>
+<libelle_court>Dessinateur / Dessinatrice en am&#0233;nagements int&#0233;rieurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14049</code_ogr>
+<libelle>Dessinateur / Dessinatrice en b&#0233;ton arm&#0233;</libelle>
+<libelle_court>Dessinateur / Dessinatrice en b&#0233;ton arm&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14059</code_ogr>
+<libelle>Dessinateur / Dessinatrice en g&#0233;nie civil</libelle>
+<libelle_court>Dessinateur / Dessinatrice en g&#0233;nie civil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14071</code_ogr>
+<libelle>Dessinateur / Dessinatrice en m&#0233;tallerie</libelle>
+<libelle_court>Dessinateur / Dessinatrice en m&#0233;tallerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14081</code_ogr>
+<libelle>Dessinateur / Dessinatrice en Voirie R&#0233;seaux Divers (VRD)</libelle>
+<libelle_court>Dessinateur / Dessinatrice en Voirie R&#0233;seaux Divers (VRD)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14087</code_ogr>
+<libelle>Dessinateur / Dessinatrice paysagiste</libelle>
+<libelle_court>Dessinateur / Dessinatrice paysagiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14086</code_ogr>
+<libelle>Dessinateur m&#0233;treur / Dessinatrice m&#0233;treuse</libelle>
+<libelle_court>Dessinateur m&#0233;treur / Dessinatrice m&#0233;treuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14091</code_ogr>
+<libelle>Dessinateur v&#0233;rificateur / Dessinatrice v&#0233;rificatrice du BTP</libelle>
+<libelle_court>Dessinateur v&#0233;rificateur / Dessinatrice v&#0233;rificatrice du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14105</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse du BTP</libelle>
+<libelle_court>Dessinateur-projeteur / Dessinatrice-projeteuse du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38342</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en g&#0233;nie climatique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en g&#0233;nie climatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14134</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en urbanisme</libelle>
+<libelle_court>Dessinateur-projeteur / Dessinatrice-projeteuse en urbanisme</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18197</code_ogr>
+<libelle>Projeteur / Projeteuse b&#0233;ton arm&#0233;</libelle>
+<libelle_court>Projeteur / Projeteuse b&#0233;ton arm&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18201</code_ogr>
+<libelle>Projeteur / Projeteuse Voirie R&#0233;seaux Divers (VRD)</libelle>
+<libelle_court>Projeteur / Projeteuse Voirie R&#0233;seaux Divers (VRD)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Etudie et r&#0233;alise les plans ou dessins de projets de constructions, de r&#0233;habilitations, d&#0039;am&#0233;nagements d&#0039;ouvrages int&#0233;rieurs et/ou ext&#0233;rieurs selon les solutions techniques et architecturales retenues et la r&#0233;glementation.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet de Technicien, ...) en dessin du B&#0226;timent et Travaux Publics ou en infographie paysag&#0232;re.
+Des formations sp&#0233;cifiques (construction m&#0233;tallique, &#0233;lectricit&#0233;, voirie, ...) peuvent &#0234;tre exig&#0233;es.
+La ma&#0238;trise de logiciels bureautiques et de Conception et Dessin Assist&#0233; par Ordinateur -CAO/DAO- est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de bureaux d&#0039;&#0233;tudes, de dessin, de cabinets d&#0039;architectes, ... en coordination avec les concepteurs de projets de construction (architectes, ing&#0233;nieurs m&#0233;thodes, ma&#0238;tre d&#0039;ouvrage, ...).
+Le port d&#0039;&#0233;quipements de protection (casque de chantier, chaussures de s&#0233;curit&#0233;, ...) est requis lors de visites sur les chantiers.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23739</code_ogr>
+<libelle>Cabinet d&#0039;architectes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23907</code_ogr>
+<libelle>Entreprise du paysage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24033</code_ogr>
+<libelle>P&#0233;pini&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23397</code_ogr>
+<libelle>Am&#0233;nagement d&#0039;espaces verts, de parcs et de jardins</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23510</code_ogr>
+<libelle>G&#0233;nie civil</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23535</code_ogr>
+<libelle>Informatique et t&#0233;l&#0233;communications</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>125980</code_ogr>
+<libelle>R&#0233;unir des donn&#0233;es techniques pour la r&#0233;alisation de plans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>126001</code_ogr>
+<libelle>R&#0233;aliser des relev&#0233;s terrain &#0224; partir de documents ou relev&#0233;s topographiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124811</code_ogr>
+<libelle>Identifier des contraintes dimensionnelles, fonctionnelles et physiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122909</code_ogr>
+<libelle>D&#0233;terminer des solutions de constructions, d&#0039;installations et d&#0039;am&#0233;nagements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>103122</code_ogr>
+<libelle>R&#0233;aliser ou modifier les sch&#0233;mas, les &#0233;pures, les plans des ouvrages, des installations, des am&#0233;nagements selon les normes et les &#0233;volutions de contraintes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120265</code_ogr>
+<libelle>Concevoir les nomenclatures des sch&#0233;mas et plans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121568</code_ogr>
+<libelle>Apporter un appui technique au ma&#0238;tre d&#0039;oeuvre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123097</code_ogr>
+<libelle>Evaluer le co&#0251;t des op&#0233;rations pour un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="15">
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103045</code_ogr>
+<libelle>Normes de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119432</code_ogr>
+<libelle>Syst&#0232;me d&#0039;Information G&#0233;ographique (SIG)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103126</code_ogr>
+<libelle>Utilisation d&#0039;appareils de mesure topographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103103</code_ogr>
+<libelle>Techniques de m&#0233;tr&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119607</code_ogr>
+<libelle>Architecture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103132</code_ogr>
+<libelle>M&#0233;canique des fluides</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118750</code_ogr>
+<libelle>Sciences physiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126026</code_ogr>
+<libelle>R&#0233;sistance Des Mat&#0233;riaux (RDM)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103130</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103059</code_ogr>
+<libelle>Cartographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103060</code_ogr>
+<libelle>Topographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103043</code_ogr>
+<libelle>Cahier des Clauses Techniques Particuli&#0232;res -CCTP-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122480</code_ogr>
+<libelle>Cahier des Clauses Administratives Particuli&#0232;res (CCAP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>126281</code_ogr>
+<libelle>R&#0233;aliser des plans de charpente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126192</code_ogr>
+<libelle>R&#0233;aliser des plans de d&#0233;tails (armoire &#0233;lectrique, vanne, &#0233;quipements sanitaires..)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126351</code_ogr>
+<libelle>R&#0233;aliser des plans  de g&#0233;nie climatique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126098</code_ogr>
+<libelle>R&#0233;aliser des plans  de r&#0233;servations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125412</code_ogr>
+<libelle>R&#0233;aliser des dessins techniques pour un r&#0233;seau a&#0233;rien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125414</code_ogr>
+<libelle>R&#0233;aliser des dessins techniques pour un r&#0233;seau sous-terrain</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125410</code_ogr>
+<libelle>R&#0233;aliser un plan de r&#0233;colement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="10">
+<item_as_stp>
+<code_ogr>121186</code_ogr>
+<libelle>Am&#0233;nagement d&#0039;espaces ext&#0233;rieurs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121188</code_ogr>
+<libelle>Am&#0233;nagement int&#0233;rieur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118828</code_ogr>
+<libelle>Technologie du b&#0226;timent</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103596</code_ogr>
+<libelle>Menuiserie bois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103480</code_ogr>
+<libelle>Caract&#0233;ristiques des armatures</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123238</code_ogr>
+<libelle>Caract&#0233;ristiques des coffrages</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125929</code_ogr>
+<libelle>Caract&#0233;ristiques du b&#0233;ton arm&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118808</code_ogr>
+<libelle>Construction m&#0233;tallique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122897</code_ogr>
+<libelle>Voirie R&#0233;seaux Divers (VRD)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101675</code_ogr>
+<libelle>Urbanisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125966</code_ogr>
+<libelle>Assister techniquement dans l&#0039;&#0233;laboration des Dossiers des Ouvrages Ex&#0233;cut&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>103150</code_ogr>
+<libelle>Assister techniquement dans l&#0039;&#0233;laboration de dossiers de Permis de construire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>103044</code_ogr>
+<libelle>Plan Particulier de S&#0233;curit&#0233; et de Protection de la Sant&#0233; -PPSPS-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101640</code_ogr>
+<libelle>Droit de l&#0039;urbanisme et de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114269</code_ogr>
+<libelle>Consulter des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114271</code_ogr>
+<libelle>Tracer sur site des implantations ext&#0233;rieures et int&#0233;rieures d&#0039;ouvrages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126015</code_ogr>
+<libelle>Concevoir la maquette num&#0233;rique d&#0039;un ouvrage b&#0226;ti</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125309</code_ogr>
+<libelle>R&#0233;aliser la maquette num&#0233;rique d&#0039;un projet BIM</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>125142</code_ogr>
+<libelle>Building Information Modelling (BIM)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123889</code_ogr>
+<libelle>Piloter un projet d&#0039;&#0233;tude BTP (construction, ouvrage, am&#0233;nagement etc.)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1102</code_rome_cible>
+<libelle_rome_cible>Conception - am&#0233;nagement d&#0039;espaces int&#0233;rieurs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1106</code_rome_cible>
+<libelle_rome_cible>Ing&#0233;nierie et &#0233;tudes du BTP</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1108</code_rome_cible>
+<libelle_rome_cible>M&#0233;tr&#0233; de la construction</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1202</code_rome_cible>
+<libelle_rome_cible>Conception et dessin de produits &#0233;lectriques et &#0233;lectroniques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1203</code_rome_cible>
+<libelle_rome_cible>Conception et dessin produits m&#0233;caniques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2209</code_rome_cible>
+<libelle_rome_cible>Intervention technique en ameublement et bois</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

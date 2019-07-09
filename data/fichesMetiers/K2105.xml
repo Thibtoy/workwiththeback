@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K2105</code_rome>
+<intitule>Enseignement artistique</intitule>
+<code_ogr>408</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="36">
+<item_app>
+<code_ogr>11354</code_ogr>
+<libelle>Assistant territorial sp&#0233;cialis&#0233; / Assistante territoriale sp&#0233;cialis&#0233;e d&#0039;enseignement artistique</libelle>
+<libelle_court>Assistant(e) territorial(e) sp&#0233;cialis&#0233;(e) enseigt artistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14852</code_ogr>
+<libelle>Enseignant / Enseignante des arts du cirque</libelle>
+<libelle_court>Enseignant / Enseignante des arts du cirque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38634</code_ogr>
+<libelle>Formateur / Formatrice en techniques de l&#0039;image</libelle>
+<libelle_court>Formateur / Formatrice en techniques de l&#0039;image</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38339</code_ogr>
+<libelle>Formateur / Formatrice en techniques du son</libelle>
+<libelle_court>Formateur / Formatrice en techniques du son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16938</code_ogr>
+<libelle>Musicien intervenant / Musicienne intervenante</libelle>
+<libelle_court>Musicien intervenant / Musicienne intervenante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18111</code_ogr>
+<libelle>Professeur / Professeure d&#0039;art dramatique</libelle>
+<libelle_court>Professeur / Professeure d&#0039;art dramatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18113</code_ogr>
+<libelle>Professeur / Professeure de batterie</libelle>
+<libelle_court>Professeur / Professeure de batterie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18116</code_ogr>
+<libelle>Professeur / Professeure de chant</libelle>
+<libelle_court>Professeur / Professeure de chant</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18117</code_ogr>
+<libelle>Professeur / Professeure de clarinette</libelle>
+<libelle_court>Professeur / Professeure de clarinette</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18118</code_ogr>
+<libelle>Professeur / Professeure de danse</libelle>
+<libelle_court>Professeur / Professeure de danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18119</code_ogr>
+<libelle>Professeur / Professeure de dessin</libelle>
+<libelle_court>Professeur / Professeure de dessin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18120</code_ogr>
+<libelle>Professeur / Professeure de fl&#0251;te</libelle>
+<libelle_court>Professeur / Professeure de fl&#0251;te</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18121</code_ogr>
+<libelle>Professeur / Professeure de formation musicale</libelle>
+<libelle_court>Professeur / Professeure de formation musicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18123</code_ogr>
+<libelle>Professeur / Professeure de gravure</libelle>
+<libelle_court>Professeur / Professeure de gravure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18124</code_ogr>
+<libelle>Professeur / Professeure de guitare</libelle>
+<libelle_court>Professeur / Professeure de guitare</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18125</code_ogr>
+<libelle>Professeur / Professeure de jazz</libelle>
+<libelle_court>Professeur / Professeure de jazz</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38586</code_ogr>
+<libelle>Professeur / Professeure de mime</libelle>
+<libelle_court>Professeur / Professeure de mime</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38223</code_ogr>
+<libelle>Professeur / Professeure de Musique Assist&#0233;e par Ordinateur - MAO -</libelle>
+<libelle_court>Professeur(e) de Musique Assist&#0233;e par Ordinateur - MAO -</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18134</code_ogr>
+<libelle>Professeur / Professeure de peinture</libelle>
+<libelle_court>Professeur / Professeure de peinture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18135</code_ogr>
+<libelle>Professeur / Professeure de percussions</libelle>
+<libelle_court>Professeur / Professeure de percussions</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18136</code_ogr>
+<libelle>Professeur / Professeure de photographie</libelle>
+<libelle_court>Professeur / Professeure de photographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18137</code_ogr>
+<libelle>Professeur / Professeure de piano</libelle>
+<libelle_court>Professeur / Professeure de piano</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18138</code_ogr>
+<libelle>Professeur / Professeure de saxophone</libelle>
+<libelle_court>Professeur / Professeure de saxophone</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18139</code_ogr>
+<libelle>Professeur / Professeure de sculpture</libelle>
+<libelle_court>Professeur / Professeure de sculpture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18140</code_ogr>
+<libelle>Professeur / Professeure de th&#0233;&#0226;tre</libelle>
+<libelle_court>Professeur / Professeure de th&#0233;&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18141</code_ogr>
+<libelle>Professeur / Professeure de trompette</libelle>
+<libelle_court>Professeur / Professeure de trompette</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18142</code_ogr>
+<libelle>Professeur / Professeure de vid&#0233;o</libelle>
+<libelle_court>Professeur / Professeure de vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18143</code_ogr>
+<libelle>Professeur / Professeure de violon</libelle>
+<libelle_court>Professeur / Professeure de violon</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18144</code_ogr>
+<libelle>Professeur / Professeure de violoncelle</libelle>
+<libelle_court>Professeur / Professeure de violoncelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18146</code_ogr>
+<libelle>Professeur / Professeure d&#0039;&#0233;cole nationale d&#0039;art</libelle>
+<libelle_court>Professeur / Professeure d&#0039;&#0233;cole nationale d&#0039;art</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18147</code_ogr>
+<libelle>Professeur / Professeure d&#0039;&#0233;cole nationale de musique</libelle>
+<libelle_court>Professeur / Professeure d&#0039;&#0233;cole nationale de musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18165</code_ogr>
+<libelle>Professeur / Professeure d&#0039;instrument de musique</libelle>
+<libelle_court>Professeur / Professeure d&#0039;instrument de musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18168</code_ogr>
+<libelle>Professeur / Professeure en arts graphiques</libelle>
+<libelle_court>Professeur / Professeure en arts graphiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18170</code_ogr>
+<libelle>Professeur / Professeure en design</libelle>
+<libelle_court>Professeur / Professeure en design</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18171</code_ogr>
+<libelle>Professeur / Professeure en direction d&#0039;orchestre d&#0039;harmonie</libelle>
+<libelle_court>Professeur / Professeure en direction d&#0039;orchestre d&#0039;harmonie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18180</code_ogr>
+<libelle>Professeur territorial / Professeure territoriale d&#0039;enseignement artistique</libelle>
+<libelle_court>Professeur(e) territorial(e) d&#0039;enseignement artistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Enseigne aux &#0233;l&#0232;ves, dans le cadre de cours individuels ou collectifs, la pratique et les &#0233;l&#0233;ments th&#0233;oriques (r&#0233;pertoire, histoire, ...) d&#0039;une discipline artistique (musique, danse, arts plastiques,....) selon le projet p&#0233;dagogique de la structure.
+Met en oeuvre des actions de cr&#0233;ation (exposition, concert, spectacle, ...) et favorise les &#0233;changes entre les &#0233;l&#0232;ves, les professionnels et le public dans le cadre de projets collectifs.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec une formation et une pratique artistique de la discipline enseign&#0233;e (musique, arts plastiques, danse, ...).
+Il est &#0233;galement accessible avec une formation de niveau Bac+2 (Dipl&#0244;me d&#0039;Etat, Dipl&#0244;me Universitaire de Musicien Intervenant -DUMI-, ...) &#0224; Master (Certificat d&#0039;aptitude, Dipl&#0244;me national d&#0039;&#0233;tudes sup&#0233;rieures musicales, ...) dans un domaine artistique (musique, danse, th&#0233;&#0226;tre, arts plastiques, ...) pour l&#0039;enseignement dans les Conservatoires Nationaux de R&#0233;gion, les Ecoles Nationales de Musique, ...
+Le Brevet d&#0039;Initiation aux Arts du Cirque est requis pour enseigner dans les &#0233;coles reconnues par la F&#0233;d&#0233;ration Fran&#0231;aise des Arts du Cirque.
+Une exp&#0233;rience professionnelle est requise pour enseigner dans les &#0233;tablissements d&#0039;enseignement artistique sup&#0233;rieur (arts plastiques, arts d&#0233;coratifs, ...).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="1">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein des Conservatoires Nationaux de R&#0233;gion, d&#0039;&#0233;coles de musique, d&#0039;&#0233;tablissements d&#0039;enseignement artistique sup&#0233;rieur (&#0233;cole des beaux-arts, des arts d&#0233;coratifs, ...), d&#0039;associations de loisirs, d&#0039;&#0233;tablissements priv&#0233;s ou aupr&#0232;s de particuliers employeurs en contact avec les &#0233;l&#0232;ves (enfants, adultes, ...) et diff&#0233;rents intervenants (musicien, chor&#0233;graphe, architecte d&#0039;int&#0233;rieur, &#0233;quipe p&#0233;dagogique, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23854</code_ogr>
+<libelle>Ecole d&#0039;enseignement artistique et conservatoire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="5">
+<item_ab>
+<code_ogr>108412</code_ogr>
+<libelle>Pr&#0233;parer les cours et &#0233;tablir la progression p&#0233;dagogique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118262</code_ogr>
+<libelle>Enseigner les &#0233;l&#0233;ments th&#0233;oriques et pratiques de la discipline artistique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108414</code_ogr>
+<libelle>Contr&#0244;ler les connaissances th&#0233;oriques et pratiques des &#0233;l&#0232;ves et leur proposer des axes d&#0039;am&#0233;lioration</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108415</code_ogr>
+<libelle>Suivre et conseiller les &#0233;l&#0232;ves dans l&#0039;organisation de leur travail personnel et le d&#0233;veloppement de leurs capacit&#0233;s artistiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108416</code_ogr>
+<libelle>Organiser les rencontres, les &#0233;changes lors d&#0039;expositions, de concerts, d&#0039;auditions, ... avec les intervenants du spectacle et les publics divers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103848</code_ogr>
+<libelle>Techniques d&#0039;animation de groupe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102503</code_ogr>
+<libelle>Techniques de mise en sc&#0232;ne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108417</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres classiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120915</code_ogr>
+<libelle>Physiologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101086</code_ogr>
+<libelle>Anatomie humaine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108418</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres contemporaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123125</code_ogr>
+<libelle>Enseigner une discipline &#0224; un groupe de personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="32">
+<item_as_stp>
+<code_ogr>124005</code_ogr>
+<libelle>Danses ethniques et traditionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124006</code_ogr>
+<libelle>Danses urbaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123999</code_ogr>
+<libelle>Danse classique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124000</code_ogr>
+<libelle>Danse contemporaine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124004</code_ogr>
+<libelle>Danses de salon</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124002</code_ogr>
+<libelle>Danse jazz, modern&#0039;jazz</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109092</code_ogr>
+<libelle>Techniques d&#0039;&#0233;quilibrisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109089</code_ogr>
+<libelle>Techniques d&#0039;acrobatie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109091</code_ogr>
+<libelle>Techniques de voltige</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123980</code_ogr>
+<libelle>Art clownesque /mime / Imitation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124503</code_ogr>
+<libelle>Manipulation de marionnettes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123979</code_ogr>
+<libelle>Techniques de jonglage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126353</code_ogr>
+<libelle>Pratique du th&#0233;&#0226;tre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118227</code_ogr>
+<libelle>Techniques de com&#0233;die</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109119</code_ogr>
+<libelle>Dramaturgie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100610</code_ogr>
+<libelle>Techniques de dessin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100634</code_ogr>
+<libelle>Techniques de peinture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117952</code_ogr>
+<libelle>Techniques de gravure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105093</code_ogr>
+<libelle>Techniques de sculpture en ronde bosse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105092</code_ogr>
+<libelle>Techniques de sculpture ornementale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125178</code_ogr>
+<libelle>S&#0233;rigraphie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100633</code_ogr>
+<libelle>Graphisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120753</code_ogr>
+<libelle>Photographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118238</code_ogr>
+<libelle>Outils multim&#0233;dia</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100518</code_ogr>
+<libelle>Techniques de montage vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118233</code_ogr>
+<libelle>Sciences du design</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108459</code_ogr>
+<libelle>Histoire de la danse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119191</code_ogr>
+<libelle>Histoire de l&#0039;art</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>29</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119226</code_ogr>
+<libelle>Publication Assist&#0233;e par Ordinateur (PAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>30</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119196</code_ogr>
+<libelle>Logiciel de montage photo</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>31</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120869</code_ogr>
+<libelle>Logiciels de cr&#0233;ation vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>32</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126184</code_ogr>
+<libelle>Enseigner une discipline musicale ou instrument de musique &#0224; un groupe de personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="30">
+<item_as_stp>
+<code_ogr>117800</code_ogr>
+<libelle>Pratique de l&#0039;accord&#0233;on</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117808</code_ogr>
+<libelle>Pratique du basson</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117801</code_ogr>
+<libelle>Pratique de la batterie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124016</code_ogr>
+<libelle>Pratique du chant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117802</code_ogr>
+<libelle>Pratique de la clarinette</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119153</code_ogr>
+<libelle>Pratique du clavecin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117810</code_ogr>
+<libelle>Pratique du clavier (instrument de musique)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117803</code_ogr>
+<libelle>Pratique de la contrebasse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126515</code_ogr>
+<libelle>Pratique du cor</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117853</code_ogr>
+<libelle>Pratique du cornet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117811</code_ogr>
+<libelle>Pratique du djembe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117804</code_ogr>
+<libelle>Pratique de la fl&#0251;te</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117805</code_ogr>
+<libelle>Pratique de la guitare, basse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117806</code_ogr>
+<libelle>Pratique de la harpe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117812</code_ogr>
+<libelle>Pratique du hautbois</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124017</code_ogr>
+<libelle>Pratique d&#0039;instruments de musique traditionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119519</code_ogr>
+<libelle>Musique Assist&#0233;e par Ordinateur (MAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119154</code_ogr>
+<libelle>Pratique de l&#0039;orgue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117822</code_ogr>
+<libelle>Pratique des percussions, timbales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117813</code_ogr>
+<libelle>Pratique du piano</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117814</code_ogr>
+<libelle>Pratique du saxophone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117815</code_ogr>
+<libelle>Pratique du synth&#0233;tiseur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117816</code_ogr>
+<libelle>Pratique du trombone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117807</code_ogr>
+<libelle>Pratique de la trompette</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117817</code_ogr>
+<libelle>Pratique du tuba</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117818</code_ogr>
+<libelle>Pratique du violon, alto</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117819</code_ogr>
+<libelle>Pratique du violoncelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117820</code_ogr>
+<libelle>Pratique du xylophone, vibraphone</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102470</code_ogr>
+<libelle>Adaptation, composition d&#0039;oeuvres musicales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>29</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108990</code_ogr>
+<libelle>Solf&#0232;ge</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>30</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>108468</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;adolescents</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>103934</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;adultes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>103935</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;enfants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>108469</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;amateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>108470</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public professionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124709</code_ogr>
+<libelle>Diriger un ensemble artistique (orchestre, troupe de danseurs, /...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113325</code_ogr>
+<libelle>Piloter un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="9">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1101</code_rome_cible>
+<libelle_rome_cible>Cr&#0233;ation en arts plastiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>18168</code_appellation_source>
+<libelle_appellation_source>Professeur / Professeure en arts graphiques</libelle_appellation_source>
+<code_appellation_source>18170</code_appellation_source>
+<libelle_appellation_source>Professeur / Professeure en design</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1205</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation de contenus multim&#0233;dias</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15395</code_appellation_cible>
+<libelle_appellation_cible>Graphiste concepteur / conceptrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>18170</code_appellation_source>
+<libelle_appellation_source>Professeur / Professeure en design</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1204</code_rome_cible>
+<libelle_rome_cible>Design industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13991</code_appellation_cible>
+<libelle_appellation_cible>Designer</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1201</code_rome_cible>
+<libelle_rome_cible>Danse</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1202</code_rome_cible>
+<libelle_rome_cible>Musique et chant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1203</code_rome_cible>
+<libelle_rome_cible>Art dramatique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1204</code_rome_cible>
+<libelle_rome_cible>Arts du cirque et arts visuels</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>18140</code_appellation_source>
+<libelle_appellation_source>Professeur / Professeure de th&#0233;&#0226;tre</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1301</code_rome_cible>
+<libelle_rome_cible>Mise en sc&#0232;ne de spectacles vivants</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16673</code_appellation_cible>
+<libelle_appellation_cible>Metteur / Metteuse en sc&#0232;ne th&#0233;&#0226;tre</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2102</code_rome_cible>
+<libelle_rome_cible>Coordination p&#0233;dagogique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2103</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;&#0233;tablissement et d&#0039;enseignement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2107</code_rome_cible>
+<libelle_rome_cible>Enseignement g&#0233;n&#0233;ral du second degr&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18112</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure d&#0039;arts plastiques</libelle_appellation_cible>
+<code_appellation_cible>18149</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure d&#0039;&#0233;ducation musicale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

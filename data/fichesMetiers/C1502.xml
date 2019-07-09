@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>C1502</code_rome>
+<intitule>Gestion locative immobili&#0232;re</intitule>
+<code_ogr>77</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="24">
+<item_app>
+<code_ogr>10462</code_ogr>
+<libelle>Agent / Agente de gestion APL</libelle>
+<libelle_court>Agent / Agente de gestion APL</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10464</code_ogr>
+<libelle>Agent / Agente de gestion locative en immobilier</libelle>
+<libelle_court>Agent / Agente de gestion locative en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10541</code_ogr>
+<libelle>Agent / Agente de peuplement</libelle>
+<libelle_court>Agent / Agente de peuplement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10701</code_ogr>
+<libelle>Agent / Agente d&#0039;&#0233;tat des lieux</libelle>
+<libelle_court>Agent / Agente d&#0039;&#0233;tat des lieux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11236</code_ogr>
+<libelle>Assistant / Assistante de gestion locative en immobilier</libelle>
+<libelle_court>Assistant / Assistante de gestion locative en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11237</code_ogr>
+<libelle>Assistant / Assistante de gestion syndic immobilier</libelle>
+<libelle_court>Assistant / Assistante de gestion syndic immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11293</code_ogr>
+<libelle>Assistant / Assistante gestionnaire en immobilier</libelle>
+<libelle_court>Assistant / Assistante gestionnaire en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11764</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;attribution en immobilier</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;attribution en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11774</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de client&#0232;le en immobilier locatif</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de client&#0232;le en immobilier locatif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11801</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de gestion locative en immobilier</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de gestion locative en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11940</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e du pr&#0233;contentieux immobilier</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e du pr&#0233;contentieux immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11941</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e du quittancement</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e du quittancement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11944</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;unit&#0233; de gestion immobili&#0232;re</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;unit&#0233; de gestion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14766</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e de gestion de copropri&#0233;t&#0233;</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e de gestion de copropri&#0233;t&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14767</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e de gestion immobili&#0232;re</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e de gestion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15315</code_ogr>
+<libelle>Gestionnaire administratif / administrative immobilier</libelle>
+<libelle_court>Gestionnaire administratif / administrative immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15333</code_ogr>
+<libelle>Gestionnaire de galerie marchande</libelle>
+<libelle_court>Gestionnaire de galerie marchande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18417</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse d&#0039;immeubles</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse d&#0039;immeubles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18687</code_ogr>
+<libelle>Responsable de client&#0232;le immobilier locatif</libelle>
+<libelle_court>Responsable de client&#0232;le immobilier locatif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18720</code_ogr>
+<libelle>Responsable de gestion immobili&#0232;re locative</libelle>
+<libelle_court>Responsable de gestion immobili&#0232;re locative</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18855</code_ogr>
+<libelle>Responsable de secteur immobilier locatif</libelle>
+<libelle_court>Responsable de secteur immobilier locatif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19111</code_ogr>
+<libelle>Responsable locatif immobilier</libelle>
+<libelle_court>Responsable locatif immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19377</code_ogr>
+<libelle>Secr&#0233;taire de groupe d&#0039;immeubles</libelle>
+<libelle_court>Secr&#0233;taire de groupe d&#0039;immeubles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19382</code_ogr>
+<libelle>Secr&#0233;taire de syndic immobilier</libelle>
+<libelle_court>Secr&#0233;taire de syndic immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Effectue la gestion locative et administrative d&#0039;un portefeuille de biens immobiliers dans les domaines de l&#0039;entretien, du nettoyage, de l&#0039;hygi&#0232;ne et de la s&#0233;curit&#0233; technique notamment. Veille &#0224; la coh&#0233;rence et &#0224; la qualit&#0233; des services rendus aux clients et aux bonnes relations avec le bailleur.
+Donne un premier niveau d&#0039;information aux diff&#0233;rents interlocuteurs (locataires, prestataires, personnels de proximit&#0233;, ...).
+Peut &#0234;tre amen&#0233; &#0224; recruter ou former du personnel dit de &#0171; proximit&#0233; &#0187; (gardiens, agents d&#0039;entretien, agents d&#0039;immeuble).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS/DUT) dans le secteur de l&#0039;immobilier ou du commerce.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau Bac (g&#0233;n&#0233;ral, professionnel, technologique, ...) dans le secteur de l&#0039;immobilier ou du commerce compl&#0233;t&#0233; par une exp&#0233;rience dans le secteur.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;offices publics ou semi-publics de logement, de cabinets de syndic de copropri&#0233;t&#0233;
+ou d&#0039;administration de biens, d&#0039;agences immobili&#0232;res, d&#0039;entreprises ayant un patrimoine immobilier, ... en relation avec diff&#0233;rents services et intervenants (service juridique, ressources humaines, clients, prestataires, ...).
+Elle peut impliquer des d&#0233;placements sur site (visites, r&#0233;unions, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="2">
+<item_env>
+<code_ogr>23698</code_ogr>
+<libelle>Agence et syndic immobilier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24019</code_ogr>
+<libelle>Organisme de logement</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="15">
+<item_ab>
+<code_ogr>121368</code_ogr>
+<libelle>Analyser une demande de location</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121369</code_ogr>
+<libelle>G&#0233;rer un planning de vacances de logements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121370</code_ogr>
+<libelle>Proposer l&#0039;attribution de logements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118872</code_ogr>
+<libelle>Etablir un bail immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118873</code_ogr>
+<libelle>R&#0233;aliser un suivi administratif du recouvrement des loyers et charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108822</code_ogr>
+<libelle>Recueillir et traiter les r&#0233;clamations d&#0039;usagers, clients, r&#0233;sidents, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121268</code_ogr>
+<libelle>Actualiser les informations mises &#0224; la disposition d&#0039;un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123865</code_ogr>
+<libelle>Planifier des travaux de r&#0233;novation, de r&#0233;habilitation de patrimoine immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123864</code_ogr>
+<libelle>R&#0233;aliser des travaux de r&#0233;novation, de r&#0233;habilitation de patrimoine immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116680</code_ogr>
+<libelle>Evaluer des r&#0233;parations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116679</code_ogr>
+<libelle>Evaluer des travaux d&#0039;entretien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119106</code_ogr>
+<libelle>R&#0233;aliser un suivi d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102694</code_ogr>
+<libelle>Renseigner les supports de suivi d&#0039;intervention et transmettre les informations au service concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124559</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; de r&#0233;alisation de fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122217</code_ogr>
+<libelle>Analyser l&#0039;&#0233;volution des loyers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="13">
+<item_ab_stp>
+<code_ogr>101639</code_ogr>
+<libelle>Droit immobilier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116974</code_ogr>
+<libelle>Droits et obligations du locataire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101646</code_ogr>
+<libelle>R&#0233;glementation de la copropri&#0233;t&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101654</code_ogr>
+<libelle>Techniques de m&#0233;diation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122753</code_ogr>
+<libelle>Gestion juridique des pr&#0233;contentieux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117785</code_ogr>
+<libelle>Logiciels  immobiliers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120886</code_ogr>
+<libelle>Logiciels comptables</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126522</code_ogr>
+<libelle>Intervenir dans le domaine de la gestion immobili&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>122228</code_ogr>
+<libelle>Gestion immobili&#0232;re en copropri&#0233;t&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122202</code_ogr>
+<libelle>Gestion immobili&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122211</code_ogr>
+<libelle>Gestion immobili&#0232;re d&#0039;entreprise</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107846</code_ogr>
+<libelle>Gestion de logement social</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>118871</code_ogr>
+<libelle>R&#0233;aliser un &#0233;tat des lieux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124047</code_ogr>
+<libelle>Estimer le co&#0251;t de travaux immobiliers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119619</code_ogr>
+<libelle>Diagnostiquer des anomalies dans la pr&#0233;vention des risques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125812</code_ogr>
+<libelle>R&#0233;aliser une visite de contr&#0244;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101665</code_ogr>
+<libelle>Techniques de construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114096</code_ogr>
+<libelle>Suivre et mettre &#0224; jour des syst&#0232;mes d&#0039;information (&#0233;quipements, compteurs, ...) li&#0233;s aux interventions sur le site</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114097</code_ogr>
+<libelle>Sensibiliser les gardiens, agents d&#0039;entretien, agents d&#0039;immeuble aux consignes de s&#0233;curit&#0233;, d&#0039;entretien, de collecte des d&#0233;chets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119337</code_ogr>
+<libelle>Mettre en place des actions de gestion de ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101388</code_ogr>
+<libelle>Gestion des Ressources Humaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117590</code_ogr>
+<libelle>R&#0233;aliser la gestion administrative du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1504</code_rome_cible>
+<libelle_rome_cible>Transaction immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1203</code_rome_cible>
+<libelle_rome_cible>Comptabilit&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1501</code_rome_cible>
+<libelle_rome_cible>G&#0233;rance immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>J1406</code_rome>
+<intitule>Orthophonie</intitule>
+<code_ogr>350</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="3">
+<item_app>
+<code_ogr>16213</code_ogr>
+<libelle>Logop&#0232;de</libelle>
+<libelle_court>Logop&#0232;de</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16214</code_ogr>
+<libelle>Logop&#0233;diste</libelle>
+<libelle_court>Logop&#0233;diste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17367</code_ogr>
+<libelle>Orthophoniste</libelle>
+<libelle_court>Orthophoniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Corrige ou am&#0233;liore la communication orale, &#0233;crite de personnes atteintes de troubles du langage, de la parole ou de la voix. R&#0233;alise le bilan orthophonique et met en place les s&#0233;ances de r&#0233;&#0233;ducation sur prescription m&#0233;dicale.
+Peut effectuer une r&#0233;&#0233;ducation orthophonique pour des publics atteints de handicaps particuliers (surdit&#0233;, laryngectomie, ...).
+Peut diriger un cabinet.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec le Certificat de Capacit&#0233; d&#0039;Orthophonie.
+Des formations compl&#0233;mentaires (Oto-rhino-laryngologie -ORL-, neurologie, th&#0233;rapie comportementale et cognitive, ...) peuvent &#0234;tre requises.
+Des vaccinations pr&#0233;vues par le Code de Sant&#0233; Publique sont exig&#0233;es.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="1">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce en cabinet d&#0039;orthophonie ou au sein d&#0039;&#0233;tablissements de soins en contact avec les patients et en relation avec diff&#0233;rents intervenants (m&#0233;decins, personnel param&#0233;dical, enseignants, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23747</code_ogr>
+<libelle>Cabinet d&#0039;orthophonie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23776</code_ogr>
+<libelle>Centre de r&#0233;&#0233;ducation et de r&#0233;adaptation fonctionnelle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23788</code_ogr>
+<libelle>Centre m&#0233;dico-psychologique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>107529</code_ogr>
+<libelle>Identifier le besoin du patient et l&#0039;informer sur la d&#0233;marche orthophonique (objectif, &#0233;tapes, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107530</code_ogr>
+<libelle>Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficult&#0233;s (g&#0234;ne, manifestations) et l&#0039;environnement du patient</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107531</code_ogr>
+<libelle>D&#0233;terminer le besoin de r&#0233;&#0233;ducation orthophonique &#0224; partir de tests ou conseiller le patient sur un suivi compl&#0233;mentaire (soutien scolaire, accompagnement psychologique, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107532</code_ogr>
+<libelle>Concevoir le projet de r&#0233;&#0233;ducation orthophonique et arr&#0234;ter les modalit&#0233;s d&#0039;intervention (d&#0233;roulement, part de travail personnel, ...) selon la situation du patient (&#0226;ge, pathologie, activit&#0233;, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107533</code_ogr>
+<libelle>Concevoir le programme de la s&#0233;ance d&#0039;orthophonie et adapter les exercices selon l&#0039;&#0233;tat du patient</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107477</code_ogr>
+<libelle>R&#0233;aliser le bilan de fin de r&#0233;&#0233;ducation avec la personne et &#0233;changer des informations avec le m&#0233;decin, l&#0039;enseignant, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124612</code_ogr>
+<libelle>Renseigner des documents m&#0233;dico-administratifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103918</code_ogr>
+<libelle>Techniques d&#0039;&#0233;veil de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107204</code_ogr>
+<libelle>Grille de codification S&#0233;curit&#0233; Sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107534</code_ogr>
+<libelle>Utilisation d&#0039;a&#0233;rophonoscope, de m&#0233;tronome, de dictaphone, ...</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107535</code_ogr>
+<libelle>Neuropsychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107537</code_ogr>
+<libelle>Pathologies d&#0233;g&#0233;n&#0233;ratives</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107538</code_ogr>
+<libelle>Phoniatrie (troubles de la voix)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107480</code_ogr>
+<libelle>Classification internationale des d&#0233;ficiences</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107383</code_ogr>
+<libelle>Pathologies psychiatriques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="4">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="9">
+<item_as>
+<code_ogr>107540</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique des anomalies des fonctions oro-faciales (paralysie faciale, bec de li&#0232;vre, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107541</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique du langage &#0233;crit (dyslexie, dysorthographie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107542</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique du langage oral (b&#0233;gaiement, articulation, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107543</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique du raisonnement logico-math&#0233;matique (dyscalculie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107544</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique des troubles de la d&#0233;glutition (dysphagie, ...) et/ou r&#0233;-alimentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107545</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique des troubles neurologiques (dysphasie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107546</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique de la voix oro-oesophagienne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107547</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique de la voix trach&#0233;o-oesophagienne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107548</code_ogr>
+<libelle>Pratiquer une r&#0233;&#0233;ducation orthophonique des troubles de la voix (dysphonie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="10">
+<item_as_stp>
+<code_ogr>102633</code_ogr>
+<libelle>Langage Parl&#0233; Compl&#0233;t&#0233; -LPC-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119375</code_ogr>
+<libelle>Langue des signes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107553</code_ogr>
+<libelle>Techniques de lecture sur les l&#0232;vres</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119650</code_ogr>
+<libelle>R&#0233;&#0233;ducation par le geste</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107554</code_ogr>
+<libelle>Techniques respiratoires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107550</code_ogr>
+<libelle>Techniques d&#0039;&#0233;chauffement de la voix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107549</code_ogr>
+<libelle>Techniques de d&#0233;glutition</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107555</code_ogr>
+<libelle>Techniques d&#0039;utilisation de proth&#0232;ses phonatoires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119643</code_ogr>
+<libelle>Gymnastique faciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107831</code_ogr>
+<libelle>Th&#0233;rapies comportementales et cognitives</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>103934</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;adultes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>103935</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;un public d&#0039;enfants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117915</code_ogr>
+<libelle>Intervenir aupr&#0232;s de personnes en situation de handicap</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123680</code_ogr>
+<libelle>Mettre en oeuvre un programme de pr&#0233;vention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1103</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement personnel et bien-&#0234;tre de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15135</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice de formation param&#0233;dicale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1405</code_rome_cible>
+<libelle_rome_cible>Conseil en information m&#0233;dicale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1502</code_rome_cible>
+<libelle_rome_cible>Coordination de services m&#0233;dicaux ou param&#0233;dicaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

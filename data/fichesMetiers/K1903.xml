@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1903</code_rome>
+<intitule>D&#0233;fense et conseil juridique</intitule>
+<code_ogr>402</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="47">
+<item_app>
+<code_ogr>11469</code_ogr>
+<libelle>Avocat / Avocate</libelle>
+<libelle_court>Avocat / Avocate</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11470</code_ogr>
+<libelle>Avocat / Avocate au conseil</libelle>
+<libelle_court>Avocat / Avocate au conseil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11471</code_ogr>
+<libelle>Avocat / Avocate d&#0039;affaires</libelle>
+<libelle_court>Avocat / Avocate d&#0039;affaires</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11472</code_ogr>
+<libelle>Avocat / Avocate du droit des personnes</libelle>
+<libelle_court>Avocat / Avocate du droit des personnes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11473</code_ogr>
+<libelle>Avocat / Avocate en droit de la propri&#0233;t&#0233; industrielle</libelle>
+<libelle_court>Avocat / Avocate en droit de la propri&#0233;t&#0233; industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11474</code_ogr>
+<libelle>Avocat / Avocate en droit de l&#0039;informatique</libelle>
+<libelle_court>Avocat / Avocate en droit de l&#0039;informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11475</code_ogr>
+<libelle>Avocat / Avocate en droit des nouvelles technologies</libelle>
+<libelle_court>Avocat / Avocate en droit des nouvelles technologies</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11476</code_ogr>
+<libelle>Avocat / Avocate fiscaliste</libelle>
+<libelle_court>Avocat / Avocate fiscaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11478</code_ogr>
+<libelle>Avocat / Avocate p&#0233;naliste</libelle>
+<libelle_court>Avocat / Avocate p&#0233;naliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11479</code_ogr>
+<libelle>Avou&#0233; / Avou&#0233;e de cour d&#0039;appel</libelle>
+<libelle_court>Avou&#0233; / Avou&#0233;e de cour d&#0039;appel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12343</code_ogr>
+<libelle>Chef de service contentieux</libelle>
+<libelle_court>Chef de service contentieux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12358</code_ogr>
+<libelle>Chef de service juridique</libelle>
+<libelle_court>Chef de service juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13417</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en droit social</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en droit social</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13458</code_ogr>
+<libelle>Conseiller fiscal / Conseill&#0232;re fiscale</libelle>
+<libelle_court>Conseiller fiscal / Conseill&#0232;re fiscale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38391</code_ogr>
+<libelle>Correspondant / Correspondante Informatique et Libert&#0233;s - CIL</libelle>
+<libelle_court>Correspondant / Correspondante Informatique et Libert&#0233;s -CIL</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140940</code_ogr>
+<libelle>D&#0233;l&#0233;gu&#0233; / D&#0233;l&#0233;gu&#0233;e &#0224; la protection des donn&#0233;es - Data Protection Officer</libelle>
+<libelle_court>D&#0233;l&#0233;gu&#0233;(e) &#0224; la protection des donn&#0233;es - DPO</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14456</code_ogr>
+<libelle>Directeur / Directrice juridique</libelle>
+<libelle_court>Directeur / Directrice juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14949</code_ogr>
+<libelle>Expert / Experte juridique</libelle>
+<libelle_court>Expert / Experte juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14947</code_ogr>
+<libelle>Expert fiscal / Experte fiscale</libelle>
+<libelle_court>Expert fiscal / Experte fiscale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15092</code_ogr>
+<libelle>Fiscaliste</libelle>
+<libelle_court>Fiscaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16114</code_ogr>
+<libelle>Juriste</libelle>
+<libelle_court>Juriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16115</code_ogr>
+<libelle>Juriste civil</libelle>
+<libelle_court>Juriste civil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16116</code_ogr>
+<libelle>Juriste commercial / commerciale</libelle>
+<libelle_court>Juriste commercial / commerciale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16117</code_ogr>
+<libelle>Juriste consultant / consultante</libelle>
+<libelle_court>Juriste consultant / consultante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16118</code_ogr>
+<libelle>Juriste d&#0039;affaires</libelle>
+<libelle_court>Juriste d&#0039;affaires</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16119</code_ogr>
+<libelle>Juriste d&#0039;assurances</libelle>
+<libelle_court>Juriste d&#0039;assurances</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16120</code_ogr>
+<libelle>Juriste de banque</libelle>
+<libelle_court>Juriste de banque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16121</code_ogr>
+<libelle>Juriste de contentieux</libelle>
+<libelle_court>Juriste de contentieux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16122</code_ogr>
+<libelle>Juriste de l&#0039;environnement</libelle>
+<libelle_court>Juriste de l&#0039;environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16123</code_ogr>
+<libelle>Juriste d&#0039;entreprise</libelle>
+<libelle_court>Juriste d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38658</code_ogr>
+<libelle>Juriste droit public</libelle>
+<libelle_court>Juriste droit public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16124</code_ogr>
+<libelle>Juriste en droit de la construction</libelle>
+<libelle_court>Juriste en droit de la construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16125</code_ogr>
+<libelle>Juriste en droit de l&#0039;environnement</libelle>
+<libelle_court>Juriste en droit de l&#0039;environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16126</code_ogr>
+<libelle>Juriste financier / financi&#0232;re</libelle>
+<libelle_court>Juriste financier / financi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16127</code_ogr>
+<libelle>Juriste fiscaliste</libelle>
+<libelle_court>Juriste fiscaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16128</code_ogr>
+<libelle>Juriste immobilier</libelle>
+<libelle_court>Juriste immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16129</code_ogr>
+<libelle>Juriste international / internationale</libelle>
+<libelle_court>Juriste international / internationale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16130</code_ogr>
+<libelle>Juriste international / internationale d&#0039;entreprise</libelle>
+<libelle_court>Juriste international / internationale d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38968</code_ogr>
+<libelle>Juriste internet</libelle>
+<libelle_court>Juriste internet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16131</code_ogr>
+<libelle>Juriste linguiste</libelle>
+<libelle_court>Juriste linguiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16132</code_ogr>
+<libelle>Juriste multim&#0233;dia</libelle>
+<libelle_court>Juriste multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16133</code_ogr>
+<libelle>Juriste notarial / notariale</libelle>
+<libelle_court>Juriste notarial / notariale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16134</code_ogr>
+<libelle>Juriste social / sociale</libelle>
+<libelle_court>Juriste social / sociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18859</code_ogr>
+<libelle>Responsable de service contentieux et recouvrement</libelle>
+<libelle_court>Responsable de service contentieux et recouvrement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18864</code_ogr>
+<libelle>Responsable de service juridique</libelle>
+<libelle_court>Responsable de service juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19083</code_ogr>
+<libelle>Responsable fiscal / fiscale</libelle>
+<libelle_court>Responsable fiscal / fiscale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19109</code_ogr>
+<libelle>Responsable juridique</libelle>
+<libelle_court>Responsable juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Conseille et informe des personnes physiques ou morales en mati&#0232;re juridique et judiciaire, &#0233;tablit des actes juridiques et effectue la gestion de contentieux.
+Peut pr&#0233;senter oralement la d&#0233;fense de clients au cours de plaidoiries, peut veiller &#0224; la s&#0233;curit&#0233; juridique d&#0039;entreprises.
+Peut former des personnes dans sa sp&#0233;cialit&#0233;, actualis&#0233;e par une veille informative.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+4 (M1, IUP, ...) &#0224; Master (Master professionnel, Master recherche, ...) en droit compl&#0233;t&#0233; par une sp&#0233;cialisation (avocat, assurance, finance, fiscalit&#0233;, ...).
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de cabinets, d&#0039;entreprises priv&#0233;es ou de juridictions publiques (Cour d&#0039;appel, ...) en relation avec diff&#0233;rents services et intervenants (finance, administrations, clients, notaires, ...).
+Elle varie selon la structure (cabinet, entreprise, ...) et la fonction (avocat, juriste, responsable contentieux, ...).
+La r&#0233;mun&#0233;ration peut &#0234;tre constitu&#0233;e d&#0039;un fixe, de commissions ou d&#0039;honoraires n&#0233;goci&#0233;s.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="10">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23749</code_ogr>
+<libelle>Cabinet juridique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24102</code_ogr>
+<libelle>Soci&#0233;t&#0233; d&#0039;investissement</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23408</code_ogr>
+<libelle>Assurance</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23412</code_ogr>
+<libelle>Banque</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23535</code_ogr>
+<libelle>Informatique et t&#0233;l&#0233;communications</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>123561</code_ogr>
+<libelle>Conseiller un client sur des questions d&#0039;ordre juridique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124627</code_ogr>
+<libelle>Apporter des conseils sur des proc&#0233;dures de r&#0233;solution de litiges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118837</code_ogr>
+<libelle>R&#0233;diger des actes / proc&#0233;dures juridiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118838</code_ogr>
+<libelle>Accomplir des d&#0233;marches aupr&#0232;s d&#0039;organismes publics ou priv&#0233;s pour le compte de clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120695</code_ogr>
+<libelle>Traiter des dossiers de contentieux (litiges, r&#0233;clamations ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118732</code_ogr>
+<libelle>R&#0233;aliser une veille documentaire (collecte, analyse etc.)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124532</code_ogr>
+<libelle>Tenir inform&#0233;e sa structure des nouvelles techniques et r&#0233;glementations li&#0233;es &#0224; l&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="15">
+<item_ab_stp>
+<code_ogr>122754</code_ogr>
+<libelle>R&#0233;daction d&#0039;actes juridiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101342</code_ogr>
+<libelle>Proc&#0233;dures de recouvrement de cr&#0233;ances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108260</code_ogr>
+<libelle>Proc&#0233;dure p&#0233;nale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103228</code_ogr>
+<libelle>Droit public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101489</code_ogr>
+<libelle>Droit du travail</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108336</code_ogr>
+<libelle>Droit fiscal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108100</code_ogr>
+<libelle>Droit des soci&#0233;t&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108027</code_ogr>
+<libelle>Droit p&#0233;nal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101559</code_ogr>
+<libelle>Droit civil</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119310</code_ogr>
+<libelle>Droit du Num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101314</code_ogr>
+<libelle>Droit des assurances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>115913</code_ogr>
+<libelle>Droit de l&#0039;environnement et du d&#0233;veloppement durable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108118</code_ogr>
+<libelle>Veille juridique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122087</code_ogr>
+<libelle>Constituer des dossiers de plaidoirie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121260</code_ogr>
+<libelle>Traiter des actes de proc&#0233;dure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122003</code_ogr>
+<libelle>Conseiller une entreprise dans un cadre l&#0233;gislatif</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124859</code_ogr>
+<libelle>Veiller &#0224; la s&#0233;curit&#0233; juridique d&#0039;une entreprise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124860</code_ogr>
+<libelle>D&#0233;fendre les int&#0233;r&#0234;ts d&#0039;une entreprise lors d&#0039;op&#0233;rations financi&#0232;res et juridiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115246</code_ogr>
+<libelle>Veiller au respect de la loi Informatique et Libert&#0233;s et du RGPD dans l&#0039;entreprise, g&#0233;rer la liste des traitements de donn&#0233;es &#0224; caract&#0232;re personnel, faire l&#0039;interface avec la Commission Nationale de l&#0039;Informatique et des Libert&#0233;s - CNIL</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>119308</code_ogr>
+<libelle>R&#0233;glement G&#0233;n&#0233;ral europ&#0233;en sur la Protection des Donn&#0233;es (RGPD)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106844</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; Informatique et T&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124908</code_ogr>
+<libelle>Protection des donn&#0233;es num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>140939</code_ogr>
+<libelle>Mettre en place la documentation du D&#0233;l&#0233;gu&#0233; &#0224; la protection des donn&#0233;es - Data Protection Officer</libelle>
+<code_type_activite>1</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124628</code_ogr>
+<libelle>Repr&#0233;senter des clients devant la justice</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>108338</code_ogr>
+<libelle>Pratiques de la plaidoirie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108339</code_ogr>
+<libelle>Proc&#0233;dures du contr&#0244;le fiscal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121371</code_ogr>
+<libelle>N&#0233;gocier le montant d&#0039;honoraires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>101563</code_ogr>
+<libelle>Arr&#0234;ter les termes d&#0039;un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>123656</code_ogr>
+<libelle>Sensibiliser un public &#0224; une r&#0233;glementation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>116920</code_ogr>
+<libelle>Concevoir un programme de formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1901</code_rome_cible>
+<libelle_rome_cible>Aide et m&#0233;diation judiciaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16606</code_appellation_cible>
+<libelle_appellation_cible>M&#0233;diateur / M&#0233;diatrice judiciaire</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>13458</code_appellation_source>
+<libelle_appellation_source>Conseiller fiscal / Conseill&#0232;re fiscale</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1205</code_rome_cible>
+<libelle_rome_cible>Conseil en gestion de patrimoine financier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16128</code_appellation_source>
+<libelle_appellation_source>Juriste immobilier</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1503</code_rome_cible>
+<libelle_rome_cible>Management de projet immobilier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1106</code_rome_cible>
+<libelle_rome_cible>Journalisme et information m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16099</code_appellation_cible>
+<libelle_appellation_cible>Journaliste sp&#0233;cialis&#0233; / sp&#0233;cialis&#0233;e</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1404</code_rome_cible>
+<libelle_rome_cible>Mise en oeuvre et pilotage de la politique des pouvoirs publics</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16126</code_appellation_source>
+<libelle_appellation_source>Juriste financier / financi&#0232;re</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1201</code_rome_cible>
+<libelle_rome_cible>Analyse et ing&#0233;nierie financi&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

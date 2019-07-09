@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1303</code_rome>
+<intitule>Assistance aupr&#0232;s d&#0039;enfants</intitule>
+<code_ogr>377</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>10238</code_ogr>
+<libelle>Accueillant familial / Accueillante familiale aupr&#0232;s d&#0039;enfants</libelle>
+<libelle_court>Accueillant familial/Accueillante familiale aupr&#0232;s d&#0039;enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10240</code_ogr>
+<libelle>Accueillant familial / Accueillante familiale th&#0233;rapeutique aupr&#0232;s d&#0039;enfants</libelle>
+<libelle_court>Accueillant(e) familial(e) th&#0233;rapeutique aupr&#0232;s d&#0039;enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10756</code_ogr>
+<libelle>Agent sp&#0233;cialis&#0233; / Agente sp&#0233;cialis&#0233;e des &#0233;coles maternelles -ASEM-</libelle>
+<libelle_court>Agent sp&#0233;cialis&#0233;/Agente sp&#0233;cialis&#0233;e des &#0233;coles maternelles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10757</code_ogr>
+<libelle>Agent sp&#0233;cialis&#0233; / Agente sp&#0233;cialis&#0233;e des &#0233;coles primaires</libelle>
+<libelle_court>Agent sp&#0233;cialis&#0233; / Agente sp&#0233;cialis&#0233;e des &#0233;coles primaires</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38633</code_ogr>
+<libelle>Aide maternel / maternelle de cr&#0232;che - halte garderie</libelle>
+<libelle_court>Aide maternel / maternelle de cr&#0232;che - halte garderie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10854</code_ogr>
+<libelle>Aide maternel / maternelle d&#0039;&#0233;cole</libelle>
+<libelle_court>Aide maternel / maternelle d&#0039;&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11180</code_ogr>
+<libelle>Assistant / Assistante accueil petite enfance</libelle>
+<libelle_court>Assistant / Assistante accueil petite enfance</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38088</code_ogr>
+<libelle>Assistant  maternel agr&#0233;&#0233; / Assistante maternelle agr&#0233;&#0233;e</libelle>
+<libelle_court>Assistant  maternel agr&#0233;&#0233; / Assistante maternelle agr&#0233;&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11287</code_ogr>
+<libelle>Assistant familial / Assistante familiale</libelle>
+<libelle_court>Assistant familial / Assistante familiale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11304</code_ogr>
+<libelle>Assistant maternel / Assistante maternelle</libelle>
+<libelle_court>Assistant maternel / Assistante maternelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11305</code_ogr>
+<libelle>Assistant maternel / Assistante maternelle &#0224; domicile</libelle>
+<libelle_court>Assistant maternel / Assistante maternelle &#0224; domicile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11306</code_ogr>
+<libelle>Assistant maternel / Assistante maternelle du particulier employeur</libelle>
+<libelle_court>Assistant(e) maternel(le) du particulier employeur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11307</code_ogr>
+<libelle>Assistant maternel / Assistante maternelle en famille d&#0039;accueil</libelle>
+<libelle_court>Assistant(e) maternel(le) en famille d&#0039;accueil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11455</code_ogr>
+<libelle>Auxiliaire de vie sociale aupr&#0232;s d&#0039;enfants</libelle>
+<libelle_court>Auxiliaire de vie sociale aupr&#0232;s d&#0039;enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11462</code_ogr>
+<libelle>Auxiliaire parental / parentale</libelle>
+<libelle_court>Auxiliaire parental / parentale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11480</code_ogr>
+<libelle>Baby-sitter</libelle>
+<libelle_court>Baby-sitter</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14594</code_ogr>
+<libelle>Educateur familial / Educatrice familiale</libelle>
+<libelle_court>Educateur familial / Educatrice familiale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14750</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e au pair</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e au pair</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14804</code_ogr>
+<libelle>Employ&#0233; familial / Employ&#0233;e familiale aupr&#0232;s d&#0039;enfants</libelle>
+<libelle_court>Employ&#0233; familial / Employ&#0233;e familiale aupr&#0232;s d&#0039;enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15196</code_ogr>
+<libelle>Garde d&#0039;enfant &#0224; domicile</libelle>
+<libelle_court>Garde d&#0039;enfant &#0224; domicile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15383</code_ogr>
+<libelle>Gouvernant / Gouvernante d&#0039;enfant &#0224; domicile</libelle>
+<libelle_court>Gouvernant / Gouvernante d&#0039;enfant &#0224; domicile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16326</code_ogr>
+<libelle>Ma&#0238;tre / Ma&#0238;tresse de maison d&#0039;enfants</libelle>
+<libelle_court>Ma&#0238;tre / Ma&#0238;tresse de maison d&#0039;enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16999</code_ogr>
+<libelle>Nourrice</libelle>
+<libelle_court>Nourrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Aide les enfants dans la r&#0233;alisation des actes de la vie quotidienne (habillage, prise de repas...).
+M&#0232;ne avec eux des activit&#0233;s d&#0039;&#0233;veil (jeux, apprentissage de la vie collective...).
+Peut effectuer l&#0039;entretien du cadre de vie des enfants.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP/BEP dans le secteur de l&#0039;aide sociale et familiale (petite enfance, carri&#0232;res sanitaires et sociales, ...).
+Il l&#0039;est &#0233;galement avec une exp&#0233;rience professionnelle aupr&#0232;s des enfants.
+Un agr&#0233;ment renouvelable d&#0233;livr&#0233; par le Conseil G&#0233;n&#0233;ral du d&#0233;partement de r&#0233;sidence est requis pour le poste d&#0039;assistante maternelle agr&#0233;&#0233;e ou PMI.
+Des vaccinations sp&#0233;cifiques (H&#0233;patite B, DTPolio, ...) peuvent &#0234;tre requises.
+Pour l&#0039;Assistant familial, le Dipl&#0244;me d&#0039;Etat d&#0039;Assistant Familial - DEAFest exig&#0233;.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au domicile de particuliers, au sein d&#0039;&#0233;tablissements (scolaires, collectivit&#0233;s territoriales, villages d&#0039;enfants), d&#0039;associations, ... en contact avec diff&#0233;rents intervenants (parents, personnel param&#0233;dical/social, enseignant, ...).
+Elle s&#0039;exerce dans une relation d&#0039;aide et de services.
+Elle peut varier selon la structure (particulier employeur, collectivit&#0233;, ...), le lieu (domicile des parents, domicile de l&#0039;assistante maternelle, &#0233;cole, &#0233;tablissement, ...), le type de garde (partag&#0233;e, simple, ...) et l&#0039;&#0226;ge des enfants.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, ou de nuit.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23780</code_ogr>
+<libelle>Accueil collectif de mineurs (ACM)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23774</code_ogr>
+<libelle>Centre de Protection Maternelle et Infantile</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23924</code_ogr>
+<libelle>Etablissement scolaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38127</code_ogr>
+<libelle>Particulier employeur</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24109</code_ogr>
+<libelle>Structure d&#0039;accueil petite enfance</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23473</code_ogr>
+<libelle>Education / Enseignement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23554</code_ogr>
+<libelle>M&#0233;dical</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23555</code_ogr>
+<libelle>M&#0233;dicosocial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23637</code_ogr>
+<libelle>Services &#0224; la personne</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23374</code_ogr>
+<libelle>Au domicile de l&#0039;intervenant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>107933</code_ogr>
+<libelle>Pr&#0233;parer et donner un repas, une boisson &#0224; l&#0039;enfant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107934</code_ogr>
+<libelle>Entretenir les espaces de vie et le linge de l&#0039;enfant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107935</code_ogr>
+<libelle>Proc&#0233;der &#0224; la toilette et aux soins de l&#0039;enfant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107936</code_ogr>
+<libelle>Procurer &#0224; l&#0039;enfant des &#0233;l&#0233;ments de confort, de r&#0233;confort (bercement, doudou, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107371</code_ogr>
+<libelle>Accompagner l&#0039;enfant dans l&#0039;apprentissage des gestes de la vie quotidienne et des r&#0232;gles de vie en collectivit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107937</code_ogr>
+<libelle>Animer les activit&#0233;s ludiques ou aider l&#0039;enfant lors d&#0039;activit&#0233;s d&#0039;&#0233;veil et d&#0039;apprentissage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107938</code_ogr>
+<libelle>Observer le comportement et l&#0039;&#0233;volution de l&#0039;enfant et informer parents, familles, enseignants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="10">
+<item_ab_stp>
+<code_ogr>102065</code_ogr>
+<libelle>Di&#0233;t&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103918</code_ogr>
+<libelle>Techniques d&#0039;&#0233;veil de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107374</code_ogr>
+<libelle>Psychologie de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107375</code_ogr>
+<libelle>Pathologies de l&#0039;enfant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124475</code_ogr>
+<libelle>Produits de nettoyage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104167</code_ogr>
+<libelle>Caract&#0233;ristiques des produits d&#0039;entretien</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107925</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; domestique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103885</code_ogr>
+<libelle>Gestes d&#0039;urgence et de secours</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107939</code_ogr>
+<libelle>Relation &#0224; l&#0039;enfant ou l&#0039;adolescent</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102096</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et de propret&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>107489</code_ogr>
+<libelle>Intervenir aupr&#0232;s de nourrissons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107942</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants de 3 &#0224; 6 ans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107943</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants de 6 &#0224; 10 ans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107944</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants de + de 10 ans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107945</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants malades</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107946</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants maltrait&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123950</code_ogr>
+<libelle>Intervenir aupr&#0232;s d&#0039;enfants en situation de handicap</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107774</code_ogr>
+<libelle>Caract&#0233;ristiques socio-culturelles des publics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115125</code_ogr>
+<libelle>Distribuer ou administrer des m&#0233;dicaments &#0224; un enfant selon une prescription m&#0233;dicale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>107368</code_ogr>
+<libelle>Accueillir l&#0039;enfant et le guider &#0224; son arriv&#0233;e dans la structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115126</code_ogr>
+<libelle>Surveiller le d&#0233;roulement des devoirs d&#0039;un enfant scolaris&#0233; ou apporter une aide</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115127</code_ogr>
+<libelle>Pratiquer des exercices pour un enfant d&#0233;ficient selon un protocole th&#0233;rapeutique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120683</code_ogr>
+<libelle>Collaborer avec l&#0039;ensemble des intervenants &#0224; la r&#0233;alisation d&#0039;un objectif commun</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113738</code_ogr>
+<libelle>Actualiser la documentation professionnelle et r&#0233;glementaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123994</code_ogr>
+<libelle>Renseigner les documents de suivi d&#0039;une personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1301</code_rome_cible>
+<libelle_rome_cible>Personnel polyvalent des services hospitaliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1302</code_rome_cible>
+<libelle_rome_cible>Assistance aupr&#0232;s d&#0039;adultes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1304</code_rome_cible>
+<libelle_rome_cible>Services domestiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1203</code_rome_cible>
+<libelle_rome_cible>Animation de loisirs aupr&#0232;s d&#0039;enfants ou d&#0039;adolescents</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1502</code_rome_cible>
+<libelle_rome_cible>Personnel polyvalent d&#0039;h&#0244;tellerie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1303</code_rome_cible>
+<libelle_rome_cible>Assistance m&#0233;dico-technique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1304</code_rome_cible>
+<libelle_rome_cible>Aide en pu&#0233;riculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1501</code_rome_cible>
+<libelle_rome_cible>Soins d&#0039;hygi&#0232;ne, de confort du patient</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1202</code_rome_cible>
+<libelle_rome_cible>&#0201;ducation de jeunes enfants</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

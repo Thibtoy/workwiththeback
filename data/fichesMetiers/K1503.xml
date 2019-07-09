@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1503</code_rome>
+<intitule>Contr&#0244;le et inspection des imp&#0244;ts</intitule>
+<code_ogr>386</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="7">
+<item_app>
+<code_ogr>12086</code_ogr>
+<libelle>Chef de centre des imp&#0244;ts</libelle>
+<libelle_court>Chef de centre des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13510</code_ogr>
+<libelle>Conservateur / Conservatrice des hypoth&#0232;ques</libelle>
+<libelle_court>Conservateur / Conservatrice des hypoth&#0232;ques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13621</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse des imp&#0244;ts</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15963</code_ogr>
+<libelle>Inspecteur / Inspectrice des imp&#0244;ts</libelle>
+<libelle_court>Inspecteur / Inspectrice des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15986</code_ogr>
+<libelle>Inspecteur principal / Inspectrice principale des imp&#0244;ts</libelle>
+<libelle_court>Inspecteur principal / Inspectrice principale des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15996</code_ogr>
+<libelle>Inspecteur v&#0233;rificateur / Inspectrice v&#0233;rificatrice des imp&#0244;ts</libelle>
+<libelle_court>Inspecteur v&#0233;rificateur/Inspectrice v&#0233;rificatrice des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18328</code_ogr>
+<libelle>Receveur / Receveuse des imp&#0244;ts</libelle>
+<libelle_court>Receveur / Receveuse des imp&#0244;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Effectue le contr&#0244;le des dossiers de d&#0233;clarations fiscales des contribuables (particuliers et professionnels) et apporte une expertise sur la r&#0233;glementation en mati&#0232;re d&#0039;imposition. Participe au r&#0232;glement de dossiers litigieux aupr&#0232;s de particuliers ou de professionnels (v&#0233;rification des comptes, enqu&#0234;tes, d&#0233;gr&#0232;vement, ...).
+Peut intervenir dans un service particulier (cadastre, conservation des hypoth&#0232;ques, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible sur concours du Minist&#0232;re de l&#0039;Economie, des Finances et de l&#0039;Industrie avec un dipl&#0244;me de niveau Bac (Bac g&#0233;n&#0233;ral, capacit&#0233; en droit, ...) pour le poste de contr&#0244;leur des imp&#0244;ts et un dipl&#0244;me de niveau Licence (L3), Dipl&#0244;me de Comptabilit&#0233; et de Gestion -DCG-, ... pour le poste d&#0039;inspecteur des imp&#0244;ts.
+Un casier judiciaire exempt de toute mention contradictoire est obligatoire.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de centres des imp&#0244;ts, recettes des imp&#0244;ts, centres des imp&#0244;ts fonciers, brigades de contr&#0244;le et de recherche, brigades de v&#0233;rifications, services de conservation des hypoth&#0232;ques, en contact avec les usagers (particuliers, professionnels) et diff&#0233;rents Services de l&#0039;Etat (Douanes, Direction G&#0233;n&#0233;rale de la Concurrence, de la Consommation et de la R&#0233;pression des Fraudes -DGCCRF-, ...).
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier varie selon le centre d&#0039;affectation et le type de public (particuliers, petites entreprises, grandes entreprises, ...).
+Elle peut impliquer des d&#0233;placements (enqu&#0234;tes, v&#0233;rifications, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23728</code_ogr>
+<libelle>Brigade de contr&#0244;le et de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23782</code_ogr>
+<libelle>Centre des imp&#0244;ts</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24046</code_ogr>
+<libelle>Recette des finances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24063</code_ogr>
+<libelle>Service de conservation des hypoth&#0232;ques</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>124292</code_ogr>
+<libelle>Renseigner les usagers et les conseiller dans leurs d&#0233;marches juridiques et fiscales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122071</code_ogr>
+<libelle>Calculer le montant d&#0039;imposition des contribuables</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122070</code_ogr>
+<libelle>Contr&#0244;ler les dossiers des contribuables en mati&#0232;re d&#0039;imp&#0244;ts et de taxes locales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124036</code_ogr>
+<libelle>Apporter une expertise sur des r&#0232;gles fiscales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124035</code_ogr>
+<libelle>Effectuer des v&#0233;rifications comptables</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120695</code_ogr>
+<libelle>Traiter des dossiers de contentieux (litiges, r&#0233;clamations ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123375</code_ogr>
+<libelle>G&#0233;rer le recouvrement des imp&#0244;ts</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="6">
+<item_ab_stp>
+<code_ogr>107983</code_ogr>
+<libelle>Finances publiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101360</code_ogr>
+<libelle>Comptabilit&#0233; g&#0233;n&#0233;rale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108100</code_ogr>
+<libelle>Droit des soci&#0233;t&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103228</code_ogr>
+<libelle>Droit public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124326</code_ogr>
+<libelle>R&#0233;aliser une publicit&#0233; fonci&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124327</code_ogr>
+<libelle>Percevoir des droits de mutations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123377</code_ogr>
+<libelle>&#0201;tablir une base d&#0039;imposition &#0224; la taxe fonci&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123376</code_ogr>
+<libelle>G&#0233;rer un cadastre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>121994</code_ogr>
+<libelle>Effectuer les op&#0233;rations d&#0039;acquisition, de cession ou de location immobili&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123378</code_ogr>
+<libelle>G&#0233;rer le patrimoine de l&#0039;Etat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123379</code_ogr>
+<libelle>Contr&#0244;ler des op&#0233;rations immobili&#0232;res</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124422</code_ogr>
+<libelle>V&#0233;rifier l&#0039;application de proc&#0233;dures op&#0233;rationnelles et juridiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124421</code_ogr>
+<libelle>R&#0233;aliser le suivi d&#0039;un contr&#0244;le interne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1401</code_rome_cible>
+<libelle_rome_cible>Conception et pilotage de la politique des pouvoirs publics</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1404</code_rome_cible>
+<libelle_rome_cible>Mise en oeuvre et pilotage de la politique des pouvoirs publics</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1505</code_rome_cible>
+<libelle_rome_cible>Protection des consommateurs et contr&#0244;le des &#0233;changes commerciaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

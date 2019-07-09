@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H3201</code_rome>
+<intitule>Conduite d&#0039;&#0233;quipement de formage des plastiques et caoutchoucs</intitule>
+<code_ogr>294</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="30">
+<item_app>
+<code_ogr>11649</code_ogr>
+<libelle>Calandreur / Calandreuse en caoutchouc industriel</libelle>
+<libelle_court>Calandreur / Calandreuse en caoutchouc industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13140</code_ogr>
+<libelle>Conducteur / Conductrice de presses &#0224; injecter en caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Conducteur(trice) presses &#0224; injecter caoutch mati&#0232;re plast</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13141</code_ogr>
+<libelle>Conducteur / Conductrice de presses &#0224; mouler le caoutchouc et les mati&#0232;res plastiques</libelle>
+<libelle_court>Conducteur(trice) &#0224; mouler caoutchouc et mati&#0232;res plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13142</code_ogr>
+<libelle>Conducteur / Conductrice de presses &#0224; vulcaniser</libelle>
+<libelle_court>Conducteur / Conductrice de presses &#0224; vulcaniser</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13295</code_ogr>
+<libelle>Conducteur / Conductrice extrudeuses en caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Conducteur(trice) extrudeuse caoutchouc, mati&#0232;res plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13330</code_ogr>
+<libelle>Conducteur / Conductrice sur machines de formage des mati&#0232;res plastiques et caoutchouc</libelle>
+<libelle_court>Conducteur(trice) machines formage mati&#0232;res plastiques caout</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13335</code_ogr>
+<libelle>Conducteur-assembleur / Conductrice-assembleuse en caoutchouc industriel</libelle>
+<libelle_court>Conducteur(trice)-assembleur(se) en caoutchouc ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13342</code_ogr>
+<libelle>Confectionneur / Confectionneuse de pneumatiques</libelle>
+<libelle_court>Confectionneur / Confectionneuse de pneumatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14826</code_ogr>
+<libelle>Enducteur / Enductrice en caoutchouc</libelle>
+<libelle_court>Enducteur / Enductrice en caoutchouc</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14829</code_ogr>
+<libelle>Enducteur / Enductrice plastique</libelle>
+<libelle_court>Enducteur / Enductrice plastique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15021</code_ogr>
+<libelle>Extrudeur / Extrudeuse en caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Extrudeur / Extrudeuse en caoutchouc et mati&#0232;res plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15148</code_ogr>
+<libelle>Formeur / Formeuse en thermoplastiques</libelle>
+<libelle_court>Formeur / Formeuse en thermoplastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15149</code_ogr>
+<libelle>Formeur-usineur / Formeuse-usineuse en thermoplastiques</libelle>
+<libelle_court>Formeur-usineur / Formeuse-usineuse en thermoplastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15917</code_ogr>
+<libelle>Injecteur / Injecteuse chaussures</libelle>
+<libelle_court>Injecteur / Injecteuse chaussures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16922</code_ogr>
+<libelle>Mouleur-stratifieur / Mouleuse-stratifieuse par centrifugation</libelle>
+<libelle_court>Mouleur-stratifieur/Mouleuse-stratifieuse par centrifugation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16923</code_ogr>
+<libelle>Mouleur-stratifieur / Mouleuse-stratifieuse par enroulement</libelle>
+<libelle_court>Mouleur-stratifieur / Mouleuse-stratifieuse par enroulement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16924</code_ogr>
+<libelle>Mouleur-stratifieur / Mouleuse-stratifieuse par pultrusion</libelle>
+<libelle_court>Mouleur-stratifieur / Mouleuse-stratifieuse par pultrusion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16925</code_ogr>
+<libelle>Mouleur-stratifieur / Mouleuse-stratifieuse sur presse</libelle>
+<libelle_court>Mouleur-stratifieur / Mouleuse-stratifieuse sur presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17206</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice en plasturgie</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice en plasturgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17227</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice extrusion en caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Op&#0233;rateur(trice) extrusion en caoutchouc et mat plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17239</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice injection en caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Op&#0233;rateur(trice) injection en caoutchouc et mat plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17276</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice soufflage en mati&#0232;res plastiques</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice soufflage en mati&#0232;res plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17299</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice sur machine de formage des mati&#0232;res plastiques et des caoutchoucs</libelle>
+<libelle_court>Op&#0233;rateur(trice) machine formage plastiques caoutchoucs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17300</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice sur machine de mise en forme du caoutchouc</libelle>
+<libelle_court>Op&#0233;rateur(trice) sur machine de mise en forme du caoutchouc</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17332</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice sur presse &#0224; caoutchouc et mati&#0232;res plastiques</libelle>
+<libelle_court>Op&#0233;rateur(trice) sur presse &#0224; caoutchouc et mat plastiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17825</code_ogr>
+<libelle>Plasturgiste</libelle>
+<libelle_court>Plasturgiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19463</code_ogr>
+<libelle>Soudeur / Soudeuse chaussures</libelle>
+<libelle_court>Soudeur / Soudeuse chaussures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20323</code_ogr>
+<libelle>Thermoformeur / Thermoformeuse</libelle>
+<libelle_court>Thermoformeur / Thermoformeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20721</code_ogr>
+<libelle>Vulcaniseur / Vulcaniseuse chaussures</libelle>
+<libelle_court>Vulcaniseur / Vulcaniseuse chaussures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20722</code_ogr>
+<libelle>Vulcaniseur / Vulcaniseuse en caoutchouc industriel</libelle>
+<libelle_court>Vulcaniseur / Vulcaniseuse en caoutchouc industriel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Surveille et r&#0233;gule une ou plusieurs machines automatis&#0233;es de transformation de produits plastiques, caoutchouc ou mati&#0232;res composites selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production (qualit&#0233;, co&#0251;ts, d&#0233;lais, ...). Effectue des contr&#0244;les de conformit&#0233; des produits en cours de production.
+Peut r&#0233;aliser des op&#0233;rations manuelles li&#0233;es au produit (finition, conditionnement, ...), r&#0233;gler les &#0233;quipements et effectuer la maintenance de premier niveau.
+Peut coordonner une &#0233;quipe (op&#0233;rateurs, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP/BEP &#0224; Bac (professionnel, technologique, ...) en m&#0233;canique, plasturgie, ...
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle en industrie (conduite de machines, ...) sans dipl&#0244;me particulier.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de production d&#0039;articles en plastique, caoutchouc ou composites.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; s&#0039;effectue en atelier et peut impliquer le port de charges.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (chaussures de s&#0233;curit&#0233;, lunettes de protection...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="13">
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23398</code_ogr>
+<libelle>Ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23435</code_ogr>
+<libelle>Chaussure</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23449</code_ogr>
+<libelle>Conditionnement, emballage</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23554</code_ogr>
+<libelle>M&#0233;dical</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23557</code_ogr>
+<libelle>Menuiserie industrielle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23654</code_ogr>
+<libelle>Transformation des mat&#0233;riaux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>123601</code_ogr>
+<libelle>Contr&#0244;ler la s&#0233;curit&#0233; d&#0039;une installation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123564</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement d&#0039;un outil ou &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104855</code_ogr>
+<libelle>Surveiller le fonctionnement des machines et des &#0233;quipements et effectuer des interventions simples en cas d&#0039;incident</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124018</code_ogr>
+<libelle>Contr&#0244;ler un flux de mati&#0232;re ou de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123560</code_ogr>
+<libelle>Contr&#0244;ler un moyen de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106324</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;aspect d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106325</code_ogr>
+<libelle>Trier et diriger les pi&#0232;ces d&#0233;fectueuses vers les zones de recyclage ou d&#0039;&#0233;vacuation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106326</code_ogr>
+<libelle>Renseigner les supports de suivi de fabrication ou de conditionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100262</code_ogr>
+<libelle>Proc&#0233;dures de nettoyage et de d&#0233;sinfection</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100554</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riaux composites</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105305</code_ogr>
+<libelle>Utilisation d&#0039;instruments de mesure (gabarit, balance, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105818</code_ogr>
+<libelle>Proc&#0233;dures de conduite d&#0039;installation en mode manuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102832</code_ogr>
+<libelle>Lecture de documents techniques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124459</code_ogr>
+<libelle>Donn&#0233;es de contr&#0244;le</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105819</code_ogr>
+<libelle>Proc&#0233;dures de conduite d&#0039;installation en mode automatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="8">
+<item_as>
+<code_ogr>106328</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine &#0224; compression</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106329</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine &#0224; extrusion (fili&#0232;re plate, profil&#0233;s et tubes, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106330</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine &#0224; extrusion soufflage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106331</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine &#0224; injection</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106332</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine &#0224; injection soufflage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106333</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine de calandrage, enduction</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106334</code_ogr>
+<libelle>Transformer des mati&#0232;res (plastique, caoutchouc, ...) sur machine de rotomoulage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106335</code_ogr>
+<libelle>R&#0233;aliser la transformation de mati&#0232;res (plastique, caoutchouc, ...) sur machine de thermoformage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106336</code_ogr>
+<libelle>D&#0233;moulage de pi&#0232;ce</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="9">
+<item_as>
+<code_ogr>106337</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par al&#0233;sage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106338</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par collage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106339</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par d&#0233;coupe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106340</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par &#0233;bavurage, pon&#0231;age</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106341</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par marquage &#0224; chaud</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106342</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par per&#0231;age, vissage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106343</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par s&#0233;rigraphie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>106344</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par soudage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106345</code_ogr>
+<libelle>R&#0233;aliser des reprises, des finitions ou des assemblages par tampographie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119156</code_ogr>
+<libelle>Pr&#0233;parer la mati&#0232;re premi&#0232;re en vue d&#0039;une production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123849</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;une mati&#0232;re premi&#0232;re ou d&#0039;un composant</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>106348</code_ogr>
+<libelle>Caract&#0233;ristiques des caoutchoucs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106347</code_ogr>
+<libelle>Caract&#0233;ristiques des plastiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105114</code_ogr>
+<libelle>Pesage et dosage de produits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114230</code_ogr>
+<libelle>Surveiller le d&#0233;roulement de la production et ajuster le r&#0233;glage des param&#0232;tres des &#0233;quipements en fonction des &#0233;carts</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102884</code_ogr>
+<libelle>Programmation de machine &#0224; commandes num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105822</code_ogr>
+<libelle>Modalit&#0233;s de r&#0233;glage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>124084</code_ogr>
+<libelle>Identifier un produit par marquage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124003</code_ogr>
+<libelle>Contr&#0244;ler le conditionnement d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124455</code_ogr>
+<libelle>Appareil de conditionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123019</code_ogr>
+<libelle>Techniques de conditionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124888</code_ogr>
+<libelle>Entretenir des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="9">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2102</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de production alimentaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2301</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de production chimique ou pharmaceutique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2405</code_rome_cible>
+<libelle_rome_cible>Conduite de machine de textiles nontiss&#0233;s</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2603</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;installation automatis&#0233;e de production &#0233;lectrique, &#0233;lectronique et micro&#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2801</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de transformation du verre</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2802</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;installation de production de mat&#0233;riaux de construction</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2803</code_rome_cible>
+<libelle_rome_cible>Fa&#0231;onnage et &#0233;maillage en industrie c&#0233;ramique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3101</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de fabrication de papier ou de carton</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3301</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de conditionnement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1403</code_rome_cible>
+<libelle_rome_cible>Intervention technique en gestion industrielle et logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1503</code_rome_cible>
+<libelle_rome_cible>Intervention technique en laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2504</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe en industrie de transformation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3202</code_rome_cible>
+<libelle_rome_cible>R&#0233;glage d&#0039;&#0233;quipement de formage des plastiques et caoutchoucs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3203</code_rome_cible>
+<libelle_rome_cible>Fabrication de pi&#0232;ces en mat&#0233;riaux composites</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

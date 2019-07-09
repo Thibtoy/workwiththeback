@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1204</code_rome>
+<intitule>Contr&#0244;le de gestion</intitule>
+<code_ogr>461</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="25">
+<item_app>
+<code_ogr>10937</code_ogr>
+<libelle>Analyste de gestion d&#0039;entreprise</libelle>
+<libelle_court>Analyste de gestion d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11190</code_ogr>
+<libelle>Assistant / Assistante au contr&#0244;le de gestion</libelle>
+<libelle_court>Assistant / Assistante au contr&#0244;le de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11224</code_ogr>
+<libelle>Assistant / Assistante de contr&#0244;le budg&#0233;taire</libelle>
+<libelle_court>Assistant / Assistante de contr&#0244;le budg&#0233;taire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11409</code_ogr>
+<libelle>Auditeur / Auditrice de gestion d&#0039;entreprise</libelle>
+<libelle_court>Auditeur / Auditrice de gestion d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11938</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e du contr&#0244;le de gestion</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e du contr&#0244;le de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13426</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en gestion</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13548</code_ogr>
+<libelle>Consultant / Consultante interne en gestion</libelle>
+<libelle_court>Consultant / Consultante interne en gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13597</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13598</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion budg&#0233;taire</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion budg&#0233;taire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13599</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion centrale</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion centrale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13600</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion charg&#0233;(e) du budget</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion charg&#0233;(e) du budget</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13601</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion commerciale</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion commerciale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13602</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion de groupe</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion de groupe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13603</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion d&#0039;une unit&#0233; de production</libelle>
+<libelle_court>Contr&#0244;leur/Contr&#0244;leuse de gestion d&#0039;une unit&#0233; de production</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13604</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion d&#0039;usine</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion d&#0039;usine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13605</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion financi&#0232;re</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion financi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13606</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de gestion industrielle</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de gestion industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13638</code_ogr>
+<libelle>Contr&#0244;leur financier / Contr&#0244;leuse financi&#0232;re</libelle>
+<libelle_court>Contr&#0244;leur financier / Contr&#0244;leuse financi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14427</code_ogr>
+<libelle>Directeur / Directrice du contr&#0244;le budg&#0233;taire</libelle>
+<libelle_court>Directeur / Directrice du contr&#0244;le budg&#0233;taire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14428</code_ogr>
+<libelle>Directeur / Directrice du contr&#0244;le de gestion</libelle>
+<libelle_court>Directeur / Directrice du contr&#0244;le de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18599</code_ogr>
+<libelle>Responsable contr&#0244;le de gestion</libelle>
+<libelle_court>Responsable contr&#0244;le de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18600</code_ogr>
+<libelle>Responsable contr&#0244;le de gestion et budgets</libelle>
+<libelle_court>Responsable contr&#0244;le de gestion et budgets</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18601</code_ogr>
+<libelle>Responsable contr&#0244;le de gestion et comptabilit&#0233;</libelle>
+<libelle_court>Responsable contr&#0244;le de gestion et comptabilit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18602</code_ogr>
+<libelle>Responsable contr&#0244;le de gestion internationale</libelle>
+<libelle_court>Responsable contr&#0244;le de gestion internationale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19022</code_ogr>
+<libelle>Responsable du service contr&#0244;le de gestion</libelle>
+<libelle_court>Responsable du service contr&#0244;le de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Organise et contr&#0244;le la gestion &#0233;conomique (d&#0233;finition d&#0039;objectifs, indicateurs d&#0039;activit&#0233;, mesure de performance, ...) d&#0039;une structure (entreprise, filiale, collectivit&#0233; territoriale, ...) et en optimise la rentabilit&#0233; financi&#0232;re selon les choix strat&#0233;giques d&#0233;cid&#0233;s par les instances dirigeantes et les r&#0232;glementations (commerciales, fiscales et financi&#0232;res).
+Peut r&#0233;aliser des &#0233;tudes prospectives de r&#0233;sultats de la structure.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (M1, DSCG, Master professionnel, dipl&#0244;me de grandes &#0233;coles, ...) en comptabilit&#0233;, contr&#0244;le de gestion, gestion financi&#0232;re, gestion d&#0039;entreprise.
+Une exp&#0233;rience ou une connaissance du secteur d&#0039;activit&#0233; de l&#0039;entreprise peut &#0234;tre demand&#0233;e.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, peut &#0234;tre exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de grandes entreprises, de Petites et Moyennes Entreprises de plus de 200 salari&#0233;s, de soci&#0233;t&#0233;s de conseils en gestion, de collectivit&#0233;s territoriales, en relation avec diff&#0233;rents services et intervenants (direction des services comptable, service informatique, directeur financier, directeur g&#0233;n&#0233;ral, ...).
+Elle peut impliquer des d&#0233;placements.
+Elle varie selon le secteur (commerce, industrie, Services de l&#0039;Etat, ...) et l&#0039;organisation de la structure (filiale, succursale, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23738</code_ogr>
+<libelle>Cabinet comptable</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23911</code_ogr>
+<libelle>Entreprise Moyenne</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23950</code_ogr>
+<libelle>Grande entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24014</code_ogr>
+<libelle>Organisation humanitaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24081</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="13">
+<item_ab>
+<code_ogr>109642</code_ogr>
+<libelle>Concevoir des indicateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120779</code_ogr>
+<libelle>Piloter les indicateurs de gestion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124766</code_ogr>
+<libelle>Suivre l&#0039;&#0233;volution des r&#0233;sultats financiers d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121322</code_ogr>
+<libelle>Evaluer la performance d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119492</code_ogr>
+<libelle>Identifier les risques li&#0233;s &#0224; une gestion d&#0039;entreprise</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab>
+<item_ab>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119381</code_ogr>
+<libelle>R&#0233;aliser un suivi budg&#0233;taire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124776</code_ogr>
+<libelle>Superviser une cl&#0244;ture comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119395</code_ogr>
+<libelle>Mettre en place le contr&#0244;le interne d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116827</code_ogr>
+<libelle>Proposer des solutions d&#0039;optimisation de rentabilit&#0233; de la structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120563</code_ogr>
+<libelle>R&#0233;aliser un reporting</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124139</code_ogr>
+<libelle>Conseiller une entreprise en mati&#0232;re de gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119478</code_ogr>
+<libelle>Elaborer un budget</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>116477</code_ogr>
+<libelle>Indicateurs de suivi d&#0039;activit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108100</code_ogr>
+<libelle>Droit des soci&#0233;t&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103857</code_ogr>
+<libelle>Comptabilit&#0233; publique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101360</code_ogr>
+<libelle>Comptabilit&#0233; g&#0233;n&#0233;rale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109411</code_ogr>
+<libelle>Comptabilit&#0233; analytique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109376</code_ogr>
+<libelle>Audit financier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104155</code_ogr>
+<libelle>Gestion financi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120885</code_ogr>
+<libelle>Reporting anglo-saxon</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121704</code_ogr>
+<libelle>Analyse des risques financiers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121257</code_ogr>
+<libelle>Accompagner des filiales de groupe dans leur organisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124083</code_ogr>
+<libelle>R&#0233;aliser des actions de communication interne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>116838</code_ogr>
+<libelle>Suivre le syst&#0232;me d&#0039;information de gestion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>116839</code_ogr>
+<libelle>Mettre en place un syst&#0232;me d&#0039;information de gestion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123008</code_ogr>
+<libelle>Gestion de l&#0039;information</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121527</code_ogr>
+<libelle>Concevoir un plan pr&#0233;visionnel d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109364</code_ogr>
+<libelle>Etude prospective</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122002</code_ogr>
+<libelle>Conseiller une entreprise en strat&#0233;gie de d&#0233;veloppement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>109802</code_ogr>
+<libelle>Diriger un service, une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1202</code_rome_cible>
+<libelle_rome_cible>Audit et contr&#0244;le comptables et financiers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1205</code_rome_cible>
+<libelle_rome_cible>Direction administrative et financi&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38239</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice comptabilit&#0233; et gestion financi&#0232;re</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1206</code_rome_cible>
+<libelle_rome_cible>Management de groupe ou de service comptable</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1301</code_rome>
+<intitule>Direction de grande entreprise ou d&#0039;&#0233;tablissement public</intitule>
+<code_ogr>465</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="20">
+<item_app>
+<code_ogr>14256</code_ogr>
+<libelle>Directeur / Directrice de filiale</libelle>
+<libelle_court>Directeur / Directrice de filiale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14392</code_ogr>
+<libelle>Directeur / Directrice d&#0039;&#0233;tablissement de coop&#0233;ration intercommunale</libelle>
+<libelle_court>Directeur(trice) &#0233;tablissement de coop&#0233;ration intercommunale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14402</code_ogr>
+<libelle>Directeur / Directrice d&#0039;Etablissement Public &#0224; caract&#0232;re Administratif -EPA-</libelle>
+<libelle_court>Directeur/Directrice d&#0039;Etablissement Public Administratif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14404</code_ogr>
+<libelle>Directeur / Directrice d&#0039;Etablissement Public &#0224; caract&#0232;re Scientifique, Culturel et Professionnel -EPSCP-</libelle>
+<libelle_court>Directeur/Directrice d&#0039;Etablissement Public -EPSCP-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14403</code_ogr>
+<libelle>Directeur / Directrice d&#0039;Etablissement Public &#0224; caract&#0232;re Scientifique et Technologique -EPST-</libelle>
+<libelle_court>Directeur/Directrice d&#0039;Etablissement Public -EPST-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14405</code_ogr>
+<libelle>Directeur / Directrice d&#0039;Etablissement Public de Coop&#0233;ration Culturelle -EPCC-</libelle>
+<libelle_court>Directeur/Directrice d&#0039;Etabl Public Coop&#0233;ration Culturelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14406</code_ogr>
+<libelle>Directeur / Directrice d&#0039;Etablissement Public et Commercial -EPIC-</libelle>
+<libelle_court>Directeur/Directrice d&#0039;Etablissement Public et Commercial</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14435</code_ogr>
+<libelle>Directeur / Directrice d&#0039;un groupe de filiales</libelle>
+<libelle_court>Directeur / Directrice d&#0039;un groupe de filiales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14447</code_ogr>
+<libelle>Directeur g&#0233;n&#0233;ral / Directrice g&#0233;n&#0233;rale de grande entreprise</libelle>
+<libelle_court>Directeur g&#0233;n&#0233;ral / Directrice g&#0233;n&#0233;rale de grande entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14449</code_ogr>
+<libelle>Directeur g&#0233;n&#0233;ral / Directrice g&#0233;n&#0233;rale d&#0039;&#0233;tablissement public</libelle>
+<libelle_court>Directeur g&#0233;n&#0233;ral/Directrice g&#0233;n&#0233;rale d&#0039;&#0233;tablissement public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14450</code_ogr>
+<libelle>Directeur g&#0233;n&#0233;ral / Directrice g&#0233;n&#0233;rale fonction publique et assimil&#0233;</libelle>
+<libelle_court>Directeur(trice) g&#0233;n&#0233;ral(e) fonction publique et assimil&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14445</code_ogr>
+<libelle>Directeur g&#0233;n&#0233;ral adjoint / Directrice g&#0233;n&#0233;rale adjointe de grande entreprise</libelle>
+<libelle_court>Directeur(trice) g&#0233;n&#0233;ral(e) adjoint(e) grande entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14446</code_ogr>
+<libelle>Directeur g&#0233;n&#0233;ral adjoint / Directrice g&#0233;n&#0233;rale adjointe d&#0039;&#0233;tablissement public</libelle>
+<libelle_court>Directeur(trice) g&#0233;n&#0233;ral(e) adjoint(e) &#0233;tablissement public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14448</code_ogr>
+<libelle>Directeur G&#0233;n&#0233;ral d&#0233;l&#0233;gu&#0233; / Directrice g&#0233;n&#0233;rale d&#0233;l&#0233;gu&#0233;e de grande entreprise</libelle>
+<libelle_court>Directeur(trice) G&#0233;n&#0233;ral(e) d&#0233;l&#0233;gu&#0233;(e) grande entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14488</code_ogr>
+<libelle>Dirigeant / Dirigeante de grande entreprise du secteur marchand ou d&#0039;&#0233;tablissement public</libelle>
+<libelle_court>Dirigeant(e) de grande entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14490</code_ogr>
+<libelle>Dirigeant / Dirigeante d&#0039;entreprise priv&#0233;e</libelle>
+<libelle_court>Dirigeant / Dirigeante d&#0039;entreprise priv&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14491</code_ogr>
+<libelle>Dirigeant / Dirigeante d&#0039;entreprise publique</libelle>
+<libelle_court>Dirigeant / Dirigeante d&#0039;entreprise publique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18053</code_ogr>
+<libelle>Pr&#0233;sident Directeur G&#0233;n&#0233;ral / Pr&#0233;sidente Directrice G&#0233;n&#0233;rale -PDG-</libelle>
+<libelle_court>Pr&#0233;sident Directeur G&#0233;n&#0233;ral/Pr&#0233;sidente Directrice G&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19393</code_ogr>
+<libelle>Secr&#0233;taire g&#0233;n&#0233;ral / g&#0233;n&#0233;rale d&#0039;&#0233;tablissement public</libelle>
+<libelle_court>Secr&#0233;taire g&#0233;n&#0233;ral / g&#0233;n&#0233;rale d&#0039;&#0233;tablissement public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19394</code_ogr>
+<libelle>Secr&#0233;taire g&#0233;n&#0233;ral / g&#0233;n&#0233;rale d&#0039;&#0233;tablissement public d&#0039;enseignement sup&#0233;rieur</libelle>
+<libelle_court>Secr&#0233;taire g&#0233;n&#0233;ral(e) &#0233;tablissement public enseignt sup&#0233;r</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Dirige une entreprise de 500 salari&#0233;s et plus ou un &#0233;tablissement public dans ses diff&#0233;rentes dimensions (organisationnelle, humaine, commerciale, ...) selon des objectifs de d&#0233;veloppement &#0233;conomique et de rentabilit&#0233; financi&#0232;re ou selon les orientations fix&#0233;es par les pouvoirs publics.
+Peut g&#0233;rer un &#0233;tablissement public sp&#0233;cifique (administratif, industriel et commercial, scientifique et technologique, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (dipl&#0244;me d&#0039;&#0233;cole de commerce, d&#0039;ing&#0233;nieur, Ecole Nationale d&#0039;Administration, ...) compl&#0233;t&#0233; par une exp&#0233;rience professionnelle en management d&#0039;entreprise.
+Son acc&#0232;s dans les &#0233;tablissements publics s&#0039;effectue par nomination des instances de l&#0039;Etat.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises commerciales, industrielles, de soci&#0233;t&#0233;s de prestations, d&#0039;&#0233;tablissements publics en relation avec diff&#0233;rents interlocuteurs (clients, minist&#0232;res, partenaires, directeurs r&#0233;gionaux, ...).
+Elle peut varier selon le statut de la structure (entreprise priv&#0233;e, Etablissement Public &#0224; caract&#0232;re Administratif, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23446</code_ogr>
+<libelle>Commerce/vente</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>122533</code_ogr>
+<libelle>D&#0233;finir l&#0039;orientation financi&#0232;re d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122532</code_ogr>
+<libelle>D&#0233;finir la politique g&#0233;n&#0233;rale d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119332</code_ogr>
+<libelle>D&#0233;finir une politique de gestion des ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124799</code_ogr>
+<libelle>Superviser les directions strat&#0233;giques d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>115028</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;activit&#0233; de la structure, du service et identifier des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121491</code_ogr>
+<libelle>Mettre en place des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123182</code_ogr>
+<libelle>Animer une r&#0233;union</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="6">
+<item_ab_stp>
+<code_ogr>104155</code_ogr>
+<libelle>Gestion financi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119705</code_ogr>
+<libelle>Gouvernance d&#0039;entreprise</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="2">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>101370</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie commerciale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109433</code_ogr>
+<libelle>Droit des affaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>109466</code_ogr>
+<libelle>Diriger un Etablissement Public &#0224; caract&#0232;re Administratif (EPA)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>109467</code_ogr>
+<libelle>Diriger un Etablissement Public &#0224; caract&#0232;re Industriel et Commercial (EPIC)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>109468</code_ogr>
+<libelle>Diriger un Etablissement Public &#0224; caract&#0232;re Scientifique et Technologique (EPST)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>109469</code_ogr>
+<libelle>Diriger un Etablissement Public &#0224; caract&#0232;re Scientifique, Culturel et Professionnel (EPSCP)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>109470</code_ogr>
+<libelle>Diriger un Etablissement Public de Coop&#0233;ration Culturelle (EPCC)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>107981</code_ogr>
+<libelle>Droit administratif</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103857</code_ogr>
+<libelle>Comptabilit&#0233; publique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1205</code_rome_cible>
+<libelle_rome_cible>Direction administrative et financi&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1503</code_rome_cible>
+<libelle_rome_cible>Management des ressources humaines</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

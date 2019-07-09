@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1503</code_rome>
+<intitule>Intervention technique en laboratoire d&#0039;analyse industrielle</intitule>
+<code_ogr>231</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="54">
+<item_app>
+<code_ogr>10467</code_ogr>
+<libelle>Agent / Agente de laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Agent / Agente de laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10828</code_ogr>
+<libelle>Aide de laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Aide de laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10865</code_ogr>
+<libelle>Aide-biochimiste d&#0039;analyse industrielle</libelle>
+<libelle_court>Aide-biochimiste d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10866</code_ogr>
+<libelle>Aide-biologiste d&#0039;analyse industrielle</libelle>
+<libelle_court>Aide-biologiste d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10870</code_ogr>
+<libelle>Aide-chimiste d&#0039;analyse industrielle</libelle>
+<libelle_court>Aide-chimiste d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10887</code_ogr>
+<libelle>Aide-physicien / Aide-physicienne d&#0039;analyse industrielle</libelle>
+<libelle_court>Aide-physicien / Aide-physicienne d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10931</code_ogr>
+<libelle>Analyste biologie/microbiologie en industrie</libelle>
+<libelle_court>Analyste biologie/microbiologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10939</code_ogr>
+<libelle>Analyste de laboratoire en industrie pharmaceutique</libelle>
+<libelle_court>Analyste de laboratoire en industrie pharmaceutique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10953</code_ogr>
+<libelle>Analyste physicochimiste en industrie</libelle>
+<libelle_court>Analyste physicochimiste en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10955</code_ogr>
+<libelle>Analyste radioactivit&#0233; en industrie</libelle>
+<libelle_court>Analyste radioactivit&#0233; en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11517</code_ogr>
+<libelle>Biochimiste en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Biochimiste en laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11518</code_ogr>
+<libelle>Biochimiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Biochimiste en laboratoire de contr&#0244;le en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11523</code_ogr>
+<libelle>Biologiste de contr&#0244;le fabrication en industrie</libelle>
+<libelle_court>Biologiste de contr&#0244;le fabrication en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11762</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;analyses physico-chimiques de laboratoire</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;analyses physico-chimiques de laboratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12621</code_ogr>
+<libelle>Chimiste en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Chimiste en laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12622</code_ogr>
+<libelle>Chimiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Chimiste en laboratoire de contr&#0244;le en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16142</code_ogr>
+<libelle>Laborantin / Laborantine chimie environnement en industrie</libelle>
+<libelle_court>Laborantin / Laborantine chimie environnement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17058</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice d&#0039;analyse de laboratoire</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice d&#0039;analyse de laboratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17106</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17968</code_ogr>
+<libelle>Pr&#0233;leveur / Pr&#0233;leveuse d&#0039;eau</libelle>
+<libelle_court>Pr&#0233;leveur / Pr&#0233;leveuse d&#0039;eau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17969</code_ogr>
+<libelle>Pr&#0233;leveur / Pr&#0233;leveuse en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Pr&#0233;leveur / Pr&#0233;leveuse en laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17997</code_ogr>
+<libelle>Pr&#0233;parateur / Pr&#0233;paratrice de laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Pr&#0233;parateur(trice) de laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19589</code_ogr>
+<libelle>Surveillant / Surveillante de la pollution de l&#0039;air</libelle>
+<libelle_court>Surveillant / Surveillante de la pollution de l&#0039;air</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19653</code_ogr>
+<libelle>Technicien / Technicienne analyse-contr&#0244;le en industrie chimique</libelle>
+<libelle_court>Technicien(ne) analyse-contr&#0244;le en industrie chimique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19668</code_ogr>
+<libelle>Technicien / Technicienne bact&#0233;riologiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Technicien(ne) bact&#0233;riologiste laboratoire contr&#0244;le en ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19671</code_ogr>
+<libelle>Technicien / Technicienne biochimiste d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien / Technicienne biochimiste d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19672</code_ogr>
+<libelle>Technicien / Technicienne biochimiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Technicien(ne) biochimiste en laboratoire de contr&#0244;le en ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19673</code_ogr>
+<libelle>Technicien / Technicienne biologiste en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien(ne) biologiste laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19674</code_ogr>
+<libelle>Technicien / Technicienne biologiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Technicien(ne) biologiste en laboratoire de contr&#0244;le en ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19687</code_ogr>
+<libelle>Technicien / Technicienne chimie environnement en industrie</libelle>
+<libelle_court>Technicien / Technicienne chimie environnement en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19688</code_ogr>
+<libelle>Technicien / Technicienne chimiste en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien(ne) chimiste laboratoire analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19689</code_ogr>
+<libelle>Technicien / Technicienne chimiste en laboratoire de contr&#0244;le en industrie</libelle>
+<libelle_court>Technicien(ne) chimiste en laboratoire de contr&#0244;le en ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19711</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19712</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;analyses chimiques en industries</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;analyses chimiques en industries</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19727</code_ogr>
+<libelle>Technicien / Technicienne de contr&#0244;le en biotechnologie en industrie</libelle>
+<libelle_court>Technicien(ne) de contr&#0244;le en biotechnologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19732</code_ogr>
+<libelle>Technicien / Technicienne de contr&#0244;le en micro-biologie en industrie</libelle>
+<libelle_court>Technicien(ne) de contr&#0244;le en micro-biologie en industrie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19738</code_ogr>
+<libelle>Technicien / Technicienne de contr&#0244;le pyrotechnique</libelle>
+<libelle_court>Technicien / Technicienne de contr&#0244;le pyrotechnique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19783</code_ogr>
+<libelle>Technicien / Technicienne de la qualit&#0233; de l&#0039;eau</libelle>
+<libelle_court>Technicien / Technicienne de la qualit&#0233; de l&#0039;eau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19788</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire d&#0039;analyse des eaux</libelle>
+<libelle_court>Technicien / Technicienne de laboratoire d&#0039;analyse des eaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19789</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien(ne) de laboratoire d&#0039;analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19790</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en &#0233;nergie/p&#0233;trochimie</libelle>
+<libelle_court>Technicien(ne) labo de contr&#0244;le en &#0233;nergie/p&#0233;trochimie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19791</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en industrie alimentaire</libelle>
+<libelle_court>Technicien(ne) de laboratoire de contr&#0244;le en ind alimentaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19792</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en industrie chimique</libelle>
+<libelle_court>Technicien(ne) de laboratoire de contr&#0244;le en ind chimique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19793</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en industrie papeti&#0232;re</libelle>
+<libelle_court>Technicien(ne) de laboratoire de contr&#0244;le en ind papeti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19794</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en industrie pharmaceutique</libelle>
+<libelle_court>Technicien(ne) de labo de contr&#0244;le en ind pharmaceutique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19795</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de contr&#0244;le en m&#0233;tallurgie/sid&#0233;rurgie</libelle>
+<libelle_court>Technicien(ne) labo de contr&#0244;le en m&#0233;tallurgie/sid&#0233;rurgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19878</code_ogr>
+<libelle>Technicien / Technicienne de mesure de la qualit&#0233; de l&#0039;eau</libelle>
+<libelle_court>Technicien / Technicienne de mesure de la qualit&#0233; de l&#0039;eau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20042</code_ogr>
+<libelle>Technicien / Technicienne en biotechnologie en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien(ne) de biotechnologie en laboratoire analyse ind</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140947</code_ogr>
+<libelle>Technicien / Technicienne en mesures acoustiques et contr&#0244;le du bruit</libelle>
+<libelle_court>Technicien(ne) en mesures acoustiques et contr&#0244;le du bruit</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20094</code_ogr>
+<libelle>Technicien / Technicienne en micro-biologie en laboratoire d&#0039;analyse industrielle</libelle>
+<libelle_court>Technicien(ne) micro-biologie en labo analyse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38386</code_ogr>
+<libelle>Technicien / Technicienne en pyrom&#0233;trie</libelle>
+<libelle_court>Technicien / Technicienne en pyrom&#0233;trie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20177</code_ogr>
+<libelle>Technicien / Technicienne laboratoire en mat&#0233;riaux de construction</libelle>
+<libelle_court>Technicien(ne) laboratoire en mat&#0233;riaux de construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20228</code_ogr>
+<libelle>Technicien / Technicienne qualit&#0233; en industrie alimentaire</libelle>
+<libelle_court>Technicien / Technicienne qualit&#0233; en industrie alimentaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20248</code_ogr>
+<libelle>Technicien / Technicienne sanitaire des eaux</libelle>
+<libelle_court>Technicien / Technicienne sanitaire des eaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+R&#0233;alise des mesures et des analyses de conformit&#0233; (normes, taux, ...) sur la qualit&#0233; biologique, chimique ou physique, de mati&#0232;res ou de produits, au moyen de mat&#0233;riel de laboratoire, selon un protocole de contr&#0244;le et les r&#0232;gles d&#0039;hygi&#0232;ne, s&#0233;curit&#0233;, environnement.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, DUT, L2) dans un secteur technique (m&#0233;tallurgie, ...) ou scientifique (chimie, biologie, physique, ...).
+Il est &#0233;galement accessible avec un Bac (professionnel, scientifique) dans les m&#0234;mes secteurs, compl&#0233;t&#0233; par une exp&#0233;rience professionnelle.
+Des habilitations sp&#0233;cifiques (radiochimique, ...) ou des vaccinations particuli&#0232;res (h&#0233;patite, leptospirose, ...) peuvent &#0234;tre requises selon la nature des analyses effectu&#0233;es.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce en laboratoire au sein d&#0039;entreprises industrielles, d&#0039;organismes de recherche, de contr&#0244;le, de collectivit&#0233;s territoriales, de services de l&#0039;Etat, ... en relation avec diff&#0233;rents services et intervenants (production, exploitation, qualit&#0233;, clients, fournisseurs, ...).
+Elle varie selon le secteur (chimie, alimentaire, ...).
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s et &#0234;tre soumise &#0224; des astreintes.
+Elle peut s&#0039;effectuer en zone &#0224; atmosph&#0232;re contr&#0244;l&#0233;e.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (gants, masque, blouse, ...) est exig&#0233;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="21">
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23984</code_ogr>
+<libelle>Laboratoire d&#0039;analyses</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24017</code_ogr>
+<libelle>Organisme de contr&#0244;le et de certification</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23394</code_ogr>
+<libelle>Agriculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23485</code_ogr>
+<libelle>Environnement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="6">
+<item_ab>
+<code_ogr>104734</code_ogr>
+<libelle>Pr&#0233;parer les produits et les appareils de mesures et d&#0039;analyses et contr&#0244;ler leur conformit&#0233; d&#0039;&#0233;talonnage et de fonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104735</code_ogr>
+<libelle>R&#0233;ceptionner les &#0233;chantillons ou effectuer les pr&#0233;l&#0232;vements de mati&#0232;res, de produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104736</code_ogr>
+<libelle>Mesurer et analyser, relever les donn&#0233;es et les transmettre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120281</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;application de proc&#0233;dures Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104737</code_ogr>
+<libelle>Consigner les r&#0233;sultats de mesures et d&#0039;analyses et renseigner les supports de suivi</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>114584</code_ogr>
+<libelle>R&#0233;aliser la maintenance de premier niveau d&#0039;&#0233;quipements de laboratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104584</code_ogr>
+<libelle>Bonnes Pratiques de Laboratoire -BPL-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120581</code_ogr>
+<libelle>Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement (QHSE)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122685</code_ogr>
+<libelle>Analyse physico-chimique environnementale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104620</code_ogr>
+<libelle>Mesures physiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104552</code_ogr>
+<libelle>R&#0233;gulation et instrumentation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100113</code_ogr>
+<libelle>Logiciels de gestion de base de donn&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119509</code_ogr>
+<libelle>Logiciels de gestion documentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117000</code_ogr>
+<libelle>R&#0233;aliser des analyses</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="15">
+<item_as_stp>
+<code_ogr>117392</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en acoustique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117379</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en bact&#0233;riologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117380</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en biochimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117387</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en microbiologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104585</code_ogr>
+<libelle>Biologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117393</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117394</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en chromatographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117395</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en m&#0233;tallurgie, m&#0233;taux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117396</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en physico-chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117398</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en physique nucl&#0233;aire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117397</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en physique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117400</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en dosim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117401</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en m&#0233;trologie des rayonnements</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117399</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en radiochimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117402</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse en thermique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123850</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;un r&#0233;sultat d&#0039;analyse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>115339</code_ogr>
+<libelle>Analyser des &#0233;chantillons solides, liquides, gazeux (eau, boues, d&#0233;chets) et consigner les r&#0233;sultats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>120818</code_ogr>
+<libelle>Gestion des d&#0233;chets</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100151</code_ogr>
+<libelle>R&#0233;glementation sanitaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114640</code_ogr>
+<libelle>R&#0233;aliser des bilans p&#0233;riodiques des analyses r&#0233;alis&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114641</code_ogr>
+<libelle>R&#0233;aliser des &#0233;chantillons de nouveaux produits, relever des r&#0233;actions et modifier des compositions</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114642</code_ogr>
+<libelle>Concevoir des protocoles d&#0039;analyses</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123968</code_ogr>
+<libelle>Pr&#0233;senter des &#0233;volutions de protocoles d&#0039;analyse et de proc&#0233;dures qualit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114644</code_ogr>
+<libelle>R&#0233;aliser un diagnostic de pannes d&#0039;appareils et instruments de laboratoire et planifier des op&#0233;rations de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>113786</code_ogr>
+<libelle>R&#0233;aliser les commandes de mat&#0233;riel, de fournitures, de consommables et v&#0233;rifier la conformit&#0233; des livraisons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1210</code_rome_cible>
+<libelle_rome_cible>Intervention technique en &#0233;tudes, recherche et d&#0233;veloppement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1506</code_rome_cible>
+<libelle_rome_cible>Intervention technique qualit&#0233; en m&#0233;canique et travail des m&#0233;taux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1302</code_rome_cible>
+<libelle_rome_cible>Analyses m&#0233;dicales</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1206</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique en Hygi&#0232;ne S&#0233;curit&#0233; Environnement -HSE- industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1501</code_rome_cible>
+<libelle_rome_cible>Direction de laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1502</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie qualit&#0233; industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

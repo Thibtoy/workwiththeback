@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K2402</code_rome>
+<intitule>Recherche en sciences de l&#0039;univers, de la mati&#0232;re et du vivant</intitule>
+<code_ogr>427</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="67">
+<item_app>
+<code_ogr>11362</code_ogr>
+<libelle>Astrom&#0233;trologue</libelle>
+<libelle_court>Astrom&#0233;trologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11363</code_ogr>
+<libelle>Astronome</libelle>
+<libelle_court>Astronome</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11364</code_ogr>
+<libelle>Astrophysicien / Astrophysicienne</libelle>
+<libelle_court>Astrophysicien / Astrophysicienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38637</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de recherche clinique en milieu hospitalier</libelle>
+<libelle_court>Attach&#0233;(e) de recherche clinique en milieu hospitalier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11516</code_ogr>
+<libelle>Biochimiste de la recherche scientifique</libelle>
+<libelle_court>Biochimiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11524</code_ogr>
+<libelle>Biologiste de la recherche scientifique</libelle>
+<libelle_court>Biologiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11526</code_ogr>
+<libelle>Biophysicien / Biophysicienne</libelle>
+<libelle_court>Biophysicien / Biophysicienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11527</code_ogr>
+<libelle>Biostatisticien / Biostatisticienne</libelle>
+<libelle_court>Biostatisticien / Biostatisticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11528</code_ogr>
+<libelle>Biotechnologue</libelle>
+<libelle_court>Biotechnologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11561</code_ogr>
+<libelle>Botaniste de la recherche scientifique</libelle>
+<libelle_court>Botaniste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11855</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de recherche</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11856</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de recherche appliqu&#0233;e</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de recherche appliqu&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12620</code_ogr>
+<libelle>Chimiste de la recherche scientifique</libelle>
+<libelle_court>Chimiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12671</code_ogr>
+<libelle>Climatologue</libelle>
+<libelle_court>Climatologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13758</code_ogr>
+<libelle>Cosm&#0233;tologue</libelle>
+<libelle_court>Cosm&#0233;tologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13759</code_ogr>
+<libelle>Cosmologue</libelle>
+<libelle_court>Cosmologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14312</code_ogr>
+<libelle>Directeur / Directrice de recherche</libelle>
+<libelle_court>Directeur / Directrice de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14313</code_ogr>
+<libelle>Directeur / Directrice de recherche appliqu&#0233;e</libelle>
+<libelle_court>Directeur / Directrice de recherche appliqu&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14437</code_ogr>
+<libelle>Directeur / Directrice d&#0039;unit&#0233; de recherche</libelle>
+<libelle_court>Directeur / Directrice d&#0039;unit&#0233; de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14572</code_ogr>
+<libelle>Ecotoxicologue</libelle>
+<libelle_court>Ecotoxicologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14618</code_ogr>
+<libelle>Electricien / Electricienne de la recherche scientifique</libelle>
+<libelle_court>Electricien / Electricienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14665</code_ogr>
+<libelle>Electronicien / Electronicienne de la recherche scientifique</libelle>
+<libelle_court>Electronicien / Electronicienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14864</code_ogr>
+<libelle>Epid&#0233;miologiste</libelle>
+<libelle_court>Epid&#0233;miologiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14878</code_ogr>
+<libelle>Ergonome de la recherche scientifique</libelle>
+<libelle_court>Ergonome de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38337</code_ogr>
+<libelle>Ethologue</libelle>
+<libelle_court>Ethologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15250</code_ogr>
+<libelle>G&#0233;n&#0233;ticien / G&#0233;n&#0233;ticienne</libelle>
+<libelle_court>G&#0233;n&#0233;ticien / G&#0233;n&#0233;ticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15267</code_ogr>
+<libelle>G&#0233;omorphologiste de la recherche scientifique</libelle>
+<libelle_court>G&#0233;omorphologiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15502</code_ogr>
+<libelle>Hydrobiologiste</libelle>
+<libelle_court>Hydrobiologiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15515</code_ogr>
+<libelle>Immunologiste</libelle>
+<libelle_court>Immunologiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15570</code_ogr>
+<libelle>Informaticien / Informaticienne de la recherche scientifique</libelle>
+<libelle_court>Informaticien / Informaticienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15657</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de police technique et scientifique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de police technique et scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15666</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de recherche biom&#0233;dicale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de recherche biom&#0233;dicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15668</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de recherche fondamentale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de recherche fondamentale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15671</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de recherche scientifique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15709</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en recherche fondamentale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en recherche fondamentale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15710</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en recherche scientifique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes en recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15848</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure num&#0233;rique de la recherche scientifique</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure num&#0233;rique de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16437</code_ogr>
+<libelle>Math&#0233;maticien / Math&#0233;maticienne</libelle>
+<libelle_court>Math&#0233;maticien / Math&#0233;maticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16467</code_ogr>
+<libelle>M&#0233;canicien / M&#0233;canicienne de la recherche scientifique</libelle>
+<libelle_court>M&#0233;canicien / M&#0233;canicienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16499</code_ogr>
+<libelle>M&#0233;canicien / M&#0233;canicienne des fluides de la recherche scientifique</libelle>
+<libelle_court>M&#0233;canicien(ne) des fluides de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16533</code_ogr>
+<libelle>M&#0233;canicien / M&#0233;canicienne structures de la recherche scientifique</libelle>
+<libelle_court>M&#0233;canicien(ne) structures de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16569</code_ogr>
+<libelle>M&#0233;decin de la recherche scientifique</libelle>
+<libelle_court>M&#0233;decin de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16643</code_ogr>
+<libelle>M&#0233;tallurgiste de la recherche scientifique</libelle>
+<libelle_court>M&#0233;tallurgiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16675</code_ogr>
+<libelle>Microbiologiste de la recherche scientifique</libelle>
+<libelle_court>Microbiologiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16680</code_ogr>
+<libelle>Min&#0233;ralogiste de la recherche scientifique</libelle>
+<libelle_court>Min&#0233;ralogiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16943</code_ogr>
+<libelle>Mycologue de la recherche scientifique</libelle>
+<libelle_court>Mycologue de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16950</code_ogr>
+<libelle>Nanotechnologue</libelle>
+<libelle_court>Nanotechnologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16952</code_ogr>
+<libelle>Naturaliste de la recherche scientifique</libelle>
+<libelle_court>Naturaliste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17007</code_ogr>
+<libelle>Oc&#0233;anologue</libelle>
+<libelle_court>Oc&#0233;anologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17351</code_ogr>
+<libelle>Opticien / Opticienne de la recherche scientifique</libelle>
+<libelle_court>Opticien / Opticienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17685</code_ogr>
+<libelle>Pharmacien / Pharmacienne de recherche scientifique</libelle>
+<libelle_court>Pharmacien / Pharmacienne de recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17693</code_ogr>
+<libelle>Pharmacocin&#0233;ticien / Pharmacocin&#0233;ticienne</libelle>
+<libelle_court>Pharmacocin&#0233;ticien / Pharmacocin&#0233;ticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17697</code_ogr>
+<libelle>Photochimiste de la recherche scientifique</libelle>
+<libelle_court>Photochimiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17731</code_ogr>
+<libelle>Physicien / Physicienne de la recherche scientifique</libelle>
+<libelle_court>Physicien / Physicienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17733</code_ogr>
+<libelle>Physicien quanticien / Physicienne quanticienne</libelle>
+<libelle_court>Physicien quanticien / Physicienne quanticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17734</code_ogr>
+<libelle>Physiologiste de la recherche scientifique</libelle>
+<libelle_court>Physiologiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17810</code_ogr>
+<libelle>Plan&#0233;tologue</libelle>
+<libelle_court>Plan&#0233;tologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18271</code_ogr>
+<libelle>Radiochimiste de la recherche scientifique</libelle>
+<libelle_court>Radiochimiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18761</code_ogr>
+<libelle>Responsable de laboratoire de recherche</libelle>
+<libelle_court>Responsable de laboratoire de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18829</code_ogr>
+<libelle>Responsable de projet de recherche</libelle>
+<libelle_court>Responsable de projet de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>24853</code_ogr>
+<libelle>Rh&#0233;ologue</libelle>
+<libelle_court>Rh&#0233;ologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19269</code_ogr>
+<libelle>Roboticien / Roboticienne de la recherche scientifique</libelle>
+<libelle_court>Roboticien / Roboticienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20319</code_ogr>
+<libelle>Thermicien / Thermicienne de la recherche scientifique</libelle>
+<libelle_court>Thermicien / Thermicienne de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20391</code_ogr>
+<libelle>Toxicologue de la recherche scientifique</libelle>
+<libelle_court>Toxicologue de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20677</code_ogr>
+<libelle>V&#0233;t&#0233;rinaire de recherche scientifique</libelle>
+<libelle_court>V&#0233;t&#0233;rinaire de recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20690</code_ogr>
+<libelle>Virologue</libelle>
+<libelle_court>Virologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20740</code_ogr>
+<libelle>Zoologiste de la recherche scientifique</libelle>
+<libelle_court>Zoologiste de la recherche scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Supervise et r&#0233;alise des travaux de recherche et d&#0039;&#0233;tude scientifique permettant d&#0039;explorer, d&#0039;approfondir et d&#0039;&#0233;tendre la connaissance selon les r&#0232;gles &#0233;thiques.
+Valorise et diffuse les r&#0233;sultats aupr&#0232;s de la communaut&#0233; scientifique, d&#0039;institutionnels ou d&#0039;entreprises.
+Peut collaborer avec des &#0233;quipes de recherche priv&#0233;es ou publiques dans le cadre de transfert de technologies ou de projets de recherche et d&#0233;veloppement.
+Peut superviser et coordonner un projet, une &#0233;quipe, un service, un laboratoire ou un d&#0233;partement de recherche.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (Master Recherche, Dipl&#0244;me d&#0039;ing&#0233;nieur, ...) compl&#0233;t&#0233; par un Doctorat dans un secteur scientifique (physique, chimie, m&#0233;decine, g&#0233;ologie, ...).
+La publication de travaux (articles, ouvrages, th&#0232;ses, m&#0233;moires, ...) contribue &#0224; la reconnaissance des comp&#0233;tences professionnelles.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="6">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;unit&#0233;s de recherche scientifique d&#0039;organismes publics ou parapublics, d&#0039;entreprises priv&#0233;es, de cabinets d&#0039;&#0233;tudes et de conseil, en contact avec diff&#0233;rents intervenants (collaborateurs interdisciplinaires, industriels, laboratoires, universitaires, fournisseurs, ...).
+Elle peut impliquer des d&#0233;placements (exp&#0233;rimentation et observation sur le terrain, ...).
+Elle varie selon la discipline (biologie, physique, chimie, math&#0233;matiques, ...), les orientations des pouvoirs publics, l&#0039;objet de recherche, la nature et l&#0039;organisation du projet (lieux d&#0039;exp&#0233;rimentation, partenariats, financements, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes (exp&#0233;riences, observations).
+L&#0039;activit&#0233; peut s&#0039;effectuer en laboratoire, en zone &#0224; atmosph&#0232;re contr&#0244;l&#0233;e, en salle blanche ou en milieu naturel (d&#0233;sertique, polaire, aquatique, ...).
+Le port d&#0039;&#0233;quipements de protection et d&#0039;&#0233;quipements de protection st&#0233;riles (charlotte, chaussons, ...) peut &#0234;tre requis selon la nature des recherches.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="10">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24016</code_ogr>
+<libelle>Organisme culturel, du patrimoine</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24081</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24127</code_ogr>
+<libelle>Universit&#0233;/&#0233;cole d&#0039;ing&#0233;nieurs/grande &#0233;cole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23383</code_ogr>
+<libelle>En zone &#0224; atmosph&#0232;re contr&#0244;l&#0233;e</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="13">
+<item_ab>
+<code_ogr>108784</code_ogr>
+<libelle>D&#0233;terminer et d&#0233;velopper les m&#0233;thodes de recherche, de recueil et d&#0039;analyse de donn&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121136</code_ogr>
+<libelle>D&#0233;finir les orientations strat&#0233;giques d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108811</code_ogr>
+<libelle>Superviser et contr&#0244;ler le d&#0233;roulement et l&#0039;avancement des exp&#0233;riences et des observations scientifiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117185</code_ogr>
+<libelle>R&#0233;aliser des mesures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117184</code_ogr>
+<libelle>R&#0233;aliser des calculs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117186</code_ogr>
+<libelle>R&#0233;aliser des exp&#0233;riences</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117191</code_ogr>
+<libelle>Contr&#0244;ler des r&#0233;sultats d&#0039;exp&#0233;riences</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108813</code_ogr>
+<libelle>Etudier et analyser les donn&#0233;es et les r&#0233;sultats des recherches</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108787</code_ogr>
+<libelle>R&#0233;diger les rapports, publications, m&#0233;moires des travaux de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108788</code_ogr>
+<libelle>Pr&#0233;senter et expliciter les avanc&#0233;es scientifiques et les travaux de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126027</code_ogr>
+<libelle>Conseiller des chercheurs, institutions, entreprises sur des questions scientifiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121991</code_ogr>
+<libelle>Apporter un appui scientifique &#0224; des chercheurs, institutions, entreprises</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="5">
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108537</code_ogr>
+<libelle>M&#0233;thodologie de recherche</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119509</code_ogr>
+<libelle>Logiciels de gestion documentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126531</code_ogr>
+<libelle>Intervenir sur un th&#0232;me de recherche sp&#0233;cifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="12">
+<item_as_stp>
+<code_ogr>118897</code_ogr>
+<libelle>Sciences de l&#0039;univers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123952</code_ogr>
+<libelle>Science des mat&#0233;riaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118750</code_ogr>
+<libelle>Sciences physiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118303</code_ogr>
+<libelle>Sciences m&#0233;dicales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118135</code_ogr>
+<libelle>Sciences de la vie et de la terre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104585</code_ogr>
+<libelle>Biologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101065</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120439</code_ogr>
+<libelle>Ecologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118136</code_ogr>
+<libelle>Environnement / nature</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108816</code_ogr>
+<libelle>Math&#0233;matiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104548</code_ogr>
+<libelle>Informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118224</code_ogr>
+<libelle>Sciences de l&#0039;information et de la communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113748</code_ogr>
+<libelle>Concevoir des mod&#0232;les th&#0233;oriques (calcul, simulation, mod&#0233;lisation)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102732</code_ogr>
+<libelle>Langages de programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101397</code_ogr>
+<libelle>Logiciels de mod&#0233;lisation et simulation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119606</code_ogr>
+<libelle>Elaborer des r&#0232;gles de pr&#0233;vention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119605</code_ogr>
+<libelle>Evaluer des risques technologiques et naturels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>117074</code_ogr>
+<libelle>Biocontamination</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108181</code_ogr>
+<libelle>Risques Nucl&#0233;aire, Radiologique, Bact&#0233;riologique et Chimique -NRBC-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>125772</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude d&#0039;impact environnemental</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as>
+<item_as>
+<code_ogr>114633</code_ogr>
+<libelle>Communiquer un diagnostic sur des risques environnementaux ou sanitaires aux &#0233;lus, institutionnels, organismes et leur apporter un appui technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125440</code_ogr>
+<libelle>Pr&#0233;coniser des mesures environnementales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123488</code_ogr>
+<libelle>Audit environnemental</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122685</code_ogr>
+<libelle>Analyse physico-chimique environnementale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115876</code_ogr>
+<libelle>Analyse du Cycle de Vie - ACV  des produits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120333</code_ogr>
+<libelle>Rechercher des financements, des partenariats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115348</code_ogr>
+<libelle>Analyser des besoins industriels, institutionnels et contractualiser des prestations de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115349</code_ogr>
+<libelle>Formaliser et &#0233;laborer des brevets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115345</code_ogr>
+<libelle>Concevoir des contenus de programmes d&#0039;enseignement scientifique et d&#0233;livrer des cours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115350</code_ogr>
+<libelle>Concevoir et coordonner un programme, un projet de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123397</code_ogr>
+<libelle>G&#0233;rer le budget global d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113770</code_ogr>
+<libelle>Diriger un service, un laboratoire de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="16">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1303</code_rome_cible>
+<libelle_rome_cible>Ing&#0233;nierie en agriculture et environnement naturel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>20677</code_appellation_source>
+<libelle_appellation_source>V&#0233;t&#0233;rinaire de recherche scientifique</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1504</code_rome_cible>
+<libelle_rome_cible>Sant&#0233; animale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1106</code_rome_cible>
+<libelle_rome_cible>Journalisme et information m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16098</code_appellation_cible>
+<libelle_appellation_cible>Journaliste scientifique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1105</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes g&#0233;ologiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1206</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1501</code_rome_cible>
+<libelle_rome_cible>Direction de laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16569</code_appellation_source>
+<libelle_appellation_source>M&#0233;decin de la recherche scientifique</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1102</code_rome_cible>
+<libelle_rome_cible>M&#0233;decine g&#0233;n&#0233;raliste et sp&#0233;cialis&#0233;e</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1201</code_rome_cible>
+<libelle_rome_cible>Biologie m&#0233;dicale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>17685</code_appellation_source>
+<libelle_appellation_source>Pharmacien / Pharmacienne de recherche scientifique</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1202</code_rome_cible>
+<libelle_rome_cible>Pharmacie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1402</code_rome_cible>
+<libelle_rome_cible>Conseil en Sant&#0233; Publique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1601</code_rome_cible>
+<libelle_rome_cible>Gestion de l&#0039;information et de la documentation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14515</code_appellation_cible>
+<libelle_appellation_cible>Documentaliste scientifique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1602</code_rome_cible>
+<libelle_rome_cible>Gestion de patrimoine culturel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1403</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes et prospectives socio-&#0233;conomiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1808</code_rome_cible>
+<libelle_rome_cible>Information g&#0233;ographique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1809</code_rome_cible>
+<libelle_rome_cible>Information m&#0233;t&#0233;orologique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2103</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;&#0233;tablissement et d&#0039;enseignement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1301</code_rome_cible>
+<libelle_rome_cible>Direction de grande entreprise ou d&#0039;&#0233;tablissement public</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

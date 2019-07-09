@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1510</code_rome>
+<intitule>Films d&#0039;animation et effets sp&#0233;ciaux</intitule>
+<code_ogr>39022</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>39026</code_ogr>
+<libelle>Animateur / Animatrice volume - films d&#0039;animation</libelle>
+<libelle_court>Animateur / Animatrice volume - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39023</code_ogr>
+<libelle>Animateur / Animatrice 2D - films d&#0039;animation</libelle>
+<libelle_court>Animateur / Animatrice 2D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39025</code_ogr>
+<libelle>Animateur / Animatrice 2D 3D - films d&#0039;animation</libelle>
+<libelle_court>Animateur / Animatrice 2D 3D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39024</code_ogr>
+<libelle>Animateur / Animatrice 3D - films d&#0039;animation</libelle>
+<libelle_court>Animateur / Animatrice 3D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39027</code_ogr>
+<libelle>D&#0233;corateur / D&#0233;coratrice volume - films d&#0039;animation</libelle>
+<libelle_court>D&#0233;corateur / D&#0233;coratrice volume - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39028</code_ogr>
+<libelle>Graphiste dessinateur / dessinatrice - films d&#0039;animation</libelle>
+<libelle_court>Graphiste dessinateur / dessinatrice - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39030</code_ogr>
+<libelle>Infographiste effets sp&#0233;ciaux - films d&#0039;animation</libelle>
+<libelle_court>Infographiste effets sp&#0233;ciaux - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39031</code_ogr>
+<libelle>Infographiste effets visuels num&#0233;riques - films d&#0039;animation</libelle>
+<libelle_court>Infographiste effets visuels num&#0233;riques - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39029</code_ogr>
+<libelle>Infographiste mod&#0233;lisation - films d&#0039;animation</libelle>
+<libelle_court>Infographiste mod&#0233;lisation - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39032</code_ogr>
+<libelle>Infographiste rendu et &#0233;clairage - films d&#0039;animation</libelle>
+<libelle_court>Infographiste rendu et &#0233;clairage - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39034</code_ogr>
+<libelle>Layout man / woman - films d&#0039;animation</libelle>
+<libelle_court>Layout man / woman - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39033</code_ogr>
+<libelle>Mod&#0233;lisateur / Mod&#0233;lisatrice 3D - films d&#0039;animation</libelle>
+<libelle_court>Mod&#0233;lisateur / Mod&#0233;lisatrice 3D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140951</code_ogr>
+<libelle>Motion designer - films d&#0039;animation</libelle>
+<libelle_court>Motion designer - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39038</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice compositing - films d&#0039;animation</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice compositing - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39035</code_ogr>
+<libelle>Plasticien / Plasticienne volume - films d&#0039;animation</libelle>
+<libelle_court>Plasticien / Plasticienne volume - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39042</code_ogr>
+<libelle>St&#0233;r&#0233;ographe 3D - films d&#0039;animation</libelle>
+<libelle_court>St&#0233;r&#0233;ographe 3D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39036</code_ogr>
+<libelle>Story boarder - films d&#0039;animation</libelle>
+<libelle_court>Story boarder - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39041</code_ogr>
+<libelle>Technicien / Techicienne trace colorisation - films d&#0039;animation</libelle>
+<libelle_court>Technicien(ne) trace colorisation - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39037</code_ogr>
+<libelle>Technicien / Technicienne compositing - films d&#0039;animation</libelle>
+<libelle_court>Technicien / Technicienne compositing - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39044</code_ogr>
+<libelle>Technicien / Technicienne en capture de mouvement  (Motion capture) - films d&#0039;animation</libelle>
+<libelle_court>Technicien(ne) capture de mouvement  - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39039</code_ogr>
+<libelle>Technicien / Technicienne feuille d&#0039;exposition  - films d&#0039;animation</libelle>
+<libelle_court>Technicien(ne) feuille d&#0039;exposition  - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39040</code_ogr>
+<libelle>Technicien / Technicienne scan - films d&#0039;animation</libelle>
+<libelle_court>Technicien / Technicienne scan - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>39043</code_ogr>
+<libelle>Technicien / Technicienne setuper 3D - films d&#0039;animation</libelle>
+<libelle_court>Technicien / Technicienne setuper 3D - films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Cr&#0233;e tout ou partie des &#0233;l&#0233;ments graphiques et visuels d&#0039;un film d&#0039;animation ou d&#0039;un &#0171; live-action film &#0187; (court ou long m&#0233;trage, s&#0233;rie, programme court, ...) destin&#0233; &#0224; la t&#0233;l&#0233;vision, au cin&#0233;ma, &#0224; internet, ...
+Peut r&#0233;aliser des effets sp&#0233;ciaux VFX - Visual effects en 3D.
+Peut coordonner une &#0233;quipe.
+Peut superviser une phase de la cha&#0238;ne de cr&#0233;ation d&#0039;un film d&#0039;animation (pr&#0233;-production, production ou postproduction).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="6">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (Dipl&#0244;me des m&#0233;tiers d&#0039;art, ...) &#0224; Master (Master professionnel, ...) dans le secteur du cin&#0233;ma d&#0039;animation, du dessin anim&#0233;, en art et technologie de l&#0039;image.
+Il peut &#0234;tre accessible sans dipl&#0244;me avec des qualit&#0233;s artistiques et/ou techniques.
+La pr&#0233;sentation de travaux personnels (bande d&#0233;mo) est n&#0233;cessaire pour l&#0039;obtention de contrats.
+La pratique de l&#0039;anglais est indispensable.
+La ma&#0238;trise de l&#0039;outil informatique (palette graphique, images de synth&#0232;se, ...) est exig&#0233;e.
+Les recrutements sont ouverts sur contrat de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage ou sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="1">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de studios de films d&#0039;animation, de soci&#0233;t&#0233;s de production de films d&#0039;animation, ... en tant que salari&#0233; ou ind&#0233;pendant, en relation avec les diff&#0233;rents intervenants de la cha&#0238;ne de cr&#0233;ation du film d&#0039;animation ou du &#0171; live-action film &#0187;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="9">
+<item_env>
+<code_ogr>24085</code_ogr>
+<libelle>Soci&#0233;t&#0233; de post-production cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24111</code_ogr>
+<libelle>Studio de cr&#0233;ation graphique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24112</code_ogr>
+<libelle>Studio de films d&#0039;animation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23638</code_ogr>
+<libelle>Spectacle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23648</code_ogr>
+<libelle>T&#0233;l&#0233;vision</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>118637</code_ogr>
+<libelle>Analyser les besoins du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125294</code_ogr>
+<libelle>Traduire un concept ou un script en repr&#0233;sentation visuelle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124505</code_ogr>
+<libelle>Mod&#0233;liser des &#0233;l&#0233;ments graphiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124506</code_ogr>
+<libelle>D&#0233;finir la composition d&#0039;&#0233;l&#0233;ments graphiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126479</code_ogr>
+<libelle>Int&#0233;grer les &#0233;l&#0233;ments d&#0039;animation dans le cha&#0238;nage global du pipe-line d&#0039;animation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124970</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; de r&#0233;alisation d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123863</code_ogr>
+<libelle>D&#0233;terminer des actions correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="10">
+<item_ab_stp>
+<code_ogr>100610</code_ogr>
+<libelle>Techniques de dessin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102531</code_ogr>
+<libelle>Techniques d&#0039;infographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102646</code_ogr>
+<libelle>Colorim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126480</code_ogr>
+<libelle>Cha&#0238;ne de cr&#0233;ation d&#0039;un film d&#0039;animation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109149</code_ogr>
+<libelle>R&#0233;alisation de story-board</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119187</code_ogr>
+<libelle>Mod&#0233;lisation 3D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102734</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curisation de fichiers informatiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119513</code_ogr>
+<libelle>Logiciel d&#0039;animation 2D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119514</code_ogr>
+<libelle>Logiciel d&#0039;animation 3D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119515</code_ogr>
+<libelle>Logiciels d&#0039;image de synth&#0232;se</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126481</code_ogr>
+<libelle>Mettre en images le sc&#0233;nario du film d&#0039;animation  (story-board ou sc&#0233;narimages)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126482</code_ogr>
+<libelle>Concevoir l&#0039;univers artistique du film d&#0039;animation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>100514</code_ogr>
+<libelle>Dessin de d&#0233;tail</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100512</code_ogr>
+<libelle>Techniques de l&#0039;aquarelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126483</code_ogr>
+<libelle>Techniques cin&#0233;matographiques (cadrage, mouvements de cam&#0233;ra, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102554</code_ogr>
+<libelle>R&#0232;gles d&#0039;&#0233;laboration d&#0039;une Charte Graphique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>126485</code_ogr>
+<libelle>R&#0233;aliser la mod&#0233;lisation de personnages, v&#0233;hicules, objets et d&#0233;cors par les textures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126484</code_ogr>
+<libelle>R&#0233;aliser la mod&#0233;lisation de personnages, v&#0233;hicules, objets et d&#0233;cors par le volume</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126486</code_ogr>
+<libelle>R&#0233;aliser la mod&#0233;lisation de personnages, v&#0233;hicules, objets et d&#0233;cors par les couleurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101101</code_ogr>
+<libelle>Techniques d&#0039;&#0233;laboration de maquette</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126488</code_ogr>
+<libelle>Techniques de Layout d&#0233;cor</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126490</code_ogr>
+<libelle>D&#0233;terminer et g&#0233;rer l&#0039;&#0233;clairage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>126487</code_ogr>
+<libelle>Logiciel d&#0039;&#0233;clairage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126491</code_ogr>
+<libelle>R&#0233;aliser l&#0039;animation des personnages au moyen de Set up (cr&#0233;ation de squelettes d&#0039;animation)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126492</code_ogr>
+<libelle>R&#0233;aliser l&#0039;animation des personnages au moyen de Motion capture (capture de mouvements)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>100429</code_ogr>
+<libelle>Anatomie animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101086</code_ogr>
+<libelle>Anatomie humaine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104467</code_ogr>
+<libelle>Techniques d&#0039;animation de l&#0039;image</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126489</code_ogr>
+<libelle>Logiciel de motion capture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>126493</code_ogr>
+<libelle>Concevoir la st&#0233;r&#0233;oscopie (3D relief)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126494</code_ogr>
+<libelle>Concevoir les effets sp&#0233;ciaux (fluides, particules, tissus, cheveux, muscles, corps, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126495</code_ogr>
+<libelle>Concevoir la pixellisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>126496</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Modification d&#0039;&#0233;l&#0233;ments film&#0233;s (cache / restore)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126497</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Suppression de fond vert (keying)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126498</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Stabilisation d&#0039;&#0233;l&#0233;ments film&#0233;s (traking)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126499</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Etalonnage des couleurs et lumi&#0232;res</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126500</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Gestion de passes de rendu 3D</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126501</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Cr&#0233;ation d&#0039;arri&#0232;re-plans par combinaison de plusieurs &#0233;l&#0233;ments (matte painting)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126502</code_ogr>
+<libelle>Effectuer des op&#0233;rations de compositing : Int&#0233;gration des effets sp&#0233;ciaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102790</code_ogr>
+<libelle>Techniques de compositing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>102751</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en animation 2D</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102752</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en animation 3D</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126503</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration d&#0039;effets sp&#0233;ciaux VFX - Visual effects</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126130</code_ogr>
+<libelle>Utiliser des logiciels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="31">
+<item_as_stp>
+<code_ogr>116421</code_ogr>
+<libelle>Logiciel 3DS MAX</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120752</code_ogr>
+<libelle>Logiciel After Effects</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116424</code_ogr>
+<libelle>Logiciel Anime Studio</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116426</code_ogr>
+<libelle>Logiciel Arnold</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116429</code_ogr>
+<libelle>Logiciel Blender</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116461</code_ogr>
+<libelle>Logiciel Character Studio</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116431</code_ogr>
+<libelle>Logiciel Cin&#0233;ma 4D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116432</code_ogr>
+<libelle>Logiciel Corel Draw</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116434</code_ogr>
+<libelle>Logiciel Dreamweaver</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116435</code_ogr>
+<libelle>Logiciel Fireworks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116436</code_ogr>
+<libelle>Logiciel Flash</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116437</code_ogr>
+<libelle>Logiciel FrameMaker</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116440</code_ogr>
+<libelle>Logiciel Houdini</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120739</code_ogr>
+<libelle>Logiciel Illustrator</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116442</code_ogr>
+<libelle>Logiciel InDesign</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116444</code_ogr>
+<libelle>Logiciel LightWave</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116445</code_ogr>
+<libelle>Logiciel Matchmover</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116462</code_ogr>
+<libelle>Logiciel Maya</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116446</code_ogr>
+<libelle>Logiciel Mental-ray / V-ray</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116447</code_ogr>
+<libelle>Logiciel Motion Builder</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116448</code_ogr>
+<libelle>Logiciel Nuke</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116449</code_ogr>
+<libelle>Logiciel Page Maker</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116450</code_ogr>
+<libelle>Logiciel Painter</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120738</code_ogr>
+<libelle>Logiciel Photoshop</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116454</code_ogr>
+<libelle>Logiciel Quark Express</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116455</code_ogr>
+<libelle>Logiciel Realflow</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126504</code_ogr>
+<libelle>Logiciel TVPaint</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116457</code_ogr>
+<libelle>Logiciel Toon Boom</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116459</code_ogr>
+<libelle>Logiciel XSI Softimage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>29</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116460</code_ogr>
+<libelle>Logiciel Zbrush</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>30</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116433</code_ogr>
+<libelle>Logiciels StopMotion / iStopMotion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>31</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>126505</code_ogr>
+<libelle>Superviser la pr&#0233;-production d&#0039;un film d&#0039;animation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126506</code_ogr>
+<libelle>Superviser la production d&#0039;un film d&#0039;animation</libelle>
+<code_type_activite>1</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126507</code_ogr>
+<libelle>Superviser la postproduction d&#0039;un film d&#0039;animation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1104</code_rome_cible>
+<libelle_rome_cible>Conception de contenus multim&#0233;dias</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1205</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation de contenus multim&#0233;dias</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>39038</code_appellation_source>
+<libelle_appellation_source>Op&#0233;rateur / Op&#0233;ratrice compositing - films d&#0039;animation</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1507</code_rome_cible>
+<libelle_rome_cible>Montage audiovisuel et post-production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38477</code_appellation_cible>
+<libelle_appellation_cible>Op&#0233;rateur / Op&#0233;ratrice int&#0233;gration num&#0233;rique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1101</code_rome_cible>
+<libelle_rome_cible>Cr&#0233;ation en arts plastiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20686</code_appellation_cible>
+<libelle_appellation_cible>Vid&#0233;aste</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2105</code_rome_cible>
+<libelle_rome_cible>Enseignement artistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38634</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice en techniques de l&#0039;image</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1304</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation cin&#0233;matographique et audiovisuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

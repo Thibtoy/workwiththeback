@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>J1504</code_rome>
+<intitule>Soins infirmiers sp&#0233;cialis&#0233;s en bloc op&#0233;ratoire</intitule>
+<code_ogr>360</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="8">
+<item_app>
+<code_ogr>15531</code_ogr>
+<libelle>Infirmier / Infirmi&#0232;re aide op&#0233;ratoire</libelle>
+<libelle_court>Infirmier / Infirmi&#0232;re aide op&#0233;ratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38162</code_ogr>
+<libelle>Infirmier / Infirmi&#0232;re chef de bloc op&#0233;ratoire</libelle>
+<libelle_court>Infirmier / Infirmi&#0232;re chef de bloc op&#0233;ratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15536</code_ogr>
+<libelle>Infirmier / Infirmi&#0232;re de bloc op&#0233;ratoire circulant</libelle>
+<libelle_court>Infirmier / Infirmi&#0232;re de bloc op&#0233;ratoire circulant</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15537</code_ogr>
+<libelle>Infirmier / Infirmi&#0232;re de bloc op&#0233;ratoire Dipl&#0244;m&#0233; / Dipl&#0244;m&#0233;e d&#0039;Etat -IBODE-</libelle>
+<libelle_court>Infirmier(&#0232;re) de bloc op&#0233;ratoire Dipl&#0244;m&#0233;(e) d&#0039;Etat -IBODE-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15538</code_ogr>
+<libelle>Infirmier / Infirmi&#0232;re de bloc op&#0233;ratoire instrumentiste</libelle>
+<libelle_court>Infirmier / Infirmi&#0232;re de bloc op&#0233;ratoire instrumentiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15557</code_ogr>
+<libelle>Infirmier sp&#0233;cialis&#0233; / Infirmi&#0232;re sp&#0233;cialis&#0233;e de bloc op&#0233;ratoire</libelle>
+<libelle_court>Infirmier(&#0232;re) sp&#0233;cialis&#0233;(e) de bloc op&#0233;ratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16024</code_ogr>
+<libelle>Instrumentiste en bloc op&#0233;ratoire</libelle>
+<libelle_court>Instrumentiste en bloc op&#0233;ratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17554</code_ogr>
+<libelle>Panseur / Panseuse en bloc op&#0233;ratoire</libelle>
+<libelle_court>Panseur / Panseuse en bloc op&#0233;ratoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Organise la prise en charge de patients en bloc op&#0233;ratoire et apporte une aide technique au praticien tout au long de l&#0039;intervention selon le protocole chirurgical et les r&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie.
+Peut intervenir en hygi&#0232;ne hospitali&#0232;re, en service de st&#0233;rilisation centrale, ...
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec le Dipl&#0244;me d&#0039;Etat d&#0039;Infirmier de Bloc Op&#0233;ratoire -IBODE- ouvert aux titulaires d&#0039;un dipl&#0244;me d&#0039;Etat d&#0039;infirmier ou de sage femme justifiant de 2 ans d&#0039;exercice professionnel dans le m&#0233;tier d&#0039;origine.
+Des vaccinations pr&#0233;vues par le Code de Sant&#0233; Publique sont exig&#0233;es.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;&#0233;tablissements de soins (h&#0244;pital, clinique, ...) en contact avec les patients.
+Elle peut varier selon le service et les sp&#0233;cialit&#0233;s chirurgicales.
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, par roulement, les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes ou des gardes.
+Elle s&#0039;effectue dans un environnement &#0224; risques (toxicit&#0233; des produits, agents infectieux, ...).
+Le port d&#0039;&#0233;quipements de protection st&#0233;riles (coiffe, masque chirurgical, gants, lunettes de protection, ...) est requis
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24014</code_ogr>
+<libelle>Organisation humanitaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38055</code_ogr>
+<libelle>Travail de nuit</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>123564</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement d&#0039;un outil ou &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123593</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;environnement d&#0039;un bloc op&#0233;ratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107714</code_ogr>
+<libelle>Pr&#0233;parer la table d&#0039;instrumentation m&#0233;dico-chirurgicale selon le programme op&#0233;ratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107699</code_ogr>
+<libelle>V&#0233;rifier les conditions de l&#0039;intervention lors de l&#0039;accueil du patient au bloc op&#0233;ratoire et le pr&#0233;parer</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107715</code_ogr>
+<libelle>Assister le praticien en lui pr&#0233;sentant les instruments, r&#0233;aliser les soins infirmiers et r&#0233;pertorier les instruments en fin d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107716</code_ogr>
+<libelle>R&#0233;partir les instruments et les dispositifs m&#0233;dicaux selon le mode de traitement par st&#0233;rilisation ou par destruction et proc&#0233;der &#0224; la remise en conformit&#0233; du site op&#0233;ratoire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107703</code_ogr>
+<libelle>Renseigner les documents techniques lors d&#0039;une intervention chirurgicale et les transmettre &#0224; l&#0039;interlocuteur concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116934</code_ogr>
+<libelle>Etablir une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>107717</code_ogr>
+<libelle>Proc&#0233;dures de contr&#0244;le du site op&#0233;ratoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107706</code_ogr>
+<libelle>El&#0233;ments de base en techniques chirurgicales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100414</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107270</code_ogr>
+<libelle>Techniques de r&#0233;animation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107306</code_ogr>
+<libelle>Circuit des vigilances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107718</code_ogr>
+<libelle>Protocoles de soins d&#0039;urgence</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124264</code_ogr>
+<libelle>Caract&#0233;ristiques du bloc op&#0233;ratoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>107722</code_ogr>
+<libelle>Pratiquer des examens endoscopiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>107723</code_ogr>
+<libelle>Pratiquer un Pr&#0233;l&#0232;vement Multi Organes (PMO)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>125143</code_ogr>
+<libelle>Hygi&#0232;ne hospitali&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124263</code_ogr>
+<libelle>Endoscopie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>125155</code_ogr>
+<libelle>D&#0233;sinfecter et d&#0233;contaminer des locaux sensibles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124335</code_ogr>
+<libelle>D&#0233;sinfecter et d&#0233;contaminer un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123821</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;un &#0233;quipement ou d&#0039;une installation sensible</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>125784</code_ogr>
+<libelle>St&#0233;rilisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115058</code_ogr>
+<libelle>Pr&#0233;parer la phase de r&#0233;veil du patient et proc&#0233;der au transfert en Salle de Surveillance Post-Interventionnelle -SSPI -</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124532</code_ogr>
+<libelle>Tenir inform&#0233;e sa structure des nouvelles techniques et r&#0233;glementations li&#0233;es &#0224; l&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>117426</code_ogr>
+<libelle>Communication interne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102250</code_ogr>
+<libelle>Techniques d&#0039;animation d&#0039;&#0233;quipe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1405</code_rome_cible>
+<libelle_rome_cible>Conseil en information m&#0233;dicale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1505</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers sp&#0233;cialis&#0233;s en pr&#0233;vention</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1506</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers g&#0233;n&#0233;ralistes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15135</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice de formation param&#0233;dicale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1502</code_rome_cible>
+<libelle_rome_cible>Coordination de services m&#0233;dicaux ou param&#0233;dicaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1503</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers sp&#0233;cialis&#0233;s en anesth&#0233;sie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1507</code_rome_cible>
+<libelle_rome_cible>Soins infirmiers sp&#0233;cialis&#0233;s en pu&#0233;riculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1103</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement personnel et bien-&#0234;tre de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1403</code_rome_cible>
+<libelle_rome_cible>Management de structure de sant&#0233;, sociale ou p&#0233;nitentiaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18846</code_appellation_cible>
+<libelle_appellation_cible>Responsable de r&#0233;sidence pour personnes &#0226;g&#0233;es</libelle_appellation_cible>
+<code_appellation_cible>18860</code_appellation_cible>
+<libelle_appellation_cible>Responsable de service d&#0039;aide &#0224; domicile</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

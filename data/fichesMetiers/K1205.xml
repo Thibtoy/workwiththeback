@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1205</code_rome>
+<intitule>Information sociale</intitule>
+<code_ogr>372</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="14">
+<item_app>
+<code_ogr>10373</code_ogr>
+<libelle>Agent / Agente d&#0039;accueil et d&#0039;information sociale</libelle>
+<libelle_court>Agent / Agente d&#0039;accueil et d&#0039;information sociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10374</code_ogr>
+<libelle>Agent / Agente d&#0039;accueil social</libelle>
+<libelle_court>Agent / Agente d&#0039;accueil social</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11846</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de projet en &#0233;ducation pour la sant&#0233;</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de projet en &#0233;ducation pour la sant&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11875</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;ducation pour la sant&#0233;</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;ducation pour la sant&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11932</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;information, de m&#0233;diation sociale/m&#0233;dicosociale</libelle>
+<libelle_court>Charg&#0233;(e) d&#0039;information, de m&#0233;diation sociale/m&#0233;dicosociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11928</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;information de planning familial</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;information de planning familial</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11929</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;information des droits des femmes</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;information des droits des femmes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11930</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;information jeunesse</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;information jeunesse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11931</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;information juridique et sociale</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;information juridique et sociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13424</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en g&#0233;n&#0233;tique</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en g&#0233;n&#0233;tique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14573</code_ogr>
+<libelle>Ecoutant social / Ecoutante sociale</libelle>
+<libelle_court>Ecoutant social / Ecoutante sociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14574</code_ogr>
+<libelle>Ecoutant social coordinateur / Ecoutante sociale coordinatrice</libelle>
+<libelle_court>Ecoutant social coordinateur/Ecoutante sociale coordinatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14575</code_ogr>
+<libelle>Ecoutant social r&#0233;f&#0233;rent / Ecoutante sociale r&#0233;f&#0233;rente</libelle>
+<libelle_court>Ecoutant social r&#0233;f&#0233;rent / Ecoutante sociale r&#0233;f&#0233;rente</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16601</code_ogr>
+<libelle>M&#0233;diateur administratif / M&#0233;diatrice administrative</libelle>
+<libelle_court>M&#0233;diateur administratif / M&#0233;diatrice administrative</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+M&#0232;ne des actions d&#0039;information, de pr&#0233;vention ou de m&#0233;diation aupr&#0232;s d&#0039;un public g&#0233;n&#0233;ralement en difficult&#0233;, selon l&#0039;orientation de la structure.
+Peut r&#0233;aliser des permanences en t&#0233;l&#0233;phonie sociale.
+Peut coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP/BEP &#0224; Bac+2 (BTS, L2, ...) dans le secteur social, juridique ou de l&#0039;animation socioculturelle.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle ou b&#0233;n&#0233;vole dans ces secteurs sans dipl&#0244;me particulier.
+Des formations compl&#0233;mentaires (&#0233;ducation de la sant&#0233;, sant&#0233; publique, pr&#0233;vention et m&#0233;diation, ...) peuvent &#0234;tre requises.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;organismes &#0224; caract&#0232;re social ou d&#0039;associations en contact avec le public (personnes en difficult&#0233; sociale ou personnelle, &#0233;tudiants, ...).
+L&#0039;activit&#0233; varie selon le type de structure (service de t&#0233;l&#0233;phonie sociale, centre d&#0039;informations, ...) et le domaine d&#0039;intervention (social, juridique, sant&#0233;, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23707</code_ogr>
+<libelle>Association &#0224; caract&#0232;re social</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24066</code_ogr>
+<libelle>Service de t&#0233;l&#0233;phonie sociale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>109607</code_ogr>
+<libelle>Accueillir les personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107834</code_ogr>
+<libelle>Analyser la situation et les besoins de la personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107887</code_ogr>
+<libelle>Conseiller et sensibiliser des publics de jeunes, de parents, de migrants sur les th&#0232;mes du droit des femmes, de la citoyennet&#0233;, du logement, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121268</code_ogr>
+<libelle>Actualiser les informations mises &#0224; la disposition d&#0039;un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119106</code_ogr>
+<libelle>R&#0233;aliser un suivi d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124532</code_ogr>
+<libelle>Tenir inform&#0233;e sa structure des nouvelles techniques et r&#0233;glementations li&#0233;es &#0224; l&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>107969</code_ogr>
+<libelle>Organisation du syst&#0232;me sanitaire et social</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117426</code_ogr>
+<libelle>Communication interne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107778</code_ogr>
+<libelle>Circuits d&#0039;h&#0233;bergement d&#0039;urgence</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103228</code_ogr>
+<libelle>Droit public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108086</code_ogr>
+<libelle>Droit priv&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107858</code_ogr>
+<libelle>Identification de signes d&#0039;addiction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102066</code_ogr>
+<libelle>Techniques d&#0039;&#0233;coute et de la relation &#0224; la personne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126183</code_ogr>
+<libelle>Conseiller ou accompagner une personne lors de situations conflictuelles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>120690</code_ogr>
+<libelle>Conseiller la personne dans ses activit&#0233;s de la vie quotidienne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101949</code_ogr>
+<libelle>Techniques de pr&#0233;vention et de gestion de conflits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101654</code_ogr>
+<libelle>Techniques de m&#0233;diation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115107</code_ogr>
+<libelle>R&#0233;ceptionner l&#0039;appel t&#0233;l&#0233;phonique de personnes en d&#0233;tresse, de victimes, ... et leur proposer une &#0233;coute</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107775</code_ogr>
+<libelle>Techniques de conduite d&#0039;entretien</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121985</code_ogr>
+<libelle>Conseiller un interlocuteur dans des d&#0233;marches administratives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>122256</code_ogr>
+<libelle>Coordonner des actions d&#0039;insertion professionnelle au sein d&#0039;un r&#0233;seau de partenaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122257</code_ogr>
+<libelle>Coordonner des actions d&#0039;&#0233;ducation au sein d&#0039;un r&#0233;seau de partenaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122255</code_ogr>
+<libelle>Coordonner des actions de sant&#0233; au sein d&#0039;un r&#0233;seau de partenaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115109</code_ogr>
+<libelle>Animer des actions collectives de pr&#0233;vention et d&#0039;&#0233;ducation &#0224; la sant&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>102065</code_ogr>
+<libelle>Di&#0233;t&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107188</code_ogr>
+<libelle>Addictologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107777</code_ogr>
+<libelle>Sexologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102250</code_ogr>
+<libelle>Techniques d&#0039;animation d&#0039;&#0233;quipe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1204</code_rome_cible>
+<libelle_rome_cible>M&#0233;diation sociale et facilitation de la vie en soci&#0233;t&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1601</code_rome_cible>
+<libelle_rome_cible>Accueil et renseignements</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1101</code_rome_cible>
+<libelle_rome_cible>Accompagnement et m&#0233;diation familiale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1102</code_rome_cible>
+<libelle_rome_cible>Aide aux b&#0233;n&#0233;ficiaires d&#0039;une mesure de protection juridique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>14573</code_appellation_source>
+<libelle_appellation_source>Ecoutant social / Ecoutante sociale</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1104</code_rome_cible>
+<libelle_rome_cible>Psychologie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18237</code_appellation_cible>
+<libelle_appellation_cible>Psychoth&#0233;rapeute</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1201</code_rome_cible>
+<libelle_rome_cible>Action sociale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1207</code_rome_cible>
+<libelle_rome_cible>Intervention socio&#0233;ducative</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

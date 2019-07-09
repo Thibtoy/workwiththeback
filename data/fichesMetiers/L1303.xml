@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1303</code_rome>
+<intitule>Promotion d&#0039;artistes et de spectacles</intitule>
+<code_ogr>444</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="16">
+<item_app>
+<code_ogr>10356</code_ogr>
+<libelle>Agent / Agente artistique</libelle>
+<libelle_court>Agent / Agente artistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10387</code_ogr>
+<libelle>Agent / Agente d&#0039;artiste</libelle>
+<libelle_court>Agent / Agente d&#0039;artiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10520</code_ogr>
+<libelle>Agent / Agente de mannequin</libelle>
+<libelle_court>Agent / Agente de mannequin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10568</code_ogr>
+<libelle>Agent / Agente de promotion des artistes</libelle>
+<libelle_court>Agent / Agente de promotion des artistes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10609</code_ogr>
+<libelle>Agent / Agente de sportif</libelle>
+<libelle_court>Agent / Agente de sportif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10746</code_ogr>
+<libelle>Agent / Agente litt&#0233;raire</libelle>
+<libelle_court>Agent / Agente litt&#0233;raire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38464</code_ogr>
+<libelle>Assistant / Assistante de la distribution artistique</libelle>
+<libelle_court>Assistant / Assistante de la distribution artistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11556</code_ogr>
+<libelle>Booker / Bookeuse</libelle>
+<libelle_court>Booker / Bookeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11795</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de diffusion de spectacles</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de diffusion de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38465</code_ogr>
+<libelle>Chef de file figuration</libelle>
+<libelle_court>Chef de file figuration</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14218</code_ogr>
+<libelle>Directeur / Directrice de casting</libelle>
+<libelle_court>Directeur / Directrice de casting</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15518</code_ogr>
+<libelle>Impr&#0233;sario</libelle>
+<libelle_court>Impr&#0233;sario</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16331</code_ogr>
+<libelle>Manager / Manageuse d&#0039;artiste</libelle>
+<libelle_court>Manager / Manageuse d&#0039;artiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16934</code_ogr>
+<libelle>Music manager</libelle>
+<libelle_court>Music manager</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18557</code_ogr>
+<libelle>Repr&#0233;sentant / Repr&#0233;sentante litt&#0233;raire</libelle>
+<libelle_court>Repr&#0233;sentant / Repr&#0233;sentante litt&#0233;raire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20376</code_ogr>
+<libelle>Tourneur / Tourneuse spectacle</libelle>
+<libelle_court>Tourneur / Tourneuse spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+G&#0232;re et d&#0233;veloppe la carri&#0232;re d&#0039;artistes (com&#0233;diens, &#0233;crivains, musiciens, ...), de mannequins, de sportifs, ... selon la r&#0233;glementation (droit de la propri&#0233;t&#0233; artistique et litt&#0233;raire, droit du sport, ...), les objectifs et les orientations professionnels.
+Peut conseiller un artiste (com&#0233;dien, &#0233;crivain, musicien, ...), un mannequin, un sportif, ... sur son image.
+Peut r&#0233;aliser des auditions et des castings d&#0039;artistes pour un spectacle, un film, ...
+Peut g&#0233;rer la diffusion de spectacles (danse, musique, th&#0233;&#0226;tre, arts de la rue et de la piste, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec une exp&#0233;rience professionnelle dans le management de carri&#0232;res artistiques.
+La connaissance approfondie d&#0039;un secteur (mode, musique, cin&#0233;ma, sport, litt&#0233;rature, ...) et de la r&#0233;glementation (droit de la propri&#0233;t&#0233; artistique et litt&#0233;raire, droit du sport, droit commercial, ...) est requise.
+Une autorisation d&#0039;exercer (licence annuelle d&#0039;agent) d&#0233;livr&#0233;e par le minist&#0232;re comp&#0233;tent (Minist&#0232;re du travail, Minist&#0232;re de la jeunesse et des sports, ...) peut &#0234;tre exig&#0233;e.
+La pratique d&#0039;une ou plusieurs langues &#0233;trang&#0232;res, en particulier l&#0039;anglais, peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;agences (artistiques, de mannequins, litt&#0233;raires, ...), de soci&#0233;t&#0233;s de production de spectacles, d&#0039;&#0233;diteurs phonographiques ou en ind&#0233;pendant, ... pour le compte d&#0039;artistes (com&#0233;diens, &#0233;crivains, musiciens, ...), de mannequins, de sportifs en contact avec diff&#0233;rents intervenants (producteurs, directeurs de casting, &#0233;diteurs, sponsors, ...).
+La r&#0233;mun&#0233;ration est g&#0233;n&#0233;ralement constitu&#0233;e d&#0039;un pourcentage sur les cachets ou les commissions per&#0231;us par les artistes (com&#0233;diens, &#0233;crivains, musiciens, ...), les mannequins, les sportifs. Pour les charg&#0233;s de diffusion de spectacles, elle est g&#0233;n&#0233;ralement constitu&#0233;e d&#0039;un fixe avec int&#0233;ressement aux ventes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23683</code_ogr>
+<libelle>Agence artistique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23685</code_ogr>
+<libelle>Agence de castings</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23689</code_ogr>
+<libelle>Agence de mannequins</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23699</code_ogr>
+<libelle>Agence litt&#0233;raire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23807</code_ogr>
+<libelle>Club sportif</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23905</code_ogr>
+<libelle>Entreprise d&#0039;&#0233;dition phonographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23407</code_ogr>
+<libelle>Arts plastiques</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23562</code_ogr>
+<libelle>Mode</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>125843</code_ogr>
+<libelle>Rep&#0233;rer les talents, les aptitudes, le physique lors d&#0039;&#0233;v&#0232;nements et dans l&#0039;environnement relationnel et professionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109134</code_ogr>
+<libelle>Cerner la personnalit&#0233; de l&#0039;artiste, du mannequin, du sportif et d&#0233;finir ses objectifs de carri&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125445</code_ogr>
+<libelle>Soumettre des projets &#0224; l&#0039;appr&#0233;ciation d&#0039;un artiste,mannequin ou sportif</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124076</code_ogr>
+<libelle>Promouvoir un artiste, mannequin, sportif</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117304</code_ogr>
+<libelle>V&#0233;rifier les conditions d&#0039;ex&#0233;cution d&#0039;un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117305</code_ogr>
+<libelle>V&#0233;rifier le paiement des cachets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117306</code_ogr>
+<libelle>V&#0233;rifier le paiement des droits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117307</code_ogr>
+<libelle>V&#0233;rifier le paiement des prestations r&#0233;alis&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="5">
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100381</code_ogr>
+<libelle>Argumentation commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121997</code_ogr>
+<libelle>Conseiller des artistes, des mannequins, des sportifs dans leur communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125443</code_ogr>
+<libelle>&#0201;tudier le book d&#0039;artistes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125444</code_ogr>
+<libelle>Conseiller des artistes d&#0233;butants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119530</code_ogr>
+<libelle>Auditionner des artistes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122743</code_ogr>
+<libelle>Attribuer un r&#0244;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>122709</code_ogr>
+<libelle>Etablir un contrat de vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121794</code_ogr>
+<libelle>R&#0233;aliser un suivi des contrats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123891</code_ogr>
+<libelle>Planifier des dates de spectacle et de tourn&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121491</code_ogr>
+<libelle>Mettre en place des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120722</code_ogr>
+<libelle>Planifier des rendez-vous</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121402</code_ogr>
+<libelle>Accompagner un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121805</code_ogr>
+<libelle>Concevoir des outils de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119226</code_ogr>
+<libelle>Publication Assist&#0233;e par Ordinateur (PAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1103</code_rome_cible>
+<libelle_rome_cible>Communication</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1302</code_rome_cible>
+<libelle_rome_cible>Production et administration spectacle, cin&#0233;ma et audiovisuel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

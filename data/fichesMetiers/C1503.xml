@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>C1503</code_rome>
+<intitule>Management de projet immobilier</intitule>
+<code_ogr>78</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="40">
+<item_app>
+<code_ogr>38993</code_ogr>
+<libelle>Assistant / Assistante de programmes immobiliers</libelle>
+<libelle_court>Assistant / Assistante de programmes immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11283</code_ogr>
+<libelle>Assistant / Assistante en montage d&#0039;op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Assistant / Assistante en montage d&#0039;op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38994</code_ogr>
+<libelle>Assistant / Assistante en promotion immobili&#0232;re</libelle>
+<libelle_court>Assistant / Assistante en promotion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11758</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;affaires immobili&#0232;res</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;affaires immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11825</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de mission immobili&#0232;re</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de mission immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11840</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de programme immobilier neuf</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de programme immobilier neuf</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11854</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de prospection et de d&#0233;veloppement foncier</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de prospection et de d&#0233;veloppement foncier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11914</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes immobili&#0232;res</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11924</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;expansion immobili&#0232;re</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;expansion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11935</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11936</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;op&#0233;rations logement social</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;op&#0233;rations logement social</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13289</code_ogr>
+<libelle>Conducteur / Conductrice d&#0039;op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Conducteur / Conductrice d&#0039;op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13519</code_ogr>
+<libelle>Constructeur / Constructrice de maisons individuelles</libelle>
+<libelle_court>Constructeur / Constructrice de maisons individuelles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14157</code_ogr>
+<libelle>D&#0233;veloppeur attach&#0233; foncier / D&#0233;veloppeuse attach&#0233;e fonci&#0232;re</libelle>
+<libelle_court>D&#0233;veloppeur attach&#0233; foncier / D&#0233;veloppeuse attach&#0233;e fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14252</code_ogr>
+<libelle>Directeur / Directrice de d&#0233;veloppement immobilier</libelle>
+<libelle_court>Directeur / Directrice de d&#0233;veloppement immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14265</code_ogr>
+<libelle>Directeur / Directrice de la construction immobili&#0232;re</libelle>
+<libelle_court>Directeur / Directrice de la construction immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14274</code_ogr>
+<libelle>Directeur / Directrice de la promotion immobili&#0232;re</libelle>
+<libelle_court>Directeur / Directrice de la promotion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14297</code_ogr>
+<libelle>Directeur / Directrice de nouveaux programmes immobiliers</libelle>
+<libelle_court>Directeur / Directrice de nouveaux programmes immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14367</code_ogr>
+<libelle>Directeur / Directrice des investissements immobiliers</libelle>
+<libelle_court>Directeur / Directrice des investissements immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14371</code_ogr>
+<libelle>Directeur / Directrice des programmes immobiliers</libelle>
+<libelle_court>Directeur / Directrice des programmes immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15347</code_ogr>
+<libelle>Gestionnaire de programmes immobiliers</libelle>
+<libelle_court>Gestionnaire de programmes immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15979</code_ogr>
+<libelle>Inspecteur foncier / Inspectrice fonci&#0232;re</libelle>
+<libelle_court>Inspecteur foncier / Inspectrice fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16216</code_ogr>
+<libelle>Lotisseur / Lotisseuse</libelle>
+<libelle_court>Lotisseur / Lotisseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16799</code_ogr>
+<libelle>Monteur / Monteuse d&#0039;op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Monteur / Monteuse d&#0039;op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16966</code_ogr>
+<libelle>N&#0233;gociateur foncier / N&#0233;gociatrice fonci&#0232;re</libelle>
+<libelle_court>N&#0233;gociateur foncier / N&#0233;gociatrice fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17776</code_ogr>
+<libelle>Pilote d&#0039;op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Pilote d&#0039;op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18204</code_ogr>
+<libelle>Promoteur-constructeur / Promotrice-constructrice</libelle>
+<libelle_court>Promoteur-constructeur / Promotrice-constructrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18206</code_ogr>
+<libelle>Prospecteur foncier / Prospectrice fonci&#0232;re</libelle>
+<libelle_court>Prospecteur foncier / Prospectrice fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18207</code_ogr>
+<libelle>Prospecteur monteur / Prospectrice monteuse en op&#0233;rations immobili&#0232;res</libelle>
+<libelle_court>Prospecteur(trice) monteur(se) en op&#0233;rations immobili&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18209</code_ogr>
+<libelle>Prospecteur n&#0233;gociateur foncier / Prospectrice n&#0233;gociatrice fonci&#0232;re</libelle>
+<libelle_court>Prospecteur(trice) n&#0233;gociateur(trice) foncier(&#0232;re)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18795</code_ogr>
+<libelle>Responsable de nouveaux programmes immobiliers</libelle>
+<libelle_court>Responsable de nouveaux programmes immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18820</code_ogr>
+<libelle>Responsable de programme immobilier</libelle>
+<libelle_court>Responsable de programme immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18830</code_ogr>
+<libelle>Responsable de projet de renouvellement urbain</libelle>
+<libelle_court>Responsable de projet de renouvellement urbain</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18969</code_ogr>
+<libelle>Responsable d&#0233;veloppement foncier</libelle>
+<libelle_court>Responsable d&#0233;veloppement foncier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18967</code_ogr>
+<libelle>Responsable d&#0233;veloppement/expansion immobili&#0232;re</libelle>
+<libelle_court>Responsable d&#0233;veloppement/expansion immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18971</code_ogr>
+<libelle>Responsable d&#0039;expansion fonci&#0232;re</libelle>
+<libelle_court>Responsable d&#0039;expansion fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19085</code_ogr>
+<libelle>Responsable foncier / fonci&#0232;re</libelle>
+<libelle_court>Responsable foncier / fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19087</code_ogr>
+<libelle>Responsable foncier monteur / fonci&#0232;re monteuse d&#0039;op&#0233;rations</libelle>
+<libelle_court>Responsable foncier monteur / fonci&#0232;re monteuse d&#0039;op&#0233;rations</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19101</code_ogr>
+<libelle>Responsable habitat - logement</libelle>
+<libelle_court>Responsable habitat - logement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19158</code_ogr>
+<libelle>Responsable programme r&#0233;habilitation immobili&#0232;re</libelle>
+<libelle_court>Responsable programme r&#0233;habilitation immobili&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="5">
+Supervise les &#0233;tudes de faisabilit&#0233; techniques, financi&#0232;res, administratives de projets, programmes immobiliers en fonction des besoins d&#0039;une client&#0232;le potentielle ou d&#0039;une collectivit&#0233;. Assure le lancement et la pr&#0233;-commercialisation des r&#0233;alisations immobili&#0232;res selon la r&#0233;glementation, les d&#0233;lais et les objectifs de rentabilit&#0233;.
+Coordonne les diff&#0233;rentes &#0233;tapes du projet immobilier: conception (&#0233;tude, montage du dossier, ...), choix des ma&#0238;tres d&#0039;oeuvres, construction, r&#0233;ception des ouvrages.
+Peut assister les responsables de programmes immobiliers (suivi des contrats de r&#0233;servation, suivi des appels de fonds, situation des travaux, pr&#0233;paration des livraisons, ...).
+Peut prospecter les terrains &#0224; b&#0226;tir.
+Peut coordonner une &#0233;quipe, diriger une structure.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un Master (M1, Master professionnel, dipl&#0244;me d&#0039;ing&#0233;nieur, ...) dans les secteurs de l&#0039;immobilier, du b&#0226;timent, de l&#0039;architecture, du commerce, du droit, de l&#0039;&#0233;conomie et de la gestion.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, DUT) compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans ces secteurs.
+La pratique d&#0039;une langue &#0233;trang&#0232;re peut &#0234;tre exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises du BTP, d&#0039;&#0233;tablissements bancaires, d&#0039;entreprises, de promoteurs, de soci&#0233;t&#0233;s d&#0039;&#0233;conomie mixte, de collectivit&#0233;s territoriales, ... en contact avec diff&#0233;rents intervenants (architectes, ing&#0233;nieurs travaux, bureaux d&#0039;&#0233;tudes, institutionnels, propri&#0233;taires, assureurs, ...). Elle peut impliquer des d&#0233;placements.
+Elle varie selon le ma&#0238;tre d&#0039;ouvrage (public, priv&#0233;), la structure (collectivit&#0233; locale, promoteur, ...) et le type d&#0039;immobilier (priv&#0233;, d&#0039;entreprise, commercial, social, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="10">
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23822</code_ogr>
+<libelle>Compagnie d&#0039;assurances/mutuelle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23914</code_ogr>
+<libelle>Etablissement bancaire et financier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24045</code_ogr>
+<libelle>Promoteur, constructeur</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24100</code_ogr>
+<libelle>Soci&#0233;t&#0233; d&#0039;&#0233;conomie mixte</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23412</code_ogr>
+<libelle>Banque</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="13">
+<item_ab>
+<code_ogr>124597</code_ogr>
+<libelle>Suivre l&#0039;&#0233;volution du march&#0233; immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>113547</code_ogr>
+<libelle>D&#0233;finir la faisabilit&#0233; et la rentabilit&#0233; d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124109</code_ogr>
+<libelle>Prospecter un march&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120675</code_ogr>
+<libelle>Elaborer un budget pr&#0233;visionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122847</code_ogr>
+<libelle>Etablir un montage financier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122848</code_ogr>
+<libelle>Etablir un montage juridique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124217</code_ogr>
+<libelle>R&#0233;aliser une proc&#0233;dure d&#0039;acquisition de terrain, de bien immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122890</code_ogr>
+<libelle>D&#0233;terminer des besoins en travaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122316</code_ogr>
+<libelle>Coordonner une &#0233;quipe d&#0039;intervenants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118025</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117162</code_ogr>
+<libelle>Proposer des axes d&#0039;am&#0233;lioration</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123352</code_ogr>
+<libelle>R&#0233;aliser un appel d&#0039;offre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="14">
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101640</code_ogr>
+<libelle>Droit de l&#0039;urbanisme et de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101639</code_ogr>
+<libelle>Droit immobilier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100129</code_ogr>
+<libelle>Code des march&#0233;s publics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101665</code_ogr>
+<libelle>Techniques de construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119607</code_ogr>
+<libelle>Architecture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117785</code_ogr>
+<libelle>Logiciels  immobiliers</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104155</code_ogr>
+<libelle>Gestion financi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101675</code_ogr>
+<libelle>Urbanisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120886</code_ogr>
+<libelle>Logiciels comptables</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="12">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126523</code_ogr>
+<libelle>Intervenir dans le domaine de projets immobiliers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>122202</code_ogr>
+<libelle>Gestion immobili&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122212</code_ogr>
+<libelle>Gestion immobili&#0232;re des fonds de commerce</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122211</code_ogr>
+<libelle>Gestion immobili&#0232;re d&#0039;entreprise</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118547</code_ogr>
+<libelle>Immobilier agricole</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118546</code_ogr>
+<libelle>Immobilier d&#0039;habitation publique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118544</code_ogr>
+<libelle>Immobilier de haut standing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122218</code_ogr>
+<libelle>M&#0233;thodes de transaction immobili&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117319</code_ogr>
+<libelle>Suivre un appel d&#0039;offres</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120333</code_ogr>
+<libelle>Rechercher des financements, des partenariats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>118772</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat d&#0039;avancement des travaux jusqu&#0039;&#0224; r&#0233;ception</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122190</code_ogr>
+<libelle>Pr&#0233;senter les modalit&#0233;s d&#0039;acquisition d&#0039;un bien</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122189</code_ogr>
+<libelle>Pr&#0233;senter un bien immobilier &#0224; un client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122201</code_ogr>
+<libelle>R&#0233;aliser une transaction immobili&#0232;re de vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124120</code_ogr>
+<libelle>&#0201;tablir un dossier financier d&#0039;acquisition de biens immobiliers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124784</code_ogr>
+<libelle>R&#0233;ceptionner un ouvrage immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124783</code_ogr>
+<libelle>Superviser la r&#0233;alisation technique d&#0039;un programme immobilier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122844</code_ogr>
+<libelle>Etablir l&#0039;&#0233;tat d&#0039;avancement de travaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>122377</code_ogr>
+<libelle>Dossier d&#0039;Intervention Ult&#0233;rieure sur l&#0039;Ouvrage (DIUO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126011</code_ogr>
+<libelle>Planifier des &#0233;tudes et interventions techniques avant les travaux (sondage des sols, d&#0233;pollution, fouilles etc.)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122360</code_ogr>
+<libelle>D&#0233;finir des actions de promotion commerciale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101399</code_ogr>
+<libelle>Marketing / Mercatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125968</code_ogr>
+<libelle>Conseiller les collectivit&#0233;s sur une politique fonci&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123397</code_ogr>
+<libelle>G&#0233;rer le budget global d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>12</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>109802</code_ogr>
+<libelle>Diriger un service, une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="6">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1203</code_rome_cible>
+<libelle_rome_cible>Relation clients banque/finance</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1501</code_rome_cible>
+<libelle_rome_cible>G&#0233;rance immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>C1504</code_rome_cible>
+<libelle_rome_cible>Transaction immobili&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1403</code_rome_cible>
+<libelle_rome_cible>Relation commerciale aupr&#0232;s de particuliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1707</code_rome_cible>
+<libelle_rome_cible>Strat&#0233;gie commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

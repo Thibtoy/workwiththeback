@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1206</code_rome>
+<intitule>Intervention socioculturelle</intitule>
+<code_ogr>373</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>10984</code_ogr>
+<libelle>Animateur / Animatrice d&#0039;activit&#0233;s sociales et de vie locale</libelle>
+<libelle_court>Animateur / Animatrice d&#0039;activit&#0233;s sociales et de vie locale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11002</code_ogr>
+<libelle>Animateur / Animatrice de chantier de jeunes b&#0233;n&#0233;voles</libelle>
+<libelle_court>Animateur / Animatrice de chantier de jeunes b&#0233;n&#0233;voles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11003</code_ogr>
+<libelle>Animateur / Animatrice de chantier international de jeunes b&#0233;n&#0233;voles</libelle>
+<libelle_court>Animateur(trice) chantier international de jeunes b&#0233;n&#0233;voles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11009</code_ogr>
+<libelle>Animateur / Animatrice de convivialit&#0233; en structure d&#0039;accueil</libelle>
+<libelle_court>Animateur/Animatrice de convivialit&#0233; en structure d&#0039;accueil</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11017</code_ogr>
+<libelle>Animateur / Animatrice de foyer rural</libelle>
+<libelle_court>Animateur / Animatrice de foyer rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11028</code_ogr>
+<libelle>Animateur / Animatrice de quartier</libelle>
+<libelle_court>Animateur / Animatrice de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11029</code_ogr>
+<libelle>Animateur / Animatrice de r&#0233;gie de quartier</libelle>
+<libelle_court>Animateur / Animatrice de r&#0233;gie de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10977</code_ogr>
+<libelle>Animateur coordonnateur / Animatrice coordonnatrice d&#0039;activit&#0233;s du troisi&#0232;me &#0226;ge</libelle>
+<libelle_court>Animateur(trice) coordonnateur(trice) d&#0039;activit&#0233;s 3&#0232;me &#0226;ge</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10978</code_ogr>
+<libelle>Animateur coordonnateur / Animatrice coordonnatrice d&#0039;activit&#0233;s jeunesse</libelle>
+<libelle_court>Animateur(trice) coordonnateur(trice) d&#0039;activit&#0233;s jeunesse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11064</code_ogr>
+<libelle>Animateur social / Animatrice sociale en foyer d&#0039;h&#0233;bergement</libelle>
+<libelle_court>Animateur social / Animatrice sociale en foyer d&#0039;h&#0233;bergement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11065</code_ogr>
+<libelle>Animateur socioculturel / Animatrice socioculturelle</libelle>
+<libelle_court>Animateur socioculturel / Animatrice socioculturelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11066</code_ogr>
+<libelle>Animateur socio&#0233;ducatif / Animatrice socio&#0233;ducative</libelle>
+<libelle_court>Animateur socio&#0233;ducatif / Animatrice socio&#0233;ducative</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11763</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;animation de projets &#0233;ducatifs de quartier</libelle>
+<libelle_court>Charg&#0233;/Charg&#0233;e d&#0039;animation de projets &#0233;ducatifs de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13697</code_ogr>
+<libelle>Coordinateur social / Coordinatrice sociale de quartier</libelle>
+<libelle_court>Coordinateur social / Coordinatrice sociale de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38504</code_ogr>
+<libelle>Coordinateur socioculturel / Coordinatrice socioculturelle</libelle>
+<libelle_court>Coordinateur socioculturel / Coordinatrice socioculturelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14220</code_ogr>
+<libelle>Directeur / Directrice de centre culturel</libelle>
+<libelle_court>Directeur / Directrice de centre culturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14236</code_ogr>
+<libelle>Directeur / Directrice de centre socioculturel</libelle>
+<libelle_court>Directeur / Directrice de centre socioculturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14293</code_ogr>
+<libelle>Directeur / Directrice de maison des jeunes et de la culture</libelle>
+<libelle_court>Directeur / Directrice de maison des jeunes et de la culture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14319</code_ogr>
+<libelle>Directeur / Directrice de r&#0233;gie de quartier</libelle>
+<libelle_court>Directeur / Directrice de r&#0233;gie de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38583</code_ogr>
+<libelle>M&#0233;diateur culturel / M&#0233;diatrice culturelle aupr&#0232;s de personnes handicap&#0233;es</libelle>
+<libelle_court>M&#0233;diateur(trice) culturel(le) aupr&#0232;s de personne handicap&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18713</code_ogr>
+<libelle>Responsable de foyer rural</libelle>
+<libelle_court>Responsable de foyer rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18791</code_ogr>
+<libelle>Responsable de maison de quartier</libelle>
+<libelle_court>Responsable de maison de quartier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19808</code_ogr>
+<libelle>Technicien / Technicienne de l&#0039;animation socioculturelle</libelle>
+<libelle_court>Technicien / Technicienne de l&#0039;animation socioculturelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Con&#0231;oit des projets d&#0039;animation socioculturelle pour le public, les met en place et les coordonne afin de favoriser la communication et le d&#0233;veloppement du lien social, au sein d&#0039;un territoire ou d&#0039;une structure.
+Peut coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe.
+Peut diriger une structure.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="1">
+Cet emploi/m&#0233;tier est accessible avec un Brevet ou un Dipl&#0244;me d&#0039;Etat dans le secteur de l&#0039;animation (Brevet Professionnel de la Jeunesse, de l&#0039;Education Populaire et du Sport -BPJEPS-, Dipl&#0244;me d&#0039;Etat de la Jeunesse, de l&#0039;Education Populaire et du Sport - DEJEPS, Dipl&#0244;me d&#0039;Etat Sup&#0233;rieur de la Jeunesse, de l&#0039;Education Populaire et du Sport - DESJEPS,...).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de centres socioculturels, foyers d&#0039;h&#0233;bergement, associations, ... en contact avec le public et en relation avec de multiples interlocuteurs (animateurs, travailleurs sociaux, &#0233;quipe soignante, &#0233;lus, entreprises, ...). Elle peut impliquer des d&#0233;placements et un &#0233;loignement du domicile de plusieurs jours (chantiers internationaux, ...).
+Elle varie selon la structure (maison de quartier, maison de retraite, ...) et les caract&#0233;ristiques socioculturelles du public.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="7">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23790</code_ogr>
+<libelle>Centre socioculturel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23806</code_ogr>
+<libelle>Club du troisi&#0232;me &#0226;ge</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23942</code_ogr>
+<libelle>Foyer / centre d&#0039;h&#0233;bergement</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23943</code_ogr>
+<libelle>Foyer rural</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24000</code_ogr>
+<libelle>Maison des jeunes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24047</code_ogr>
+<libelle>R&#0233;gie de quartier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>107894</code_ogr>
+<libelle>Recenser les donn&#0233;es sur le territoire (sp&#0233;cificit&#0233;s culturelles, centres d&#0039;int&#0233;r&#0234;t, ...) et d&#0233;terminer les axes d&#0039;intervention socioculturelle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121798</code_ogr>
+<libelle>Concevoir un projet d&#0039;actions socioculturelles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107896</code_ogr>
+<libelle>R&#0233;aliser les actions socioculturelles et en effectuer le suivi</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116900</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121491</code_ogr>
+<libelle>Mettre en place des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107898</code_ogr>
+<libelle>Organiser et animer des s&#0233;ances d&#0039;&#0233;changes avec le public ou de pr&#0233;vention sur la citoyennet&#0233;, la sant&#0233;, l&#0039;endettement, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121508</code_ogr>
+<libelle>Communiquer sur l&#0039;activit&#0233; de son service aupr&#0232;s de sa structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123182</code_ogr>
+<libelle>Animer une r&#0233;union</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>117426</code_ogr>
+<libelle>Communication interne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126343</code_ogr>
+<libelle>Techniques de conduite de r&#0233;union</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101654</code_ogr>
+<libelle>Techniques de m&#0233;diation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107774</code_ogr>
+<libelle>Caract&#0233;ristiques socio-culturelles des publics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101949</code_ogr>
+<libelle>Techniques de pr&#0233;vention et de gestion de conflits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122141</code_ogr>
+<libelle>Coordonner des sorties culturelles &#0224; l&#0039;&#0233;tranger</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122142</code_ogr>
+<libelle>Coordonner des sorties culturelles nationales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122647</code_ogr>
+<libelle>D&#0233;velopper un projet socioculturel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122648</code_ogr>
+<libelle>Mettre en place des actions socioculturelles avec des partenaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101399</code_ogr>
+<libelle>Marketing / Mercatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115028</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;activit&#0233; de la structure, du service et identifier des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123397</code_ogr>
+<libelle>G&#0233;rer le budget global d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119337</code_ogr>
+<libelle>Mettre en place des actions de gestion de ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101388</code_ogr>
+<libelle>Gestion des Ressources Humaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102250</code_ogr>
+<libelle>Techniques d&#0039;animation d&#0039;&#0233;quipe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1202</code_rome_cible>
+<libelle_rome_cible>Animation d&#0039;activit&#0233;s culturelles ou ludiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1203</code_rome_cible>
+<libelle_rome_cible>Encadrement technique en insertion professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>10225</code_appellation_cible>
+<libelle_appellation_cible>Accompagnateur socioprofessionnel / Accompagnatrice socioprofessionnelle</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1205</code_rome_cible>
+<libelle_rome_cible>Information sociale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1802</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement local</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11790</code_appellation_cible>
+<libelle_appellation_cible>Charg&#0233; / Charg&#0233;e de d&#0233;veloppement culturel</libelle_appellation_cible>
+<code_appellation_cible>14147</code_appellation_cible>
+<libelle_appellation_cible>D&#0233;veloppeur culturel / D&#0233;veloppeuse culturelle</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1403</code_rome_cible>
+<libelle_rome_cible>Gestion de structure de loisirs ou d&#0039;h&#0233;bergement touristique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1207</code_rome_cible>
+<libelle_rome_cible>Intervention socio&#0233;ducative</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14597</code_appellation_cible>
+<libelle_appellation_cible>Educateur sp&#0233;cialis&#0233; / Educatrice sp&#0233;cialis&#0233;e</libelle_appellation_cible>
+<code_appellation_cible>16740</code_appellation_cible>
+<libelle_appellation_cible>Moniteur &#0233;ducateur / Monitrice &#0233;ducatrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1403</code_rome_cible>
+<libelle_rome_cible>Management de structure de sant&#0233;, sociale ou p&#0233;nitentiaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1801</code_rome_cible>
+<libelle_rome_cible>Conseil en emploi et insertion socioprofessionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38236</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice action sociale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

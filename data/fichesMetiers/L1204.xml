@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1204</code_rome>
+<intitule>Arts du cirque et arts visuels</intitule>
+<code_ogr>441</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="32">
+<item_app>
+<code_ogr>10262</code_ogr>
+<libelle>Acrobate</libelle>
+<libelle_court>Acrobate</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11077</code_ogr>
+<libelle>Antipodiste</libelle>
+<libelle_court>Antipodiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11155</code_ogr>
+<libelle>Artiste de cirque</libelle>
+<libelle_court>Artiste de cirque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11156</code_ogr>
+<libelle>Artiste de rue</libelle>
+<libelle_court>Artiste de rue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11706</code_ogr>
+<libelle>Cascadeur / Cascadeuse</libelle>
+<libelle_court>Cascadeur / Cascadeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11732</code_ogr>
+<libelle>Chansonnier / Chansonni&#0232;re</libelle>
+<libelle_court>Chansonnier / Chansonni&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12674</code_ogr>
+<libelle>Clown</libelle>
+<libelle_court>Clown</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12726</code_ogr>
+<libelle>Comique</libelle>
+<libelle_court>Comique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13556</code_ogr>
+<libelle>Contorsionniste</libelle>
+<libelle_court>Contorsionniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13831</code_ogr>
+<libelle>Cracheur / Cracheuse de feu</libelle>
+<libelle_court>Cracheur / Cracheuse de feu</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14519</code_ogr>
+<libelle>Dompteur / Dompteuse</libelle>
+<libelle_court>Dompteur / Dompteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14531</code_ogr>
+<libelle>Dresseur / Dresseuse d&#0039;animaux de cirque</libelle>
+<libelle_court>Dresseur / Dresseuse d&#0039;animaux de cirque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14557</code_ogr>
+<libelle>Echassier / Echassi&#0232;re</libelle>
+<libelle_court>Echassier / Echassi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14578</code_ogr>
+<libelle>Ecuyer / Ecuy&#0232;re</libelle>
+<libelle_court>Ecuyer / Ecuy&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14868</code_ogr>
+<libelle>Equilibriste</libelle>
+<libelle_court>Equilibriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15060</code_ogr>
+<libelle>Fakir</libelle>
+<libelle_court>Fakir</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15061</code_ogr>
+<libelle>Fantaisiste</libelle>
+<libelle_court>Fantaisiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15079</code_ogr>
+<libelle>Fildef&#0233;riste</libelle>
+<libelle_court>Fildef&#0233;riste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15174</code_ogr>
+<libelle>Funambule</libelle>
+<libelle_court>Funambule</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15497</code_ogr>
+<libelle>Humoriste</libelle>
+<libelle_court>Humoriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15508</code_ogr>
+<libelle>Illusionniste</libelle>
+<libelle_court>Illusionniste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15514</code_ogr>
+<libelle>Imitateur / Imitatrice</libelle>
+<libelle_court>Imitateur / Imitatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16075</code_ogr>
+<libelle>Jongleur / Jongleuse</libelle>
+<libelle_court>Jongleur / Jongleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16291</code_ogr>
+<libelle>Magicien / Magicienne</libelle>
+<libelle_court>Magicien / Magicienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16409</code_ogr>
+<libelle>Marionnettiste</libelle>
+<libelle_court>Marionnettiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16678</code_ogr>
+<libelle>Mime</libelle>
+<libelle_court>Mime</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17575</code_ogr>
+<libelle>Patineur / Patineuse sur glace</libelle>
+<libelle_court>Patineur / Patineuse sur glace</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18063</code_ogr>
+<libelle>Prestidigitateur / Prestidigitatrice</libelle>
+<libelle_court>Prestidigitateur / Prestidigitatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20424</code_ogr>
+<libelle>Transformiste</libelle>
+<libelle_court>Transformiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20426</code_ogr>
+<libelle>Trap&#0233;ziste</libelle>
+<libelle_court>Trap&#0233;ziste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20650</code_ogr>
+<libelle>Ventriloque</libelle>
+<libelle_court>Ventriloque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20720</code_ogr>
+<libelle>Voltigeur / Voltigeuse</libelle>
+<libelle_court>Voltigeur / Voltigeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Met en sc&#0232;ne, r&#0233;alise un ou des num&#0233;ro(s) visuel(s) (arts du cirque, mime, magie, cascade, ...) comportant des effets comiques, sp&#0233;ciaux ou spectaculaires pour des tournages, des spectacles, selon la r&#0233;glementation s&#0233;curit&#0233;.
+Peut r&#0233;aliser un num&#0233;ro de grande illusion et des tours de magie devant un public.
+Peut imiter des voix, des personnages, des situations.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="7">
+Cet emploi/m&#0233;tier est accessible avec des dipl&#0244;mes sp&#0233;cifiques (Brevet Artistique des Techniques du Cirque, Dipl&#0244;me des M&#0233;tiers des Arts du Cirque, ...) dans les disciplines des arts du cirque, du mime et de la marionnette.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans les disciplines des arts du cirque sans dipl&#0244;me particulier.
+Un apprentissage d&#0232;s le plus jeune &#0226;ge et des aptitudes physiques (souplesse, &#0233;quilibre, r&#0233;sistance physique, ...) sont requis.
+Les recrutements sont g&#0233;n&#0233;ralement ouverts sur contrats de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage.
+Des d&#0233;marches actives sont n&#0233;cessaires pour l&#0039;obtention de contrats.
+Des permis sp&#0233;cifiques (poids-lourd, bateau, avion, ...) peuvent &#0234;tre demand&#0233;s.
+Un certificat de capacit&#0233; et une demande d&#0039;ouverture d&#0039;&#0233;tablissement sont requis pour pr&#0233;senter un num&#0233;ro de fauves en public.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="6">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de compagnies de cirque, sur des lieux de spectacle, de tournage (cin&#0233;ma, t&#0233;l&#0233;vision, ...), parfois chez des particuliers (anniversaires, f&#0234;tes, ...) en relation avec un r&#0233;alisateur, un metteur en sc&#0232;ne, en contact avec des &#0233;quipes techniques (costume, maquillage, lumi&#0232;re, ...).
+Elle peut impliquer des d&#0233;placements (tourn&#0233;es, tournages, ...) et un &#0233;loignement du domicile de plusieurs jours ou mois.
+L&#0039;activit&#0233; est soumise au rythme de la programmation des spectacles et des tournages.
+La r&#0233;mun&#0233;ration est g&#0233;n&#0233;ralement sous forme de cachet.
+L&#0039;activit&#0233; peut s&#0039;effectuer sous chapiteau, &#0224; l&#0039;ext&#0233;rieur, en hauteur, &#0224; proximit&#0233; du vide.
+Le port d&#0039;&#0233;quipements de protection (harnais, combinaison ignifug&#0233;e, casque, gants, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="13">
+<item_env>
+<code_ogr>23708</code_ogr>
+<libelle>Association culturelle ou de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23737</code_ogr>
+<libelle>Cabaret</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23378</code_ogr>
+<libelle>En ext&#0233;rieur</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="12">
+<item_ab>
+<code_ogr>125080</code_ogr>
+<libelle>Monter un num&#0233;ro visuel dans ses aspects techniques, artistiques, esth&#0233;tiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125079</code_ogr>
+<libelle>Concevoir un num&#0233;ro visuel dans ses aspects techniques, artistiques, esth&#0233;tiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125756</code_ogr>
+<libelle>Concevoir les objets et mat&#0233;riels n&#0233;cessaires &#0224; un num&#0233;ro de cirque ou d&#0039;arts visuels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125226</code_ogr>
+<libelle>D&#0233;finir les conditions de r&#0233;alisation d&#0039;un num&#0233;ro visuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124735</code_ogr>
+<libelle>R&#0233;aliser un &#0233;chauffement corporel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124733</code_ogr>
+<libelle>Pratiquer des exercices vocaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124210</code_ogr>
+<libelle>Installer les accessoires n&#0233;cessaires &#0224; un num&#0233;ro avant la repr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124208</code_ogr>
+<libelle>Installer du mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124209</code_ogr>
+<libelle>Installer du mat&#0233;riel de sonorisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117869</code_ogr>
+<libelle>R&#0233;aliser un num&#0233;ro visuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119820</code_ogr>
+<libelle>Modifier les effets spectaculaires ou comiques du num&#0233;ro selon les r&#0233;actions du public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125670</code_ogr>
+<libelle>Proc&#0233;der &#0224; la pr&#0233;paration d&#0039;un &#0233;v&#0232;nement artistique (coiffure, maquillage, costume)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108930</code_ogr>
+<libelle>Appropriation d&#0039;espace sc&#0233;nique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121863</code_ogr>
+<libelle>Analyse des risques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102199</code_ogr>
+<libelle>Techniques de maquillage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109075</code_ogr>
+<libelle>Histoire des arts du cirque</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100542</code_ogr>
+<libelle>Sc&#0233;nographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103919</code_ogr>
+<libelle>Techniques d&#0039;expression corporelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102481</code_ogr>
+<libelle>Techniques de m&#0233;morisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124016</code_ogr>
+<libelle>Pratique du chant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117859</code_ogr>
+<libelle>R&#0233;aliser un num&#0233;ro de cirque</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="15">
+<item_as_stp>
+<code_ogr>117866</code_ogr>
+<libelle>Techniques d&#0039;antipodisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123980</code_ogr>
+<libelle>Art clownesque /mime / Imitation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123978</code_ogr>
+<libelle>Contorsion du corps</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117864</code_ogr>
+<libelle>Techniques de domptage d&#0039;animaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122284</code_ogr>
+<libelle>Techniques de dressage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109092</code_ogr>
+<libelle>Techniques d&#0039;&#0233;quilibrisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123979</code_ogr>
+<libelle>Techniques de jonglage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117867</code_ogr>
+<libelle>Techniques de spectacle de feu</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123986</code_ogr>
+<libelle>Caract&#0233;ristiques du trap&#0232;ze volant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109091</code_ogr>
+<libelle>Techniques de voltige</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109089</code_ogr>
+<libelle>Techniques d&#0039;acrobatie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126109</code_ogr>
+<libelle>Techniques de spectacle de rue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118187</code_ogr>
+<libelle>Pratique de l&#0039;&#0233;quitation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126316</code_ogr>
+<libelle>Pratique de la danse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126207</code_ogr>
+<libelle>Pratique d&#0039;un instrument de musique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120481</code_ogr>
+<libelle>R&#0233;aliser des cascades</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>109094</code_ogr>
+<libelle>Techniques de cascades</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126317</code_ogr>
+<libelle>Cascades &#0233;questres</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115395</code_ogr>
+<libelle>Dresser des animaux et les diriger sur une piste, une sc&#0232;ne, un plateau de tournage, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125428</code_ogr>
+<libelle>Parodier un personnage ou une situation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>123983</code_ogr>
+<libelle>Arts du mime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107550</code_ogr>
+<libelle>Techniques d&#0039;&#0233;chauffement de la voix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109066</code_ogr>
+<libelle>Techniques de transformation de la voix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>125544</code_ogr>
+<libelle>R&#0233;aliser des num&#0233;ros d&#0039;illusionisme</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125548</code_ogr>
+<libelle>R&#0233;aliser un num&#0233;ro de carte</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125551</code_ogr>
+<libelle>R&#0233;aliser un num&#0233;ro d&#0039;escapologie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125549</code_ogr>
+<libelle>R&#0233;aliser un num&#0233;ro d&#0039;escamotage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="8">
+<item_as_stp>
+<code_ogr>125546</code_ogr>
+<libelle>Grande illusion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109096</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riels de grande illusion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123981</code_ogr>
+<libelle>Illusionnisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125555</code_ogr>
+<libelle>Mentalisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125550</code_ogr>
+<libelle>Techniques d&#0039;escamotage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105550</code_ogr>
+<libelle>Techniques d&#0039;extirpage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125545</code_ogr>
+<libelle>Magie de rue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>125547</code_ogr>
+<libelle>Magie rapproch&#0233;e (close-up)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117860</code_ogr>
+<libelle>Animer une marionnette</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>123987</code_ogr>
+<libelle>Ventriloquie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124503</code_ogr>
+<libelle>Manipulation de marionnettes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117861</code_ogr>
+<libelle>Types de marionnettes de th&#0233;&#0226;tre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1401</code_rome_cible>
+<libelle_rome_cible>Sportif professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1202</code_rome_cible>
+<libelle_rome_cible>Animation d&#0039;activit&#0233;s culturelles ou ludiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2105</code_rome_cible>
+<libelle_rome_cible>Enseignement artistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14852</code_appellation_cible>
+<libelle_appellation_cible>Enseignant / Enseignante des arts du cirque</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1201</code_rome_cible>
+<libelle_rome_cible>Danse</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1202</code_rome_cible>
+<libelle_rome_cible>Musique et chant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11733</code_appellation_cible>
+<libelle_appellation_cible>Chanteur / Chanteuse</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1203</code_rome_cible>
+<libelle_rome_cible>Art dramatique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

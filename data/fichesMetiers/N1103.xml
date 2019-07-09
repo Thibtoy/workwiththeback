@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>N1103</code_rome>
+<intitule>Magasinage et pr&#0233;paration de commandes</intitule>
+<code_ogr>502</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="40">
+<item_app>
+<code_ogr>10386</code_ogr>
+<libelle>Agent / Agente d&#0039;archivage en entrep&#0244;t</libelle>
+<libelle_court>Agent / Agente d&#0039;archivage en entrep&#0244;t</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10479</code_ogr>
+<libelle>Agent / Agente de magasinage</libelle>
+<libelle_court>Agent / Agente de magasinage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10580</code_ogr>
+<libelle>Agent / Agente de quai r&#0233;ceptionnaire</libelle>
+<libelle_court>Agent / Agente de quai r&#0233;ceptionnaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10605</code_ogr>
+<libelle>Agent / Agente de service exp&#0233;dition marchandises</libelle>
+<libelle_court>Agent / Agente de service exp&#0233;dition marchandises</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10612</code_ogr>
+<libelle>Agent / Agente de stockage</libelle>
+<libelle_court>Agent / Agente de stockage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10660</code_ogr>
+<libelle>Agent / Agente d&#0039;entreposage</libelle>
+<libelle_court>Agent / Agente d&#0039;entreposage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10661</code_ogr>
+<libelle>Agent / Agente d&#0039;entreposage et de messagerie</libelle>
+<libelle_court>Agent / Agente d&#0039;entreposage et de messagerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10748</code_ogr>
+<libelle>Agent / Agente logistique en magasinage</libelle>
+<libelle_court>Agent / Agente logistique en magasinage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10750</code_ogr>
+<libelle>Agent magasinier / Agente magasini&#0232;re gestionnaire de stocks</libelle>
+<libelle_court>Agent magasinier / Agente magasini&#0232;re gestionnaire de stocks</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10880</code_ogr>
+<libelle>Aide-magasinier / Aide-magasini&#0232;re</libelle>
+<libelle_court>Aide-magasinier / Aide-magasini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13639</code_ogr>
+<libelle>Contr&#0244;leur flasheur / Contr&#0244;leuse flasheuse en logistique</libelle>
+<libelle_court>Contr&#0244;leur flasheur / Contr&#0244;leuse flasheuse en logistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14740</code_ogr>
+<libelle>Emballeur / Emballeuse</libelle>
+<libelle_court>Emballeur / Emballeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14755</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e de &#0171;picking&#0187;</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e de &#0171;picking&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14809</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e logistique de r&#0233;ception de marchandises</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e logistique de r&#0233;ception de marchandises</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14810</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e logistique d&#0039;exp&#0233;dition</libelle>
+<libelle_court>Employ&#0233; / Employ&#0233;e logistique d&#0039;exp&#0233;dition</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14874</code_ogr>
+<libelle>Equipier / Equipi&#0232;re logistique</libelle>
+<libelle_court>Equipier / Equipi&#0232;re logistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14922</code_ogr>
+<libelle>Etiqueteur-pointeur / Etiqueteuse-pointeuse</libelle>
+<libelle_court>Etiqueteur-pointeur / Etiqueteuse-pointeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16066</code_ogr>
+<libelle>Inventoriste</libelle>
+<libelle_court>Inventoriste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16276</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16277</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re cariste</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re cariste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16278</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re d&#0039;archives</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re d&#0039;archives</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16280</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces a&#0233;ronautiques</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re en pi&#0232;ces a&#0233;ronautiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16281</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces d&#0039;engins de chantier</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re en pi&#0232;ces d&#0039;engins de chantier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16282</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces d&#0233;tach&#0233;es</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re en pi&#0232;ces d&#0233;tach&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16283</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces et fournitures automobiles</libelle>
+<libelle_court>Magasinier/Magasini&#0232;re en pi&#0232;ces et fournitures automobiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16284</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces poids lourd</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re en pi&#0232;ces poids lourd</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16285</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re en pi&#0232;ces pour mat&#0233;riel agricole</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re en pi&#0232;ces pour mat&#0233;riel agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16286</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re gestion de mat&#0233;riels -arm&#0233;e-</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re gestion de mat&#0233;riels -arm&#0233;e-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16287</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re gestionnaire de stocks</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re gestionnaire de stocks</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16288</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re Magasin de Pi&#0232;ces de Rechange -MPR-</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re Magasin de Pi&#0232;ces de Rechange -MPR-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16289</code_ogr>
+<libelle>Magasinier / Magasini&#0232;re r&#0233;ceptionnaire</libelle>
+<libelle_court>Magasinier / Magasini&#0232;re r&#0233;ceptionnaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16290</code_ogr>
+<libelle>Magasinier vendeur / Magasini&#0232;re vendeuse</libelle>
+<libelle_court>Magasinier vendeur / Magasini&#0232;re vendeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17240</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice logistique en entrep&#0244;t</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice logistique en entrep&#0244;t</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17993</code_ogr>
+<libelle>Pr&#0233;parateur / Pr&#0233;paratrice de commandes</libelle>
+<libelle_court>Pr&#0233;parateur / Pr&#0233;paratrice de commandes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38676</code_ogr>
+<libelle>Pr&#0233;parateur / Pr&#0233;paratrice de commandes drive en grande distribution</libelle>
+<libelle_court>Pr&#0233;parateur(trice) de commandes drive en grande distribution</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18032</code_ogr>
+<libelle>Pr&#0233;parateur / Pr&#0233;paratrice logistique en entrep&#0244;t</libelle>
+<libelle_court>Pr&#0233;parateur / Pr&#0233;paratrice logistique en entrep&#0244;t</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18040</code_ogr>
+<libelle>Pr&#0233;parateur-magasinier / Pr&#0233;paratrice-magasini&#0232;re</libelle>
+<libelle_court>Pr&#0233;parateur-magasinier / Pr&#0233;paratrice-magasini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18317</code_ogr>
+<libelle>R&#0233;ceptionnaire magasinage</libelle>
+<libelle_court>R&#0233;ceptionnaire magasinage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18318</code_ogr>
+<libelle>R&#0233;ceptionnaire-pointeur / R&#0233;ceptionnaire-pointeuse</libelle>
+<libelle_court>R&#0233;ceptionnaire-pointeur / R&#0233;ceptionnaire-pointeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18319</code_ogr>
+<libelle>R&#0233;ceptionnaire-v&#0233;rificateur / R&#0233;ceptionnaire-v&#0233;rificatrice de marchandises</libelle>
+<libelle_court>R&#0233;ceptionnaire-v&#0233;rificateur(trice) de marchandises</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Ex&#0233;cute des op&#0233;rations de r&#0233;ception, de stockage, de tenue des stocks, de pr&#0233;paration de commandes et d&#0039;exp&#0233;dition de marchandises, produits, mati&#0232;res premi&#0232;res, ... selon les proc&#0233;dures qualit&#0233;, les r&#0232;gles d&#0039;hygi&#0232;ne et de s&#0233;curit&#0233; et les imp&#0233;ratifs de d&#0233;lais.
+Peut r&#0233;aliser des op&#0233;rations de manutention &#0224; l&#0039;aide de mat&#0233;riel de manutention l&#0233;ger (transpalette, diable, rolls, caddie, ...) ou d&#0039;engins &#0224; conducteur auto-port&#0233; (chariot &#0233;l&#0233;vateur , ...).
+Peut effectuer des op&#0233;rations sp&#0233;cifiques (conditionnement -co-packing-, assemblage simple -co-manufactoring-, emballage, approvisionnement de lignes de production, ...) et r&#0233;aliser des op&#0233;rations de vente au comptoir.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un CAP/BEP en magasinage, emballage professionnel, distribution, vente.
+Il est &#0233;galement accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite en S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre demand&#0233;(s).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entrep&#0244;ts, de plates-formes logistiques, de magasins d&#0039;entreposage industriels ou commerciaux, de d&#0233;p&#0244;ts d&#0039;usines de production, de magasins d&#0039;entreprises (concessionnaires, ...), en contact avec diff&#0233;rents interlocuteurs (caristes, manutentionnaires, chef d&#0039;&#0233;quipe, clients, ...).
+Elle varie selon le type d&#0039;entreprise (taille, organisation, ...), le type de produits (m&#0233;canique, &#0233;lectrom&#0233;nager, alimentaires, pharmaceutiques, ...), le degr&#0233; d&#0039;informatisation et d&#0039;automatisation du site (mat&#0233;riel de manutention, lecteur de codes barres, syst&#0232;me informatique fixe ou embarqu&#0233;, ...).
+L&#0039;activit&#0233; peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+Elle peut s&#0039;effectuer en environnement bruyant et impliquer la manipulation de charges.
+Le port d&#0039;&#0233;quipements de protection (chaussures de s&#0233;curit&#0233;, gants, casque, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="24">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38677</code_ogr>
+<libelle>Drive en grande distribution</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23870</code_ogr>
+<libelle>Entreprise artisanale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23900</code_ogr>
+<libelle>Entreprise de transport/messagerie/groupage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23969</code_ogr>
+<libelle>Industrie manufacturi&#0232;re</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24039</code_ogr>
+<libelle>Plate-forme logistique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24075</code_ogr>
+<libelle>Site d&#0039;entreposage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23394</code_ogr>
+<libelle>Agriculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23399</code_ogr>
+<libelle>Aquaculture</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23445</code_ogr>
+<libelle>Commerce/grande distribution</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23501</code_ogr>
+<libelle>Finance</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23523</code_ogr>
+<libelle>Immobilier</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23577</code_ogr>
+<libelle>P&#0234;che</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23625</code_ogr>
+<libelle>Sant&#0233; et action sociale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23667</code_ogr>
+<libelle>Vente par correspondance</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23378</code_ogr>
+<libelle>En ext&#0233;rieur</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23385</code_ogr>
+<libelle>En zone frigorifique</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>117547</code_ogr>
+<libelle>R&#0233;ceptionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119851</code_ogr>
+<libelle>V&#0233;rifier la conformit&#0233; de la livraison</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>110036</code_ogr>
+<libelle>R&#0233;aliser le pr&#0233;l&#0232;vement de produits selon les instructions de pr&#0233;paration de commande et constituer les colis, lots, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119849</code_ogr>
+<libelle>Charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123330</code_ogr>
+<libelle>Acheminer des marchandises en zone d&#0039;exp&#0233;dition, de stockage ou de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>110038</code_ogr>
+<libelle>Renseigner les supports de suivi de commande et transmettre un &#0233;tat des produits d&#0233;t&#0233;rior&#0233;s et du mat&#0233;riel d&#0233;fectueux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>126444</code_ogr>
+<libelle>Ranger du mat&#0233;riel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121270</code_ogr>
+<libelle>Mettre &#0224; jour une documentation technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124547</code_ogr>
+<libelle>Nettoyer du mat&#0233;riel ou un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>110040</code_ogr>
+<libelle>Lecture de plan de stockage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101829</code_ogr>
+<libelle>Utilisation d&#0039;engins de manutention non motoris&#0233;s (transpalette, diable, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100290</code_ogr>
+<libelle>Modalit&#0233;s de stockage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124449</code_ogr>
+<libelle>Pr&#0233;paration d&#0039;une commande</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100089</code_ogr>
+<libelle>Techniques d&#0039;inventaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="6">
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123697</code_ogr>
+<libelle>Chariots tracteurs et &#0224; plateau porteur de capacit&#0233; inf&#0233;rieure &#0224; 6 000 kg (CACES R 389-2)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123721</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs &#0224; m&#0226;t r&#0233;tractable (CACES R 389-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123722</code_ogr>
+<libelle>D&#0233;placement, chargement, transfert de chariots sans activit&#0233; de production (CACES R 389-6)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123019</code_ogr>
+<libelle>Techniques de conditionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115560</code_ogr>
+<libelle>R&#0233;aliser des re-conditionnements et assemblages simples, des remises en conformit&#0233; de produits d&#0233;t&#0233;rior&#0233;s, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>124452</code_ogr>
+<libelle>Techniques de re-conditionnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123660</code_ogr>
+<libelle>Ranger des produits ou marchandises selon leurs dates de validit&#0233; et les conditions de conservation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>114765</code_ogr>
+<libelle>D&#0233;placer des produits vers la zone de stockage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119858</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;ception des commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>100113</code_ogr>
+<libelle>Logiciels de gestion de base de donn&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119000</code_ogr>
+<libelle>Gestion des stocks et des approvisionnements</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119391</code_ogr>
+<libelle>M&#0233;thodes de valorisation des stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121698</code_ogr>
+<libelle>Proposer un service, produit adapt&#0233; &#0224; la demande client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117256</code_ogr>
+<libelle>Contractualiser une vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100381</code_ogr>
+<libelle>Argumentation commerciale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102995</code_ogr>
+<libelle>R&#0232;gles de tenue de caisse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="10">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1507</code_rome_cible>
+<libelle_rome_cible>Mise en rayon libre-service</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1304</code_rome_cible>
+<libelle_rome_cible>Fa&#0231;onnage et routage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3301</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de conditionnement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3302</code_rome_cible>
+<libelle_rome_cible>Op&#0233;rations manuelles d&#0039;assemblage, tri ou emballage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3303</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;paration de mati&#0232;res et produits industriels (broyage, m&#0233;lange, ...)</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2201</code_rome_cible>
+<libelle_rome_cible>Blanchisserie industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1101</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;engins de d&#0233;placement des charges</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1105</code_rome_cible>
+<libelle_rome_cible>Manutention manuelle de charges</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N2203</code_rome_cible>
+<libelle_rome_cible>Exploitation des pistes a&#0233;roportuaires</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4105</code_rome_cible>
+<libelle_rome_cible>Conduite et livraison par tourn&#0233;es sur courte distance</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1213</code_rome_cible>
+<libelle_rome_cible>Vente en gros de mat&#0233;riel et &#0233;quipement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20517</code_appellation_cible>
+<libelle_appellation_cible>Vendeur / Vendeuse comptoir de mat&#0233;riels et &#0233;quipements</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N1303</code_rome_cible>
+<libelle_rome_cible>Intervention technique d&#0039;exploitation logistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

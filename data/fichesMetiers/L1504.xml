@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1504</code_rome>
+<intitule>&#0201;clairage spectacle</intitule>
+<code_ogr>450</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="19">
+<item_app>
+<code_ogr>38469</code_ogr>
+<libelle>Assistant / Assistante lumi&#0232;re</libelle>
+<libelle_court>Assistant / Assistante lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12562</code_ogr>
+<libelle>Chef &#0233;clairagiste</libelle>
+<libelle_court>Chef &#0233;clairagiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12564</code_ogr>
+<libelle>Chef &#0233;lectricien / &#0233;lectricienne spectacle</libelle>
+<libelle_court>Chef &#0233;lectricien / &#0233;lectricienne spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12830</code_ogr>
+<libelle>Concepteur / Conceptrice lumi&#0232;re</libelle>
+<libelle_court>Concepteur / Conceptrice lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13839</code_ogr>
+<libelle>Cr&#0233;ateur / Cr&#0233;atrice lumi&#0232;re</libelle>
+<libelle_court>Cr&#0233;ateur / Cr&#0233;atrice lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14559</code_ogr>
+<libelle>Eclairagiste</libelle>
+<libelle_court>Eclairagiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14626</code_ogr>
+<libelle>Electricien / Electricienne de plateau</libelle>
+<libelle_court>Electricien / Electricienne de plateau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14638</code_ogr>
+<libelle>Electricien / Electricienne jeu d&#0039;orgues</libelle>
+<libelle_court>Electricien / Electricienne jeu d&#0039;orgues</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14642</code_ogr>
+<libelle>Electricien / Electricienne spectacle</libelle>
+<libelle_court>Electricien / Electricienne spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14645</code_ogr>
+<libelle>Electricien-&#0233;clairagiste / Electricienne-&#0233;clairagiste spectacle</libelle>
+<libelle_court>Electricien(ne)-&#0233;clairagiste spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15431</code_ogr>
+<libelle>Groupiste/groupman / Groupiste/groupwoman</libelle>
+<libelle_court>Groupiste/groupman / Groupiste/groupwoman</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17253</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice poursuite</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice poursuite</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17956</code_ogr>
+<libelle>Poursuiteur / Poursuiteuse</libelle>
+<libelle_court>Poursuiteur / Poursuiteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38470</code_ogr>
+<libelle>Pupitreur / Pupitreuse image</libelle>
+<libelle_court>Pupitreur / Pupitreuse image</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38861</code_ogr>
+<libelle>Pupitreur / Pupitreuse r&#0233;gie lumi&#0232;re</libelle>
+<libelle_court>Pupitreur / Pupitreuse r&#0233;gie lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18253</code_ogr>
+<libelle>Pupitreur / Pupitreuse spectacle</libelle>
+<libelle_court>Pupitreur / Pupitreuse spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18424</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse lumi&#0232;re</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20190</code_ogr>
+<libelle>Technicien / Technicienne lumi&#0232;re</libelle>
+<libelle_court>Technicien / Technicienne lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38824</code_ogr>
+<libelle>Vid&#0233;o-jockey</libelle>
+<libelle_court>Vid&#0233;o-jockey</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+R&#0233;alise l&#0039;installation et le c&#0226;blage du mat&#0233;riel d&#0039;&#0233;clairage de spectacles, de tournages, ..., la programmation et les r&#0233;glages de la conduite lumi&#0232;re, selon la r&#0233;glementation s&#0233;curit&#0233; et les imp&#0233;ratifs de la production (programmation, budgets, ...).
+Effectue l&#0039;entretien et la maintenance du mat&#0233;riel d&#0039;&#0233;clairage.
+Peut concevoir les lumi&#0232;res d&#0039;un spectacle.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac &#0224; Bac +2 (L2, DUT, BTS, ...) en &#0233;clairage spectacle.
+Il est &#0233;galement accessible avec un CAP/BEP en &#0233;lectricit&#0233; compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans le spectacle.
+Les recrutements sont ouverts sur contrat de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, parfois sur contrat &#0224; dur&#0233;e ind&#0233;termin&#0233;e.
+Une habilitation aux risques d&#0039;origine &#0233;lectrique est requise.
+Un ou plusieurs Certificat(s) d&#0039;Aptitude &#0224; la Conduite en S&#0233;curit&#0233; -CACES- conditionn&#0233;(s) par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peu(ven)t &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="6">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce pour des soci&#0233;t&#0233;s de production, des compagnies sur des lieux de tournage (cin&#0233;ma, t&#0233;l&#0233;vision), de spectacle (th&#0233;&#0226;tre, op&#0233;ra, concert, ...) en coordination avec des &#0233;quipes techniques (d&#0233;cors, son, machinerie,...) et en contact avec diff&#0233;rents intervenants (r&#0233;alisation, production, ...).
+Elle peut impliquer des d&#0233;placements (tourn&#0233;es, reportages, tournages, ...).
+Elle varie selon le secteur (spectacle vivant, cin&#0233;ma, audiovisuel) et le degr&#0233; d&#0039;informatisation et d&#0039;automatisation du mat&#0233;riel.
+L&#0039;activit&#0233; est soumise au rythme de la programmation des spectacles et des tournages.
+L&#0039;activit&#0233; peut s&#0039;effectuer en r&#0233;gie, &#0224; l&#0039;ext&#0233;rieur, en hauteur et impliquer des passages de passerelles.
+Le port d&#0039;&#0233;quipements de protection (harnais, gants) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="17">
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24113</code_ogr>
+<libelle>Studio de photographie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24128</code_ogr>
+<libelle>Village vacances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23562</code_ogr>
+<libelle>Mode</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23603</code_ogr>
+<libelle>Publicit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23652</code_ogr>
+<libelle>Tourisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>125458</code_ogr>
+<libelle>Identifier les caract&#0233;ristiques du lieu d&#0039;un &#0233;v&#0232;nement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125459</code_ogr>
+<libelle>V&#0233;rifier les conditions d&#0039;implantation du mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124672</code_ogr>
+<libelle>S&#0233;lectionner le mat&#0233;riel d&#0039;&#0233;clairage pour un spectacle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124208</code_ogr>
+<libelle>Installer du mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>109252</code_ogr>
+<libelle>R&#0233;gler les projecteurs fixes ou mobiles en fonction des ambiances d&#0233;finies</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125685</code_ogr>
+<libelle>Programmer une conduite lumi&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125686</code_ogr>
+<libelle>Effectuer des tests lumi&#0232;res avant une repr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125816</code_ogr>
+<libelle>R&#0233;aliser une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="15">
+<item_ab_stp>
+<code_ogr>116762</code_ogr>
+<libelle>Proc&#0233;dures de maintenance de mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116761</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103130</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109257</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riels d&#0039;&#0233;clairage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109258</code_ogr>
+<libelle>Techniques de c&#0226;blage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109259</code_ogr>
+<libelle>Types de projecteurs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109260</code_ogr>
+<libelle>Types d&#0039;ambiances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102884</code_ogr>
+<libelle>Programmation de machine &#0224; commandes num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104546</code_ogr>
+<libelle>Electrotechnique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102023</code_ogr>
+<libelle>Lecture de fiche technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109295</code_ogr>
+<libelle>Techniques d&#0039;accrochage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103501</code_ogr>
+<libelle>Utilisation d&#0039;appareils de mesure &#0233;lectrique (multim&#0232;tre, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109256</code_ogr>
+<libelle>Lecture de feuille de patch</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118331</code_ogr>
+<libelle>Utilisation d&#0039;outillages manuels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="5">
+<item_as_stp>
+<code_ogr>121311</code_ogr>
+<libelle>Plates-formes &#0233;l&#0233;vatrices mobiles de personnes ou PEMP (CACES R 386)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123697</code_ogr>
+<libelle>Chariots tracteurs et &#0224; plateau porteur de capacit&#0233; inf&#0233;rieure &#0224; 6 000 kg (CACES R 389-2)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123722</code_ogr>
+<libelle>D&#0233;placement, chargement, transfert de chariots sans activit&#0233; de production (CACES R 389-6)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124184</code_ogr>
+<libelle>R&#0233;aliser une intervention n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124200</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux hors tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124201</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux sous tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119848</code_ogr>
+<libelle>D&#0233;charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119849</code_ogr>
+<libelle>Charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125068</code_ogr>
+<libelle>D&#0233;finir les lumi&#0232;res d&#0039;un spectacle selon les indications d&#0039;un metteur en sc&#0232;ne, chor&#0233;graphe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>109262</code_ogr>
+<libelle>Terminologie de la lumi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102646</code_ogr>
+<libelle>Colorim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125683</code_ogr>
+<libelle>Lancer des effets de lumi&#0232;res pendant un spectacle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125684</code_ogr>
+<libelle>Piloter une console d&#0039;effet de lumi&#0232;res</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115439</code_ogr>
+<libelle>Suivre et &#0233;clairer des com&#0233;diens, des chanteurs, des danseurs, ... avec une poursuite</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115440</code_ogr>
+<libelle>R&#0233;aliser les commandes de mat&#0233;riel d&#0039;&#0233;clairage, de consommables, d&#0039;outillages, ... selon les besoins d&#0039;un spectacle, d&#0039;un tournage, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1602</code_rome_cible>
+<libelle_rome_cible>&#0201;lectricit&#0233; b&#0226;timent</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1509</code_rome_cible>
+<libelle_rome_cible>R&#0233;gie g&#0233;n&#0233;rale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14478</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice technique cin&#0233;ma</libelle_appellation_cible>
+<code_appellation_cible>14485</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice technique spectacle vivant</libelle_appellation_cible>
+<code_appellation_cible>18423</code_appellation_cible>
+<libelle_appellation_cible>R&#0233;gisseur g&#0233;n&#0233;ral / R&#0233;gisseuse g&#0233;n&#0233;rale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

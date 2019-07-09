@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2407</code_rome>
+<intitule>Conduite de machine de transformation et de finition des cuirs et peaux</intitule>
+<code_ogr>253</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="29">
+<item_app>
+<code_ogr>10457</code_ogr>
+<libelle>Agent / Agente de finition cuirs et peaux</libelle>
+<libelle_court>Agent / Agente de finition cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11095</code_ogr>
+<libelle>Appr&#0234;teur / Appr&#0234;teuse en pelleterie</libelle>
+<libelle_court>Appr&#0234;teur / Appr&#0234;teuse en pelleterie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11727</code_ogr>
+<libelle>Chagrineur / Chagrineuse</libelle>
+<libelle_court>Chagrineur / Chagrineuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12940</code_ogr>
+<libelle>Conducteur / Conductrice de foulons</libelle>
+<libelle_court>Conducteur / Conductrice de foulons</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13015</code_ogr>
+<libelle>Conducteur / Conductrice de machine &#0224; pigmenter</libelle>
+<libelle_court>Conducteur / Conductrice de machine &#0224; pigmenter</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13039</code_ogr>
+<libelle>Conducteur / Conductrice de machine de tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Conducteur / Conductrice de machine de tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13087</code_ogr>
+<libelle>Conducteur / Conductrice de machine de transformation cuirs et peaux</libelle>
+<libelle_court>Conducteur(trice) machine de transform cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13755</code_ogr>
+<libelle>Corroyeur / Corroyeuse en tannerie</libelle>
+<libelle_court>Corroyeur / Corroyeuse en tannerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13923</code_ogr>
+<libelle>D&#0233;laineur / D&#0233;laineuse</libelle>
+<libelle_court>D&#0233;laineur / D&#0233;laineuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13985</code_ogr>
+<libelle>D&#0233;rayeur / D&#0233;rayeuse en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>D&#0233;rayeur / D&#0233;rayeuse en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14517</code_ogr>
+<libelle>Doleur meuleur / Doleuse meuleuse</libelle>
+<libelle_court>Doleur meuleur / Doleuse meuleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14556</code_ogr>
+<libelle>Echarneur / Echarneuse en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Echarneur / Echarneuse en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16185</code_ogr>
+<libelle>Li&#0233;geur / Li&#0233;geuse</libelle>
+<libelle_court>Li&#0233;geur / Li&#0233;geuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16199</code_ogr>
+<libelle>Lisseur / Lisseuse en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Lisseur / Lisseuse en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16667</code_ogr>
+<libelle>Metteur / Metteuse au vent</libelle>
+<libelle_court>Metteur / Metteuse au vent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17102</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de finition sur lisseuse, presse ou palisson</libelle>
+<libelle_court>Op&#0233;rateur(trice) finition sur lisseuse, presse ou palisson</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17220</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17334</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice sur presse en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice sur presse en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17510</code_ogr>
+<libelle>Ouvrier m&#0233;gissier / Ouvri&#0232;re m&#0233;gissi&#0232;re</libelle>
+<libelle_court>Ouvrier m&#0233;gissier / Ouvri&#0232;re m&#0233;gissi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17539</code_ogr>
+<libelle>Ouvrier tanneur / Ouvri&#0232;re tanneuse</libelle>
+<libelle_court>Ouvrier tanneur / Ouvri&#0232;re tanneuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17551</code_ogr>
+<libelle>Palissonneur / Palissonneuse</libelle>
+<libelle_court>Palissonneur / Palissonneuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17881</code_ogr>
+<libelle>Ponceur-velouteur / Ponceuse-velouteuse</libelle>
+<libelle_court>Ponceur-velouteur / Ponceuse-velouteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18395</code_ogr>
+<libelle>Refendeur / Refendeuse de peaux</libelle>
+<libelle_court>Refendeur / Refendeuse de peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18397</code_ogr>
+<libelle>Refendeur-scieur / Refendeuse-scieuse de peaux</libelle>
+<libelle_court>Refendeur-scieur / Refendeuse-scieuse de peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19237</code_ogr>
+<libelle>Retailleur / Retailleuse de peaux</libelle>
+<libelle_court>Retailleur / Retailleuse de peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19272</code_ogr>
+<libelle>Rogneur-d&#0233;bordeur / Rogneuse-d&#0233;bordeuse</libelle>
+<libelle_court>Rogneur-d&#0233;bordeur / Rogneuse-d&#0233;bordeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19311</code_ogr>
+<libelle>Satineur / Satineuse en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Satineur / Satineuse en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19327</code_ogr>
+<libelle>Scieur / Scieuse de peaux</libelle>
+<libelle_court>Scieur / Scieuse de peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19350</code_ogr>
+<libelle>S&#0233;cheur / S&#0233;cheuse sous vide en tannerie</libelle>
+<libelle_court>S&#0233;cheur / S&#0233;cheuse sous vide en tannerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise une ou plusieurs op&#0233;rations de transformation de peaux brutes en cuir, peausserie, ... (tannage, s&#0233;chage, refente, ...) selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production (optimisation de la mati&#0232;re, qualit&#0233;, d&#0233;lais, ...).
+Peut pr&#0233;parer les produits de traitement des peaux, r&#0233;gler les &#0233;quipements et effectuer la maintenance de premier niveau de machines/&#0233;quipements.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me particulier ni exp&#0233;rience professionnelle.
+Une bonne condition physique est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;industries ou de manufactures de transformation des peaux (tanneries, m&#0233;gisseries, pelleteries, ...)
+Elle peut s&#0039;exercer par roulement et le samedi.
+L&#0039;activit&#0233; s&#0039;effectue en atelier de production en environnement variable (sec, humide, ...) et peut impliquer la manipulation d&#0039;outils coupants (couteaux, d&#0233;rayeuse, ...) et de produits chimiques.
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (masque, gants, tablier, ...) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24003</code_ogr>
+<libelle>Manufacture</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23580</code_ogr>
+<libelle>Pelleterie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23646</code_ogr>
+<libelle>Tannerie, m&#0233;gisserie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>105367</code_ogr>
+<libelle>Regrouper les peaux selon leur origine, taille, &#0233;paisseur, en vue de leur traitement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123337</code_ogr>
+<libelle>Alimenter une machine industrielle en mati&#0232;re ou produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105369</code_ogr>
+<libelle>Surveiller le d&#0233;roulement des diff&#0233;rents cycles de traitement des peaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105370</code_ogr>
+<libelle>Ajuster l&#0039;&#0233;paisseur des peaux, des cuirs en fonction de l&#0039;utilisation finale de l&#0039;article</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105371</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; des peaux/cuirs et rectifier les anomalies</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120788</code_ogr>
+<libelle>Conduire un poste de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119848</code_ogr>
+<libelle>D&#0233;charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="10">
+<item_ab_stp>
+<code_ogr>100820</code_ogr>
+<libelle>Caract&#0233;ristiques des cuirs et peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100086</code_ogr>
+<libelle>Techniques de comptage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124478</code_ogr>
+<libelle>Manipulation de produits chimiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105374</code_ogr>
+<libelle>Points de contr&#0244;le des peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105376</code_ogr>
+<libelle>Cycles de tannage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105375</code_ogr>
+<libelle>Points de contr&#0244;le des cuirs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105373</code_ogr>
+<libelle>Utilisation d&#0039;instruments de mesure (pige, balance, r&#0232;gle, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>105377</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux d&#0039;animaux &#0224; fourrure (renard, astrakans, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105378</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux d&#0039;autruche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105379</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux de bovins</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105380</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux de crocodiles, reptile</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105381</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux d&#0039;ovins</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105382</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de transformation sur des peaux de poissons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="8">
+<item_as>
+<code_ogr>105383</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de d&#0233;rayage sur des peaux et des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105384</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de grainage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105385</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de lissage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105386</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de lustrage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105387</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de palissonnage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105388</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de pon&#0231;age / veloutage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105448</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de refente sur des pi&#0232;ces en cuir, peau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105390</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de satinage sur des peaux, des cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="6">
+<item_as_stp>
+<code_ogr>105392</code_ogr>
+<libelle>Utilisation de d&#0233;rayeuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105391</code_ogr>
+<libelle>Utilisation de machine &#0224; refendre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105396</code_ogr>
+<libelle>Techniques du finissage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105395</code_ogr>
+<libelle>Techniques de corroyage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101066</code_ogr>
+<libelle>Techniques de tannage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105393</code_ogr>
+<libelle>Travail de rivi&#0232;re (peaux)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114708</code_ogr>
+<libelle>D&#0233;barrasser les peaux des chairs, vaisseaux et impuret&#0233;s de surface</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>105398</code_ogr>
+<libelle>Utilisation d&#0039;&#0233;charneuse hydraulique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105397</code_ogr>
+<libelle>Echarnage manuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124420</code_ogr>
+<libelle>Pr&#0233;parer un produit au traitement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101065</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105399</code_ogr>
+<libelle>Formules de m&#0233;langes de produits (tannage v&#0233;g&#0233;tal, nourriture, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114710</code_ogr>
+<libelle>Pr&#0233;lever des &#0233;chantillons (peaux, eau des bains, ...) en vue du contr&#0244;le de conformit&#0233; (acidit&#0233;, ...) et les analyser</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114711</code_ogr>
+<libelle>S&#0233;cher ou cadrer les peaux, les cuirs selon des crit&#0232;res d&#0039;&#0233;tirement d&#0233;finis</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>105400</code_ogr>
+<libelle>Accrochage manuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105401</code_ogr>
+<libelle>Elargissement manuel de peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106030</code_ogr>
+<libelle>Monter, d&#0233;monter les pi&#0232;ces, outillages de machines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104425</code_ogr>
+<libelle>Hydraulique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114713</code_ogr>
+<libelle>D&#0233;terminer l&#0039;affectation de peaux, cuirs selon l&#0039;usage, les commandes clients, la destination des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100285</code_ogr>
+<libelle>Annexes Convention de Washington (CITES)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122584</code_ogr>
+<libelle>Assister techniquement un professionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122829</code_ogr>
+<libelle>Etablir un rapport de production</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2406</code_rome_cible>
+<libelle_rome_cible>Conduite de machine de traitement textile</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2415</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le en industrie du cuir et du textile</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3102</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;installation de p&#0226;te &#0224; papier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2201</code_rome_cible>
+<libelle_rome_cible>Blanchisserie industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1201</code_rome_cible>
+<libelle_rome_cible>Expertise technique couleur en industrie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2409</code_rome_cible>
+<libelle_rome_cible>Coupe cuir, textile et mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2505</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe ou d&#0039;atelier en mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

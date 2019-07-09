@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>I1502</code_rome>
+<intitule>Intervention en milieu subaquatique</intitule>
+<code_ogr>323</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="26">
+<item_app>
+<code_ogr>12486</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe plongeur / plongeuse subaquatique</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe plongeur / plongeuse subaquatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12526</code_ogr>
+<libelle>Chef d&#0039;op&#0233;rations d&#0039;engin sous-marin</libelle>
+<libelle_court>Chef d&#0039;op&#0233;rations d&#0039;engin sous-marin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12527</code_ogr>
+<libelle>Chef d&#0039;op&#0233;rations d&#0039;engin sous-marin t&#0233;l&#0233; op&#0233;r&#0233;</libelle>
+<libelle_court>Chef d&#0039;op&#0233;rations d&#0039;engin sous-marin t&#0233;l&#0233; op&#0233;r&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12528</code_ogr>
+<libelle>Chef d&#0039;op&#0233;rations hyperbares</libelle>
+<libelle_court>Chef d&#0039;op&#0233;rations hyperbares</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13727</code_ogr>
+<libelle>Corailleur / Corailleuse</libelle>
+<libelle_court>Corailleur / Corailleuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14302</code_ogr>
+<libelle>Directeur / Directrice de plong&#0233;e</libelle>
+<libelle_court>Directeur / Directrice de plong&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16061</code_ogr>
+<libelle>Intervenant / Intervenante en milieu immerg&#0233;</libelle>
+<libelle_court>Intervenant / Intervenante en milieu immerg&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16947</code_ogr>
+<libelle>Nageur / Nageuse combat</libelle>
+<libelle_court>Nageur / Nageuse combat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17383</code_ogr>
+<libelle>Oursinier / Oursini&#0232;re</libelle>
+<libelle_court>Oursinier / Oursini&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17843</code_ogr>
+<libelle>Plongeur / Plongeuse d&#0039;aide au franchissement</libelle>
+<libelle_court>Plongeur / Plongeuse d&#0039;aide au franchissement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17847</code_ogr>
+<libelle>Plongeur / Plongeuse hyperbare</libelle>
+<libelle_court>Plongeur / Plongeuse hyperbare</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17841</code_ogr>
+<libelle>Plongeur / Plongeuse subaquatique</libelle>
+<libelle_court>Plongeur / Plongeuse subaquatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17842</code_ogr>
+<libelle>Plongeur / Plongeuse subaquatique autonome</libelle>
+<libelle_court>Plongeur / Plongeuse subaquatique autonome</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17844</code_ogr>
+<libelle>Plongeur / Plongeuse subaquatique de bord</libelle>
+<libelle_court>Plongeur / Plongeuse subaquatique  de bord</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17845</code_ogr>
+<libelle>Plongeur d&#0233;mineur / Plongeuse d&#0233;mineuse</libelle>
+<libelle_court>Plongeur d&#0233;mineur / Plongeuse d&#0233;mineuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17848</code_ogr>
+<libelle>Plongeur scaphandrier / Plongeuse scaphandri&#0232;re</libelle>
+<libelle_court>Plongeur scaphandrier / Plongeuse scaphandri&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19316</code_ogr>
+<libelle>Scaphandrier / Scaphandri&#0232;re</libelle>
+<libelle_court>Scaphandrier / Scaphandri&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38786</code_ogr>
+<libelle>Scaphandrier / Scaphandri&#0232;re travaux publics sur r&#0233;seaux et ouvrages immerg&#0233;s</libelle>
+<libelle_court>Scaphandrier(i&#0232;re)  TP sur r&#0233;seaux et ouvrages immerg&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19317</code_ogr>
+<libelle>Scaphandrier inspecteur / Scaphandri&#0232;re inspectrice</libelle>
+<libelle_court>Scaphandrier inspecteur / Scaphandri&#0232;re inspectrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19318</code_ogr>
+<libelle>Scaphandrier soudeur / Scaphandri&#0232;re soudeuse</libelle>
+<libelle_court>Scaphandrier soudeur / Scaphandri&#0232;re soudeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19466</code_ogr>
+<libelle>Soudeur marin / Soudeuse marine</libelle>
+<libelle_court>Soudeur marin / Soudeuse marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19477</code_ogr>
+<libelle>Soudeur-plongeur / Soudeuse-plongeuse sous-marin</libelle>
+<libelle_court>Soudeur-plongeur / Soudeuse-plongeuse sous-marin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19478</code_ogr>
+<libelle>Soudeur-scaphandrier / Soudeuse-scaphandri&#0232;re</libelle>
+<libelle_court>Soudeur-scaphandrier / Soudeuse-scaphandri&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19485</code_ogr>
+<libelle>Sous-officier / Sous-offici&#0232;re chef de plong&#0233;e</libelle>
+<libelle_court>Sous-officier / Sous-offici&#0232;re chef de plong&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20080</code_ogr>
+<libelle>Technicien / Technicienne en intervention sous-marine</libelle>
+<libelle_court>Technicien / Technicienne en intervention sous-marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20468</code_ogr>
+<libelle>Tubiste subaquatique</libelle>
+<libelle_court>Tubiste subaquatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+R&#0233;alise des interventions techniques en milieu subaquatique pour des op&#0233;rations de travaux publics, maintenance, recherche, expertise, s&#0233;curit&#0233; d&#0039;&#0233;l&#0233;ments immerg&#0233;s, selon les r&#0232;gles de s&#0233;curit&#0233;.
+Peut coordonner une &#0233;quipe et diriger une plong&#0233;e.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec des certifications en plong&#0233;e sous-marine (certificat de scaphandrier, brevet f&#0233;d&#0233;ral de plong&#0233;e, certificat de plongeur de bord, dipl&#0244;me de plong&#0233;e, ...).
+Un dipl&#0244;me de niveau CAP/BEP &#0224; Bac professionnel dans un secteur technique (soudure, m&#0233;canique, B&#0226;timents et Travaux Publics, ...) peut en faciliter l&#0039;acc&#0232;s.
+Des habilitations sp&#0233;cifiques (soudure, explosifs, ...) peuvent &#0234;tre exig&#0233;es.
+La formation Pr&#0233;vention et Secours Civiques de niveau 1 -PSC1- est requise.
+Une bonne condition physique est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de travaux publics, d&#0039;entreprises industrielles, de structures de secours, des arm&#0233;es, en contact avec diff&#0233;rents intervenants (exploitation, maintenance, pompiers, police, ...).
+Elle peut impliquer un &#0233;loignement du domicile de plusieurs jours ou mois selon les interventions.
+Elle varie selon le secteur (travaux publics, industrie, arm&#0233;es, ...), la nature des interventions et des travaux effectu&#0233;s.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+Elle s&#0039;exerce en milieu subaquatique, hyperbare, en atmosph&#0232;re contr&#0244;l&#0233;e ou confin&#0233;e et en environnement &#0224; risques (physiologique, physique).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="9">
+<item_env>
+<code_ogr>23869</code_ogr>
+<libelle>Entreprise aquacole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24067</code_ogr>
+<libelle>Service d&#0039;incendie et de secours</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23387</code_ogr>
+<libelle>Activit&#0233;s maritimes sp&#0233;cialis&#0233;es (recherche, avitaillement off shore,...)</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23592</code_ogr>
+<libelle>Police Nationale et Gendarmerie Nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="5">
+<item_ab>
+<code_ogr>106904</code_ogr>
+<libelle>D&#0233;limiter les zones d&#0039;intervention et coordonner les manoeuvres (approvisionnement, approche d&#0039;engins, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106905</code_ogr>
+<libelle>R&#0233;aliser des recherches, des reconnaissances ou des contr&#0244;les dans les fonds aquatiques, sur les berges, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125515</code_ogr>
+<libelle>Evacuer un &#0233;l&#0233;ment immerg&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122819</code_ogr>
+<libelle>Renseigner un compte rendu d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122818</code_ogr>
+<libelle>Etablir un compte rendu d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="16">
+<item_ab_stp>
+<code_ogr>116777</code_ogr>
+<libelle>Proc&#0233;dures de maintenance des &#0233;quipements de plong&#0233;e</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116776</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien des &#0233;quipements de plong&#0233;e</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116806</code_ogr>
+<libelle>Proc&#0233;dures de maintenance d&#0039;installations immerg&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116805</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien d&#0039;installations immerg&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>125516</code_ogr>
+<libelle>Techniques de d&#0233;senvasement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106913</code_ogr>
+<libelle>Techniques de travaux immerg&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106912</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; et de plong&#0233;e</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106911</code_ogr>
+<libelle>Prise de vue subaquatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106910</code_ogr>
+<libelle>Interpr&#0233;tation par signes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106914</code_ogr>
+<libelle>Tables de plong&#0233;es et proc&#0233;dures de d&#0233;compression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100205</code_ogr>
+<libelle>Lecture de carte marine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106916</code_ogr>
+<libelle>Bathym&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103060</code_ogr>
+<libelle>Topographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106915</code_ogr>
+<libelle>Hydrographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106909</code_ogr>
+<libelle>Utilisation d&#0039;outillage sous-marin (pneumatique, hydraulique, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118122</code_ogr>
+<libelle>Engins t&#0233;l&#0233;op&#0233;r&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>106917</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es hyperbare</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106918</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es inf&#0233;rieures &#0224; 40 m</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106919</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es inf&#0233;rieures &#0224; 60 m</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106920</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es inf&#0233;rieures &#0224; 80 m</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106921</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es nitrox</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106922</code_ogr>
+<libelle>R&#0233;aliser des plong&#0233;es profondes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="5">
+<item_as_stp>
+<code_ogr>106927</code_ogr>
+<libelle>Techniques de plong&#0233;e &#0224; l&#0039;oxyg&#0232;ne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106926</code_ogr>
+<libelle>Plong&#0233;e tourelle (air non libre)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106925</code_ogr>
+<libelle>Plong&#0233;e narghil&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106924</code_ogr>
+<libelle>Plong&#0233;e en scaphandre autonome</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106923</code_ogr>
+<libelle>Plong&#0233;e bulle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124184</code_ogr>
+<libelle>R&#0233;aliser une intervention n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106930</code_ogr>
+<libelle>R&#0233;aliser des interventions n&#0233;cessitant un Certificat de Pr&#0233;pos&#0233; au Tir -CPT-</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>123784</code_ogr>
+<libelle>Contr&#0244;le qualit&#0233; non destructif</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124202</code_ogr>
+<libelle>Habilitations hyperbarie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124198</code_ogr>
+<libelle>Habilitation Scaphandrier professionnel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124199</code_ogr>
+<libelle>Habilitation plong&#0233;e</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124193</code_ogr>
+<libelle>Habilitation Soudage &#0224; l&#0039;arc &#0233;lectrique en pleine eau</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123811</code_ogr>
+<libelle>Habilitation Pr&#0233;vention et Secours Civiques de niveau 1 (PSC1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123809</code_ogr>
+<libelle>Habilitation Premiers secours en &#0233;quipe de niveau 1 (PSE1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124897</code_ogr>
+<libelle>Participer &#0224; une op&#0233;ration militaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125471</code_ogr>
+<libelle>R&#0233;aliser une op&#0233;ration de d&#0233;minage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114953</code_ogr>
+<libelle>R&#0233;aliser la collecte ou des pr&#0233;l&#0232;vements de faune ou de flore du milieu marin (coraux, plants, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114954</code_ogr>
+<libelle>Assister et secourir des personnes victimes d&#0039;accident en milieu immerg&#0233; ou hyperbare</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106935</code_ogr>
+<libelle>Utilisation de caisson hyperbare</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114955</code_ogr>
+<libelle>Sensibiliser et former des plongeurs, des &#0233;quipes, ... aux techniques d&#0039;intervention, de pr&#0233;vention et de secours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114956</code_ogr>
+<libelle>Organiser et diriger des interventions de plong&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1415</code_rome_cible>
+<libelle_rome_cible>Equipage de la p&#0234;che</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1701</code_rome_cible>
+<libelle_rome_cible>Personnel de la D&#0233;fense</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1705</code_rome_cible>
+<libelle_rome_cible>S&#0233;curit&#0233; civile et secours</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1706</code_rome_cible>
+<libelle_rome_cible>S&#0233;curit&#0233; publique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N3102</code_rome_cible>
+<libelle_rome_cible>Equipage de la navigation maritime</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="7">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1204</code_rome_cible>
+<libelle_rome_cible>Location de v&#0233;hicules ou de mat&#0233;riel de loisirs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16226</code_appellation_cible>
+<libelle_appellation_cible>Loueur / Loueuse de voiliers</libelle_appellation_cible>
+<code_appellation_cible>16227</code_appellation_cible>
+<libelle_appellation_cible>Loueur / Loueuse d&#0039;engins nautiques</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1211</code_rome_cible>
+<libelle_rome_cible>Vente en articles de sport et loisirs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1404</code_rome_cible>
+<libelle_rome_cible>Relation commerciale en vente de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13492</code_appellation_cible>
+<libelle_appellation_cible>Conseiller vendeur / Conseill&#0232;re vendeuse de bateaux de plaisance</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1204</code_rome_cible>
+<libelle_rome_cible>&#0201;ducation en activit&#0233;s sportives</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1403</code_rome_cible>
+<libelle_rome_cible>Gestion de structure de loisirs ou d&#0039;h&#0233;bergement touristique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1601</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance en nautisme</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2110</code_rome_cible>
+<libelle_rome_cible>Formation en conduite de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16725</code_appellation_cible>
+<libelle_appellation_cible>Moniteur / Monitrice de bateau-&#0233;cole</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

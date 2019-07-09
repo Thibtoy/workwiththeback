@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>N2201</code_rome>
+<intitule>Personnel d&#0039;escale a&#0233;roportuaire</intitule>
+<code_ogr>512</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="7">
+<item_app>
+<code_ogr>39008</code_ogr>
+<libelle>Agent / Agente d&#0039;accompagnement a&#0233;roportuaire de passagers &#0224; mobilit&#0233; r&#0233;duite</libelle>
+<libelle_court>Agent(e) accompagnement a&#0233;roport. passagers mobilit&#0233; r&#0233;duite</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10539</code_ogr>
+<libelle>Agent / Agente de passage escale a&#0233;roportuaire</libelle>
+<libelle_court>Agent / Agente de passage escale a&#0233;roportuaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10697</code_ogr>
+<libelle>Agent / Agente des Services Commerciaux en escale a&#0233;roportuaire -ASC-</libelle>
+<libelle_court>Agent/Agente des Services Commerciaux escale a&#0233;roportuaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10699</code_ogr>
+<libelle>Agent / Agente d&#0039;escale a&#0233;roportuaire</libelle>
+<libelle_court>Agent / Agente d&#0039;escale a&#0233;roportuaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10700</code_ogr>
+<libelle>Agent / Agente d&#0039;Escale Commerciale a&#0233;roportuaire -AEC-</libelle>
+<libelle_court>Agent / Agente d&#0039;Escale Commerciale a&#0233;roportuaire -AEC-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19564</code_ogr>
+<libelle>Superviseur / Superviseuse d&#0039;escale a&#0233;roportuaire</libelle>
+<libelle_court>Superviseur / Superviseuse d&#0039;escale a&#0233;roportuaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19569</code_ogr>
+<libelle>Superviseur / Superviseuse passage a&#0233;roportuaire</libelle>
+<libelle_court>Superviseur / Superviseuse passage a&#0233;roportuaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Assiste et guide les passagers d&#0039;un vol &#0224; l&#0039;arriv&#0233;e, au d&#0233;part ou en correspondance pour l&#0039;enregistrement passagers/bagages, l&#0039;embarquement/d&#0233;barquement, le traitement des particularit&#0233;s (enfants non-accompagn&#0233;s, passagers manquants, al&#0233;as,...).
+Agit en liaison avec les diff&#0233;rents intervenants de l&#0039;escale, selon la r&#0233;glementation du transport a&#0233;rien et les objectifs commerciaux.
+Peut coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe d&#0039;agents d&#0039;escale.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac &#0224; Bac+2 (BTS, DUT, L2) en tourisme, commerce, langues &#0233;trang&#0232;res, ...
+Une exp&#0233;rience professionnelle dans le secteur du transport a&#0233;rien peut &#0234;tre demand&#0233;e.
+Un casier judiciaire exempt de toute mention contradictoire est obligatoire.
+Le permis B est obligatoire, ainsi que des permis/habilitations sp&#0233;cifiques pour la circulation sur les pistes.
+La pratique d&#0039;une ou plusieurs langue(s) &#0233;trang&#0232;re(s), en particulier l&#0039;anglais, est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce dans les a&#0233;rogares, au sein de compagnies a&#0233;riennes, de gestionnaires d&#0039;a&#0233;roport ou de soci&#0233;t&#0233;s d&#0039;assistance a&#0233;roportuaire, en contact avec les passagers et en relation avec diff&#0233;rents interlocuteurs (chef d&#0039;escale, &#0233;quipage, douane, services bagages, services piste, ...).
+L&#0039;activit&#0233; peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+Le port d&#0039;&#0233;quipements de protection (gilet fluorescent, casque antibruit, ...) est requis sur les pistes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23682</code_ogr>
+<libelle>A&#0233;roport</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23819</code_ogr>
+<libelle>Compagnie a&#0233;rienne</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24077</code_ogr>
+<libelle>Soci&#0233;t&#0233; d&#0039;assistance a&#0233;roportuaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="6">
+<item_ab>
+<code_ogr>110223</code_ogr>
+<libelle>Accueillir les passagers et les informer sur les conditions d&#0039;enregistrement, d&#0039;embarquement/d&#0233;barquement et de vol</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110224</code_ogr>
+<libelle>Collecter les informations concernant les vols et effectuer les op&#0233;rations d&#0039;ouverture d&#0039;enregistrement, d&#0039;embarquement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110225</code_ogr>
+<libelle>V&#0233;rifier et enregistrer les documents des passagers et les bagages (r&#0233;f&#0233;rencement, surpoids, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110226</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations d&#0039;embarquement/d&#0233;barquement (r&#0233;servation de bus sur piste, accompagnement des passagers, remise des coupons de vol, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110227</code_ogr>
+<libelle>V&#0233;rifier les cartes d&#0039;embarquement avec la liste des passagers pr&#0233;sents &#0224; bord, renseigner et transmettre les documents de suivi de vol</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>109607</code_ogr>
+<libelle>Accueillir les personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>119046</code_ogr>
+<libelle>Logiciels de suivi de vol ou d&#0039;enregistrement de bagages</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110177</code_ogr>
+<libelle>Terminologie a&#0233;ronautique (IATA, alphabet a&#0233;ronautique, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110229</code_ogr>
+<libelle>G&#0233;ographie li&#0233;e aux services a&#0233;roportuaires (fuseaux horaires, a&#0233;roports, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108834</code_ogr>
+<libelle>Utilisation d&#0039;outils de radiocommunication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107018</code_ogr>
+<libelle>R&#0232;gles de s&#0251;ret&#0233; a&#0233;roportuaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110162</code_ogr>
+<libelle>Sp&#0233;cificit&#0233;s culturelles de la client&#0232;le</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101424</code_ogr>
+<libelle>R&#0233;glementation du transport de mati&#0232;res et produits dangereux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115584</code_ogr>
+<libelle>D&#0233;ployer des mesures relatives &#0224; des situations particuli&#0232;res (passager absent &#0224; l&#0039;embarquement, &#0224; mobilit&#0233; r&#0233;duite, extrad&#0233;, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>110231</code_ogr>
+<libelle>Proc&#0233;dures de prise en charge des enfants mineurs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101949</code_ogr>
+<libelle>Techniques de pr&#0233;vention et de gestion de conflits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115585</code_ogr>
+<libelle>D&#0233;ployer des mesures correctives pour la client&#0232;le lors de retard ou d&#0039;annulation de vols, de perte de bagage, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119527</code_ogr>
+<libelle>Logiciels de r&#0233;servation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119043</code_ogr>
+<libelle>Logiciels de suivi bagages</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115586</code_ogr>
+<libelle>Conduire au moyen de minibus ou voiture, des passagers sur une piste a&#0233;roportuaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115587</code_ogr>
+<libelle>Cl&#0244;turer un vol (fermeture des portes, documents de cl&#0244;ture, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115028</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;activit&#0233; de la structure, du service et identifier des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>126033</code_ogr>
+<libelle>Accompagner l&#0039;int&#0233;gration de nouveaux salari&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123200</code_ogr>
+<libelle>Favoriser l&#0039;int&#0233;gration d&#0039;un nouveau salari&#0233; dans une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1204</code_rome_cible>
+<libelle_rome_cible>Location de v&#0233;hicules ou de mat&#0233;riel de loisirs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1101</code_rome_cible>
+<libelle_rome_cible>Accueil touristique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1703</code_rome_cible>
+<libelle_rome_cible>R&#0233;ception en h&#0244;tellerie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1601</code_rome_cible>
+<libelle_rome_cible>Accueil et renseignements</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4302</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le des transports en commun</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1303</code_rome_cible>
+<libelle_rome_cible>Vente de voyages</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N2204</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;paration des vols</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N2205</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;escale et exploitation a&#0233;roportuaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4401</code_rome_cible>
+<libelle_rome_cible>Circulation du r&#0233;seau ferr&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>I1402</code_rome>
+<intitule>R&#0233;paration de biens &#0233;lectrodomestiques et multim&#0233;dia</intitule>
+<code_ogr>321</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="27">
+<item_app>
+<code_ogr>13962</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse &#0171;Blanc&#0187;</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse &#0171;Blanc&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13963</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse &#0171;Brun&#0187;</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse &#0171;Brun&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13964</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse d&#0039;appareils &#0233;lectrom&#0233;nagers</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse d&#0039;appareils &#0233;lectrom&#0233;nagers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13972</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse en &#0233;lectrom&#0233;nager</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse en &#0233;lectrom&#0233;nager</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13978</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse en t&#0233;l&#0233;vision, hi-fi</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse en t&#0233;l&#0233;vision, hi-fi</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18514</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice d&#0039;appareils photographiques</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice d&#0039;appareils photographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18517</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice de machines &#0224; coudre</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice de machines &#0224; coudre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18519</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice de mat&#0233;riels de bricolage</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice de mat&#0233;riels de bricolage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18521</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice de mat&#0233;riels photographiques</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice de mat&#0233;riels photographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18526</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice en &#0233;lectrom&#0233;nager</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice en &#0233;lectrom&#0233;nager</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140925</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice en produits de t&#0233;l&#0233;communication et multim&#0233;dia</libelle>
+<libelle_court>R&#0233;parateur(trice) produits t&#0233;l&#0233;communication  et multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140924</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice en smartphone, t&#0233;l&#0233;phonie mobile, tablette</libelle>
+<libelle_court>R&#0233;parateur(trice) en smartphone, t&#0233;l&#0233;phonie mobile, tablette</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18530</code_ogr>
+<libelle>R&#0233;parateur / R&#0233;paratrice en t&#0233;l&#0233;vision, hi-fi</libelle>
+<libelle_court>R&#0233;parateur / R&#0233;paratrice en t&#0233;l&#0233;vision, hi-fi</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18562</code_ogr>
+<libelle>Responsable &#0171;Blanc&#0187;</libelle>
+<libelle_court>Responsable &#0171;Blanc&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18563</code_ogr>
+<libelle>Responsable &#0171;Brun&#0187;</libelle>
+<libelle_court>Responsable &#0171;Brun&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19182</code_ogr>
+<libelle>Responsable Service Apr&#0232;s-Vente -SAV- en &#0233;lectrom&#0233;nager</libelle>
+<libelle_court>Responsable Service Apr&#0232;s-Vente -SAV- en &#0233;lectrom&#0233;nager</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19833</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en appareils &#0233;lectrom&#0233;nagers</libelle>
+<libelle_court>Technicien(ne) de maintenance en appareils &#0233;lectrom&#0233;nagers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19839</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en &#0233;lectronique grand public</libelle>
+<libelle_court>Technicien(ne) de maintenance en &#0233;lectronique grand public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19853</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en mat&#0233;riels domestiques &#0233;lectroniques</libelle>
+<libelle_court>Technicien(ne) maintenance mat&#0233;riels domestiques &#0233;lectro</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19856</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en mat&#0233;riels photographiques</libelle>
+<libelle_court>Technicien(ne) de maintenance en mat&#0233;riels photographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20059</code_ogr>
+<libelle>Technicien / Technicienne en &#0233;lectrom&#0233;nager</libelle>
+<libelle_court>Technicien / Technicienne en &#0233;lectrom&#0233;nager</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20131</code_ogr>
+<libelle>Technicien / Technicienne en t&#0233;l&#0233;vision, hi-fi</libelle>
+<libelle_court>Technicien / Technicienne en t&#0233;l&#0233;vision, hi-fi</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20224</code_ogr>
+<libelle>Technicien / Technicienne produits &#0171;Blanc&#0187;</libelle>
+<libelle_court>Technicien / Technicienne produits &#0171;Blanc&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20225</code_ogr>
+<libelle>Technicien / Technicienne produits &#0171;Brun&#0187;</libelle>
+<libelle_court>Technicien / Technicienne produits &#0171;Brun&#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19940</code_ogr>
+<libelle>Technicien d&#0233;panneur / Technicienne d&#0233;panneuse gros &#0233;lectrom&#0233;nagers</libelle>
+<libelle_court>Technicien(ne) d&#0233;panneur(se) gros &#0233;lectrom&#0233;nagers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19941</code_ogr>
+<libelle>Technicien d&#0233;panneur / Technicienne d&#0233;panneuse petits &#0233;lectrom&#0233;nagers</libelle>
+<libelle_court>Technicien(ne) d&#0233;panneur(se) petits &#0233;lectrom&#0233;nagers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20289</code_ogr>
+<libelle>Technicien-r&#0233;parateur / Technicienne-r&#0233;paratrice d&#0039;appareils photographiques</libelle>
+<libelle_court>Technicien-r&#0233;parateur / Technicienne-r&#0233;paratrice appar photo</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;pare des appareils &#0233;lectrodomestiques par changement de pi&#0232;ces m&#0233;caniques, composants &#0233;lectriques, cartes &#0233;lectroniques et par r&#0233;glage, selon les r&#0232;gles de s&#0233;curit&#0233; et les techniques d&#0233;finies.
+Peut r&#0233;parer des &#0233;l&#0233;ments ou des pi&#0232;ces d&#0233;fectueuses.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau CAP/BEP &#0224; Bac (Bac professionnel, Brevet Professionnel, ...) en &#0233;lectronique, &#0233;lectrotechnique, &#0233;quipement m&#0233;nager.
+Un Bac+2 (BTS, DUT) dans les m&#0234;mes secteurs peut &#0234;tre requis pour la r&#0233;paration d&#0039;&#0233;quipement brun.
+Une habilitation aux risques d&#0039;origine &#0233;lectrique peut &#0234;tre demand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de Service Apr&#0232;s-Vente -SAV- d&#0039;entreprises de distribution, de fabrication de mat&#0233;riels &#0233;lectrodomestiques, de centres agr&#0233;&#0233;s de r&#0233;paration, en relation avec les services techniques des constructeurs et les clients.
+Elle peut impliquer des d&#0233;placements chez les clients.
+L&#0039;activit&#0233; peut s&#0039;effectuer en atelier et impliquer le port de charges.
+Le port d&#0039;&#0233;quipements de protection (gants, lunettes de protection, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>23715</code_ogr>
+<libelle>Atelier de r&#0233;paration/Service Apr&#0232;s-Vente -SAV-</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23791</code_ogr>
+<libelle>Centre technique agr&#0233;&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="14">
+<item_ab>
+<code_ogr>106866</code_ogr>
+<libelle>S&#0039;informer des circonstances de la panne et dresser un premier diagnostic</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124382</code_ogr>
+<libelle>D&#0233;terminer un d&#0233;lai d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117243</code_ogr>
+<libelle>Etablir un devis</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106868</code_ogr>
+<libelle>Localiser la panne ou la d&#0233;faillance par des contr&#0244;les, des tests et des mesures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124333</code_ogr>
+<libelle>Changer une pi&#0232;ce d&#0233;fectueuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124739</code_ogr>
+<libelle>Identifier les composants et les pi&#0232;ces d&#0233;fectueuses</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123301</code_ogr>
+<libelle>R&#0233;parer une pi&#0232;ce d&#0233;fectueuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123625</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;&#0233;tat de fonctionnement d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102694</code_ogr>
+<libelle>Renseigner les supports de suivi d&#0039;intervention et transmettre les informations au service concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106871</code_ogr>
+<libelle>Former les clients &#0224; l&#0039;utilisation, l&#0039;entretien et au r&#0233;glage des param&#0232;tres des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>116934</code_ogr>
+<libelle>Etablir une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>121709</code_ogr>
+<libelle>Service Apr&#0232;s Vente (SAV)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100286</code_ogr>
+<libelle>Techniques de soudure</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101031</code_ogr>
+<libelle>Microm&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121126</code_ogr>
+<libelle>Progiciels de Gestion Int&#0233;gr&#0233;e (PGI) / Enterprise Resource Planning (ERP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102832</code_ogr>
+<libelle>Lecture de documents techniques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118331</code_ogr>
+<libelle>Utilisation d&#0039;outillages manuels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103501</code_ogr>
+<libelle>Utilisation d&#0039;appareils de mesure &#0233;lectrique (multim&#0232;tre, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124184</code_ogr>
+<libelle>R&#0233;aliser une intervention n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>124206</code_ogr>
+<libelle>Attestation d&#0039;aptitude &#0224; la manipulation des fluides frigorig&#0232;nes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124200</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux hors tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124201</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux sous tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="9">
+<item_as>
+<code_ogr>106873</code_ogr>
+<libelle>R&#0233;parer et intervenir sur des antennes (montage, pose)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106874</code_ogr>
+<libelle>R&#0233;parer des appareils photos argentiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106875</code_ogr>
+<libelle>R&#0233;parer des appareils photos num&#0233;riques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106876</code_ogr>
+<libelle>R&#0233;parer des &#0233;quipements de sonorisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106877</code_ogr>
+<libelle>R&#0233;parer des machines &#0224; coudre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106878</code_ogr>
+<libelle>R&#0233;parer du mat&#0233;riel blanc (lavage, four, table de cuisson, r&#0233;frig&#0233;rateur, cong&#0233;lateur, petit &#0233;lectrom&#0233;nager, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>140926</code_ogr>
+<libelle>R&#0233;parer du mat&#0233;riel de t&#0233;l&#0233;phonie mobile, jeux vid&#0233;os, tablettes</libelle>
+<code_type_activite>1</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106879</code_ogr>
+<libelle>R&#0233;parer du mat&#0233;riel brun (TV, Hi-Fi, vid&#0233;o, cam&#0233;scope, magn&#0233;toscope, magn&#0233;tophone, radio)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106880</code_ogr>
+<libelle>R&#0233;parer du mat&#0233;riel de bricolage (perceuse, ponceuse, scie sauteuse, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102647</code_ogr>
+<libelle>Optique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123738</code_ogr>
+<libelle>Fluides frigorig&#0232;nes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114941</code_ogr>
+<libelle>Diagnostiquer et localiser une panne ou un dysfonctionnement d&#0039;appareil photographique &#0224; partir d&#0039;une &#0233;preuve</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>118359</code_ogr>
+<libelle>Appr&#0233;ciation visuelle de qualit&#0233; de photographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102702</code_ogr>
+<libelle>Techniques de prise de vue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123275</code_ogr>
+<libelle>R&#0233;aliser une op&#0233;ration de changement de carte &#0233;lectronique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106883</code_ogr>
+<libelle>Techniques de dessoudage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121181</code_ogr>
+<libelle>Installer des &#0233;quipements &#0233;lectroniques et &#0233;lectrom&#0233;nagers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114944</code_ogr>
+<libelle>Usiner des &#0233;l&#0233;ments ou r&#0233;aliser des pi&#0232;ces de remplacement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114945</code_ogr>
+<libelle>R&#0233;aliser des r&#0233;fections d&#0039;&#0233;tanch&#0233;it&#0233; d&#0039;appareils</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106884</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de tropicalisation (Appareils photos)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114946</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres d&#0039;un appareil photographique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106885</code_ogr>
+<libelle>Manipulation d&#0039;appareil de type sp&#0233;cifique (collimateur, bo&#0238;te &#0224; lumi&#0232;re calibr&#0233;e, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121270</code_ogr>
+<libelle>Mettre &#0224; jour une documentation technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="8">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1212</code_rome_cible>
+<libelle_rome_cible>Vente en d&#0233;coration et &#0233;quipement du foyer</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1213</code_rome_cible>
+<libelle_rome_cible>Vente en gros de mat&#0233;riel et &#0233;quipement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13362</code_appellation_cible>
+<libelle_appellation_cible>Conseiller commercial / Conseill&#0232;re commerciale en biens d&#0039;&#0233;quipement aupr&#0232;s des entreprises</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1504</code_rome_cible>
+<libelle_rome_cible>Intervention technique en contr&#0244;le essai qualit&#0233; en &#0233;lectricit&#0233; et &#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1305</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance &#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1401</code_rome_cible>
+<libelle_rome_cible>Maintenance informatique et bureautique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1203</code_rome_cible>
+<libelle_rome_cible>Encadrement technique en insertion professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14818</code_appellation_cible>
+<libelle_appellation_cible>Encadrant / Encadrante de chantier d&#0039;insertion</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

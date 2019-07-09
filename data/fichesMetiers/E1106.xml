@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>E1106</code_rome>
+<intitule>Journalisme et information m&#0233;dia</intitule>
+<code_ogr>124</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="50">
+<item_app>
+<code_ogr>38996</code_ogr>
+<libelle>Assistant / Assistante de r&#0233;daction</libelle>
+<libelle_court>Assistant / Assistante de r&#0233;daction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11865</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de r&#0233;daction</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de r&#0233;daction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12311</code_ogr>
+<libelle>Chef de rubrique</libelle>
+<libelle_court>Chef de rubrique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13749</code_ogr>
+<libelle>Correspondant / Correspondante de Presse &#0224; l&#0039;&#0233;tranger</libelle>
+<libelle_court>Correspondant / Correspondante de Presse &#0224; l&#0039;&#0233;tranger</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13752</code_ogr>
+<libelle>Correspondant local / Correspondante locale de la Presse</libelle>
+<libelle_court>Correspondant local / Correspondante locale de la Presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13847</code_ogr>
+<libelle>Critique d&#0039;art, cin&#0233;ma, th&#0233;&#0226;tre, litt&#0233;rature, musique</libelle>
+<libelle_court>Critique d&#0039;art, cin&#0233;ma, th&#0233;&#0226;tre, litt&#0233;rature, musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13879</code_ogr>
+<libelle>Cyber-journaliste</libelle>
+<libelle_court>Cyber-journaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14275</code_ogr>
+<libelle>Directeur / Directrice de la r&#0233;daction</libelle>
+<libelle_court>Directeur / Directrice de la r&#0233;daction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14421</code_ogr>
+<libelle>Directeur / Directrice d&#0039;information</libelle>
+<libelle_court>Directeur / Directrice d&#0039;information</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14582</code_ogr>
+<libelle>&#0201;ditorialiste</libelle>
+<libelle_court>&#0201;ditorialiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14862</code_ogr>
+<libelle>Envoy&#0233; sp&#0233;cial / Envoy&#0233;e sp&#0233;ciale de Presse</libelle>
+<libelle_court>Envoy&#0233; sp&#0233;cial / Envoy&#0233;e sp&#0233;ciale de Presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15394</code_ogr>
+<libelle>Grand reporter / Grande reportrice</libelle>
+<libelle_court>Grand reporter / Grande reportrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16084</code_ogr>
+<libelle>Journaliste</libelle>
+<libelle_court>Journaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16085</code_ogr>
+<libelle>Journaliste agencier / agenci&#0232;re</libelle>
+<libelle_court>Journaliste agencier / agenci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16086</code_ogr>
+<libelle>Journaliste charg&#0233; / charg&#0233;e de publication</libelle>
+<libelle_court>Journaliste charg&#0233; / charg&#0233;e de publication</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16087</code_ogr>
+<libelle>Journaliste de &#0171; communication de ville &#0187;</libelle>
+<libelle_court>Journaliste de &#0171; communication de ville &#0187;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16088</code_ogr>
+<libelle>Journaliste de presse audiovisuelle</libelle>
+<libelle_court>Journaliste de presse audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16089</code_ogr>
+<libelle>Journaliste de presse &#0233;crite</libelle>
+<libelle_court>Journaliste de presse &#0233;crite</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16090</code_ogr>
+<libelle>Journaliste de presse radiophonique</libelle>
+<libelle_court>Journaliste de presse radiophonique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16091</code_ogr>
+<libelle>Journaliste d&#0039;entreprise</libelle>
+<libelle_court>Journaliste d&#0039;entreprise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16093</code_ogr>
+<libelle>Journaliste localier / locali&#0232;re</libelle>
+<libelle_court>Journaliste localier / locali&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16092</code_ogr>
+<libelle>Journaliste on line</libelle>
+<libelle_court>Journaliste on line</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16094</code_ogr>
+<libelle>Journaliste pr&#0233;sentateur / pr&#0233;sentatrice radio</libelle>
+<libelle_court>Journaliste pr&#0233;sentateur / pr&#0233;sentatrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16095</code_ogr>
+<libelle>Journaliste pr&#0233;sentateur / pr&#0233;sentatrice TV</libelle>
+<libelle_court>Journaliste pr&#0233;sentateur / pr&#0233;sentatrice TV</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16096</code_ogr>
+<libelle>Journaliste r&#0233;dacteur / r&#0233;dactrice</libelle>
+<libelle_court>Journaliste r&#0233;dacteur / r&#0233;dactrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16097</code_ogr>
+<libelle>Journaliste reporter / reportrice d&#0039;images</libelle>
+<libelle_court>Journaliste reporter / reportrice d&#0039;images</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16098</code_ogr>
+<libelle>Journaliste scientifique</libelle>
+<libelle_court>Journaliste scientifique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16099</code_ogr>
+<libelle>Journaliste sp&#0233;cialis&#0233; / sp&#0233;cialis&#0233;e</libelle>
+<libelle_court>Journaliste sp&#0233;cialis&#0233; / sp&#0233;cialis&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16100</code_ogr>
+<libelle>Journaliste sportif / sportive</libelle>
+<libelle_court>Journaliste sportif / sportive</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16101</code_ogr>
+<libelle>Journaliste territorial / territoriale</libelle>
+<libelle_court>Journaliste territorial / territoriale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16102</code_ogr>
+<libelle>Journaliste Web</libelle>
+<libelle_court>Journaliste Web</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17730</code_ogr>
+<libelle>Photojournaliste</libelle>
+<libelle_court>Photojournaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17738</code_ogr>
+<libelle>Pigiste</libelle>
+<libelle_court>Pigiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18348</code_ogr>
+<libelle>R&#0233;dacteur / R&#0233;dactrice de presse</libelle>
+<libelle_court>R&#0233;dacteur / R&#0233;dactrice de presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18350</code_ogr>
+<libelle>R&#0233;dacteur / R&#0233;dactrice en chef</libelle>
+<libelle_court>R&#0233;dacteur / R&#0233;dactrice en chef</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18351</code_ogr>
+<libelle>R&#0233;dacteur en chef adjoint / R&#0233;dactrice en chef adjointe</libelle>
+<libelle_court>R&#0233;dacteur en chef adjoint / R&#0233;dactrice en chef adjointe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18368</code_ogr>
+<libelle>R&#0233;dacteur rewriter traducteur / R&#0233;dactrice rewriteuse traductrice</libelle>
+<libelle_court>R&#0233;dacteur(trice) rewriter traducteur(trice)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18389</code_ogr>
+<libelle>R&#0233;dacteur traducteur / R&#0233;dactrice traductrice</libelle>
+<libelle_court>R&#0233;dacteur traducteur / R&#0233;dactrice traductrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18550</code_ogr>
+<libelle>Reporter / Reportrice</libelle>
+<libelle_court>Reporter / Reportrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18552</code_ogr>
+<libelle>Reporter / Reportrice photographe</libelle>
+<libelle_court>Reporter / Reportrice photographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18551</code_ogr>
+<libelle>Reporter dessinateur / Reportrice dessinatrice</libelle>
+<libelle_court>Reporter dessinateur / Reportrice dessinatrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18898</code_ogr>
+<libelle>Responsable d&#0039;&#0233;dition en presse</libelle>
+<libelle_court>Responsable d&#0039;&#0233;dition en presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19058</code_ogr>
+<libelle>Responsable &#0233;ditorial / &#0233;ditoriale</libelle>
+<libelle_court>Responsable &#0233;ditorial / &#0233;ditoriale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38965</code_ogr>
+<libelle>Responsable &#0233;ditorial / &#0233;ditoriale on line</libelle>
+<libelle_court>Responsable &#0233;ditorial / &#0233;ditoriale on line</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38966</code_ogr>
+<libelle>Responsable &#0233;ditorial / &#0233;ditoriale web</libelle>
+<libelle_court>Responsable &#0233;ditorial / &#0233;ditoriale web</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19380</code_ogr>
+<libelle>Secr&#0233;taire de r&#0233;daction</libelle>
+<libelle_court>Secr&#0233;taire de r&#0233;daction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19381</code_ogr>
+<libelle>Secr&#0233;taire de r&#0233;daction en Publication Assist&#0233;e par Ordinateur -PAO-</libelle>
+<libelle_court>Secr&#0233;taire de r&#0233;daction en -PAO-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19389</code_ogr>
+<libelle>Secr&#0233;taire g&#0233;n&#0233;ral / g&#0233;n&#0233;rale de la r&#0233;daction</libelle>
+<libelle_court>Secr&#0233;taire g&#0233;n&#0233;ral / g&#0233;n&#0233;rale de la r&#0233;daction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19524</code_ogr>
+<libelle>St&#0233;nographe r&#0233;dacteur / r&#0233;dactrice</libelle>
+<libelle_court>St&#0233;nographe r&#0233;dacteur / r&#0233;dactrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20729</code_ogr>
+<libelle>Webmaster &#0233;ditorialiste</libelle>
+<libelle_court>Webmaster &#0233;ditorialiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Recueille, v&#0233;rifie et traite l&#0039;information et l&#0039;actualit&#0233; sur un sujet donn&#0233; en vue de sa diffusion m&#0233;dia selon les orientations de la structure d&#0039;information, les r&#0232;gles d&#0233;ontologiques et la r&#0233;glementation de l&#0039;information.
+Peut d&#0233;finir la politique d&#0039;information de la structure.
+Peut animer une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Licence &#0224; Master (Master professionnel, ...) en journalisme, sciences politiques, communication.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans un secteur sp&#0233;cifique (sport, mode, m&#0233;decine, finance, ...) et des qualit&#0233;s r&#0233;dactionnelles sans dipl&#0244;me particulier.
+Une formation technique, scientifique, juridique ou &#0233;conomique peut &#0234;tre demand&#0233;e.
+La carte de journaliste professionnel peut &#0234;tre exig&#0233;e.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;organes de presse, de soci&#0233;t&#0233;s de production, de services communication d&#0039;entreprises, ou en ind&#0233;pendant... Elle implique des d&#0233;placements et peut n&#0233;cessiter un &#0233;loignement du domicile de plusieurs jours (reportage) ou une r&#0233;sidence &#0224; l&#0039;&#0233;tranger (correspondant de presse).
+Elle varie selon le type de m&#0233;dia et de support (presse, t&#0233;l&#0233;vision, radio, Internet, ...), le type de traitement (r&#0233;daction, reportage vid&#0233;o, photographique, ...), la p&#0233;riodicit&#0233; de la diffusion (quotidien, hebdomadaire, mensuel, ...), le type d&#0039;information (politique, scientifique, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; peut s&#0039;effectuer en zone &#0224; risques (catastrophes naturelles, zones de conflits, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23690</code_ogr>
+<libelle>Agence de presse</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23697</code_ogr>
+<libelle>Agence d&#0039;illustration (phototh&#0232;que)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24013</code_ogr>
+<libelle>Organe de presse</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24025</code_ogr>
+<libelle>Organisme professionnel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23471</code_ogr>
+<libelle>Edition</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23537</code_ogr>
+<libelle>Internet et Multim&#0233;dia</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23595</code_ogr>
+<libelle>Presse</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23606</code_ogr>
+<libelle>Radio</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23648</code_ogr>
+<libelle>T&#0233;l&#0233;vision</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>125989</code_ogr>
+<libelle>S&#0233;lectionner le th&#0232;me d&#0039;une diffusion m&#0233;diatique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124614</code_ogr>
+<libelle>Identifier des sources et lieux d&#0039;information</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124632</code_ogr>
+<libelle>Traiter des informations recueillies (v&#0233;rification, recoupement, analyse)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124631</code_ogr>
+<libelle>Recueillir des informations lors d&#0039;enqu&#0234;tes, reportages et interviews</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124509</code_ogr>
+<libelle>Transmettre un article pour correction, impression et diffusion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124256</code_ogr>
+<libelle>R&#0233;diger un article de presse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120516</code_ogr>
+<libelle>D&#0233;velopper un r&#0233;seau de partenaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="24">
+<item_ab_stp>
+<code_ogr>116398</code_ogr>
+<libelle>Culture g&#0233;n&#0233;rale/ Domaine culturel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108302</code_ogr>
+<libelle>Economie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118085</code_ogr>
+<libelle>Beaut&#0233; et cosm&#0233;tiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118136</code_ogr>
+<libelle>Environnement / nature</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124904</code_ogr>
+<libelle>Culture sportive</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120505</code_ogr>
+<libelle>Domaine vie pratique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100628</code_ogr>
+<libelle>Mode et styles vestimentaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124887</code_ogr>
+<libelle>Sciences physico-chimiques et exp&#0233;rimentales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108056</code_ogr>
+<libelle>Sciences politiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124886</code_ogr>
+<libelle>Sciences exactes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118903</code_ogr>
+<libelle>Sciences et techniques de l&#0039;ing&#0233;nieur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102553</code_ogr>
+<libelle>Linguistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102510</code_ogr>
+<libelle>Droit de l&#0039;information</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122774</code_ogr>
+<libelle>Droit de la presse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122773</code_ogr>
+<libelle>Droit &#0224; l&#0039;image</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116916</code_ogr>
+<libelle>Techniques d&#0039;&#0233;criture journalistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102511</code_ogr>
+<libelle>Sp&#0233;cificit&#0233;s des m&#0233;dias</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>115919</code_ogr>
+<libelle>Communication digitale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123009</code_ogr>
+<libelle>Nouvelles Technologies de l&#0039;information et de la Communication (NTIC)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119523</code_ogr>
+<libelle>Logiciels d&#0039;&#0233;dition multim&#0233;dia</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100113</code_ogr>
+<libelle>Logiciels de gestion de base de donn&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119226</code_ogr>
+<libelle>Publication Assist&#0233;e par Ordinateur (PAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114199</code_ogr>
+<libelle>Traduire ou interpr&#0233;ter d&#0039;une langue &#0224; une autre des informations, des propos, des &#0233;crits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102478</code_ogr>
+<libelle>Techniques de traduction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124649</code_ogr>
+<libelle>S&#0233;lectionner des illustrations pour un article</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>122796</code_ogr>
+<libelle>Recherche iconographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125539</code_ogr>
+<libelle>R&#0233;aliser un reportage photographique ou film&#0233; d&#0039;un &#0233;v&#0232;nement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102519</code_ogr>
+<libelle>Utilisation d&#0039;appareil photographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102599</code_ogr>
+<libelle>Utilisation de cam&#0233;ra</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125674</code_ogr>
+<libelle>Pr&#0233;senter des informations au micro ou devant un cam&#0233;ra</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114203</code_ogr>
+<libelle>Animer des d&#0233;bats, des &#0233;v&#0232;nements institutionnels sur un th&#0232;me</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114204</code_ogr>
+<libelle>Proc&#0233;der &#0224; une relecture, r&#0233;vision ou correction de copies</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124255</code_ogr>
+<libelle>R&#0233;aliser une maquette de mise en page</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>122238</code_ogr>
+<libelle>Typographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124675</code_ogr>
+<libelle>Veiller au respect d&#0039;une ligne &#0233;ditoriale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114207</code_ogr>
+<libelle>Suivre et contr&#0244;ler la fabrication d&#0039;un journal (signature bons &#0224; tirer, d&#0233;lais, r&#0233;alisation, ...) jusqu&#0039;&#0224; sa diffusion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102461</code_ogr>
+<libelle>Cha&#0238;ne graphique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114208</code_ogr>
+<libelle>Diriger une r&#0233;daction</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1103</code_rome_cible>
+<libelle_rome_cible>Communication</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18776</code_appellation_cible>
+<libelle_appellation_cible>Responsable de l&#0039;information et de la communication</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>18368</code_appellation_source>
+<libelle_appellation_source>R&#0233;dacteur rewriter traducteur / R&#0233;dactrice rewriteuse traductrice</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1108</code_rome_cible>
+<libelle_rome_cible>Traduction, interpr&#0233;tariat</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20408</code_appellation_cible>
+<libelle_appellation_cible>Traducteur / Traductrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>18552</code_appellation_source>
+<libelle_appellation_source>Reporter / Reportrice photographe</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1201</code_rome_cible>
+<libelle_rome_cible>Photographie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1103</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;sentation de spectacles ou d&#0039;&#0233;missions</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18051</code_appellation_cible>
+<libelle_appellation_cible>Pr&#0233;sentateur / Pr&#0233;sentatrice radio</libelle_appellation_cible>
+<code_appellation_cible>18052</code_appellation_cible>
+<libelle_appellation_cible>Pr&#0233;sentateur / Pr&#0233;sentatrice TV</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>16097</code_appellation_source>
+<libelle_appellation_source>Journaliste reporter / reportrice d&#0039;images</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1505</code_rome_cible>
+<libelle_rome_cible>Image cin&#0233;matographique et t&#0233;l&#0233;visuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1102</code_rome_cible>
+<libelle_rome_cible>Ecriture d&#0039;ouvrages, de livres</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1105</code_rome_cible>
+<libelle_rome_cible>Coordination d&#0039;&#0233;dition</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

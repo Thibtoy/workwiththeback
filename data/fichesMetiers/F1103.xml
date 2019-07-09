@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>F1103</code_rome>
+<intitule>Contr&#0244;le et diagnostic technique du b&#0226;timent</intitule>
+<code_ogr>144</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>11752</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;affaires contr&#0244;le technique de construction</libelle>
+<libelle_court>Charg&#0233;/Charg&#0233;e d&#0039;affaires contr&#0244;le technique de construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13655</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse technique de la construction</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse technique de la construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13657</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse technique du BTP</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse technique du BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14162</code_ogr>
+<libelle>Diagnostiqueur / Diagnostiqueuse b&#0226;timent</libelle>
+<libelle_court>Diagnostiqueur / Diagnostiqueuse b&#0226;timent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14163</code_ogr>
+<libelle>Diagnostiqueur / Diagnostiqueuse construction amiante</libelle>
+<libelle_court>Diagnostiqueur / Diagnostiqueuse construction amiante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38153</code_ogr>
+<libelle>Diagnostiqueur / Diagnostiqueuse performance &#0233;nerg&#0233;tique b&#0226;timent</libelle>
+<libelle_court>Diagnostiqueur(se) performance &#0233;nerg&#0233;tique b&#0226;timent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14955</code_ogr>
+<libelle>Expert / Experte multirisques habitation</libelle>
+<libelle_court>Expert / Experte multirisques habitation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15591</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure b&#0226;timent contr&#0244;le technique de construction -CTC-</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure b&#0226;timent contr&#0244;le technique -CTC-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15621</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure contr&#0244;le technique de construction -CTC-</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure contr&#0244;le technique de construction CTC</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15600</code_ogr>
+<libelle>Ing&#0233;nieur charg&#0233; / Ing&#0233;nieure charg&#0233;e d&#0039;affaires contr&#0244;le technique de construction -CTC-</libelle>
+<libelle_court>Ing&#0233;nieur charg&#0233;/Ing&#0233;nieure charg&#0233;e d&#0039;affaire contr&#0244;le -CTC-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15800</code_ogr>
+<libelle>Ing&#0233;nieur expert / Ing&#0233;nieure experte BTP</libelle>
+<libelle_court>Ing&#0233;nieur expert / Ing&#0233;nieure experte BTP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15993</code_ogr>
+<libelle>Inspecteur / Inspectrice technique d&#0039;immeubles</libelle>
+<libelle_court>Inspecteur / Inspectrice technique d&#0039;immeubles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17158</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de rep&#0233;rage amiante</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de rep&#0233;rage amiante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19201</code_ogr>
+<libelle>Responsable technique diagnostic du b&#0226;timent</libelle>
+<libelle_court>Responsable technique diagnostic du b&#0226;timent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19699</code_ogr>
+<libelle>Technicien / Technicienne contr&#0244;le technique de construction -CTC-</libelle>
+<libelle_court>Technicien/Technicienne contr&#0244;le technique de construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19754</code_ogr>
+<libelle>Technicien / Technicienne de diagnostics immobiliers</libelle>
+<libelle_court>Technicien / Technicienne de diagnostics immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19755</code_ogr>
+<libelle>Technicien / Technicienne de diagnostics techniques du b&#0226;timent</libelle>
+<libelle_court>Technicien(ne) de diagnostics techniques du b&#0226;timent</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19779</code_ogr>
+<libelle>Technicien / Technicienne de la construction</libelle>
+<libelle_court>Technicien / Technicienne de la construction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19989</code_ogr>
+<libelle>Technicien / Technicienne diagnostics amiante</libelle>
+<libelle_court>Technicien / Technicienne diagnostics amiante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19684</code_ogr>
+<libelle>Technicien charg&#0233; / Technicienne charg&#0233;e de diagnostics en amiante</libelle>
+<libelle_court>Technicien(ne) charg&#0233;(e) de diagnostics en amiante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19685</code_ogr>
+<libelle>Technicien charg&#0233; / Technicienne charg&#0233;e de diagnostics immobiliers</libelle>
+<libelle_court>Technicien(ne) charg&#0233;(e) de diagnostics immobiliers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19990</code_ogr>
+<libelle>Technicien diagnostiqueur / Technicienne diagnostiqueuse en immobilier</libelle>
+<libelle_court>Technicien(ne) diagnostiqueur(se) en immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20141</code_ogr>
+<libelle>Technicien expert / Technicienne experte immobilier</libelle>
+<libelle_court>Technicien expert / Technicienne experte immobilier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Contr&#0244;le des b&#0226;timents, des locaux et r&#0233;alise des diagnostics techniques (&#0233;lectricit&#0233;, solidit&#0233; du b&#0226;timent, s&#0233;curit&#0233;, ...), sanitaires (amiante, plomb, parasites, gaz, ...) selon la r&#0233;glementation.
+Peut r&#0233;aliser des calculs de surfaces.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet de Technicien, ...) dans le secteur du b&#0226;timent compl&#0233;t&#0233; par une exp&#0233;rience professionnelle.
+Un Master (Master professionnel ou recherche, dipl&#0244;me d&#0039;ing&#0233;nieur, ...) est requis pour certains postes (ing&#0233;nieur charg&#0233; d&#0039;affaires, ing&#0233;nieur contr&#0244;le technique, ...).
+Un agr&#0233;ment (de cat&#0233;gorie A &#0224; E) d&#0233;livr&#0233; par le minist&#0232;re de l&#0039;Equipement est requis pour exercer des contr&#0244;les techniques sur des constructions.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;organismes de contr&#0244;le, bureaux d&#0039;&#0233;tudes, cabinets d&#0039;architectes, en contact avec diff&#0233;rents intervenants (particuliers, entreprises, clients, notaires, ...).
+Elle varie selon le type de b&#0226;timent (industriel, tertiaire, particulier, collectif, ...) et le type de diagnostic.
+Le port d&#0039;&#0233;quipements de protection (casque de chantier, chaussures de s&#0233;curit&#0233;, ...) est requis lors de visites sur les chantiers.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23731</code_ogr>
+<libelle>Bureau de contr&#0244;le technique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23739</code_ogr>
+<libelle>Cabinet d&#0039;architectes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>126017</code_ogr>
+<libelle>Recenser les documents techniques du b&#0226;timent</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126018</code_ogr>
+<libelle>Analyser les documents techniques du b&#0226;timent</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124609</code_ogr>
+<libelle>Localiser les &#0233;l&#0233;ments &#0224; contr&#0244;ler sur un site</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>103097</code_ogr>
+<libelle>R&#0233;aliser les pr&#0233;l&#0232;vements d&#0039;&#0233;chantillons, les mesures d&#0039;eau, d&#0039;air, de poussi&#0232;res et analyser les r&#0233;sultats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>103098</code_ogr>
+<libelle>Rep&#0233;rer et identifier des risques sanitaires et environnementaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125998</code_ogr>
+<libelle>Diagnostiquer l&#0039;&#0233;tat de produits, de mat&#0233;riaux ou de constructions (conservation, d&#0233;gradation etc.)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126008</code_ogr>
+<libelle>R&#0233;aliser des mesures de locaux et les calculs de surfaces</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126006</code_ogr>
+<libelle>R&#0233;aliser un dossier de contr&#0244;le technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125462</code_ogr>
+<libelle>D&#0233;livrer un certificat ou une attestation de contr&#0244;le</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="6">
+<item_ab_stp>
+<code_ogr>101639</code_ogr>
+<libelle>Droit immobilier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103103</code_ogr>
+<libelle>Techniques de m&#0233;tr&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103106</code_ogr>
+<libelle>Techniques de pr&#0233;l&#0232;vement et d&#0039;analyses</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>125915</code_ogr>
+<libelle>Propri&#0233;t&#0233;s des mat&#0233;riaux de construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103045</code_ogr>
+<libelle>Normes de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103104</code_ogr>
+<libelle>Pathologies du b&#0226;timent</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>103107</code_ogr>
+<libelle>Proc&#0233;der &#0224; un diagnostic amiante</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125511</code_ogr>
+<libelle>Proc&#0233;der &#0224; un diagnostic d&#0039;&#0233;tat parasitaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>103109</code_ogr>
+<libelle>Proc&#0233;der &#0224; un diagnostic gaz</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125512</code_ogr>
+<libelle>Proc&#0233;der &#0224; un diagnostic de performance &#0233;nerg&#0233;tique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>103111</code_ogr>
+<libelle>Proc&#0233;der &#0224; un diagnostic plomb</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>103046</code_ogr>
+<libelle>Techniques d&#0039;am&#0233;lioration &#0233;nerg&#0233;tique des b&#0226;timents</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119726</code_ogr>
+<libelle>Efficacit&#0233; &#0233;nerg&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119721</code_ogr>
+<libelle>G&#0233;nie &#0233;nerg&#0233;tique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>123840</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; du gros oeuvre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123624</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126441</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; du second-oeuvre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101642</code_ogr>
+<libelle>Economie de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101640</code_ogr>
+<libelle>Droit de l&#0039;urbanisme et de la construction</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114266</code_ogr>
+<libelle>R&#0233;aliser des plans de locaux ou de lieux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123466</code_ogr>
+<libelle>Sensibiliser et former les personnels aux consignes de s&#0233;curit&#0233; et de pr&#0233;vention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114267</code_ogr>
+<libelle>Concevoir et faire &#0233;voluer des prestations, des proc&#0233;dures techniques et op&#0233;rationnelles d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125461</code_ogr>
+<libelle>Planifier une intervention technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>125460</code_ogr>
+<libelle>Contr&#0244;le technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126212</code_ogr>
+<libelle>Suivre et mettre &#0224; jour l&#0039;information technique, &#0233;conomique, r&#0233;glementaire..</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122313</code_ogr>
+<libelle>R&#0233;aliser un suivi commercial</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>113667</code_ogr>
+<libelle>Prospecter de nouveaux clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1301</code_rome_cible>
+<libelle_rome_cible>Inspection de conformit&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1106</code_rome_cible>
+<libelle_rome_cible>Ing&#0233;nierie et &#0233;tudes du BTP</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1204</code_rome_cible>
+<libelle_rome_cible>Qualit&#0233; S&#0233;curit&#0233; Environnement et protection sant&#0233; du BTP</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

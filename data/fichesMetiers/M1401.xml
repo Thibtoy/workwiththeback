@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1401</code_rome>
+<intitule>Conduite d&#0039;enqu&#0234;tes</intitule>
+<code_ogr>467</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="16">
+<item_app>
+<code_ogr>10659</code_ogr>
+<libelle>Agent / Agente d&#0039;enqu&#0234;tes</libelle>
+<libelle_court>Agent / Agente d&#0039;enqu&#0234;tes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10753</code_ogr>
+<libelle>Agent recenseur / Agente recenseuse</libelle>
+<libelle_court>Agent recenseur / Agente recenseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11877</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;enqu&#0234;tes</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;enqu&#0234;tes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12161</code_ogr>
+<libelle>Chef de groupe d&#0039;enqu&#0234;teurs</libelle>
+<libelle_court>Chef de groupe d&#0039;enqu&#0234;teurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12438</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe d&#0039;enqu&#0234;teurs</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe d&#0039;enqu&#0234;teurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14840</code_ogr>
+<libelle>Enqu&#0234;teur / Enqu&#0234;trice au t&#0233;l&#0233;phone</libelle>
+<libelle_court>Enqu&#0234;teur / Enqu&#0234;trice au t&#0233;l&#0233;phone</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14843</code_ogr>
+<libelle>Enqu&#0234;teur / Enqu&#0234;trice des m&#0233;nages</libelle>
+<libelle_court>Enqu&#0234;teur / Enqu&#0234;trice des m&#0233;nages</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14844</code_ogr>
+<libelle>Enqu&#0234;teur / Enqu&#0234;trice d&#0039;opinion</libelle>
+<libelle_court>Enqu&#0234;teur / Enqu&#0234;trice d&#0039;opinion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14846</code_ogr>
+<libelle>Enqu&#0234;teur / Enqu&#0234;trice sondage</libelle>
+<libelle_court>Enqu&#0234;teur / Enqu&#0234;trice sondage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14847</code_ogr>
+<libelle>Enqu&#0234;teur / Enqu&#0234;trice terrain</libelle>
+<libelle_court>Enqu&#0234;teur / Enqu&#0234;trice terrain</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14841</code_ogr>
+<libelle>Enqu&#0234;teur client / Enqu&#0234;trice cliente myst&#0232;re</libelle>
+<libelle_court>Enqu&#0234;teur client / Enqu&#0234;trice cliente myst&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17553</code_ogr>
+<libelle>Pan&#0233;liste</libelle>
+<libelle_court>Pan&#0233;liste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38397</code_ogr>
+<libelle>Recruteur / Recruteuse de donateurs</libelle>
+<libelle_court>Recruteur / Recruteuse de donateurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38939</code_ogr>
+<libelle>Sondeur enqu&#0234;teur / Sondeuse enqu&#0234;trice</libelle>
+<libelle_court>Sondeur enqu&#0234;teur / Sondeuse enqu&#0234;trice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19561</code_ogr>
+<libelle>Superviseur / Superviseuse d&#0039;enqu&#0234;teurs</libelle>
+<libelle_court>Superviseur / Superviseuse d&#0039;enqu&#0234;teurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20310</code_ogr>
+<libelle>Testeur / Testeuse de produits de consommation</libelle>
+<libelle_court>Testeur / Testeuse de produits de consommation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Collecte des donn&#0233;es ou des informations par t&#0233;l&#0233;phone, en face &#0224; face, ... dans le cadre d&#0039;enqu&#0234;tes, de sondages, selon des imp&#0233;ratifs de production (d&#0233;lais, cible, nombre, ...).
+Peut participer &#0224; la phase pr&#0233;paratoire de l&#0039;&#0233;tude en relation avec l&#0039;&#0233;quipe de recherche (test de questionnaires, de grilles, ...).
+Peut tester, appr&#0233;cier la qualit&#0233; de produits ou de services (enqu&#0234;te client myst&#0232;re, test de produits, ...).
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle.
+Un dipl&#0244;me de niveau Bac &#0224; Bac+2 (BTS, DUT, ...) ou la connaissance d&#0039;un secteur professionnel sp&#0233;cifique (m&#0233;dical, informatique, ...) peut &#0234;tre demand&#0233; selon les caract&#0233;ristiques de l&#0039;enqu&#0234;te.
+Les recrutements sont souvent ouverts sur contrats de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e ou sur vacation.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce pour le compte d&#0039;organismes d&#0039;enqu&#0234;te et de sondage, de collectivit&#0233;s territoriales, ... en relation avec le public. Elle peut impliquer des d&#0233;placements.
+Elle varie selon le mode d&#0039;organisation (face &#0224; face, par t&#0233;l&#0233;phone, ...) et l&#0039;objectif vis&#0233; (enqu&#0234;te, recensement, test de produit, ...).
+Elle peut s&#0039;exercer en horaires fractionn&#0233;s, les fins de semaine, jours f&#0233;ri&#0233;s.
+La r&#0233;mun&#0233;ration peut d&#0233;pendre des objectifs r&#0233;alis&#0233;s (nombre de questionnaires compl&#0233;t&#0233;s, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23691</code_ogr>
+<libelle>Agence de promotion et de marketing direct</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24014</code_ogr>
+<libelle>Organisation humanitaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24021</code_ogr>
+<libelle>Organisme d&#0039;&#0233;tudes et de sondage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>123953</code_ogr>
+<libelle>Pr&#0233;parer l&#0039;intervention, le mat&#0233;riel et les supports d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123369</code_ogr>
+<libelle>Identifier les cibles d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123370</code_ogr>
+<libelle>Informer les cibles sur la nature et le d&#0233;roulement d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123367</code_ogr>
+<libelle>Guider une personne lors d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121724</code_ogr>
+<libelle>Collecter les r&#0233;sultats d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109484</code_ogr>
+<libelle>Compl&#0233;ter les formulaires, les questionnaires et les compte rendus</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117352</code_ogr>
+<libelle>Classer les donn&#0233;es collect&#0233;es d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117353</code_ogr>
+<libelle>Transmettre les r&#0233;sultats d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="4">
+<item_ab_stp>
+<code_ogr>100086</code_ogr>
+<libelle>Techniques de comptage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126124</code_ogr>
+<libelle>Utilisation d&#0039;appareils de lecture optique de codes-barres (pistolet, flasheur, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109486</code_ogr>
+<libelle>Lecture de plan urbain</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109487</code_ogr>
+<libelle>Techniques de sondage d&#0039;opinions</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>124126</code_ogr>
+<libelle>R&#0233;aliser une enqu&#0234;te d&#0039;audience m&#0233;diatique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124128</code_ogr>
+<libelle>R&#0233;aliser une enqu&#0234;te de consommation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124129</code_ogr>
+<libelle>R&#0233;aliser une enqu&#0234;te, un sondage d&#0039;opinion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124195</code_ogr>
+<libelle>R&#0233;aliser des tests de produit aupr&#0232;s d&#0039;un panel de consommateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124130</code_ogr>
+<libelle>R&#0233;aliser une enqu&#0234;te par visite myst&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>109499</code_ogr>
+<libelle>Pratique de l&#0039;enqu&#0234;te</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116420</code_ogr>
+<libelle>Logiciel de cr&#0233;ation et d&#0039;analyse de questionnaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115836</code_ogr>
+<libelle>Logiciel de conception et analyse d&#0039;enqu&#0234;te</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124882</code_ogr>
+<libelle>Tester la qualit&#0233; de produits ou de services</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123368</code_ogr>
+<libelle>Analyser les r&#0233;sultats d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102226</code_ogr>
+<libelle>Normes r&#0233;dactionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123029</code_ogr>
+<libelle>Evaluer l&#0039;op&#0233;rationnalit&#0233; de questionnaires, de grilles avant le lancement d&#0039;une enqu&#0234;te</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115483</code_ogr>
+<libelle>Sensibiliser les passants &#0224; une cause humanitaire ou de sant&#0233; publique et solliciter leurs dons</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1408</code_rome_cible>
+<libelle_rome_cible>T&#0233;l&#0233;conseil et t&#0233;l&#0233;vente</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1501</code_rome_cible>
+<libelle_rome_cible>Animation de vente</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>10659</code_appellation_source>
+<libelle_appellation_source>Agent / Agente d&#0039;enqu&#0234;tes</libelle_appellation_source>
+<code_appellation_source>10753</code_appellation_source>
+<libelle_appellation_source>Agent recenseur / Agente recenseuse</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1601</code_rome_cible>
+<libelle_rome_cible>Accueil et renseignements</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1606</code_rome_cible>
+<libelle_rome_cible>Saisie de donn&#0233;es</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1401</code_rome_cible>
+<libelle_rome_cible>Assistanat commercial</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>19787</code_appellation_cible>
+<libelle_appellation_cible>Technicien / Technicienne de la vente par correspondance</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1101</code_rome_cible>
+<libelle_rome_cible>Animation de site multim&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>20310</code_appellation_source>
+<libelle_appellation_source>Testeur / Testeuse de produits de consommation</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1505</code_rome_cible>
+<libelle_rome_cible>Intervention technique en formulation et analyse sensorielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13921</code_appellation_cible>
+<libelle_appellation_cible>D&#0233;gustateur / D&#0233;gustatrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1205</code_rome_cible>
+<libelle_rome_cible>Information sociale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>10373</code_appellation_cible>
+<libelle_appellation_cible>Agent / Agente d&#0039;accueil et d&#0039;information sociale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1404</code_rome_cible>
+<libelle_rome_cible>Management et gestion d&#0039;enqu&#0234;tes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

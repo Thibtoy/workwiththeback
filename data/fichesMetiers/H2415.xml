@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2415</code_rome>
+<intitule>Contr&#0244;le en industrie du cuir et du textile</intitule>
+<code_ogr>261</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="33">
+<item_app>
+<code_ogr>12652</code_ogr>
+<libelle>Classeur / Classeuse de cuirs et peaux</libelle>
+<libelle_court>Classeur / Classeuse de cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13592</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse de bobines en industrie textile</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse de bobines en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13622</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse des industries de l&#0039;habillement</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse des industries de l&#0039;habillement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13632</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse en bonneterie</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse en bonneterie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13633</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse en cours de fabrication des industries de mat&#0233;riaux souples</libelle>
+<libelle_court>Contr&#0244;leur(se) fabrication des industries mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13646</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse qualit&#0233; des tissus au m&#0232;tre</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse qualit&#0233; des tissus au m&#0232;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14867</code_ogr>
+<libelle>Eplucheur visiteur / Eplucheuse visiteuse des industries des mat&#0233;riaux souples</libelle>
+<libelle_court>Eplucheur(se) visiteur(se) industries des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16632</code_ogr>
+<libelle>Mesureur visiteur / Mesureuse visiteuse des industries textiles</libelle>
+<libelle_court>Mesureur(se) visiteur(se) des industries textiles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17834</code_ogr>
+<libelle>Plieur / Plieuse en dentelle</libelle>
+<libelle_court>Plieur / Plieuse en dentelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18315</code_ogr>
+<libelle>R&#0233;ceptionnaire cuirs et peaux</libelle>
+<libelle_court>R&#0233;ceptionnaire cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20444</code_ogr>
+<libelle>Trieur / Trieuse de cuirs et peaux</libelle>
+<libelle_court>Trieur / Trieuse de cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20448</code_ogr>
+<libelle>Trieur / Trieuse de peaux en brut</libelle>
+<libelle_court>Trieur / Trieuse de peaux en brut</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20455</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de cuirs et peaux</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de cuirs et peaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20456</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de fourrures</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de fourrures</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20457</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de peaux en wet-blue</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de peaux en wet-blue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20458</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de peaux finies</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de peaux finies</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20459</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de peaux lain&#0233;es</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de peaux lain&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20460</code_ogr>
+<libelle>Trieur-classeur / Trieuse-classeuse de peaux sur stain</libelle>
+<libelle_court>Trieur-classeur / Trieuse-classeuse de peaux sur stain</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20463</code_ogr>
+<libelle>Trieur-r&#0233;ceptionnaire / Trieuse-r&#0233;ceptionnaire en tannerie-m&#0233;gisserie</libelle>
+<libelle_court>Trieur(se)-r&#0233;ceptionnaire en tannerie-m&#0233;gisserie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20656</code_ogr>
+<libelle>V&#0233;rificateur / V&#0233;rificatrice en textile</libelle>
+<libelle_court>V&#0233;rificateur / V&#0233;rificatrice en textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20692</code_ogr>
+<libelle>Visiteur / Visiteuse de fil en industrie textile</libelle>
+<libelle_court>Visiteur / Visiteuse de fil en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20694</code_ogr>
+<libelle>Visiteur / Visiteuse en bonneterie</libelle>
+<libelle_court>Visiteur / Visiteuse en bonneterie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20695</code_ogr>
+<libelle>Visiteur / Visiteuse en dentelle</libelle>
+<libelle_court>Visiteur / Visiteuse en dentelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20696</code_ogr>
+<libelle>Visiteur / Visiteuse en &#0233;cru</libelle>
+<libelle_court>Visiteur / Visiteuse en &#0233;cru</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20698</code_ogr>
+<libelle>Visiteur / Visiteuse en produits finis de bonneterie</libelle>
+<libelle_court>Visiteur / Visiteuse en produits finis de bonneterie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20699</code_ogr>
+<libelle>Visiteur / Visiteuse en teinturerie</libelle>
+<libelle_court>Visiteur / Visiteuse en teinturerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20700</code_ogr>
+<libelle>Visiteur / Visiteuse en tissage</libelle>
+<libelle_court>Visiteur / Visiteuse en tissage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20701</code_ogr>
+<libelle>Visiteur / Visiteuse en tissu</libelle>
+<libelle_court>Visiteur / Visiteuse en tissu</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20707</code_ogr>
+<libelle>Visiteur / Visiteuse r&#0233;ceptionnaire d&#0039;&#0233;toffes</libelle>
+<libelle_court>Visiteur / Visiteuse r&#0233;ceptionnaire d&#0039;&#0233;toffes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20693</code_ogr>
+<libelle>Visiteur d&#0233;tacheur / Visiteuse d&#0233;tacheuse en industrie des mat&#0233;riaux souples</libelle>
+<libelle_court>Visiteur(se)d&#0233;tacheur(se) en ind des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20708</code_ogr>
+<libelle>Visiteur-app&#0233;reur / Visiteuse-app&#0233;reuse en industrie des mat&#0233;riaux souples</libelle>
+<libelle_court>Visiteur(se)-app&#0233;reur(se) en industrie des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20709</code_ogr>
+<libelle>Visiteur-contr&#0244;leur / Visiteuse-contr&#0244;leuse des industries des mat&#0233;riaux souples</libelle>
+<libelle_court>Visiteur(se)-contr&#0244;leur(se) des inds des mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20710</code_ogr>
+<libelle>Visiteur-contr&#0244;leur / Visiteuse-contr&#0244;leuse en produits finis des industries de mat&#0233;riaux souples</libelle>
+<libelle_court>Visiteur(se)-contr&#0244;leur(se) industries de mat&#0233;riaux souples</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Contr&#0244;le la conformit&#0233; d&#0039;aspect de produits des industries des mat&#0233;riaux souples (peaux, fil, tissu, habillement, maroquinerie, chaussures, ...), en cours ou en fin de production, les trie et les affecte en premier choix, retraitement, rebut, ... selon les imp&#0233;ratifs de qualit&#0233;.
+Peut &#0233;valuer les conditions de remise en conformit&#0233;, effectuer des op&#0233;rations de r&#0233;paration des articles ou les conditionner.
+Peut effectuer des tests chimiques sur les produits.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle.
+Une exp&#0233;rience en production textile (filature, tannage, impression textile, confection textile, maroquinerie, ...) en facilite l&#0039;acc&#0232;s.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de traitement (ennoblissement, tannerie...), de fabrication (filature, tissage, tricotage, maroquinerie, ...), de commerce de gros, de n&#0233;goce, ... de produits textiles, cuirs ou autres mat&#0233;riaux souples.
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s.
+L&#0039;activit&#0233; s&#0039;effectue en salle de contr&#0244;le, sur cha&#0238;ne de production ou en atelier.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24003</code_ogr>
+<libelle>Manufacture</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23426</code_ogr>
+<libelle>Bonneterie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23428</code_ogr>
+<libelle>Broderie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23435</code_ogr>
+<libelle>Chaussure</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23444</code_ogr>
+<libelle>Commerce de gros</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23450</code_ogr>
+<libelle>Confection textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23460</code_ogr>
+<libelle>Dentelle</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23481</code_ogr>
+<libelle>Ennoblissement textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23499</code_ogr>
+<libelle>Filature</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23550</code_ogr>
+<libelle>Maroquinerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23632</code_ogr>
+<libelle>Sellerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23646</code_ogr>
+<libelle>Tannerie, m&#0233;gisserie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23651</code_ogr>
+<libelle>Tissage</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>121951</code_ogr>
+<libelle>Approvisionner des engins d&#0039;exploitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117367</code_ogr>
+<libelle>R&#0233;ceptionner les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105596</code_ogr>
+<libelle>D&#0233;tecter les d&#0233;fauts d&#0039;aspect des produits et articles et les localiser par des indicateurs (pastilles, sonnettes, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105597</code_ogr>
+<libelle>Trier les produits/articles par cat&#0233;gorie de choix, type de d&#0233;classement (rebut, destruction, ...) ou cat&#0233;gorie d&#0039;intervention (retouche, remise &#0224; teinte, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124084</code_ogr>
+<libelle>Identifier un produit par marquage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117468</code_ogr>
+<libelle>R&#0233;aliser la mise en rayon</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121755</code_ogr>
+<libelle>Consigner des donn&#0233;es d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119346</code_ogr>
+<libelle>Rep&#0233;rer les anomalies, les d&#0233;fauts de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>105600</code_ogr>
+<libelle>Utilisation de table de visite lumineuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105331</code_ogr>
+<libelle>Distinction de couleurs (r&#0233;gularit&#0233;, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119339</code_ogr>
+<libelle>Appr&#0233;ciation sensorielle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122884</code_ogr>
+<libelle>Proc&#0233;dures de test chimique ou thermique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105602</code_ogr>
+<libelle>Proc&#0233;dure de test m&#0233;canique dynamique (ouverture de fermoir)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105601</code_ogr>
+<libelle>Proc&#0233;dure de test m&#0233;canique statique (r&#0233;sistance de couture, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100290</code_ogr>
+<libelle>Modalit&#0233;s de stockage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105604</code_ogr>
+<libelle>Proc&#0233;dure de r&#0233;glage des machines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="10">
+<item_as>
+<code_ogr>105605</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des articles chaussants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105606</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des articles de confection textile</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105607</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des articles de ganterie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105608</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des dentelles, passementeries, tulles, broderies</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105609</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des fils</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105610</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des textiles imprim&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105611</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des tissus cha&#0238;ne et trame</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105612</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des tissus maille</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105613</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des articles de maroquinerie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105614</code_ogr>
+<libelle>D&#0233;tecter des d&#0233;fauts sur des peaux, cuirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100820</code_ogr>
+<libelle>Caract&#0233;ristiques des cuirs et peaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101119</code_ogr>
+<libelle>Caract&#0233;ristiques des tissus et mati&#0232;res textiles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>105615</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de bobinage/d&#0233;bobinage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105616</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de coupes de parties d&#0233;fectueuses (tissu ab&#0238;m&#0233;, pattes, flancs, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105617</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de d&#0233;tachage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105618</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de pose d&#0039;&#0233;l&#0233;ments de renfort (collage, thermocollage, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105619</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de r&#0233;fection de motifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105620</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de raccommodage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105621</code_ogr>
+<libelle>Proc&#0233;der &#0224; des actions correctives ou des r&#0233;parations de remise &#0224; teinte (tranches d&#0039;articles de maroquinerie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>105623</code_ogr>
+<libelle>Utilisation de bobineuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105624</code_ogr>
+<libelle>Utilisation de thermocolleuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100753</code_ogr>
+<libelle>Couture manuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101171</code_ogr>
+<libelle>Utilisation de machine &#0224; coudre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114734</code_ogr>
+<libelle>Pr&#0233;lever des &#0233;chantillons de fil, tissu, ... en vue du contr&#0244;le de conformit&#0233; de couleur, texture, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114733</code_ogr>
+<libelle>Evaluer la faisabilit&#0233; technique et &#0233;conomique de la remise en conformit&#0233; d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114713</code_ogr>
+<libelle>D&#0233;terminer l&#0039;affectation de peaux, cuirs selon l&#0039;usage, les commandes clients, la destination des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>105625</code_ogr>
+<libelle>Utilisation de visiteuse enrouleuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101095</code_ogr>
+<libelle>Prise de mesures</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105626</code_ogr>
+<libelle>Utilisation de visiteuse plieuse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="5">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2410</code_rome_cible>
+<libelle_rome_cible>Mise en forme, repassage et finitions en industrie textile</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2413</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;paration de fils, montage de m&#0233;tiers textiles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2414</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;paration et finition d&#0039;articles en cuir et mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3302</code_rome_cible>
+<libelle_rome_cible>Op&#0233;rations manuelles d&#0039;assemblage, tri ou emballage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2304</code_rome_cible>
+<libelle_rome_cible>Revalorisation de produits industriels</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20445</code_appellation_cible>
+<libelle_appellation_cible>Trieur / Trieuse de linges</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1212</code_rome_cible>
+<libelle_rome_cible>Vente en d&#0233;coration et &#0233;quipement du foyer</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20630</code_appellation_cible>
+<libelle_appellation_cible>Vendeur / Vendeuse en tissus</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1213</code_rome_cible>
+<libelle_rome_cible>Vente en gros de mat&#0233;riel et &#0233;quipement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1214</code_rome_cible>
+<libelle_rome_cible>Vente en habillement et accessoires de la personne</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1503</code_rome_cible>
+<libelle_rome_cible>Intervention technique en laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>17106</code_appellation_cible>
+<libelle_appellation_cible>Op&#0233;rateur / Op&#0233;ratrice de laboratoire d&#0039;analyse industrielle</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

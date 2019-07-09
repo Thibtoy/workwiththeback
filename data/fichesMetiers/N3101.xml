@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>N3101</code_rome>
+<intitule>Encadrement de la navigation maritime</intitule>
+<code_ogr>517</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="24">
+<item_app>
+<code_ogr>11670</code_ogr>
+<libelle>Capitaine de port</libelle>
+<libelle_court>Capitaine de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11671</code_ogr>
+<libelle>Capitaine de remorqueur</libelle>
+<libelle_court>Capitaine de remorqueur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11672</code_ogr>
+<libelle>Capitaine de yacht</libelle>
+<libelle_court>Capitaine de yacht</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11673</code_ogr>
+<libelle>Capitaine marine marchande</libelle>
+<libelle_court>Capitaine marine marchande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12579</code_ogr>
+<libelle>Chef m&#0233;canicien / m&#0233;canicienne marine</libelle>
+<libelle_court>Chef m&#0233;canicien / m&#0233;canicienne marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12732</code_ogr>
+<libelle>Commandant / Commandante de navire</libelle>
+<libelle_court>Commandant / Commandante de navire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12735</code_ogr>
+<libelle>Commandant / Commandante de port</libelle>
+<libelle_court>Commandant / Commandante de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12737</code_ogr>
+<libelle>Commandant / Commandante marine</libelle>
+<libelle_court>Commandant / Commandante marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12770</code_ogr>
+<libelle>Commissaire de bord marine</libelle>
+<libelle_court>Commissaire de bord marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16186</code_ogr>
+<libelle>Lieutenant / Lieutenante chef de quart</libelle>
+<libelle_court>Lieutenant / Lieutenante chef de quart</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38518</code_ogr>
+<libelle>Lieutenant / Lieutenante chef de quart de la marine nationale</libelle>
+<libelle_court>Lieutenant(e) chef de quart de la marine nationale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16189</code_ogr>
+<libelle>Lieutenant / Lieutenante de port</libelle>
+<libelle_court>Lieutenant / Lieutenante de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16190</code_ogr>
+<libelle>Lieutenant / Lieutenante marine</libelle>
+<libelle_court>Lieutenant / Lieutenante marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17018</code_ogr>
+<libelle>Officier / Offici&#0232;re de la marine marchande</libelle>
+<libelle_court>Officier / Offici&#0232;re de la marine marchande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17023</code_ogr>
+<libelle>Officier / Offici&#0232;re de port</libelle>
+<libelle_court>Officier / Offici&#0232;re de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17024</code_ogr>
+<libelle>Officier / Offici&#0232;re de vigie de port</libelle>
+<libelle_court>Officier / Offici&#0232;re de vigie de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17029</code_ogr>
+<libelle>Officier / Offici&#0232;re machine de la marine marchande</libelle>
+<libelle_court>Officier / Offici&#0232;re machine de la marine marchande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17038</code_ogr>
+<libelle>Officier / Offici&#0232;re pont de la marine marchande</libelle>
+<libelle_court>Officier / Offici&#0232;re pont de la marine marchande</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17036</code_ogr>
+<libelle>Officier polyvalent / Offici&#0232;re polyvalente de la marine</libelle>
+<libelle_court>Officier polyvalent / Offici&#0232;re polyvalente de la marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17584</code_ogr>
+<libelle>Patron / Patronne Plaisance Moteur -PPM-</libelle>
+<libelle_court>Patron / Patronne Plaisance Moteur -PPM-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17585</code_ogr>
+<libelle>Patron / Patronne Plaisance Voile -PPV-</libelle>
+<libelle_court>Patron / Patronne Plaisance Voile -PPV-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17753</code_ogr>
+<libelle>Pilote de port</libelle>
+<libelle_court>Pilote de port</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17779</code_ogr>
+<libelle>Pilote hauturier / hauturi&#0232;re</libelle>
+<libelle_court>Pilote hauturier / hauturi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19353</code_ogr>
+<libelle>Second / Seconde capitaine marine</libelle>
+<libelle_court>Second / Seconde capitaine marine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Supervise et coordonne les activit&#0233;s d&#0039;un navire de transport de passagers (paquebot, ferry, Navire &#0224; Grande Vitesse -NGV-, ...) ou de marchandises (cargo, porte-conteneur, min&#0233;ralier, p&#0233;trolier, ...), selon la r&#0233;glementation de la navigation maritime et les r&#0232;gles de s&#0233;curit&#0233; des biens et des personnes.
+R&#0233;alise tout ou partie des op&#0233;rations de conduite de navire (manoeuvres d&#0039;appareillage/accostage, itin&#0233;raires, gestion de la propulsion, s&#0233;curit&#0233;, &#0233;nergie du navire, ...).
+Peut effectuer le pilotage portuaire, l&#0039;administration maritime ou diff&#0233;rentes activit&#0233;s para-maritimes (expertises, ...).
+Peut diriger un &#0233;quipage.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="7">
+Cet emploi/m&#0233;tier est accessible avec un Brevet d&#0039;Officier de Chef de Quart de Navire de Mer, obtenu sur concours avec un Bac ou sur dossier avec un Bac+2 scientifique ou professionnel, compl&#0233;t&#0233; par une formation th&#0233;orique (3 ans) et pratique (12 mois).
+Son acc&#0232;s dans l&#0039;arm&#0233;e (&#0201;cole navale) s&#0039;effectue sur concours &#0224; partir d&#0039;un Bac+2 scientifique (Classes Pr&#0233;paratoires aux Grandes Ecoles -CPGE-, ...), compl&#0233;t&#0233; par une formation th&#0233;orique et pratique de plusieurs ann&#0233;es.
+Le Dipl&#0244;me d&#0039;Etudes Sup&#0233;rieures de la Marine Marchande -DESMM-, le brevet de Capitaine de 2&#0232;me classe de la Navigation Marchande -C2NM- ou le brevet de Capitaine de 1&#0232;re classe de la Navigation Marchande -C1NM- sont requis pour les fonctions de capitaine.
+La possession d&#0039;un titre de la navigation de commerce (brevet de capitaine c&#0244;tier, brevet de chef de quart de navigation c&#0244;ti&#0232;re, brevet de patron de petite navigation) est obligatoire pour la fili&#0232;re navigation c&#0244;ti&#0232;re et petits navires. Une mention sp&#0233;cifique est demand&#0233;e pour capitaine de yacht.
+La possession du brevet de plaisance voile (PPV) est obligatoire pour commander &#0224; titre professionnel un navire &#0224; voile de plus de 25 m ou pour des navires &#0224; utilisation collective (NUC).
+Le renouvellement annuel de l&#0039;aptitude m&#0233;dicale, d&#0233;livr&#0233;e par un m&#0233;decin des Gens de Mer, est obligatoire.
+La pratique de l&#0039;anglais est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de transport maritime de passagers, de marchandises, d&#0039;activit&#0233;s portuaires, d&#0039;activit&#0233;s maritimes sp&#0233;cialis&#0233;es (recherche oc&#0233;anographique, avitaillement offshore,...), de la d&#0233;fense nationale (arm&#0233;e de l&#0039;air, de terre, marine, gendarmerie), de soci&#0233;t&#0233;s d&#0039;assistance en mer, d&#0039;expertise maritime.
+Elle s&#0039;organise en liaison avec une &#0233;quipe souvent internationale et en contact avec de multiples intervenants (armateurs, autorit&#0233;s maritimes, consignataires, entreprises de manutention portuaire, ...). Elle implique un &#0233;loignement du domicile de plusieurs jours ou mois.
+Elle varie selon le type de navire (porte-conteneur, p&#0233;trolier, remorqueur, ...) et de navigation (portuaire, cabotage, au long cours, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit, en quart (4 heures de service suivies de 8 heures de repos).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23745</code_ogr>
+<libelle>Cabinet d&#0039;expertise maritime</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23895</code_ogr>
+<libelle>Entreprise de transport maritime de marchandises</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23896</code_ogr>
+<libelle>Entreprise de transport maritime de personnes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24076</code_ogr>
+<libelle>Site portuaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23387</code_ogr>
+<libelle>Activit&#0233;s maritimes sp&#0233;cialis&#0233;es (recherche, avitaillement off shore,...)</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23548</code_ogr>
+<libelle>Marine Nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23629</code_ogr>
+<libelle>Secours et assistance &#0224; personnes</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>110312</code_ogr>
+<libelle>Recueillir les donn&#0233;es techniques de la travers&#0233;e (horaires, distances, m&#0233;t&#0233;o, ...) et &#0233;laborer la feuille de route</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110313</code_ogr>
+<libelle>Coordonner la conduite du navire durant la travers&#0233;e et mettre en place les mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123911</code_ogr>
+<libelle>Planifier l&#0039;activit&#0233; d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124169</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement d&#0039;un &#0233;quipement de s&#0233;curit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119849</code_ogr>
+<libelle>Charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119848</code_ogr>
+<libelle>D&#0233;charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125310</code_ogr>
+<libelle>Planifier une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125311</code_ogr>
+<libelle>Superviser une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>110238</code_ogr>
+<libelle>Consigner les &#0233;l&#0233;ments d&#0039;activit&#0233; (dysfonctionnement, infraction, incident) sur les supports techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>104084</code_ogr>
+<libelle>R&#0233;glementation du transport de marchandises</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104150</code_ogr>
+<libelle>Techniques de planification</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110319</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; &#0224; bord des navires (personnes et marchandises)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100248</code_ogr>
+<libelle>Droit maritime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110318</code_ogr>
+<libelle>Utilisation d&#0039;outils de contr&#0244;le de maintenance (capteur, d&#0233;tecteur, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119056</code_ogr>
+<libelle>Logiciel professionnel de transport maritime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120372</code_ogr>
+<libelle>Utilisation de mat&#0233;riel de navigation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>110320</code_ogr>
+<libelle>R&#0233;glementation portuaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>120466</code_ogr>
+<libelle>Commander un navire n&#0233;cessitant une qualification ou une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>110381</code_ogr>
+<libelle>Effectuer une navigation n&#0233;cessitant une attestation de formation &#0224; la s&#0233;curit&#0233; des navires rouliers &#0224; passagers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110380</code_ogr>
+<libelle>Effectuer une navigation n&#0233;cessitant un brevet d&#0039;aptitude &#0224; l&#0039;exploitation des canots de secours rapides</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110379</code_ogr>
+<libelle>Effectuer une navigation n&#0233;cessitant un certificat de formation de base &#0224; la s&#0233;curit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="21">
+<item_as_stp>
+<code_ogr>120476</code_ogr>
+<libelle>Navire cablier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120480</code_ogr>
+<libelle>Navire chimiquier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120461</code_ogr>
+<libelle>Navire de la D&#0233;fense Nationale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120465</code_ogr>
+<libelle>Navire gazier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120457</code_ogr>
+<libelle>Navire de grande plaisance</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120460</code_ogr>
+<libelle>Navire min&#0233;ralier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120455</code_ogr>
+<libelle>Navire &#0224; Grande Vitesse (NGV)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120456</code_ogr>
+<libelle>Navire &#0224; utilisation collective (NUC)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120470</code_ogr>
+<libelle>Navire de croisi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120462</code_ogr>
+<libelle>Navire de ravitaillement off-shore</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120459</code_ogr>
+<libelle>Navire de recherche oc&#0233;anographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120464</code_ogr>
+<libelle>Navire de travaux off-shore</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120458</code_ogr>
+<libelle>Navire frigorifique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120478</code_ogr>
+<libelle>Navire roulier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120468</code_ogr>
+<libelle>Navire p&#0233;trolier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120463</code_ogr>
+<libelle>Navire de plaisance professionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120473</code_ogr>
+<libelle>Navire porte-conteneur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120475</code_ogr>
+<libelle>Navire remorqueur de haute mer</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120469</code_ogr>
+<libelle>Navire remorqueur portuaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120477</code_ogr>
+<libelle>Navire Transbordeur (car ferry)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120479</code_ogr>
+<libelle>Navire vraquier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>110369</code_ogr>
+<libelle>R&#0233;aliser une navigation maritime au cabotage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119844</code_ogr>
+<libelle>R&#0233;aliser une navigation maritime au long court</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119845</code_ogr>
+<libelle>R&#0233;aliser une navigation maritime en zone portuaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>110351</code_ogr>
+<libelle>Convoyer un navire &#0224; moteur (plaisance ou commerce)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110352</code_ogr>
+<libelle>Convoyer un navire de plaisance &#0224; voile</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124900</code_ogr>
+<libelle>Participer &#0224; une action ou mission de sauvegarde maritime</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124899</code_ogr>
+<libelle>Participer &#0224; une action ou mission de D&#0233;fense</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>124541</code_ogr>
+<libelle>Proc&#0233;dures de d&#0233;pollution</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>110355</code_ogr>
+<libelle>Intervenir sur des syst&#0232;mes de propulsion et de production d&#0039;&#0233;nergie classiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>110356</code_ogr>
+<libelle>Intervenir sur des syst&#0232;mes de propulsion et de production d&#0039;&#0233;nergie nucl&#0233;aires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>101449</code_ogr>
+<libelle>R&#0233;glementation s&#0233;curit&#0233; incendie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>106945</code_ogr>
+<libelle>Radioprotection</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115603</code_ogr>
+<libelle>Superviser ou diriger des manoeuvres en phase d&#0233;licate (approche pilotage, appareillage/accostage, remorquage, assistance en mer, avaries, ...) en mer ou dans un domaine portuaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>110358</code_ogr>
+<libelle>Techniques de remorquage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115604</code_ogr>
+<libelle>Superviser des op&#0233;rations de conduite de machines et coordonner le service technique d&#0039;un navire (syst&#0232;me de propulsion, production d&#0039;&#0233;nergie, auxiliaires, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>109395</code_ogr>
+<libelle>Suivre un budget</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119000</code_ogr>
+<libelle>Gestion des stocks et des approvisionnements</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115606</code_ogr>
+<libelle>Superviser et coordonner les op&#0233;rations de surveillance d&#0039;un site portuaire (protection incendie, plan d&#0039;urgence, ...) et &#0233;laborer des plans d&#0039;urgence d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100246</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; maritime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1406</code_rome_cible>
+<libelle_rome_cible>Encadrement &#0233;quipage de la p&#0234;che</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N3201</code_rome_cible>
+<libelle_rome_cible>Exploitation des op&#0233;rations portuaires et du transport maritime</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N3202</code_rome_cible>
+<libelle_rome_cible>Exploitation du transport fluvial</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>12579</code_appellation_source>
+<libelle_appellation_source>Chef m&#0233;canicien / m&#0233;canicienne marine</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1102</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie de maintenance industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15144</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice technique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13539</code_appellation_cible>
+<libelle_appellation_cible>Consultant / Consultante en strat&#0233;gie/organisation</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1201</code_rome>
+<intitule>Danse</intitule>
+<code_ogr>438</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="17">
+<item_app>
+<code_ogr>11153</code_ogr>
+<libelle>Artiste chor&#0233;graphique</libelle>
+<libelle_court>Artiste chor&#0233;graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11276</code_ogr>
+<libelle>Assistant / Assistante du chor&#0233;graphe</libelle>
+<libelle_court>Assistant / Assistante du chor&#0233;graphe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12632</code_ogr>
+<libelle>Chor&#0233;graphe</libelle>
+<libelle_court>Chor&#0233;graphe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13885</code_ogr>
+<libelle>Danseur / Danseuse</libelle>
+<libelle_court>Danseur / Danseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38248</code_ogr>
+<libelle>Danseur / Danseuse danse classique</libelle>
+<libelle_court>Danseur / Danseuse danse classique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38249</code_ogr>
+<libelle>Danseur / Danseuse danse contemporaine</libelle>
+<libelle_court>Danseur / Danseuse danse contemporaine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38250</code_ogr>
+<libelle>Danseur / Danseuse danses de vari&#0233;t&#0233;s</libelle>
+<libelle_court>Danseur / Danseuse danses de vari&#0233;t&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38251</code_ogr>
+<libelle>Danseur / Danseuse danses ethniques et traditionnelles</libelle>
+<libelle_court>Danseur / Danseuse danses ethniques et traditionnelles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38252</code_ogr>
+<libelle>Danseur / Danseuse danses urbaines, hip-hop</libelle>
+<libelle_court>Danseur / Danseuse danses urbaines, hip-hop</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38253</code_ogr>
+<libelle>Danseur / Danseuse de revue, music hall, com&#0233;die musicale</libelle>
+<libelle_court>Danseur / Danseuse de revue, music hall, com&#0233;die musicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38254</code_ogr>
+<libelle>Danseur / Danseuse jazz, modern jazz</libelle>
+<libelle_court>Danseur / Danseuse jazz, modern jazz</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14189</code_ogr>
+<libelle>Directeur / Directrice artistique en danse</libelle>
+<libelle_court>Directeur / Directrice artistique en danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15380</code_ogr>
+<libelle>Gogo dancer</libelle>
+<libelle_court>Gogo dancer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16297</code_ogr>
+<libelle>Ma&#0238;tre / Ma&#0238;tresse de ballet</libelle>
+<libelle_court>Ma&#0238;tre / Ma&#0238;tresse de ballet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16996</code_ogr>
+<libelle>Notateur / Notatrice en danse</libelle>
+<libelle_court>Notateur / Notatrice en danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18547</code_ogr>
+<libelle>R&#0233;p&#0233;titeur / R&#0233;p&#0233;titrice de ballet</libelle>
+<libelle_court>R&#0233;p&#0233;titeur / R&#0233;p&#0233;titrice de ballet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38255</code_ogr>
+<libelle>Strip-teaseur / Strip-teaseuse</libelle>
+<libelle_court>Strip-teaseur / Strip-teaseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Con&#0231;oit et/ou interpr&#0232;te des oeuvres chor&#0233;graphiques (ballet classique, chor&#0233;graphie contemporaine, ...), selon le projet artistique d&#0233;fini par une &#0233;cole, une compagnie de danse et les imp&#0233;ratifs de programmation.
+Peut effectuer la notation d&#0039;une chor&#0233;graphie.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec une formation en danse (conservatoires de musique et de danse, &#0233;coles de danse, ...) compl&#0233;t&#0233;e par une exp&#0233;rience professionnelle dans un ou plusieurs genres chor&#0233;graphiques.
+Un apprentissage d&#0232;s le plus jeune &#0226;ge associ&#0233; &#0224; une pratique r&#0233;guli&#0232;re de la danse est indispensable.
+Les recrutements sont ouverts sur contrats de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, parfois sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e pour les structures permanentes (ballets, compagnies, ...).
+Des d&#0233;marches actives sont n&#0233;cessaires pour l&#0039;obtention de contrats.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;&#0233;coles, de compagnies, de conservatoires de danse, sur des lieux de spectacle (th&#0233;&#0226;tre, cabaret, ...), de tournage (plateau de t&#0233;l&#0233;vision, ...), en relation avec des chor&#0233;graphes, des ma&#0238;tres de ballet, des directeurs artistiques.
+Elle peut impliquer des d&#0233;placements (tourn&#0233;es, tournages, ...) et un &#0233;loignement du domicile de plusieurs jours ou mois.
+L&#0039;activit&#0233; est soumise au rythme de la programmation des r&#0233;p&#0233;titions et des spectacles.
+La r&#0233;mun&#0233;ration est constitu&#0233;e d&#0039;un cachet ou d&#0039;un fixe mensuel.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23708</code_ogr>
+<libelle>Association culturelle ou de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23737</code_ogr>
+<libelle>Cabaret</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23854</code_ogr>
+<libelle>Ecole d&#0039;enseignement artistique et conservatoire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="5">
+<item_ab>
+<code_ogr>125078</code_ogr>
+<libelle>Monter en sc&#0232;ne une chor&#0233;graphie dans ses aspects artistiques, esth&#0233;tiques et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125076</code_ogr>
+<libelle>Concevoir une chor&#0233;graphie dans ses aspects artistiques, esth&#0233;tiques et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125225</code_ogr>
+<libelle>D&#0233;finir les conditions de r&#0233;alisation d&#0039;une repr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124699</code_ogr>
+<libelle>Encha&#0238;ner les exercices d&#0039;&#0233;chauffement et d&#0039;apprentissage de la danse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117934</code_ogr>
+<libelle>Interpr&#0233;ter une oeuvre chor&#0233;graphique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="8">
+<item_ab_stp>
+<code_ogr>107554</code_ogr>
+<libelle>Techniques respiratoires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102481</code_ogr>
+<libelle>Techniques de m&#0233;morisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108960</code_ogr>
+<libelle>Techniques d&#0039;interpr&#0233;tation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108957</code_ogr>
+<libelle>Principes de mise en sc&#0232;ne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108930</code_ogr>
+<libelle>Appropriation d&#0039;espace sc&#0233;nique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108955</code_ogr>
+<libelle>R&#0233;pertoire chor&#0233;graphique classique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108956</code_ogr>
+<libelle>R&#0233;pertoire chor&#0233;graphique contemporain</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="4">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126532</code_ogr>
+<libelle>Interpr&#0233;ter une oeuvre chor&#0233;graphique sp&#0233;cifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="12">
+<item_as_stp>
+<code_ogr>124001</code_ogr>
+<libelle>Danse de revue, cabaret</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117936</code_ogr>
+<libelle>Com&#0233;die musicale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123999</code_ogr>
+<libelle>Danse classique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124000</code_ogr>
+<libelle>Danse contemporaine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124002</code_ogr>
+<libelle>Danse jazz, modern&#0039;jazz</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124004</code_ogr>
+<libelle>Danses de salon</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124005</code_ogr>
+<libelle>Danses ethniques et traditionnelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124006</code_ogr>
+<libelle>Danses urbaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124008</code_ogr>
+<libelle>Techniques de strip-tease</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108417</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres classiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108418</code_ogr>
+<libelle>R&#0233;pertoire d&#0039;oeuvres contemporaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124016</code_ogr>
+<libelle>Pratique du chant</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113759</code_ogr>
+<libelle>D&#0233;composer les encha&#0238;nements, les mouvements d&#0039;une chor&#0233;graphie et mener les r&#0233;p&#0233;titions des danseurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125219</code_ogr>
+<libelle>&#0201;crire des partitions de danse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>123998</code_ogr>
+<libelle>Notation Laban</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123997</code_ogr>
+<libelle>Notation Benesh</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125670</code_ogr>
+<libelle>Proc&#0233;der &#0224; la pr&#0233;paration d&#0039;un &#0233;v&#0232;nement artistique (coiffure, maquillage, costume)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102199</code_ogr>
+<libelle>Techniques de maquillage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108923</code_ogr>
+<libelle>Techniques de coiffage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1204</code_rome_cible>
+<libelle_rome_cible>&#0201;ducation en activit&#0233;s sportives</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11067</code_appellation_cible>
+<libelle_appellation_cible>Animateur sportif / Animatrice sportive</libelle_appellation_cible>
+<code_appellation_cible>12677</code_appellation_cible>
+<libelle_appellation_cible>Coach sportif</libelle_appellation_cible>
+<code_appellation_cible>13480</code_appellation_cible>
+<libelle_appellation_cible>Conseiller sportif / Conseill&#0232;re sportive</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2103</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;&#0233;tablissement et d&#0039;enseignement</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14246</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice de conservatoire musique et danse</libelle_appellation_cible>
+<code_appellation_cible>14341</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice d&#0039;&#0233;cole de danse</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2105</code_rome_cible>
+<libelle_rome_cible>Enseignement artistique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18118</code_appellation_cible>
+<libelle_appellation_cible>Professeur / Professeure de danse</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1203</code_rome_cible>
+<libelle_rome_cible>Art dramatique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1302</code_rome_cible>
+<libelle_rome_cible>Production et administration spectacle, cin&#0233;ma et audiovisuel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

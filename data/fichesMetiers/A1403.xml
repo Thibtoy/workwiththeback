@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1403</code_rome>
+<intitule>Aide d&#0039;&#0233;levage agricole et aquacole</intitule>
+<code_ogr>17</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="19">
+<item_app>
+<code_ogr>10811</code_ogr>
+<libelle>Aide agricole en production laiti&#0232;re</libelle>
+<libelle_court>Aide agricole en production laiti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10825</code_ogr>
+<libelle>Aide de conchyliculture</libelle>
+<libelle_court>Aide de conchyliculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10829</code_ogr>
+<libelle>Aide de pisciculture</libelle>
+<libelle_court>Aide de pisciculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10832</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage aquacole</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage aquacole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10833</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage bovin</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage bovin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10834</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage caprin</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage caprin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10835</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage cunicole (lapins)</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage cunicole (lapins)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10836</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage de chevaux</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage de chevaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10837</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage en production de volaille</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage en production de volaille</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10838</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage en production laiti&#0232;re</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage en production laiti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10839</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage ostr&#0233;icole</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage ostr&#0233;icole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10840</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage ovin</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage ovin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10841</code_ogr>
+<libelle>Aide d&#0039;&#0233;levage porcin</libelle>
+<libelle_court>Aide d&#0039;&#0233;levage porcin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10898</code_ogr>
+<libelle>Aide-vacher / Aide-vach&#0232;re</libelle>
+<libelle_court>Aide-vacher / Aide-vach&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17546</code_ogr>
+<libelle>Palefrenier / Palefreni&#0232;re</libelle>
+<libelle_court>Palefrenier / Palefreni&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18280</code_ogr>
+<libelle>Ramasseur / Ramasseuse de volaille</libelle>
+<libelle_court>Ramasseur / Ramasseuse de volaille</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18282</code_ogr>
+<libelle>Ramasseur / Ramasseuse d&#0039;oeufs</libelle>
+<libelle_court>Ramasseur / Ramasseuse d&#0039;oeufs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19431</code_ogr>
+<libelle>Sexeur / Sexeuse de volailles</libelle>
+<libelle_court>Sexeur / Sexeuse de volailles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20364</code_ogr>
+<libelle>Tondeur / Tondeuse de moutons</libelle>
+<libelle_court>Tondeur / Tondeuse de moutons</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Effectue des op&#0233;rations simples d&#0039;&#0233;levage (distribution de nourriture, capture, ramassage, entretien des locaux, ...) selon les r&#0232;gles d&#0039;hygi&#0232;ne, de s&#0233;curit&#0233; et les normes environnementales.
+Peut r&#0233;aliser des op&#0233;rations de tri et de conditionnement de produits de l&#0039;&#0233;levage.
+Peut conduire un troupeau.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle.
+Les recrutements peuvent &#0234;tre ouverts sur contrat de travail saisonnier.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de structures d&#0039;&#0233;levage (ferme, manade, ...) en contact avec diff&#0233;rents intervenants (chef d&#0039;exploitation, techniciens d&#0039;&#0233;levage, v&#0233;t&#0233;rinaires, ...).
+Elle varie selon le mode d&#0039;organisation (&#0233;levage hors-sol, de plein air, ...), la taille de la structure (superficie de l&#0039;exploitation, nombre de t&#0234;tes, ...), l&#0039;esp&#0232;ce animale (bovine, &#0233;quine, ...), le type d&#0039;&#0233;levage (extensif, labellis&#0233;, ...).
+Elle peut s&#0039;exercer les fins de semaine et est soumise au rythme de vie des animaux.
+L&#0039;activit&#0233; s&#0039;effectue &#0224; l&#0039;ext&#0233;rieur ou en b&#0226;timent d&#0039;&#0233;levage et peut impliquer la manipulation de charges.
+Le port d&#0039;une tenue professionnelle (combinaison de travail, bottes, gants, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23787</code_ogr>
+<libelle>Centre &#0233;questre / Club hippique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23869</code_ogr>
+<libelle>Entreprise aquacole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23938</code_ogr>
+<libelle>Ferme d&#0039;&#0233;levage</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23956</code_ogr>
+<libelle>Haras</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24002</code_ogr>
+<libelle>Manade</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38126</code_ogr>
+<libelle>Logement assur&#0233; par l&#0039;employeur</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="6">
+<item_ab>
+<code_ogr>122572</code_ogr>
+<libelle>D&#0233;terminer les rations alimentaires selon les besoins physiques et physiologiques des animaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123075</code_ogr>
+<libelle>Regrouper des animaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122860</code_ogr>
+<libelle>R&#0233;colter le produit d&#0039;un &#0233;levage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124543</code_ogr>
+<libelle>Entretenir des locaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124335</code_ogr>
+<libelle>D&#0233;sinfecter et d&#0233;contaminer un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125255</code_ogr>
+<libelle>Entretenir les &#0233;l&#0233;ments de structure d&#0039;un b&#0226;timent (cl&#0244;tures, zone de stockage, /...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="4">
+<item_ab_stp>
+<code_ogr>100088</code_ogr>
+<libelle>Techniques d&#0039;approche et de manipulation des animaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100144</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122278</code_ogr>
+<libelle>R&#0233;glementation d&#0039;Appellation d&#0039;Origine Contr&#0244;l&#0233;e (AOC)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>123057</code_ogr>
+<libelle>Calibrer un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125403</code_ogr>
+<libelle>Conditionner un produit de la mer</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123056</code_ogr>
+<libelle>Trier des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>123092</code_ogr>
+<libelle>Conchyliologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123101</code_ogr>
+<libelle>Techniques de dessablage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123076</code_ogr>
+<libelle>Conduire un troupeau aux p&#0226;turages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126113</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de tonte et  transf&#0233;rer la laine vers la zone de stockage pour transformation et conditionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>117559</code_ogr>
+<libelle>Modalit&#0233;s de stockage de laine brute</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117558</code_ogr>
+<libelle>Techniques de tonte d&#0039;ovins</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122408</code_ogr>
+<libelle>Mat&#0233;riel de tonte animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126362</code_ogr>
+<libelle>Pr&#0233;parer la traite (regroupement et pr&#0233;paration des animaux)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100304</code_ogr>
+<libelle>Proc&#0233;dure de traite</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123522</code_ogr>
+<libelle>Conditionner un produit alimentaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="7">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1407</code_rome_cible>
+<libelle_rome_cible>&#0201;levage bovin ou &#0233;quin</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1408</code_rome_cible>
+<libelle_rome_cible>&#0201;levage d&#0039;animaux sauvages ou de compagnie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1409</code_rome_cible>
+<libelle_rome_cible>&#0201;levage de lapins et volailles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1410</code_rome_cible>
+<libelle_rome_cible>&#0201;levage ovin ou caprin</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1411</code_rome_cible>
+<libelle_rome_cible>&#0201;levage porcin</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1501</code_rome_cible>
+<libelle_rome_cible>Aide aux soins animaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1503</code_rome_cible>
+<libelle_rome_cible>Toilettage des animaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

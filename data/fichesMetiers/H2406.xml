@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H2406</code_rome>
+<intitule>Conduite de machine de traitement textile</intitule>
+<code_ogr>252</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="33">
+<item_app>
+<code_ogr>10873</code_ogr>
+<libelle>Aide-conducteur / Aide-conductrice de machine &#0224; teindre en industrie textile</libelle>
+<libelle_court>Aide-conducteur(trice) machine &#0224; teindre en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11094</code_ogr>
+<libelle>Appr&#0234;teur / Appr&#0234;teuse en industrie textile</libelle>
+<libelle_court>Appr&#0234;teur / Appr&#0234;teuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11651</code_ogr>
+<libelle>Calandreur / Calandreuse en industrie textile</libelle>
+<libelle_court>Calandreur / Calandreuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12273</code_ogr>
+<libelle>Chef de rame textile</libelle>
+<libelle_court>Chef de rame textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12629</code_ogr>
+<libelle>Chloriteur / Chloriteuse en industrie textile</libelle>
+<libelle_court>Chloriteur / Chloriteuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12630</code_ogr>
+<libelle>Chloriteur-laveur / Chloriteuse-laveuse en industrie textile</libelle>
+<libelle_court>Chloriteur-laveur / Chloriteuse-laveuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12867</code_ogr>
+<libelle>Conducteur / Conductrice d&#0039;appareils de teinture textile</libelle>
+<libelle_court>Conducteur / Conductrice d&#0039;appareils de teinture textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12875</code_ogr>
+<libelle>Conducteur / Conductrice d&#0039;autoclave de teinture en industrie textile</libelle>
+<libelle_court>Conducteur(trice) d&#0039;autoclave de teinture en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12882</code_ogr>
+<libelle>Conducteur / Conductrice de barque jet ou overflow</libelle>
+<libelle_court>Conducteur / Conductrice de barque jet ou overflow</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12955</code_ogr>
+<libelle>Conducteur / Conductrice de gratteuse en ennoblissement textile</libelle>
+<libelle_court>Conducteur(trice) de gratteuse en ennoblissement textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12970</code_ogr>
+<libelle>Conducteur / Conductrice de jigger</libelle>
+<libelle_court>Conducteur / Conductrice de jigger</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12973</code_ogr>
+<libelle>Conducteur / Conductrice de laineuses en ennoblissement textile</libelle>
+<libelle_court>Conducteur(trice) de laineuses en ennoblissement textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12987</code_ogr>
+<libelle>Conducteur / Conductrice de ligne de relaxation en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de ligne de relaxation en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13005</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; calandrer en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines &#0224; calandrer en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13007</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; exprimer en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines &#0224; exprimer en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13008</code_ogr>
+<libelle>Conducteur / Conductrice de machines &#0224; flamber en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines &#0224; flamber en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13021</code_ogr>
+<libelle>Conducteur / Conductrice de machines d&#0039;appr&#0234;t textile</libelle>
+<libelle_court>Conducteur / Conductrice de machines d&#0039;appr&#0234;t textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13022</code_ogr>
+<libelle>Conducteur / Conductrice de machines de blanchiment en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines de blanchiment en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13023</code_ogr>
+<libelle>Conducteur / Conductrice de machines de complexage en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines de complexage en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13040</code_ogr>
+<libelle>Conducteur / Conductrice de machines de teinture en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines de teinture en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13041</code_ogr>
+<libelle>Conducteur / Conductrice de machines de traitement textile</libelle>
+<libelle_court>Conducteur / Conductrice de machines de traitement textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13044</code_ogr>
+<libelle>Conducteur / Conductrice de machines d&#0039;enduction en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de machines d&#0039;enduction en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13103</code_ogr>
+<libelle>Conducteur / Conductrice de merceriseuses en industrie textile</libelle>
+<libelle_court>Conducteur/Conductrice de merceriseuses en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13104</code_ogr>
+<libelle>Conducteur / Conductrice de merceriseuses sur tissus</libelle>
+<libelle_court>Conducteur / Conductrice de merceriseuses sur tissus</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13158</code_ogr>
+<libelle>Conducteur / Conductrice de rame de s&#0233;chage en industrie textile</libelle>
+<libelle_court>Conducteur(trice) de rame de s&#0233;chage en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13175</code_ogr>
+<libelle>Conducteur / Conductrice de s&#0233;choirs en industrie textile</libelle>
+<libelle_court>Conducteur / Conductrice de s&#0233;choirs en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13199</code_ogr>
+<libelle>Conducteur / Conductrice de tondeuses en industrie textile</libelle>
+<libelle_court>Conducteur / Conductrice de tondeuses en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13557</code_ogr>
+<libelle>Contrecolleur / Contrecolleuse en industrie textile</libelle>
+<libelle_court>Contrecolleur / Contrecolleuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14827</code_ogr>
+<libelle>Enducteur / Enductrice en industrie textile</libelle>
+<libelle_court>Enducteur / Enductrice en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14828</code_ogr>
+<libelle>Enducteur impr&#0233;gnateur / Enductrice impr&#0233;gnatrice en industrie textile</libelle>
+<libelle_court>Enducteur(trice) impr&#0233;gnateur(trice) en ind textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17285</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice sur ligne d&#0039;enduction</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice sur ligne d&#0039;enduction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19304</code_ogr>
+<libelle>Sanforiseur / Sanforiseuse en industrie textile</libelle>
+<libelle_court>Sanforiseur / Sanforiseuse en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20295</code_ogr>
+<libelle>Teinturier / Teinturi&#0232;re en industrie textile</libelle>
+<libelle_court>Teinturier / Teinturi&#0232;re en industrie textile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+R&#0233;alise le blanchiment, la teinture, l&#0039;appr&#0234;t (encollage, enduction, ...) et le complexage de fils, tissus et tricots. Obtient une consistance, un toucher, une couleur, un aspect, une caract&#0233;ristique par des op&#0233;rations chimiques, m&#0233;caniques, thermiques, au moyen de machines. Intervient selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production (optimisation de la mati&#0232;re, qualit&#0233;, d&#0233;lais, ...). Guide et contr&#0244;le le passage du textile dans les &#0233;quipements (rame, ...).
+Peut r&#0233;aliser le m&#0233;lange des produits, d&#0233;terminer les ajustements et effectuer la maintenance de premier niveau des &#0233;quipements.
+Peut coordonner une &#0233;quipe d&#0039;op&#0233;rateurs (aide-conducteur, ...).
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un CAP/BEP en textile, m&#0233;canique, conduite d&#0039;installation de production par proc&#0233;d&#0233;s, ...
+Il est &#0233;galement accessible sans dipl&#0244;me ni exp&#0233;rience professionnelle.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de filature, de fabrication textile ou d&#0039;ennoblissement, en relation avec diff&#0233;rents services (coloriste, qualit&#0233;, maintenance, ...).
+Elle peut s&#0039;exercer par roulement, les fins de semaine, jours f&#0233;ri&#0233;s ou de nuit.
+L&#0039;activit&#0233; s&#0039;effectue en atelier de production et peut impliquer des efforts physiques prolong&#0233;s (va-et-vient autour des machines, intervention dans les s&#0233;choirs, ...).
+Le port d&#0039;Equipements de Protection Individuelle -EPI- (chaussures de s&#0233;curit&#0233;, gants, combinaison, ...) peut &#0234;tre requis selon les produits manipul&#0233;s et la nature des op&#0233;rations r&#0233;alis&#0233;es.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="3">
+<item_env>
+<code_ogr>23874</code_ogr>
+<libelle>Entreprise de fabrication d&#0039;articles textiles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23481</code_ogr>
+<libelle>Ennoblissement textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23499</code_ogr>
+<libelle>Filature</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="11">
+<item_ab>
+<code_ogr>121951</code_ogr>
+<libelle>Approvisionner des engins d&#0039;exploitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105326</code_ogr>
+<libelle>Positionner et fixer les roules sur la machine, centrer le tissu et ajuster la tension lors de l&#0039;entra&#0238;nement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123337</code_ogr>
+<libelle>Alimenter une machine industrielle en mati&#0232;re ou produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>105329</code_ogr>
+<libelle>Surveiller le d&#0233;roulement des cycles de traitement, v&#0233;rifier la vitesse, la mont&#0233;e du colorant, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120275</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; d&#0039;un produit aux diff&#0233;rentes &#0233;tapes de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121703</code_ogr>
+<libelle>R&#0233;aliser des &#0233;chantillons tests</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123581</code_ogr>
+<libelle>Rep&#0233;rer un d&#0233;faut ou un &#0233;cart</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119848</code_ogr>
+<libelle>D&#0233;charger des marchandises, des produits</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123583</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;enroulage du tissu sur un rouleau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119346</code_ogr>
+<libelle>Rep&#0233;rer les anomalies, les d&#0233;fauts de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>105331</code_ogr>
+<libelle>Distinction de couleurs (r&#0233;gularit&#0233;, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105333</code_ogr>
+<libelle>Propri&#0233;t&#0233;s des fibres textiles (pouvoir absorbant, allongement, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105335</code_ogr>
+<libelle>Caract&#0233;ristiques des fibres (poids, coloris, solidit&#0233;, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124478</code_ogr>
+<libelle>Manipulation de produits chimiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101095</code_ogr>
+<libelle>Prise de mesures</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100016</code_ogr>
+<libelle>Gestes et postures de manutention</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105334</code_ogr>
+<libelle>Traitement d&#0039;ennoblissement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101149</code_ogr>
+<libelle>Utilisation de machine &#0224; coudre le cuir</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105332</code_ogr>
+<libelle>Utilisation d&#0039;instruments de mesure (spectrom&#0232;tre, radioscope, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117827</code_ogr>
+<libelle>Modalit&#0233;s d&#0039;approvisionnement de machines de traitement textile</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="7">
+<item_as>
+<code_ogr>105336</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour des fibres d&#0039;origine naturelle animale (soie, laine, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105337</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour des fibres d&#0039;origine naturelle v&#0233;g&#0233;tale (coton, lin)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105338</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour des fibres d&#0039;origine organique (polyamide, polypropyl&#0232;ne, polyester, aramide, cellulosique, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105339</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour des fibres inorganiques ou min&#0233;rales (carbone, verre, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105340</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour du nontiss&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>105341</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour du tissu cha&#0238;ne et trame</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105342</code_ogr>
+<libelle>S&#0233;lectionner un traitement pour du tissu maille</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="16">
+<item_as>
+<code_ogr>105343</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur autoclave</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105344</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur barque (&#0224; tourniquet, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105345</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur calandre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105346</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur d&#0233;catisseuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105347</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur flambeuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105348</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur gratteuse/ emeriseuse/ d&#0233;rompeuse/ sanforiseur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105349</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur laveuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105350</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machine d&#0039;enduction / d&#0039;impr&#0233;gnation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105351</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machine de blanchiment</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105352</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machine de teinture pour &#0233;cheveaux ou bobines (&#0224; clarinette, &#0224; tubes, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105353</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machine jigger</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105354</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machine owerflow, type jet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105355</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur machines de contrecollage/complexage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105356</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur rame d&#0039;appr&#0234;t</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105357</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur solvanteuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105358</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations d&#0039;ennoblissement sur tondeuse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>105359</code_ogr>
+<libelle>Modalit&#0233;s de traitement chimique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123495</code_ogr>
+<libelle>Traitement m&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>105361</code_ogr>
+<libelle>Proc&#0233;d&#0233;s de traitement des mati&#0232;res</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124420</code_ogr>
+<libelle>Pr&#0233;parer un produit au traitement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>105366</code_ogr>
+<libelle>Sp&#0233;cificit&#0233;s des colorants</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120271</code_ogr>
+<libelle>D&#0233;terminer les causes de dysfonctionnements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>117482</code_ogr>
+<libelle>Conditionner un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123248</code_ogr>
+<libelle>Marquer un rep&#0232;re sur une toile ou un tissu</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124081</code_ogr>
+<libelle>Contr&#0244;ler un produit fini</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104425</code_ogr>
+<libelle>Hydraulique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104547</code_ogr>
+<libelle>Pneumatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122262</code_ogr>
+<libelle>Coordonner des interventions de personnels sur des machines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121378</code_ogr>
+<libelle>Etablir des rapports de production et d&#0039;incidents</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2407</code_rome_cible>
+<libelle_rome_cible>Conduite de machine de transformation et de finition des cuirs et peaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13015</code_appellation_cible>
+<libelle_appellation_cible>Conducteur / Conductrice de machine &#0224; pigmenter</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2201</code_rome_cible>
+<libelle_rome_cible>Blanchisserie industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="6">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1201</code_rome_cible>
+<libelle_rome_cible>Expertise technique couleur en industrie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2408</code_rome_cible>
+<libelle_rome_cible>Conduite de machine d&#0039;impression textile</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2505</code_rome_cible>
+<libelle_rome_cible>Encadrement d&#0039;&#0233;quipe ou d&#0039;atelier en mat&#0233;riaux souples</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H2912</code_rome_cible>
+<libelle_rome_cible>R&#0233;glage d&#0039;&#0233;quipement de production industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H3101</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;&#0233;quipement de fabrication de papier ou de carton</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1310</code_rome_cible>
+<libelle_rome_cible>Maintenance m&#0233;canique industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

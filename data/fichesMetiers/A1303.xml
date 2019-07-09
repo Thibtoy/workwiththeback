@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1303</code_rome>
+<intitule>Ing&#0233;nierie en agriculture et environnement naturel</intitule>
+<code_ogr>14</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="35">
+<item_app>
+<code_ogr>10804</code_ogr>
+<libelle>Agro-&#0233;conomiste</libelle>
+<libelle_court>Agro-&#0233;conomiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11522</code_ogr>
+<libelle>Bio-ing&#0233;nieur / Bio-ing&#0233;nieure</libelle>
+<libelle_court>Bio-ing&#0233;nieur / Bio-ing&#0233;nieure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38760</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de mission biodiversit&#0233;</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de mission biodiversit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11824</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de mission en agriculture</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de mission en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11861</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de recherche en agriculture</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de recherche en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11896</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes agricoles</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes agricoles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38762</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes du patrimoine naturel</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes du patrimoine naturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11903</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes &#0233;conomiques en agriculture</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes &#0233;conomiques en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38761</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en biodiversit&#0233;</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en biodiversit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11906</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en d&#0233;veloppement agricole</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en d&#0233;veloppement agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11907</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en d&#0233;veloppement rural</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en d&#0233;veloppement rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11910</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes environnement</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14931</code_ogr>
+<libelle>Exp&#0233;rimentateur / Exp&#0233;rimentatrice en agriculture</libelle>
+<libelle_court>Exp&#0233;rimentateur / Exp&#0233;rimentatrice en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14934</code_ogr>
+<libelle>Expert / Experte cyn&#0233;g&#0233;tique</libelle>
+<libelle_court>Expert / Experte cyn&#0233;g&#0233;tique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14936</code_ogr>
+<libelle>Expert / Experte en aquaculture</libelle>
+<libelle_court>Expert / Experte en aquaculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14932</code_ogr>
+<libelle>Expert agricole et foncier / Experte agricole et fonci&#0232;re</libelle>
+<libelle_court>Expert agricole et foncier / Experte agricole et fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14948</code_ogr>
+<libelle>Expert forestier / Experte foresti&#0232;re</libelle>
+<libelle_court>Expert forestier / Experte foresti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15575</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure agro-environnement</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure agro-environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15576</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure agro-halieute</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure agro-halieute</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15577</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure agronome</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure agronome</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15583</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure arboricole</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure arboricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15682</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des eaux et for&#0234;ts</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des eaux et for&#0234;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15685</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des techniques foresti&#0232;res</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des techniques foresti&#0232;res</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15686</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des travaux agricoles</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des travaux agricoles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15688</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des travaux des eaux et for&#0234;ts</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des travaux des eaux et for&#0234;ts</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15692</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure des travaux ruraux</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure des travaux ruraux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15711</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes et de recherche agricoles</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tudes et de recherche agricoles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15723</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure du g&#0233;nie rural</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure du g&#0233;nie rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15724</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure du g&#0233;nie rural des eaux et for&#0234;ts -IGREF-</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure du g&#0233;nie rural des eaux et for&#0234;ts IGREF</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15760</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en exp&#0233;rimentation animale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en exp&#0233;rimentation animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15761</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en exp&#0233;rimentation v&#0233;g&#0233;tale</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en exp&#0233;rimentation v&#0233;g&#0233;tale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15788</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en techniques d&#0039;exp&#0233;rimentation animale</libelle>
+<libelle_court>Ing&#0233;nieur/Ing&#0233;nieure en techniques d&#0039;exp&#0233;rimentation animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15814</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure halieute</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure halieute</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15815</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure horticole</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure horticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15852</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure paysagiste</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure paysagiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Conduit des &#0233;tudes ou des projets scientifiques et technico-&#0233;conomiques (&#0233;tude de fili&#0232;re, am&#0233;nagement et gestion de l&#0039;eau, mise en valeur et conservation du patrimoine, ...) selon les orientations institutionnelles et projets d&#0039;am&#0233;nagement du territoire, d&#0039;implantation d&#0039;exploitations et la r&#0233;glementation environnementale.
+Peut mettre en oeuvre des appels d&#0039;offres et proc&#0233;der au contr&#0244;le des r&#0233;alisations. Peut former ou sensibiliser diff&#0233;rents publics.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un Master (dipl&#0244;me d&#0039;ing&#0233;nieur, Master recherche, ...) en agriculture, agronomie, environnement, am&#0233;nagement.
+Un Doctorat est requis pour les chercheurs en agronomie, g&#0233;nie rural, environnement, ...
+Il est &#0233;galement accessible avec un BTS Agricole en production animale, technologies v&#0233;g&#0233;tales, ... compl&#0233;t&#0233; par une exp&#0233;rience professionnelle de 5 &#0224; 10 ans.
+Son acc&#0232;s dans les collectivit&#0233;s territoriales et organismes publics s&#0039;effectue sur concours.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de structures publiques, d&#0039;unit&#0233;s de recherche, de soci&#0233;t&#0233;s de services en contact avec diff&#0233;rents intervenants (industriels, laboratoires, institutionnels, universitaires, fournisseurs, ...).
+Elle varie selon le secteur (environnement, agriculture, espaces naturels, ...) et le type de structure (ferme exp&#0233;rimentale, organisme public, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23709</code_ogr>
+<libelle>Association de protection de la nature</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23939</code_ogr>
+<libelle>Ferme exp&#0233;rimentale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24011</code_ogr>
+<libelle>Office National des For&#0234;ts</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24031</code_ogr>
+<libelle>Parc naturel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="12">
+<item_ab>
+<code_ogr>122764</code_ogr>
+<libelle>D&#0233;finir un avant-projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126268</code_ogr>
+<libelle>Identifier les th&#0232;mes de projets de recherche en fonction des &#0233;volutions du secteur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>113547</code_ogr>
+<libelle>D&#0233;finir la faisabilit&#0233; et la rentabilit&#0233; d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121028</code_ogr>
+<libelle>Planifier les &#0233;tapes d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125894</code_ogr>
+<libelle>D&#0233;terminer des protocoles d&#0039;exp&#0233;rimentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122583</code_ogr>
+<libelle>Assister techniquement une collectivit&#0233;, un industriel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125897</code_ogr>
+<libelle>Mener des &#0233;tudes et exp&#0233;rimentations &#0224; des fins d&#0039;innovation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>114633</code_ogr>
+<libelle>Communiquer un diagnostic sur des risques environnementaux ou sanitaires aux &#0233;lus, institutionnels, organismes et leur apporter un appui technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124839</code_ogr>
+<libelle>Suivre la mise en oeuvre d&#0039;actions de pr&#0233;vention des risques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab>
+<item_ab>
+<code_ogr>125440</code_ogr>
+<libelle>Pr&#0233;coniser des mesures environnementales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122820</code_ogr>
+<libelle>Etablir un rapport d&#0039;&#0233;tude</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122821</code_ogr>
+<libelle>Etablir un rapport de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="18">
+<item_ab_stp>
+<code_ogr>100104</code_ogr>
+<libelle>Agronomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100160</code_ogr>
+<libelle>Hydrobiologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100161</code_ogr>
+<libelle>Toxicologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100158</code_ogr>
+<libelle>Botanique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100159</code_ogr>
+<libelle>Climatologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120439</code_ogr>
+<libelle>Ecologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124885</code_ogr>
+<libelle>Economie sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>115914</code_ogr>
+<libelle>Economie du d&#0233;veloppement durable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100019</code_ogr>
+<libelle>Caract&#0233;ristiques des &#0233;cosyst&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120721</code_ogr>
+<libelle>Pr&#0233;vention des risques environnementaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100162</code_ogr>
+<libelle>G&#0233;nie rural</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122286</code_ogr>
+<libelle>Production animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100011</code_ogr>
+<libelle>Techniques culturales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100077</code_ogr>
+<libelle>Droit rural</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100113</code_ogr>
+<libelle>Logiciels de gestion de base de donn&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101869</code_ogr>
+<libelle>R&#0233;glementation phytosanitaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>100120</code_ogr>
+<libelle>Proc&#0233;der &#0224; des &#0233;tudes/exp&#0233;rimentations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>117187</code_ogr>
+<libelle>R&#0233;aliser des observations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117185</code_ogr>
+<libelle>R&#0233;aliser des mesures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122807</code_ogr>
+<libelle>R&#0233;aliser un pr&#0233;l&#0232;vement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>117319</code_ogr>
+<libelle>Suivre un appel d&#0039;offres</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121931</code_ogr>
+<libelle>V&#0233;rifier la conformit&#0233; d&#0039;une r&#0233;alisation avec un cahier des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117318</code_ogr>
+<libelle>Lancer un appel d&#0039;offre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100129</code_ogr>
+<libelle>Code des march&#0233;s publics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122510</code_ogr>
+<libelle>D&#0233;finir une th&#0233;matique pour un &#0233;v&#0232;nement professionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122264</code_ogr>
+<libelle>Organiser un &#0233;v&#0232;nement professionnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123037</code_ogr>
+<libelle>Sensibiliser un public non averti</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123036</code_ogr>
+<libelle>Former un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>123035</code_ogr>
+<libelle>Bonnes Pratiques Agricoles (BPA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123411</code_ogr>
+<libelle>Identifier des risques financiers li&#0233;s &#0224; un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="5">
+<item_as>
+<code_ogr>125772</code_ogr>
+<libelle>R&#0233;aliser une &#0233;tude d&#0039;impact environnemental</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as>
+<item_as>
+<code_ogr>121639</code_ogr>
+<libelle>&#0201;laborer une cartographie des risques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as>
+<item_as>
+<code_ogr>120816</code_ogr>
+<libelle>&#0201;tablir un protocole de s&#0233;curit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as>
+<item_as>
+<code_ogr>113889</code_ogr>
+<libelle>Evaluer l&#0039;impact de projets d&#0039;am&#0233;nagement (parc &#0233;olien, voie ferroviaire, ...) sur la faune et la flore et pr&#0233;coniser les solutions adapt&#0233;es &#0224; la pr&#0233;servation de la biodiversit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123410</code_ogr>
+<libelle>Identifier des risques environnementaux li&#0233;s &#0224; un projet agricole</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>115876</code_ogr>
+<libelle>Analyse du Cycle de Vie - ACV  des produits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122685</code_ogr>
+<libelle>Analyse physico-chimique environnementale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123488</code_ogr>
+<libelle>Audit environnemental</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119786</code_ogr>
+<libelle>Mettre en place des actions de formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>116920</code_ogr>
+<libelle>Concevoir un programme de formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121441</code_ogr>
+<libelle>Identifier un partenariat potentiel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121442</code_ogr>
+<libelle>D&#0233;velopper un partenariat de recherche avec des acteur locaux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1206</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1501</code_rome_cible>
+<libelle_rome_cible>Direction de laboratoire d&#0039;analyse industrielle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2402</code_rome_cible>
+<libelle_rome_cible>Recherche en sciences de l&#0039;univers, de la mati&#0232;re et du vivant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

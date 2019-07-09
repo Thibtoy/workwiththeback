@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1507</code_rome>
+<intitule>Montage audiovisuel et post-production</intitule>
+<code_ogr>453</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="23">
+<item_app>
+<code_ogr>11313</code_ogr>
+<libelle>Assistant monteur / Assistante monteuse audiovisuel</libelle>
+<libelle_court>Assistant monteur / Assistante monteuse audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11314</code_ogr>
+<libelle>Assistant monteur / Assistante monteuse son</libelle>
+<libelle_court>Assistant monteur / Assistante monteuse son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11605</code_ogr>
+<libelle>Bruiteur / Bruiteuse</libelle>
+<libelle_court>Bruiteur / Bruiteuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12580</code_ogr>
+<libelle>Chef monteur / monteuse audiovisuel</libelle>
+<libelle_court>Chef monteur / monteuse audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12581</code_ogr>
+<libelle>Chef monteur / monteuse son</libelle>
+<libelle_court>Chef monteur / monteuse son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14142</code_ogr>
+<libelle>D&#0233;tecteur / D&#0233;tectrice son</libelle>
+<libelle_court>D&#0233;tecteur / D&#0233;tectrice son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38474</code_ogr>
+<libelle>Etalonneur / Etalonneuse num&#0233;rique</libelle>
+<libelle_court>Etalonneur / Etalonneuse num&#0233;rique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15512</code_ogr>
+<libelle>Illustrateur / Illustratrice sonore</libelle>
+<libelle_court>Illustrateur / Illustratrice sonore</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16688</code_ogr>
+<libelle>Mixeur / Mixeuse</libelle>
+<libelle_court>Mixeur / Mixeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16751</code_ogr>
+<libelle>Monteur / Monteuse audiovisuel</libelle>
+<libelle_court>Monteur / Monteuse audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16862</code_ogr>
+<libelle>Monteur / Monteuse son</libelle>
+<libelle_court>Monteur / Monteuse son</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38166</code_ogr>
+<libelle>Monteur / Monteuse sous titres</libelle>
+<libelle_court>Monteur / Monteuse sous titres</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16866</code_ogr>
+<libelle>Monteur / Monteuse vid&#0233;o</libelle>
+<libelle_court>Monteur / Monteuse vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16754</code_ogr>
+<libelle>Monteur adjoint / Monteuse adjointe audiovisuel</libelle>
+<libelle_court>Monteur adjoint / Monteuse adjointe audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16896</code_ogr>
+<libelle>Monteur-truquiste / Monteuse-truquiste</libelle>
+<libelle_court>Monteur-truquiste / Monteuse-truquiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38475</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de duplication audiovisuelle</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de duplication audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38477</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice int&#0233;gration num&#0233;rique</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice int&#0233;gration num&#0233;rique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38478</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice magn&#0233;to</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice magn&#0233;to</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38476</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice PAD - Pr&#0234;t  A Diffuser</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice PAD - Pr&#0234;t  A Diffuser</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38479</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice transfert de donn&#0233;es audiovisuelles</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice transfert de donn&#0233;es audiovisuelles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17337</code_ogr>
+<libelle>Op&#0233;rateur synth&#0233;tiseur / Op&#0233;ratrice synth&#0233;tiseuse</libelle>
+<libelle_court>Op&#0233;rateur synth&#0233;tiseur / Op&#0233;ratrice synth&#0233;tiseuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19216</code_ogr>
+<libelle>Restaurateur / Restauratrice de bandes sonores</libelle>
+<libelle_court>Restaurateur / Restauratrice de bandes sonores</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38703</code_ogr>
+<libelle>Sound designer / Designer sonore</libelle>
+<libelle_court>Sound designer / Designer sonore</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Effectue le montage des images et des sons de films, de reportages, d&#0039;&#0233;missions, ... &#0224; partir des rushes de tournages, d&#0039;&#0233;l&#0233;ments d&#0039;archives, selon les intentions artistiques d&#0233;finies pr&#0233;alablement.
+Peut &#0233;laborer des trucages vid&#0233;o.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un BTS en audiovisuel compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans le montage.
+Les recrutements sont ouverts sur contrat de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, parfois sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e (cha&#0238;nes de t&#0233;l&#0233;vision, soci&#0233;t&#0233;s de production, soci&#0233;t&#0233;s de post-production).
+La ma&#0238;trise d&#0039;un ou plusieurs logiciel(s) de montage de l&#0039;image ou du son est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de cha&#0238;nes de t&#0233;l&#0233;vision, soci&#0233;t&#0233;s de production, soci&#0233;t&#0233;s de post-production, ... en concertation avec l&#0039;&#0233;quipe de r&#0233;alisation et de production (r&#0233;alisateur, producteur, r&#0233;dacteur en chef, ...).
+Elle varie selon le secteur (cin&#0233;ma, audiovisuel, publicit&#0233;, musique), le type d&#0039;&#0233;quipement (table de montage m&#0233;canique, station de montage informatis&#0233;e, ...) et le type de production (film, documentaire, reportage, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23692</code_ogr>
+<libelle>Agence de publicit&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23793</code_ogr>
+<libelle>Cha&#0238;ne de t&#0233;l&#0233;vision</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23905</code_ogr>
+<libelle>Entreprise d&#0039;&#0233;dition phonographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24085</code_ogr>
+<libelle>Soci&#0233;t&#0233; de post-production cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38679</code_ogr>
+<libelle>Studio de d&#0233;veloppement de jeux vid&#0233;o</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24112</code_ogr>
+<libelle>Studio de films d&#0039;animation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23603</code_ogr>
+<libelle>Publicit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>109298</code_ogr>
+<libelle>Visionner les rushes du tournage et s&#0233;lectionner les prises pour le montage selon les indications et les intentions artistiques du r&#0233;alisateur, du journaliste, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125235</code_ogr>
+<libelle>D&#0233;terminer le d&#0233;but et la fin d&#0039;une image, d&#0039;un plan</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125236</code_ogr>
+<libelle>Assembler des plans, images pour un produit audiovisuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125110</code_ogr>
+<libelle>Contr&#0244;ler la qualit&#0233; des dialogues enregistr&#0233;s lors d&#0039;un tournage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125111</code_ogr>
+<libelle>R&#0233;aliser un montage des sons directs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125028</code_ogr>
+<libelle>Composer les ambiances et les effets sonores d&#0039;un produit audiovisuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>109302</code_ogr>
+<libelle>Synchroniser les sons directs avec les images pour le montage du film</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>109150</code_ogr>
+<libelle>Appr&#0233;ciation visuelle d&#0039;image</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109307</code_ogr>
+<libelle>Techniques de montage des sons</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109306</code_ogr>
+<libelle>Techniques de montage en pellicule</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109043</code_ogr>
+<libelle>Histoire du cin&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100518</code_ogr>
+<libelle>Techniques de montage vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109303</code_ogr>
+<libelle>Caract&#0233;ristiques des logiciels de montage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109305</code_ogr>
+<libelle>Techniques de montage num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125480</code_ogr>
+<libelle>Num&#0233;riser des rushes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125479</code_ogr>
+<libelle>Indexer des rushes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102688</code_ogr>
+<libelle>Proc&#0233;dures de num&#0233;risation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124728</code_ogr>
+<libelle>Mixer des sources sonores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>109309</code_ogr>
+<libelle>Types de tables de mixage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126466</code_ogr>
+<libelle>Post-synchronisation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124415</code_ogr>
+<libelle>R&#0233;aliser l&#0039;environnement sonore d&#0039;un projet multim&#0233;dia</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117911</code_ogr>
+<libelle>R&#0233;aliser des trucages vid&#0233;os</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>109311</code_ogr>
+<libelle>Techniques de trucage vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109310</code_ogr>
+<libelle>Utilisation de m&#0233;langeur vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120869</code_ogr>
+<libelle>Logiciels de cr&#0233;ation vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125264</code_ogr>
+<libelle>R&#0233;aliser les bruitages et les effets sonores</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115455</code_ogr>
+<libelle>Restaurer la bande son d&#0039;un film, d&#0039;un documentaire, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>109313</code_ogr>
+<libelle>Techniques de restauration num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109312</code_ogr>
+<libelle>Techniques de restauration traditionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1304</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation cin&#0233;matographique et audiovisuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1508</code_rome_cible>
+<libelle_rome_cible>Prise de son et sonorisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

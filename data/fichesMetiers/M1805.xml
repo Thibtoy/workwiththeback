@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1805</code_rome>
+<intitule>&#0201;tudes et d&#0233;veloppement informatique</intitule>
+<code_ogr>494</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="85">
+<item_app>
+<code_ogr>10933</code_ogr>
+<libelle>Analyste cogniticien / cogniticienne informatique</libelle>
+<libelle_court>Analyste cogniticien / cogniticienne informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10934</code_ogr>
+<libelle>Analyste concepteur / conceptrice informatique</libelle>
+<libelle_court>Analyste concepteur / conceptrice informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10935</code_ogr>
+<libelle>Analyste d&#0039;application</libelle>
+<libelle_court>Analyste d&#0039;application</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10938</code_ogr>
+<libelle>Analyste de gestion informatique</libelle>
+<libelle_court>Analyste de gestion informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38095</code_ogr>
+<libelle>Analyste d&#0233;cisionnel - Business Intelligence</libelle>
+<libelle_court>Analyste d&#0233;cisionnel - Business Intelligence</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10943</code_ogr>
+<libelle>Analyste d&#0039;&#0233;tude informatique</libelle>
+<libelle_court>Analyste d&#0039;&#0233;tude informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10944</code_ogr>
+<libelle>Analyste d&#0233;veloppeur / d&#0233;veloppeuse</libelle>
+<libelle_court>Analyste d&#0233;veloppeur / d&#0233;veloppeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38915</code_ogr>
+<libelle>Analyste en cybers&#0233;curit&#0233;</libelle>
+<libelle_court>Analyste en cybers&#0233;curit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10950</code_ogr>
+<libelle>Analyste fonctionnel / fonctionnelle informatique</libelle>
+<libelle_court>Analyste fonctionnel / fonctionnelle informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10952</code_ogr>
+<libelle>Analyste organique informatique</libelle>
+<libelle_court>Analyste organique informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10956</code_ogr>
+<libelle>Analyste r&#0233;seau informatique</libelle>
+<libelle_court>Analyste r&#0233;seau informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10957</code_ogr>
+<libelle>Analyste responsable d&#0039;application informatique</libelle>
+<libelle_court>Analyste responsable d&#0039;application informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10959</code_ogr>
+<libelle>Analyste t&#0233;l&#0233;matique</libelle>
+<libelle_court>Analyste t&#0233;l&#0233;matique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10960</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse de micro-informatique</libelle>
+<libelle_court>Analyste-programmeur(se) de micro-informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10961</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse d&#0039;&#0233;tude informatique</libelle>
+<libelle_court>Analyste-programmeur(se) d&#0039;&#0233;tude informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10962</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse en informatique industrielle</libelle>
+<libelle_court>Analyste-programmeur(se) en informatique industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10963</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse gestion informatique</libelle>
+<libelle_court>Analyste-programmeur(se) gestion informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10964</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse informatique</libelle>
+<libelle_court>Analyste-programmeur / Analyste-programmeuse informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10965</code_ogr>
+<libelle>Analyste-programmeur / Analyste-programmeuse scientifique informatique</libelle>
+<libelle_court>Analyste-programmeur(se) scientifique informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11205</code_ogr>
+<libelle>Assistant / Assistante chef de projet informatique</libelle>
+<libelle_court>Assistant / Assistante chef de projet informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12168</code_ogr>
+<libelle>Chef de groupe logicien informaticien</libelle>
+<libelle_court>Chef de groupe logicien informaticien</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12243</code_ogr>
+<libelle>Chef de projet &#0233;tude et d&#0233;veloppement informatique</libelle>
+<libelle_court>Chef de projet &#0233;tude et d&#0233;veloppement informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12250</code_ogr>
+<libelle>Chef de projet ma&#0238;trise d&#0039;oeuvre informatique</libelle>
+<libelle_court>Chef de projet ma&#0238;trise d&#0039;oeuvre informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38061</code_ogr>
+<libelle>Chef de projet TMA - Tierce Maintenance Applicative</libelle>
+<libelle_court>Chef de projet TMA - Tierce Maintenance Applicative</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12814</code_ogr>
+<libelle>Concepteur / Conceptrice d&#0039;application informatique</libelle>
+<libelle_court>Concepteur / Conceptrice d&#0039;application informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12828</code_ogr>
+<libelle>Concepteur / Conceptrice informatique</libelle>
+<libelle_court>Concepteur / Conceptrice informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12829</code_ogr>
+<libelle>Concepteur / Conceptrice logiciel informatique</libelle>
+<libelle_court>Concepteur / Conceptrice logiciel informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38717</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse - jeux vid&#0233;o</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38977</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse Big Data</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse Big Data</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14148</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse d&#0039;application</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse d&#0039;application</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140952</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse de logiciel de simulation optique et r&#0233;alit&#0233; virtuelle</libelle>
+<libelle_court>D&#0233;veloppeur(se) logiciel simulation optique r&#0233;alit&#0233; virtuel.</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38916</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse de s&#0233;curit&#0233; des syst&#0232;mes d&#0039;information</libelle>
+<libelle_court>D&#0233;veloppeur(euse) de s&#0233;curit&#0233; des syst&#0232;mes d&#0039;information</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38661</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse d&#0233;cisionnel - Business Intelligence</libelle>
+<libelle_court>D&#0233;veloppeur(se) d&#0233;cisionnel - Business Intelligence</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38976</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse full-stack</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse full-stack</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14153</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse informatique</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140953</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse logiciel de r&#0233;alit&#0233; augment&#0233;e</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse logiciel de r&#0233;alit&#0233; augment&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14155</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse multim&#0233;dia</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14156</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse web</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse web</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38745</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse web mobile</libelle>
+<libelle_court>D&#0233;veloppeur / D&#0233;veloppeuse web mobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14167</code_ogr>
+<libelle>Didacticien / Didacticienne informatique</libelle>
+<libelle_court>Didacticien / Didacticienne informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38062</code_ogr>
+<libelle>Homologateur / Homologatrice logiciel</libelle>
+<libelle_court>Homologateur / Homologatrice logiciel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15565</code_ogr>
+<libelle>Informaticien / Informaticienne analyste</libelle>
+<libelle_court>Informaticien / Informaticienne analyste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15568</code_ogr>
+<libelle>Informaticien / Informaticienne d&#0039;application</libelle>
+<libelle_court>Informaticien / Informaticienne d&#0039;application</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15569</code_ogr>
+<libelle>Informaticien / Informaticienne de d&#0233;veloppement</libelle>
+<libelle_court>Informaticien / Informaticienne de d&#0233;veloppement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15567</code_ogr>
+<libelle>Informaticien charg&#0233; / Informaticienne charg&#0233;e d&#0039;&#0233;tude</libelle>
+<libelle_court>Informaticien charg&#0233; / Informaticienne charg&#0233;e d&#0039;&#0233;tude</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15580</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure analyste en syst&#0232;me d&#0039;information</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure analyste en syst&#0232;me d&#0039;information</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15581</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure analyste informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure analyste informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15624</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;analyse et de programmation en informatique de gestion</libelle>
+<libelle_court>Ing&#0233;nieur(e) analyse programmation en informatique gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15627</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;application informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;application informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15631</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de conception informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de conception informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15635</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de d&#0233;veloppement informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de d&#0233;veloppement informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15665</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de r&#0233;alisation informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de r&#0233;alisation informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15696</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude en applications scientifiques informatiques</libelle>
+<libelle_court>Ing&#0233;nieur(e) &#0233;tude en application scientifique informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15697</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude en informatique de gestion</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude en informatique de gestion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15698</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude et d&#0233;veloppement informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude et d&#0233;veloppement informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15699</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15700</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude logiciel informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;&#0233;tude logiciel informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15714</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0233;veloppement logiciel informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0233;veloppement logiciel informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15721</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;int&#0233;gration applicative</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure d&#0039;int&#0233;gration applicative</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15753</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure en d&#0233;veloppement d&#0039;applications</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure en d&#0233;veloppement d&#0039;applications</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15824</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure informatique d&#0233;veloppement en temps r&#0233;el</libelle>
+<libelle_court>Ing&#0233;nieur(e) informatique d&#0233;veloppement en temps r&#0233;el</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15826</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure logiciel informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure logiciel informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15867</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure programme informatique</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure programme informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15582</code_ogr>
+<libelle>Ing&#0233;nieur analyste-programmeur / Ing&#0233;nieure analyste-programmeuse</libelle>
+<libelle_court>Ing&#0233;nieur(e) analyste-programmeur(se)</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15616</code_ogr>
+<libelle>Ing&#0233;nieur concepteur / Ing&#0233;nieure conceptrice informatique</libelle>
+<libelle_court>Ing&#0233;nieur concepteur / Ing&#0233;nieure conceptrice informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15823</code_ogr>
+<libelle>Ing&#0233;nieur informaticien / Ing&#0233;nieure informaticienne</libelle>
+<libelle_court>Ing&#0233;nieur informaticien / Ing&#0233;nieure informaticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16027</code_ogr>
+<libelle>Int&#0233;grateur / Int&#0233;gratrice d&#0039;application informatique</libelle>
+<libelle_court>Int&#0233;grateur / Int&#0233;gratrice d&#0039;application informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38715</code_ogr>
+<libelle>Lead programmeur / programmeuse - jeux vid&#0233;o</libelle>
+<libelle_court>Lead programmeur / programmeuse - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17558</code_ogr>
+<libelle>Param&#0233;treur / Param&#0233;treuse logiciel ERP</libelle>
+<libelle_court>Param&#0233;treur / Param&#0233;treuse logiciel ERP</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38716</code_ogr>
+<libelle>Programmeur / Programmeuse - jeux vid&#0233;o</libelle>
+<libelle_court>Programmeur / Programmeuse - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18187</code_ogr>
+<libelle>Programmeur / Programmeuse d&#0039;applications</libelle>
+<libelle_court>Programmeur / Programmeuse d&#0039;applications</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18188</code_ogr>
+<libelle>Programmeur / Programmeuse de maintenance informatique</libelle>
+<libelle_court>Programmeur / Programmeuse de maintenance informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18189</code_ogr>
+<libelle>Programmeur / Programmeuse d&#0039;&#0233;tudes</libelle>
+<libelle_court>Programmeur / Programmeuse d&#0039;&#0233;tudes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18192</code_ogr>
+<libelle>Programmeur / Programmeuse informatique</libelle>
+<libelle_court>Programmeur / Programmeuse informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18193</code_ogr>
+<libelle>Programmeur / Programmeuse logiciel de base informatique</libelle>
+<libelle_court>Programmeur / Programmeuse logiciel de base informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18191</code_ogr>
+<libelle>Programmeur industriel / Programmeuse industrielle</libelle>
+<libelle_court>Programmeur industriel / Programmeuse industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18625</code_ogr>
+<libelle>Responsable d&#0039;application informatique</libelle>
+<libelle_court>Responsable d&#0039;application informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18637</code_ogr>
+<libelle>Responsable d&#0039;atelier de g&#0233;nie logiciel</libelle>
+<libelle_court>Responsable d&#0039;atelier de g&#0233;nie logiciel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18719</code_ogr>
+<libelle>Responsable de gestion de configuration</libelle>
+<libelle_court>Responsable de gestion de configuration</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18832</code_ogr>
+<libelle>Responsable de projet informatique</libelle>
+<libelle_court>Responsable de projet informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18927</code_ogr>
+<libelle>Responsable des d&#0233;veloppements informatiques</libelle>
+<libelle_court>Responsable des d&#0233;veloppements informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18961</code_ogr>
+<libelle>Responsable d&#0039;&#0233;tude informatique</libelle>
+<libelle_court>Responsable d&#0039;&#0233;tude informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20226</code_ogr>
+<libelle>Technicien / Technicienne programmation</libelle>
+<libelle_court>Technicien / Technicienne programmation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20314</code_ogr>
+<libelle>Testeur / Testeuse informatique</libelle>
+<libelle_court>Testeur / Testeuse informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20728</code_ogr>
+<libelle>Webmaster d&#0233;veloppeur / d&#0233;veloppeuse</libelle>
+<libelle_court>Webmaster d&#0233;veloppeur / d&#0233;veloppeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Con&#0231;oit, d&#0233;veloppe et met au point un projet d&#0039;application informatique, de la phase d&#0039;&#0233;tude &#0224; son int&#0233;gration, pour un client ou une entreprise selon des besoins fonctionnels et un cahier des charges.
+Peut conduire des projets de d&#0233;veloppement.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, DUT) &#0224; Master (MIAGE, dipl&#0244;me d&#0039;ing&#0233;nieur, Master professionnel, ...) en informatique.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle en informatique, syst&#0232;me d&#0039;exploitation ou dans un domaine applicatif.
+La pratique de l&#0039;anglais (vocabulaire technique) est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de soci&#0233;t&#0233;s de services, d&#0039;entreprises, ..., en relation avec les clients.
+Elle varie selon la taille de la structure (polyvalence, sp&#0233;cialisation en gestion du projet, programmation, recettes, ...), la responsabilit&#0233; (d&#0233;veloppement, projet, ...) et peut impliquer un d&#0233;tachement aupr&#0232;s d&#0039;autres entreprises.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s et &#0234;tre soumise &#0224; des astreintes lors de la mise au point, d&#0039;installation, ...
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24095</code_ogr>
+<libelle>Entreprise de Services Num&#0233;riques - ESN</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23912</code_ogr>
+<libelle>Entreprise publique/&#0233;tablissement public</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24081</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38679</code_ogr>
+<libelle>Studio de d&#0233;veloppement de jeux vid&#0233;o</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23452</code_ogr>
+<libelle>Constructeur de mat&#0233;riel informatique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23470</code_ogr>
+<libelle>Editeur multim&#0233;dia</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23535</code_ogr>
+<libelle>Informatique et t&#0233;l&#0233;communications</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>118637</code_ogr>
+<libelle>Analyser les besoins du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117309</code_ogr>
+<libelle>Etablir un cahier des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124517</code_ogr>
+<libelle>R&#0233;diger une Sp&#0233;cification Technique de Besoin (STB)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109845</code_ogr>
+<libelle>R&#0233;aliser un prototype de la solution technique pour validation par le donneur d&#0039;ordres (configuration type, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109846</code_ogr>
+<libelle>Concevoir et d&#0233;velopper les programmes et applications informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120370</code_ogr>
+<libelle>D&#0233;terminer les phases et proc&#0233;dures de tests techniques et fonctionnels de programmes et applications informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121398</code_ogr>
+<libelle>Analyser des probl&#0232;mes techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120672</code_ogr>
+<libelle>R&#0233;aliser des supports techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>109531</code_ogr>
+<libelle>Algorithmique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102532</code_ogr>
+<libelle>Technologies de l&#0039;accessibilit&#0233; num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106767</code_ogr>
+<libelle>Protocoles et normes t&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102732</code_ogr>
+<libelle>Langages de programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109854</code_ogr>
+<libelle>Syst&#0232;mes d&#0039;exploitation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106844</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; Informatique et T&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109851</code_ogr>
+<libelle>Gestion de configuration</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109779</code_ogr>
+<libelle>Mod&#0233;lisation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109852</code_ogr>
+<libelle>Architecture d&#0039;applications</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120254</code_ogr>
+<libelle>Architecture des syst&#0232;mes d&#0039;information</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109850</code_ogr>
+<libelle>Programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120803</code_ogr>
+<libelle>Programmation logicielle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="14">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126535</code_ogr>
+<libelle>R&#0233;aliser des &#0233;tudes et d&#0233;veloppements informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="10">
+<item_as_stp>
+<code_ogr>118305</code_ogr>
+<libelle>Syst&#0232;me embarqu&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124703</code_ogr>
+<libelle>Mat&#0233;riel de contr&#0244;le embarqu&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109791</code_ogr>
+<libelle>Informatique de gestion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113255</code_ogr>
+<libelle>Business Intelligence (BI) / Informatique d&#0233;cisionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104549</code_ogr>
+<libelle>Informatique industrielle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116620</code_ogr>
+<libelle>Produits multim&#0233;dia</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109814</code_ogr>
+<libelle>R&#0233;seaux informatiques et t&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118823</code_ogr>
+<libelle>Informatique scientifique et technique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109863</code_ogr>
+<libelle>Architecture propri&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109862</code_ogr>
+<libelle>Architecture web</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126278</code_ogr>
+<libelle>Intervenir en informatique de gestion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>101398</code_ogr>
+<libelle>Finance</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101360</code_ogr>
+<libelle>Comptabilit&#0233; g&#0233;n&#0233;rale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101388</code_ogr>
+<libelle>Gestion des Ressources Humaines</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126340</code_ogr>
+<libelle>Gestion commerciale, relation clients</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101399</code_ogr>
+<libelle>Marketing / Mercatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120329</code_ogr>
+<libelle>Process et proc&#0233;dures d&#0039;achats</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118517</code_ogr>
+<libelle>Gestion de production</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113321</code_ogr>
+<libelle>Programmer dans un langage informatique sp&#0233;cifique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="28">
+<item_as_stp>
+<code_ogr>109880</code_ogr>
+<libelle>Langage informatique Perl</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109881</code_ogr>
+<libelle>Langage informatique PHP</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109883</code_ogr>
+<libelle>Langage informatique Visual Basic</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109884</code_ogr>
+<libelle>Langage informatique WLangage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102788</code_ogr>
+<libelle>Langage informatique HTML</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109878</code_ogr>
+<libelle>Langage informatique Fortran</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109879</code_ogr>
+<libelle>Langage informatique Lisp</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109882</code_ogr>
+<libelle>Langage informatique SQL</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109877</code_ogr>
+<libelle>Langage informatique Cobol</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109876</code_ogr>
+<libelle>Langage informatique C#</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109875</code_ogr>
+<libelle>Langage informatique Ada</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109874</code_ogr>
+<libelle>Langage informatique Pascal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109870</code_ogr>
+<libelle>Langage informatique Java</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113279</code_ogr>
+<libelle>Langage informatique J2EE</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109872</code_ogr>
+<libelle>Langage informatique J2ME</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104564</code_ogr>
+<libelle>Langage informatique C/C++</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113297</code_ogr>
+<libelle>Langage informatique ASP.NET</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113235</code_ogr>
+<libelle>Langage informatique Apache</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113298</code_ogr>
+<libelle>Langage informatique AutoItScript</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113795</code_ogr>
+<libelle>Langage informatique Basic</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113236</code_ogr>
+<libelle>Langage informatique CSS</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113796</code_ogr>
+<libelle>Langage informatique Delphi</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113797</code_ogr>
+<libelle>Langage informatique Prolog</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113798</code_ogr>
+<libelle>Langage informatique Python</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119718</code_ogr>
+<libelle>Langage informatique Ruby</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113281</code_ogr>
+<libelle>Langage informatique Script Shell</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113799</code_ogr>
+<libelle>Langage informatique VB.NET</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113735</code_ogr>
+<libelle>Langage informatique XML</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113317</code_ogr>
+<libelle>D&#0233;velopper une application en lien avec une base de donn&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117980</code_ogr>
+<libelle>Param&#0233;trer un progiciel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>121126</code_ogr>
+<libelle>Progiciels de Gestion Int&#0233;gr&#0233;e (PGI) / Enterprise Resource Planning (ERP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109885</code_ogr>
+<libelle>Formalisation de processus de gestion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113315</code_ogr>
+<libelle>D&#0233;terminer des choix techniques d&#0039;architecture logicielle et mat&#0233;rielle et s&#0233;lectionner des technologies, mat&#0233;riels, logiciels, configurations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123354</code_ogr>
+<libelle>Concevoir des outils d&#0039;aide &#0224; la surveillance, &#0224; la s&#0233;curit&#0233; ou &#0224; l&#0039;exploitation des &#0233;quipements informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120337</code_ogr>
+<libelle>Concevoir une maquette de pr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119226</code_ogr>
+<libelle>Publication Assist&#0233;e par Ordinateur (PAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115531</code_ogr>
+<libelle>S&#0233;lectionner, assembler et int&#0233;grer des composants informatiques (progiciels, bases de donn&#0233;es, d&#0233;veloppements sp&#0233;cifiques, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106861</code_ogr>
+<libelle>Principes d&#0039;int&#0233;gration de mat&#0233;riels et de logiciels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120451</code_ogr>
+<libelle>R&#0233;aliser la mise en production de solution logicielle dans un environnement d&#0039;exploitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121028</code_ogr>
+<libelle>Planifier les &#0233;tapes d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119109</code_ogr>
+<libelle>D&#0233;finir les moyens humains, mat&#0233;riels et financiers d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>12</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123352</code_ogr>
+<libelle>R&#0233;aliser un appel d&#0039;offre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>126089</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;appels d&#0039;offres</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>13</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>124096</code_ogr>
+<libelle>Pr&#0233;senter un produit fini &#0224; son commanditaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124097</code_ogr>
+<libelle>Promouvoir un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>123194</code_ogr>
+<libelle>Former un public &#0224; l&#0039;utilisation d&#0039;un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>14</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113330</code_ogr>
+<libelle>Superviser et coordonner les r&#0233;alisations, &#0233;tudes ou d&#0233;veloppements informatiques (collaborateurs, sous-traitants)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="3">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>14156</code_appellation_source>
+<libelle_appellation_source>D&#0233;veloppeur / D&#0233;veloppeuse web</libelle_appellation_source>
+<code_appellation_source>20728</code_appellation_source>
+<libelle_appellation_source>Webmaster d&#0233;veloppeur / d&#0233;veloppeuse</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1104</code_rome_cible>
+<libelle_rome_cible>Conception de contenus multim&#0233;dias</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20727</code_appellation_cible>
+<libelle_appellation_cible>Webmaster concepteur / conceptrice de site web</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1804</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes et d&#0233;veloppement de r&#0233;seaux de t&#0233;l&#0233;coms</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1806</code_rome_cible>
+<libelle_rome_cible>Conseil et ma&#0238;trise d&#0039;ouvrage en syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2101</code_rome_cible>
+<libelle_rome_cible>Conseil en formation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1802</code_rome_cible>
+<libelle_rome_cible>Expertise et support en syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1803</code_rome_cible>
+<libelle_rome_cible>Direction des syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1810</code_rome_cible>
+<libelle_rome_cible>Production et exploitation de syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

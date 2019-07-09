@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>F1702</code_rome>
+<intitule>Construction de routes et voies</intitule>
+<code_ogr>175</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="21">
+<item_app>
+<code_ogr>10665</code_ogr>
+<libelle>Agent / Agente d&#0039;entretien de la voie ferr&#0233;e</libelle>
+<libelle_court>Agent / Agente d&#0039;entretien de la voie ferr&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12029</code_ogr>
+<libelle>Chef d&#0039;application d&#0039;enrob&#0233;s</libelle>
+<libelle_court>Chef d&#0039;application d&#0039;enrob&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12387</code_ogr>
+<libelle>Chef d&#0039;entretien de la voie ferr&#0233;e</libelle>
+<libelle_court>Chef d&#0039;entretien de la voie ferr&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12442</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe des travaux de voirie communale</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe des travaux de voirie communale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12478</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe mise en oeuvre d&#0039;enrob&#0233;s</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe mise en oeuvre d&#0039;enrob&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12488</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe produits noirs</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe produits noirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12780</code_ogr>
+<libelle>Compagnon / Compagnonne Voiries et R&#0233;seaux Divers -VRD-</libelle>
+<libelle_court>Compagnon / Compagnonne Voiries et R&#0233;seaux Divers -VRD-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12779</code_ogr>
+<libelle>Compagnon routier / Compagnonne routi&#0232;re</libelle>
+<libelle_court>Compagnon routier / Compagnonne routi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13163</code_ogr>
+<libelle>Conducteur / Conductrice de r&#0233;pandeuses</libelle>
+<libelle_court>Conducteur / Conductrice de r&#0233;pandeuses</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16257</code_ogr>
+<libelle>Ma&#0231;on / Ma&#0231;onne Voiries et R&#0233;seaux Divers -VRD-</libelle>
+<libelle_court>Ma&#0231;on / Ma&#0231;onne Voiries et R&#0233;seaux Divers -VRD-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17499</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re en voiries</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re en voiries</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17541</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re Voiries et R&#0233;seaux Divers -VRD-</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re Voiries et R&#0233;seaux Divers -VRD-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17527</code_ogr>
+<libelle>Ouvrier poseur / Ouvri&#0232;re poseuse de voies ferr&#0233;es</libelle>
+<libelle_court>Ouvrier poseur / Ouvri&#0232;re poseuse de voies ferr&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17528</code_ogr>
+<libelle>Ouvrier r&#0233;gleur / Ouvri&#0232;re r&#0233;gleuse d&#0039;enrob&#0233;s</libelle>
+<libelle_court>Ouvrier r&#0233;gleur / Ouvri&#0232;re r&#0233;gleuse d&#0039;enrob&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17597</code_ogr>
+<libelle>Paveur / Paveuse</libelle>
+<libelle_court>Paveur / Paveuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17905</code_ogr>
+<libelle>Poseur / Poseuse de bordures et caniveaux</libelle>
+<libelle_court>Poseur / Poseuse de bordures et caniveaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17925</code_ogr>
+<libelle>Poseur / Poseuse de panneaux de signalisation</libelle>
+<libelle_court>Poseur / Poseuse de panneaux de signalisation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17942</code_ogr>
+<libelle>Poseur / Poseuse de voies ferr&#0233;es</libelle>
+<libelle_court>Poseur / Poseuse de voies ferr&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18399</code_ogr>
+<libelle>R&#0233;galeur / R&#0233;galeuse sur voiries</libelle>
+<libelle_court>R&#0233;galeur / R&#0233;galeuse sur voiries</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18400</code_ogr>
+<libelle>R&#0233;galeur-r&#0233;pandeur / R&#0233;galeuse-r&#0233;pandeuse</libelle>
+<libelle_court>R&#0233;galeur-r&#0233;pandeur / R&#0233;galeuse-r&#0233;pandeuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19308</code_ogr>
+<libelle>Sapeur / Sapeuse travaux lourds et voies ferr&#0233;es</libelle>
+<libelle_court>Sapeur / Sapeuse travaux lourds et voies ferr&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+R&#0233;alise tout ou partie des ouvrages li&#0233;s &#0224; la construction ou &#0224; la r&#0233;fection de routes, chauss&#0233;es (enrob&#0233;s, ...), voies ferr&#0233;s et de leurs d&#0233;pendances (bordures, trottoirs, caniveaux,...) selon les r&#0232;gles de s&#0233;curit&#0233;.
+Peut conduire des engins de travaux publics.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="4">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP dans une sp&#0233;cialit&#0233; du gros oeuvre ou des travaux publics.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans ce secteur sans dipl&#0244;me particulier.
+Un dipl&#0244;me de niveau Bac (Bac professionnel, Brevet Professionnel) peut &#0234;tre demand&#0233; pour les postes d&#0039;encadrement d&#0039;&#0233;quipe.
+Un Certificat d&#0039;Aptitude &#0224; la Conduite En S&#0233;curit&#0233; -CACES- conditionn&#0233; par une aptitude m&#0233;dicale &#0224; renouveler p&#0233;riodiquement peut &#0234;tre requis.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce sur des chantiers de routes et voiries au sein d&#0039;entreprises de travaux publics, de construction de r&#0233;seaux ferr&#0233;s, de l&#0039;arm&#0233;e.
+Elle peut impliquer des d&#0233;placements sur les chantiers et un &#0233;loignement du domicile de plusieurs jours.
+Elle peut s&#0039;exercer les fins de semaine, la nuit et &#0234;tre soumise &#0224; des astreintes.
+Elle peut impliquer le port de charges.
+Le port d&#0039;&#0233;quipements de protection (gants, chaussures de s&#0233;curit&#0233;, masque, ...) est requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23549</code_ogr>
+<libelle>Maritime, fluvial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23619</code_ogr>
+<libelle>R&#0233;seau ferr&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23677</code_ogr>
+<libelle>Voiries et R&#0233;seaux Divers -VRD-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>103754</code_ogr>
+<libelle>S&#0233;curiser le chantier et ses abords (signalisation, balisage, d&#0233;viations, ...) et &#0233;tablir les modalit&#0233;s de rotation des engins selon les contraintes du terrain</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123252</code_ogr>
+<libelle>Positionner des rep&#0232;res d&#0039;ouvrages sur un chantier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118512</code_ogr>
+<libelle>R&#0233;aliser des travaux de terrassement, de fondations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124912</code_ogr>
+<libelle>Implanter des pav&#0233;s ou des dalles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123761</code_ogr>
+<libelle>Poser des &#0233;l&#0233;ments de voirie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>103758</code_ogr>
+<libelle>Remblayer l&#0039;excavation et compacter les tranch&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121468</code_ogr>
+<libelle>Appliquer les couches d&#0039;assises de chauss&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121469</code_ogr>
+<libelle>Compacter les couches d&#0039;assises de chauss&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>103760</code_ogr>
+<libelle>R&#0233;pandre les granulats, les gravillons ou les d&#0233;blayer</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>123664</code_ogr>
+<libelle>Am&#0233;nagement urbain</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103736</code_ogr>
+<libelle>Techniques de jointement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103625</code_ogr>
+<libelle>Techniques de coulage du b&#0233;ton</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103764</code_ogr>
+<libelle>Techniques d&#0039;application d&#0039;enrob&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103763</code_ogr>
+<libelle>Caract&#0233;ristiques des enrob&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101506</code_ogr>
+<libelle>R&#0232;gles et consignes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119373</code_ogr>
+<libelle>Guidage d&#0039;engins de chantier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103070</code_ogr>
+<libelle>Lecture de plan, de sch&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121766</code_ogr>
+<libelle>Engin de terrassement m&#0233;canis&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103761</code_ogr>
+<libelle>Utilisation d&#0039;outils manuels de terrassement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103126</code_ogr>
+<libelle>Utilisation d&#0039;appareils de mesure topographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100854</code_ogr>
+<libelle>Techniques de tra&#0231;age</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>121485</code_ogr>
+<libelle>Appliquer un rev&#0234;tement de piste d&#0039;a&#0233;roport</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121486</code_ogr>
+<libelle>R&#0233;gler des couches de rev&#0234;tement de piste d&#0039;a&#0233;roport</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121489</code_ogr>
+<libelle>R&#0233;gler des couches de rev&#0234;tement de sols sportifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122131</code_ogr>
+<libelle>Poser des couches de rev&#0234;tement de sols sportifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>110245</code_ogr>
+<libelle>Caract&#0233;ristiques des infrastructures a&#0233;roportuaires (pistes d&#0039;atterrissage, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120405</code_ogr>
+<libelle>Utiliser un engin n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>123715</code_ogr>
+<libelle>Engins de finition &#0224; d&#0233;placement lent (CACES R 372-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123000</code_ogr>
+<libelle>Ma&#0231;onner des &#0233;l&#0233;ments de voirie et d&#0039;am&#0233;nagements urbains</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100596</code_ogr>
+<libelle>Techniques de ma&#0231;onnerie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114416</code_ogr>
+<libelle>Surveiller et ajuster le r&#0233;glage d&#0039;un engin de rev&#0234;tement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122991</code_ogr>
+<libelle>Entretenir des &#0233;quipements de voies ferr&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122990</code_ogr>
+<libelle>Poser des &#0233;quipements de voies ferr&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122972</code_ogr>
+<libelle>Poser des panneaux de signalisation routi&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122973</code_ogr>
+<libelle>R&#0233;aliser des marquages de signalisation au sol</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100634</code_ogr>
+<libelle>Techniques de peinture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122989</code_ogr>
+<libelle>Installer des rails et des glissi&#0232;res de s&#0233;curit&#0233; routi&#0232;re</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>121358</code_ogr>
+<libelle>Poser les goutti&#0232;res, ch&#0233;neaux et tuyaux de descente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122988</code_ogr>
+<libelle>Installer des regards pr&#0233;fabriqu&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121583</code_ogr>
+<libelle>Installer des gaines et c&#0226;blages</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1704</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;paration du gros oeuvre et des travaux publics</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1705</code_rome_cible>
+<libelle_rome_cible>Pose de canalisations</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1706</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;fabrication en b&#0233;ton industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>10665</code_appellation_source>
+<libelle_appellation_source>Agent / Agente d&#0039;entretien de la voie ferr&#0233;e</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4403</code_rome_cible>
+<libelle_rome_cible>Manoeuvre du r&#0233;seau ferr&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>12442</code_appellation_source>
+<libelle_appellation_source>Chef d&#0039;&#0233;quipe des travaux de voirie communale</libelle_appellation_source>
+<code_appellation_source>12478</code_appellation_source>
+<libelle_appellation_source>Chef d&#0039;&#0233;quipe mise en oeuvre d&#0039;enrob&#0233;s</libelle_appellation_source>
+<code_appellation_source>12488</code_appellation_source>
+<libelle_appellation_source>Chef d&#0039;&#0233;quipe produits noirs</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1202</code_rome_cible>
+<libelle_rome_cible>Direction de chantier du BTP</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>12102</code_appellation_cible>
+<libelle_appellation_cible>Chef de chantier travaux publics et voirie</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1302</code_rome_cible>
+<libelle_rome_cible>Conduite d&#0039;engins de terrassement et de carri&#0232;re</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1613</code_rome_cible>
+<libelle_rome_cible>Travaux d&#0039;&#0233;tanch&#0233;it&#0233; et d&#0039;isolation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>11082</code_appellation_cible>
+<libelle_appellation_cible>Applicateur / Applicatrice d&#0039;asphalte</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1202</code_rome_cible>
+<libelle_rome_cible>Entretien et surveillance du trac&#0233; routier</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

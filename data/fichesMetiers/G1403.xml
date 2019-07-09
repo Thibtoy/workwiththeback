@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>G1403</code_rome>
+<intitule>Gestion de structure de loisirs ou d&#0039;h&#0233;bergement touristique</intitule>
+<code_ogr>193</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="57">
+<item_app>
+<code_ogr>14216</code_ogr>
+<libelle>Directeur / Directrice de camping</libelle>
+<libelle_court>Directeur / Directrice de camping</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14217</code_ogr>
+<libelle>Directeur / Directrice de casino de jeux</libelle>
+<libelle_court>Directeur / Directrice de casino de jeux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14234</code_ogr>
+<libelle>Directeur / Directrice de centre nautique</libelle>
+<libelle_court>Directeur / Directrice de centre nautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14237</code_ogr>
+<libelle>Directeur / Directrice de centre sportif</libelle>
+<libelle_court>Directeur / Directrice de centre sportif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14301</code_ogr>
+<libelle>Directeur / Directrice de piscine</libelle>
+<libelle_court>Directeur / Directrice de piscine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14322</code_ogr>
+<libelle>Directeur / Directrice de r&#0233;sidence de tourisme</libelle>
+<libelle_court>Directeur / Directrice de r&#0233;sidence de tourisme</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14326</code_ogr>
+<libelle>Directeur / Directrice de salle de cin&#0233;ma</libelle>
+<libelle_court>Directeur / Directrice de salle de cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14356</code_ogr>
+<libelle>Directeur / Directrice d&#0039;&#0233;quipement de loisirs</libelle>
+<libelle_court>Directeur / Directrice d&#0039;&#0233;quipement de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14357</code_ogr>
+<libelle>Directeur / Directrice d&#0039;&#0233;quipement sportif</libelle>
+<libelle_court>Directeur / Directrice d&#0039;&#0233;quipement sportif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14418</code_ogr>
+<libelle>Directeur / Directrice d&#0039;h&#0244;tellerie de plein air</libelle>
+<libelle_court>Directeur / Directrice d&#0039;h&#0244;tellerie de plein air</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14969</code_ogr>
+<libelle>Exploitant / Exploitante d&#0039;attraction foraine</libelle>
+<libelle_court>Exploitant / Exploitante d&#0039;attraction foraine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14970</code_ogr>
+<libelle>Exploitant / Exploitante d&#0039;attractions</libelle>
+<libelle_court>Exploitant / Exploitante d&#0039;attractions</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14973</code_ogr>
+<libelle>Exploitant / Exploitante de cabaret</libelle>
+<libelle_court>Exploitant / Exploitante de cabaret</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14976</code_ogr>
+<libelle>Exploitant / Exploitante de camping</libelle>
+<libelle_court>Exploitant / Exploitante de camping</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14977</code_ogr>
+<libelle>Exploitant / Exploitante de casino des jeux</libelle>
+<libelle_court>Exploitant / Exploitante de casino des jeux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14978</code_ogr>
+<libelle>Exploitant / Exploitante de centre &#0233;questre</libelle>
+<libelle_court>Exploitant / Exploitante de centre &#0233;questre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14979</code_ogr>
+<libelle>Exploitant / Exploitante de cercle de jeux</libelle>
+<libelle_court>Exploitant / Exploitante de cercle de jeux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14980</code_ogr>
+<libelle>Exploitant / Exploitante de chambres d&#0039;h&#0244;tes</libelle>
+<libelle_court>Exploitant / Exploitante de chambres d&#0039;h&#0244;tes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14981</code_ogr>
+<libelle>Exploitant / Exploitante de cin&#0233;ma</libelle>
+<libelle_court>Exploitant / Exploitante de cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14982</code_ogr>
+<libelle>Exploitant / Exploitante de discoth&#0232;que</libelle>
+<libelle_court>Exploitant / Exploitante de discoth&#0232;que</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14983</code_ogr>
+<libelle>Exploitant / Exploitante de g&#0238;te rural</libelle>
+<libelle_court>Exploitant / Exploitante de g&#0238;te rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14984</code_ogr>
+<libelle>Exploitant / Exploitante de karting</libelle>
+<libelle_court>Exploitant / Exploitante de karting</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14985</code_ogr>
+<libelle>Exploitant / Exploitante de man&#0232;ge</libelle>
+<libelle_court>Exploitant / Exploitante de man&#0232;ge</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14986</code_ogr>
+<libelle>Exploitant / Exploitante de man&#0232;ge forain</libelle>
+<libelle_court>Exploitant / Exploitante de man&#0232;ge forain</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14987</code_ogr>
+<libelle>Exploitant / Exploitante de minigolf</libelle>
+<libelle_court>Exploitant / Exploitante de minigolf</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14988</code_ogr>
+<libelle>Exploitant / Exploitante de parc de parcours acrobatique</libelle>
+<libelle_court>Exploitant / Exploitante de parc de parcours acrobatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14989</code_ogr>
+<libelle>Exploitant / Exploitante de parc naturel et animalier</libelle>
+<libelle_court>Exploitant / Exploitante de parc naturel et animalier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14990</code_ogr>
+<libelle>Exploitant / Exploitante de parc zoologique</libelle>
+<libelle_court>Exploitant / Exploitante de parc zoologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14991</code_ogr>
+<libelle>Exploitant / Exploitante de parcours acrobatique en hauteur</libelle>
+<libelle_court>Exploitant / Exploitante de parcours acrobatique en hauteur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14992</code_ogr>
+<libelle>Exploitant / Exploitante de patinoire</libelle>
+<libelle_court>Exploitant / Exploitante de patinoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14994</code_ogr>
+<libelle>Exploitant / Exploitante de salle de billard</libelle>
+<libelle_court>Exploitant / Exploitante de salle de billard</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14995</code_ogr>
+<libelle>Exploitant / Exploitante de salle de bowling</libelle>
+<libelle_court>Exploitant / Exploitante de salle de bowling</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14996</code_ogr>
+<libelle>Exploitant / Exploitante de salle de jeux &#0233;lectroniques/automatiques</libelle>
+<libelle_court>Exploitant(e) de salle de jeux &#0233;lectroniques/automatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14997</code_ogr>
+<libelle>Exploitant / Exploitante de salle de spectacles</libelle>
+<libelle_court>Exploitant / Exploitante de salle de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14999</code_ogr>
+<libelle>Exploitant / Exploitante de structure d&#0039;h&#0233;bergement touristique</libelle>
+<libelle_court>Exploitant(e) de structure d&#0039;h&#0233;bergement touristique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15000</code_ogr>
+<libelle>Exploitant / Exploitante de tennis</libelle>
+<libelle_court>Exploitant / Exploitante de tennis</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15002</code_ogr>
+<libelle>Exploitant / Exploitante d&#0039;&#0233;quipement de loisirs</libelle>
+<libelle_court>Exploitant / Exploitante d&#0039;&#0233;quipement de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15003</code_ogr>
+<libelle>Exploitant / Exploitante d&#0039;&#0233;quipement de loisirs de plein air</libelle>
+<libelle_court>Exploitant/Exploitante d&#0039;&#0233;quipement de loisirs de plein air</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15001</code_ogr>
+<libelle>Exploitant / Exploitante d&#0039;&#0233;quipement sportif</libelle>
+<libelle_court>Exploitant / Exploitante d&#0039;&#0233;quipement sportif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15008</code_ogr>
+<libelle>Exploitant directeur / Exploitante directrice de golf</libelle>
+<libelle_court>Exploitant directeur / Exploitante directrice de golf</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38890</code_ogr>
+<libelle>Gardien / Gardienne de refuge de montagne</libelle>
+<libelle_court>Gardien / Gardienne de refuge de montagne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15279</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de camping</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de camping</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15281</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de centre nautique</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de centre nautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15285</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de dancing</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de dancing</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15291</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante de piscine</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante de piscine</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15300</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante d&#0039;&#0233;quipement de loisirs</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante d&#0039;&#0233;quipement de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15301</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante d&#0039;&#0233;quipement sportif</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante d&#0039;&#0233;quipement sportif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15322</code_ogr>
+<libelle>Gestionnaire de base de loisirs</libelle>
+<libelle_court>Gestionnaire de base de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15338</code_ogr>
+<libelle>Gestionnaire de parc de loisirs</libelle>
+<libelle_court>Gestionnaire de parc de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15354</code_ogr>
+<libelle>Gestionnaire de structure de loisirs</libelle>
+<libelle_court>Gestionnaire de structure de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15355</code_ogr>
+<libelle>Gestionnaire de structure d&#0039;h&#0233;bergement touristique</libelle>
+<libelle_court>Gestionnaire de structure d&#0039;h&#0233;bergement touristique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15358</code_ogr>
+<libelle>Gestionnaire d&#0039;espaces naturels et de loisirs</libelle>
+<libelle_court>Gestionnaire d&#0039;espaces naturels et de loisirs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18626</code_ogr>
+<libelle>Responsable d&#0039;aquarium</libelle>
+<libelle_court>Responsable d&#0039;aquarium</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18799</code_ogr>
+<libelle>Responsable de parc naturel</libelle>
+<libelle_court>Responsable de parc naturel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18804</code_ogr>
+<libelle>Responsable de plan&#0233;tarium</libelle>
+<libelle_court>Responsable de plan&#0233;tarium</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18851</code_ogr>
+<libelle>Responsable de salle de sports</libelle>
+<libelle_court>Responsable de salle de sports</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18896</code_ogr>
+<libelle>Responsable de village de vacances</libelle>
+<libelle_court>Responsable de village de vacances</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="1">
+Organise l&#0039;activit&#0233; et g&#0232;re l&#0039;exploitation de structures de loisirs ou d&#0039;h&#0233;bergement touristique dans ses dimensions techniques, commerciales, humaines, financi&#0232;res, ..., dans un objectif de qualit&#0233; et de rentabilit&#0233; &#0233;conomique, selon les r&#0232;gles de s&#0233;curit&#0233; des biens et des personnes.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec une exp&#0233;rience professionnelle dans le secteur d&#0039;intervention de la structure (tourisme, animation, spectacle, sport, h&#0233;bergement, ...), sans dipl&#0244;me particulier.
+Des formations compl&#0233;mentaires (Licence, ...) en management des &#0233;tablissements de loisirs, h&#0244;tellerie de plein air, ... peuvent en faciliter l&#0039;acc&#0232;s.
+Des autorisations ou des agr&#0233;ments peuvent &#0234;tre exig&#0233;s selon le type de structure (casino, discoth&#0232;que, ...).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de complexes sportifs, h&#0244;tellerie de plein air, de jeux, bases de loisirs, ... ou d&#0039;entreprises itin&#0233;rantes (attractions foraines, ...) en contact avec le public et en relation avec diff&#0233;rents intervenants (administration, fournisseurs, animateurs, associations, ...).
+Elle peut varier selon le type de structure (piscine, patinoire, cin&#0233;ma, piste de karting, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des variations saisonni&#0232;res (cong&#0233;s scolaires, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23915</code_ogr>
+<libelle>Etablissement de jeux</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23965</code_ogr>
+<libelle>H&#0244;tellerie de plein air</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23970</code_ogr>
+<libelle>Infrastructure sportive</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24028</code_ogr>
+<libelle>Parc d&#0039;attractions</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24051</code_ogr>
+<libelle>R&#0233;sidence de tourisme</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24128</code_ogr>
+<libelle>Village vacances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="15">
+<item_ab>
+<code_ogr>104113</code_ogr>
+<libelle>D&#0233;terminer et mettre en place l&#0039;organisation de l&#0039;exploitation (horaires, accueil du public, utilisation des &#0233;quipements, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119330</code_ogr>
+<libelle>R&#0233;aliser la gestion des ressources humaines</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123564</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement d&#0039;un outil ou &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122263</code_ogr>
+<libelle>D&#0233;finir des besoins en &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117153</code_ogr>
+<libelle>Pr&#0233;senter le bilan annuel d&#0039;activit&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>115028</code_ogr>
+<libelle>Analyser les donn&#0233;es d&#0039;activit&#0233; de la structure, du service et identifier des axes d&#0039;&#0233;volution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121491</code_ogr>
+<libelle>Mettre en place des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>116900</code_ogr>
+<libelle>D&#0233;finir une strat&#0233;gie de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122471</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;application de proc&#0233;dures Qualit&#0233;, S&#0233;curit&#0233; et Environnement (QSE)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121374</code_ogr>
+<libelle>Assister techniquement une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124522</code_ogr>
+<libelle>R&#0233;diger une proc&#0233;dure de Qualit&#0233;, Hygi&#0232;ne, S&#0233;curit&#0233; et Environnement -QHSE-</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122151</code_ogr>
+<libelle>Coordonner les activit&#0233;s d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101949</code_ogr>
+<libelle>Techniques de pr&#0233;vention et de gestion de conflits</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100091</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233; des espaces et des &#0233;tablissements recevant du public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104120</code_ogr>
+<libelle>Proc&#0233;dures de maintenance des &#0233;quipements et du patrimoine b&#0226;ti</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104119</code_ogr>
+<libelle>Normes et techniques d&#0039;installation et d&#0039;exploitation d&#0039;&#0233;quipements sportifs et de loisirs</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="4">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>123788</code_ogr>
+<libelle>Coordonner les activit&#0233;s d&#0039;une structure de jeux ou de loisirs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122153</code_ogr>
+<libelle>Coordonner les activit&#0233;s d&#0039;une structure sportive</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122148</code_ogr>
+<libelle>Coordonner des activit&#0233;s d&#0039;une structure d&#0039;h&#0233;bergement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126304</code_ogr>
+<libelle>Coordonner les activit&#0233;s d&#0039;un parc animalier ou zoologique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>103884</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; en montagne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104138</code_ogr>
+<libelle>Normes d&#0039;h&#0233;bergement touristique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104139</code_ogr>
+<libelle>Gestion h&#0244;teli&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117667</code_ogr>
+<libelle>Logiciel de gestion h&#0244;teli&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124888</code_ogr>
+<libelle>Entretenir des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114491</code_ogr>
+<libelle>Renseigner les clients sur les services de la structure et effectuer la vente de billets</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100340</code_ogr>
+<libelle>Techniques de vente</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123093</code_ogr>
+<libelle>Surveiller un cheptel animalier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119351</code_ogr>
+<libelle>Evaluer l&#0039;&#0233;tat de sant&#0233; de l&#0039;animal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100414</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1407</code_rome_cible>
+<libelle_rome_cible>Relation technico-commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>14217</code_appellation_source>
+<libelle_appellation_source>Directeur / Directrice de casino de jeux</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>14977</code_appellation_source>
+<libelle_appellation_source>Exploitant / Exploitante de casino des jeux</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>14979</code_appellation_source>
+<libelle_appellation_source>Exploitant / Exploitante de cercle de jeux</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1206</code_rome_cible>
+<libelle_rome_cible>Personnel technique des jeux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14368</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice des jeux</libelle_appellation_cible>
+<code_appellation_cible>14459</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice Machines &#0224; Sous -MAS-</libelle_appellation_cible>
+<code_appellation_cible>14181</code_appellation_cible>
+<libelle_appellation_cible>Directeur adjoint / Directrice adjointe des jeux</libelle_appellation_cible>
+<code_appellation_cible>16610</code_appellation_cible>
+<libelle_appellation_cible>Membre du comit&#0233; de direction des jeux</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>14368</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice des jeux</libelle_appellation_cible>
+<code_appellation_cible>14459</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice Machines &#0224; Sous -MAS-</libelle_appellation_cible>
+<code_appellation_cible>14181</code_appellation_cible>
+<libelle_appellation_cible>Directeur adjoint / Directrice adjointe des jeux</libelle_appellation_cible>
+<code_appellation_cible>16610</code_appellation_cible>
+<libelle_appellation_cible>Membre du comit&#0233; de direction des jeux</libelle_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible> </libelle_appellation_cible>
+<code_appellation_cible>14368</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice des jeux</libelle_appellation_cible>
+<code_appellation_cible>14459</code_appellation_cible>
+<libelle_appellation_cible>Directeur / Directrice Machines &#0224; Sous -MAS-</libelle_appellation_cible>
+<code_appellation_cible>14181</code_appellation_cible>
+<libelle_appellation_cible>Directeur adjoint / Directrice adjointe des jeux</libelle_appellation_cible>
+<code_appellation_cible>16610</code_appellation_cible>
+<libelle_appellation_cible>Membre du comit&#0233; de direction des jeux</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1402</code_rome_cible>
+<libelle_rome_cible>Management d&#0039;h&#0244;tel-restaurant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1404</code_rome_cible>
+<libelle_rome_cible>Management d&#0039;&#0233;tablissement de restauration collective</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>G1801</code_rome_cible>
+<libelle_rome_cible>Caf&#0233;, bar brasserie</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

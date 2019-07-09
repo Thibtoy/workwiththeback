@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K2401</code_rome>
+<intitule>Recherche en sciences de l&#0039;homme et de la soci&#0233;t&#0233;</intitule>
+<code_ogr>426</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="49">
+<item_app>
+<code_ogr>11076</code_ogr>
+<libelle>Anthropologue</libelle>
+<libelle_court>Anthropologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11107</code_ogr>
+<libelle>Arch&#0233;ologue</libelle>
+<libelle_court>Arch&#0233;ologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11108</code_ogr>
+<libelle>Arch&#0233;om&#0232;tre</libelle>
+<libelle_court>Arch&#0233;om&#0232;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11859</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de recherche en sciences humaines</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de recherche en sciences humaines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11860</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de recherche en sciences sociales</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de recherche en sciences sociales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11909</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en sciences humaines</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;&#0233;tudes en sciences humaines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12605</code_ogr>
+<libelle>Chercheur / Chercheuse en arch&#0233;ologie</libelle>
+<libelle_court>Chercheur / Chercheuse en arch&#0233;ologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38394</code_ogr>
+<libelle>Chercheur / Chercheuse en criminologie</libelle>
+<libelle_court>Chercheur / Chercheuse en criminologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12606</code_ogr>
+<libelle>Chercheur / Chercheuse en d&#0233;mographie</libelle>
+<libelle_court>Chercheur / Chercheuse en d&#0233;mographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12607</code_ogr>
+<libelle>Chercheur / Chercheuse en &#0233;conomie</libelle>
+<libelle_court>Chercheur / Chercheuse en &#0233;conomie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14879</code_ogr>
+<libelle>Chercheur / Chercheuse en ergonomie</libelle>
+<libelle_court>Chercheur / Chercheuse en ergonomie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12608</code_ogr>
+<libelle>Chercheur / Chercheuse en ethnologie</libelle>
+<libelle_court>Chercheur / Chercheuse en ethnologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12609</code_ogr>
+<libelle>Chercheur / Chercheuse en g&#0233;ographie</libelle>
+<libelle_court>Chercheur / Chercheuse en g&#0233;ographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>24846</code_ogr>
+<libelle>Chercheur / Chercheuse en g&#0233;omatique</libelle>
+<libelle_court>Chercheur / Chercheuse en g&#0233;omatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12610</code_ogr>
+<libelle>Chercheur / Chercheuse en histoire</libelle>
+<libelle_court>Chercheur / Chercheuse en histoire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12611</code_ogr>
+<libelle>Chercheur / Chercheuse en linguistique</libelle>
+<libelle_court>Chercheur / Chercheuse en linguistique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12612</code_ogr>
+<libelle>Chercheur / Chercheuse en psychologie</libelle>
+<libelle_court>Chercheur / Chercheuse en psychologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12613</code_ogr>
+<libelle>Chercheur / Chercheuse en sciences humaines</libelle>
+<libelle_court>Chercheur / Chercheuse en sciences humaines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12614</code_ogr>
+<libelle>Chercheur / Chercheuse en sciences humaines et sociales</libelle>
+<libelle_court>Chercheur / Chercheuse en sciences humaines et sociales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12615</code_ogr>
+<libelle>Chercheur / Chercheuse en sciences sociales</libelle>
+<libelle_court>Chercheur / Chercheuse en sciences sociales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12616</code_ogr>
+<libelle>Chercheur / Chercheuse en sociologie</libelle>
+<libelle_court>Chercheur / Chercheuse en sociologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12617</code_ogr>
+<libelle>Chercheur / Chercheuse en thanatologie</libelle>
+<libelle_court>Chercheur / Chercheuse en thanatologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>24847</code_ogr>
+<libelle>Chercheur / Chercheuse en urbanisme</libelle>
+<libelle_court>Chercheur / Chercheuse en urbanisme</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12633</code_ogr>
+<libelle>Chor&#0233;ologue</libelle>
+<libelle_court>Chor&#0233;ologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13953</code_ogr>
+<libelle>D&#0233;mographe</libelle>
+<libelle_court>D&#0233;mographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14314</code_ogr>
+<libelle>Directeur / Directrice de recherche en sciences humaines</libelle>
+<libelle_court>Directeur / Directrice de recherche en sciences humaines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14316</code_ogr>
+<libelle>Directeur / Directrice de recherche en sciences sociales</libelle>
+<libelle_court>Directeur / Directrice de recherche en sciences sociales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14566</code_ogr>
+<libelle>&#0201;conomiste chercheur / chercheuse</libelle>
+<libelle_court>&#0201;conomiste chercheur / chercheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14865</code_ogr>
+<libelle>&#0201;pigraphiste</libelle>
+<libelle_court>&#0201;pigraphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38636</code_ogr>
+<libelle>Ergolinguiste</libelle>
+<libelle_court>Ergolinguiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14915</code_ogr>
+<libelle>Ethnographe</libelle>
+<libelle_court>Ethnographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14916</code_ogr>
+<libelle>Ethnolinguiste</libelle>
+<libelle_court>Ethnolinguiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14917</code_ogr>
+<libelle>Ethnologue</libelle>
+<libelle_court>Ethnologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14918</code_ogr>
+<libelle>Ethnomusicologue</libelle>
+<libelle_court>Ethnomusicologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14919</code_ogr>
+<libelle>Ethnosociologue</libelle>
+<libelle_court>Ethnosociologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15249</code_ogr>
+<libelle>G&#0233;n&#0233;alogiste</libelle>
+<libelle_court>G&#0233;n&#0233;alogiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15469</code_ogr>
+<libelle>Historien / Historienne</libelle>
+<libelle_court>Historien / Historienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16179</code_ogr>
+<libelle>Lexicographe</libelle>
+<libelle_court>Lexicographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16180</code_ogr>
+<libelle>Lexicologue</libelle>
+<libelle_court>Lexicologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16196</code_ogr>
+<libelle>Linguiste</libelle>
+<libelle_court>Linguiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16941</code_ogr>
+<libelle>Musicologue</libelle>
+<libelle_court>Musicologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17547</code_ogr>
+<libelle>Pal&#0233;ographe</libelle>
+<libelle_court>Pal&#0233;ographe</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17549</code_ogr>
+<libelle>Pal&#0233;ontologue</libelle>
+<libelle_court>Pal&#0233;ontologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17695</code_ogr>
+<libelle>Philologue</libelle>
+<libelle_court>Philologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18229</code_ogr>
+<libelle>Psychologue chercheur / chercheuse</libelle>
+<libelle_court>Psychologue chercheur / chercheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19438</code_ogr>
+<libelle>Sociologue</libelle>
+<libelle_court>Sociologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19439</code_ogr>
+<libelle>Sociologue chercheur / chercheuse</libelle>
+<libelle_court>Sociologue chercheur / chercheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20308</code_ogr>
+<libelle>Terminologue</libelle>
+<libelle_court>Terminologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20494</code_ogr>
+<libelle>Urbanologue</libelle>
+<libelle_court>Urbanologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Contribue &#0224; l&#0039;accroissement des connaissances dans son champ disciplinaire en menant des travaux de recherche, des chantiers scientifiques sur de nouvelles probl&#0233;matiques des sciences de l&#0039;homme et de la soci&#0233;t&#0233; (sociologie, psychologie, ethnologie, &#0233;conomie, histoire, ...).
+Valorise et diffuse les r&#0233;sultats aupr&#0232;s de la communaut&#0233; scientifique, d&#0039;institutionnels et d&#0039;entreprises.
+Peut diriger une &#0233;quipe de recherche.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un Master recherche compl&#0233;t&#0233; par un Doctorat en sciences humaines, histoire, sciences, ...
+La publication de travaux (articles, ouvrages, th&#0232;ses, m&#0233;moires, ...) contribue &#0224; la reconnaissance des comp&#0233;tences professionnelles.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;&#0233;tablissements/organismes de recherche, d&#0039;&#0233;tablissements d&#0039;enseignement sup&#0233;rieur et de recherche, de cabinets d&#0039;&#0233;tudes et de conseil, ... en relation avec diff&#0233;rents intervenants (sp&#0233;cialistes d&#0039;autres disciplines, institutionnels, universitaires, ...).
+Elle varie selon la discipline (sociologie, psychologie, ethnologie, &#0233;conomie, arch&#0233;ologie, ...), le lieu de conduite de travaux/d&#0039;observations (milieu naturel, ...), le type de recherche, les financements.
+Elle peut s&#0039;exercer sur le terrain et impliquer un &#0233;loignement du domicile de plusieurs jours (colloques, s&#0233;minaires, ...) ou mois (campagne de travaux, observation terrain, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23771</code_ogr>
+<libelle>Centre de formation pour adultes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23925</code_ogr>
+<libelle>Etablissement/organisme de recherche</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24016</code_ogr>
+<libelle>Organisme culturel, du patrimoine</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24081</code_ogr>
+<libelle>Soci&#0233;t&#0233; de conseil</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24127</code_ogr>
+<libelle>Universit&#0233;/&#0233;cole d&#0039;ing&#0233;nieurs/grande &#0233;cole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23473</code_ogr>
+<libelle>Education / Enseignement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23576</code_ogr>
+<libelle>Patrimoine culturel et historique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23609</code_ogr>
+<libelle>Recherche et d&#0233;veloppement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>108783</code_ogr>
+<libelle>D&#0233;finir les th&#0232;mes, l&#0039;objet et la finalit&#0233; d&#0039;&#0233;tudes ou de recherches</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121136</code_ogr>
+<libelle>D&#0233;finir les orientations strat&#0233;giques d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108784</code_ogr>
+<libelle>D&#0233;terminer et d&#0233;velopper les m&#0233;thodes de recherche, de recueil et d&#0039;analyse de donn&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108785</code_ogr>
+<libelle>Superviser ou r&#0233;aliser les investigations, les observations et la collecte d&#0039;informations sur l&#0039;objet de la recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108786</code_ogr>
+<libelle>Interpr&#0233;ter les donn&#0233;es recueillies et formaliser les r&#0233;sultats obtenus</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108787</code_ogr>
+<libelle>R&#0233;diger les rapports, publications, m&#0233;moires des travaux de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>108788</code_ogr>
+<libelle>Pr&#0233;senter et expliciter les avanc&#0233;es scientifiques et les travaux de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121991</code_ogr>
+<libelle>Apporter un appui scientifique &#0224; des chercheurs, institutions, entreprises</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>126027</code_ogr>
+<libelle>Conseiller des chercheurs, institutions, entreprises sur des questions scientifiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>108093</code_ogr>
+<libelle>M&#0233;thodes d&#0039;investigation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101397</code_ogr>
+<libelle>Logiciels de mod&#0233;lisation et simulation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108537</code_ogr>
+<libelle>M&#0233;thodologie de recherche</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101315</code_ogr>
+<libelle>Analyse statistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119509</code_ogr>
+<libelle>Logiciels de gestion documentaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126399</code_ogr>
+<libelle>Intervenir sur un th&#0232;me de recherche sp&#0233;cifique en sciences de l&#0039;homme et de la soci&#0233;t&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="22">
+<item_as_stp>
+<code_ogr>118211</code_ogr>
+<libelle>Anthropologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108159</code_ogr>
+<libelle>Arch&#0233;ologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107999</code_ogr>
+<libelle>D&#0233;mographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118250</code_ogr>
+<libelle>Droit g&#0233;n&#0233;ral</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100906</code_ogr>
+<libelle>Ergonomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108302</code_ogr>
+<libelle>Economie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118221</code_ogr>
+<libelle>Ethnologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118896</code_ogr>
+<libelle>G&#0233;n&#0233;alogie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120797</code_ogr>
+<libelle>Am&#0233;nagement du territoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118899</code_ogr>
+<libelle>G&#0233;ographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118902</code_ogr>
+<libelle>Histoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119191</code_ogr>
+<libelle>Histoire de l&#0039;art</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102460</code_ogr>
+<libelle>Litt&#0233;rature</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102553</code_ogr>
+<libelle>Linguistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118901</code_ogr>
+<libelle>Lexicologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118898</code_ogr>
+<libelle>Musicologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118201</code_ogr>
+<libelle>Pal&#0233;ontologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118202</code_ogr>
+<libelle>Philosophie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>108056</code_ogr>
+<libelle>Sciences politiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>103025</code_ogr>
+<libelle>Sociologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101675</code_ogr>
+<libelle>Urbanisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121259</code_ogr>
+<libelle>Conseiller des partenaires dans le d&#0233;veloppement, la recherche, la m&#0233;thodologie, et l&#0039;interpr&#0233;tation des r&#0233;sultats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120333</code_ogr>
+<libelle>Rechercher des financements, des partenariats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>122152</code_ogr>
+<libelle>Prospecter des institutionnels ou des collectivit&#0233;s territoriales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>118637</code_ogr>
+<libelle>Analyser les besoins du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>108293</code_ogr>
+<libelle>Prospecter des entreprises</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115345</code_ogr>
+<libelle>Concevoir des contenus de programmes d&#0039;enseignement scientifique et d&#0233;livrer des cours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123397</code_ogr>
+<libelle>G&#0233;rer le budget global d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113770</code_ogr>
+<libelle>Diriger un service, un laboratoire de recherche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2402</code_rome_cible>
+<libelle_rome_cible>Recherche en sciences de l&#0039;univers, de la mati&#0232;re et du vivant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1403</code_rome_cible>
+<libelle_rome_cible>&#0201;tudes et prospectives socio-&#0233;conomiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>19438</code_appellation_source>
+<libelle_appellation_source>Sociologue</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1702</code_rome_cible>
+<libelle_rome_cible>Analyse de tendance</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1106</code_rome_cible>
+<libelle_rome_cible>Journalisme et information m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16098</code_appellation_cible>
+<libelle_appellation_cible>Journaliste scientifique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1402</code_rome_cible>
+<libelle_rome_cible>Conseil en organisation et management d&#0039;entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

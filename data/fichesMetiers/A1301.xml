@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>A1301</code_rome>
+<intitule>Conseil et assistance technique en agriculture</intitule>
+<code_ogr>12</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="42">
+<item_app>
+<code_ogr>10972</code_ogr>
+<libelle>Animateur / Animatrice agricole</libelle>
+<libelle_court>Animateur / Animatrice agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11050</code_ogr>
+<libelle>Animateur / Animatrice d&#0039;organismes agricoles</libelle>
+<libelle_court>Animateur / Animatrice d&#0039;organismes agricoles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13350</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re agricole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13386</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re d&#0039;agriculture</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re d&#0039;agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13388</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re de gestion agricole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re de gestion agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13395</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re d&#0039;&#0233;levage en production laiti&#0232;re</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re d&#0039;&#0233;levage en production laiti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38324</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en g&#0233;nie climatique agricole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en g&#0233;nie climatique agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13439</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en irrigation</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en irrigation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13440</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en machinisme agricole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en machinisme agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13481</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re technique agricole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re technique agricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13496</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re viticole</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re viticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13459</code_ogr>
+<libelle>Conseiller forestier / Conseill&#0232;re foresti&#0232;re</libelle>
+<libelle_court>Conseiller forestier / Conseill&#0232;re foresti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15498</code_ogr>
+<libelle>Hydraulicien / Hydraulicienne en agriculture</libelle>
+<libelle_court>Hydraulicien / Hydraulicienne en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19657</code_ogr>
+<libelle>Technicien / Technicienne arboricole</libelle>
+<libelle_court>Technicien / Technicienne arboricole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19667</code_ogr>
+<libelle>Technicien / Technicienne avicole</libelle>
+<libelle_court>Technicien / Technicienne avicole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19670</code_ogr>
+<libelle>Technicien / Technicienne b&#0226;timents d&#0039;&#0233;levage</libelle>
+<libelle_court>Technicien / Technicienne b&#0226;timents d&#0039;&#0233;levage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19679</code_ogr>
+<libelle>Technicien / Technicienne bovin</libelle>
+<libelle_court>Technicien / Technicienne bovin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19683</code_ogr>
+<libelle>Technicien / Technicienne caprin</libelle>
+<libelle_court>Technicien / Technicienne caprin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19705</code_ogr>
+<libelle>Technicien / Technicienne cunicole</libelle>
+<libelle_court>Technicien / Technicienne cunicole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19709</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;agriculture</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19743</code_ogr>
+<libelle>Technicien / Technicienne de culture mara&#0238;ch&#0232;re</libelle>
+<libelle_court>Technicien / Technicienne de culture mara&#0238;ch&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19875</code_ogr>
+<libelle>Technicien / Technicienne de maintenance v&#0233;g&#0233;tale</libelle>
+<libelle_court>Technicien / Technicienne de maintenance v&#0233;g&#0233;tale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19900</code_ogr>
+<libelle>Technicien / Technicienne de production animale</libelle>
+<libelle_court>Technicien / Technicienne de production animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19932</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;&#0233;levage</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;&#0233;levage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19953</code_ogr>
+<libelle>Technicien / Technicienne des travaux forestiers</libelle>
+<libelle_court>Technicien / Technicienne des travaux forestiers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19968</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;exp&#0233;rimentation</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;exp&#0233;rimentation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20019</code_ogr>
+<libelle>Technicien / Technicienne du g&#0233;nie rural</libelle>
+<libelle_court>Technicien / Technicienne du g&#0233;nie rural</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20020</code_ogr>
+<libelle>Technicien / Technicienne du g&#0233;nie sanitaire et environnement</libelle>
+<libelle_court>Technicien/Technicienne du g&#0233;nie sanitaire et environnement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20036</code_ogr>
+<libelle>Technicien / Technicienne en agriculture biologique</libelle>
+<libelle_court>Technicien / Technicienne en agriculture biologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20037</code_ogr>
+<libelle>Technicien / Technicienne en alimentation animale</libelle>
+<libelle_court>Technicien / Technicienne en alimentation animale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20066</code_ogr>
+<libelle>Technicien / Technicienne en fabrication fromag&#0232;re</libelle>
+<libelle_court>Technicien / Technicienne en fabrication fromag&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20135</code_ogr>
+<libelle>Technicien / Technicienne &#0233;quin</libelle>
+<libelle_court>Technicien / Technicienne &#0233;quin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20165</code_ogr>
+<libelle>Technicien / Technicienne horticole</libelle>
+<libelle_court>Technicien / Technicienne horticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20207</code_ogr>
+<libelle>Technicien / Technicienne ovin</libelle>
+<libelle_court>Technicien / Technicienne ovin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20218</code_ogr>
+<libelle>Technicien / Technicienne porcin</libelle>
+<libelle_court>Technicien / Technicienne porcin</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20252</code_ogr>
+<libelle>Technicien / Technicienne semences</libelle>
+<libelle_court>Technicien / Technicienne semences</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20286</code_ogr>
+<libelle>Technicien / Technicienne viticole</libelle>
+<libelle_court>Technicien / Technicienne viticole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20147</code_ogr>
+<libelle>Technicien foncier / Technicienne fonci&#0232;re</libelle>
+<libelle_court>Technicien foncier / Technicienne fonci&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20148</code_ogr>
+<libelle>Technicien foncier / Technicienne fonci&#0232;re en agriculture</libelle>
+<libelle_court>Technicien foncier / Technicienne fonci&#0232;re en agriculture</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20149</code_ogr>
+<libelle>Technicien forestier / Technicienne foresti&#0232;re</libelle>
+<libelle_court>Technicien forestier / Technicienne foresti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20150</code_ogr>
+<libelle>Technicien forestier / Technicienne foresti&#0232;re d&#0039;&#0233;tudes et de recherche</libelle>
+<libelle_court>Technicien(ne) forestier(&#0232;re) d&#0039;&#0233;tudes et de recherche</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20179</code_ogr>
+<libelle>Technicien laitier / Technicienne laiti&#0232;re</libelle>
+<libelle_court>Technicien laitier / Technicienne laiti&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Conseille et assiste techniquement les professionnels de l&#0039;agriculture, de l&#0039;aquaculture, de la sylviculture ou de l&#0039;&#0233;levage selon les orientations institutionnelles (pr&#0233;servation du patrimoine naturel, ...), les projets d&#0039;am&#0233;nagement du territoire (dispositif de gestion de l&#0039;eau,...) ou d&#0039;implantation d&#0039;exploitation agricole et d&#0039;&#0233;levage, et la r&#0233;glementation environnementale.
+Peut former et sensibiliser diff&#0233;rents publics. Peut r&#0233;aliser des pr&#0233;l&#0232;vements d&#0039;&#0233;chantillons.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un BTS Agricole en agriculture, g&#0233;nie rural, environnement, ...
+Un Master (dipl&#0244;me d&#0039;ing&#0233;nieur, Master recherche en droit rural, &#0233;cole de commerce, ...) est requis pour les postes de conseillers.
+Son acc&#0232;s dans les collectivit&#0233;s territoriales et organismes publics s&#0039;effectue sur concours.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;organismes agricoles (chambre d&#0039;agriculture, syndicats, ...), de soci&#0233;t&#0233;s de services, de fermes exp&#0233;rimentales, ... en contact avec diff&#0233;rents intervenants (techniciens de production, laboratoires, fournisseurs, ...).
+Elle varie selon le secteur (agriculture, aquaculture, &#0233;levage bovin, ...), le type de la structure (ferme exp&#0233;rimentale, organisme public, ...) et le type d&#0039;&#0233;tudes men&#0233;es.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s et &#0234;tre soumise &#0224; des astreintes ou gardes.
+Le port d&#0039;&#0233;quipements de protection st&#0233;riles (blouse, masque, gants, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23939</code_ogr>
+<libelle>Ferme exp&#0233;rimentale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24011</code_ogr>
+<libelle>Office National des For&#0234;ts</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24024</code_ogr>
+<libelle>Organisme patronal/consulaire</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>117713</code_ogr>
+<libelle>D&#0233;terminer des besoins en financement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124829</code_ogr>
+<libelle>Analyser les r&#0233;sultats d&#0039;une exp&#0233;rimentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>120854</code_ogr>
+<libelle>Mettre en place des actions correctives et pr&#0233;ventives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124815</code_ogr>
+<libelle>Identifier une anomalie de r&#0233;action ou d&#0233;veloppement d&#0039;une exploitation agricole</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121793</code_ogr>
+<libelle>Concevoir un plan d&#0039;action de projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>121028</code_ogr>
+<libelle>Planifier les &#0233;tapes d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>100111</code_ogr>
+<libelle>Concevoir les solutions technico-&#0233;conomiques (reprise d&#0039;exploitation, reconversion, ...) adapt&#0233;es aux probl&#0233;matiques d&#0039;un site de production (environnement, pollution, rendements, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121529</code_ogr>
+<libelle>Etablir un compte rendu d&#0039;analyse</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121618</code_ogr>
+<libelle>Concevoir des proc&#0233;dures de tests</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="17">
+<item_ab_stp>
+<code_ogr>100151</code_ogr>
+<libelle>R&#0233;glementation sanitaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100119</code_ogr>
+<libelle>Typologie des risques environnementaux et sanitaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100015</code_ogr>
+<libelle>Normes environnementales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100019</code_ogr>
+<libelle>Caract&#0233;ristiques des &#0233;cosyst&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120439</code_ogr>
+<libelle>Ecologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122007</code_ogr>
+<libelle>Pisciculture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100114</code_ogr>
+<libelle>Agriculture biologique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100011</code_ogr>
+<libelle>Techniques culturales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122286</code_ogr>
+<libelle>Production animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100077</code_ogr>
+<libelle>Droit rural</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100076</code_ogr>
+<libelle>Droit forestier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120299</code_ogr>
+<libelle>Veille informationnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100113</code_ogr>
+<libelle>Logiciels de gestion de base de donn&#0233;es</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100162</code_ogr>
+<libelle>G&#0233;nie rural</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>100120</code_ogr>
+<libelle>Proc&#0233;der &#0224; des &#0233;tudes/exp&#0233;rimentations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="14">
+<item_as_stp>
+<code_ogr>120797</code_ogr>
+<libelle>Am&#0233;nagement du territoire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>115914</code_ogr>
+<libelle>Economie du d&#0233;veloppement durable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124885</code_ogr>
+<libelle>Economie sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122008</code_ogr>
+<libelle>Aquaculture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122280</code_ogr>
+<libelle>Elevage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>122009</code_ogr>
+<libelle>Sylviculture</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126275</code_ogr>
+<libelle>Techniques de maitrise des &#0233;nergies</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104647</code_ogr>
+<libelle>Techniques de traitement des eaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101425</code_ogr>
+<libelle>R&#0233;glementation des Installations Class&#0233;es pour la Protection de l&#0039;Environnement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126112</code_ogr>
+<libelle>Qualit&#0233; et traitement des eaux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126300</code_ogr>
+<libelle>Techniques de sauvegarde/mise en valeur du patrimoine naturel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100050</code_ogr>
+<libelle>R&#0233;glementation des espaces et esp&#0232;ces prot&#0233;g&#0233;s</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100057</code_ogr>
+<libelle>Techniques de pr&#0233;servation de la biodiversit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100104</code_ogr>
+<libelle>Agronomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123352</code_ogr>
+<libelle>R&#0233;aliser un appel d&#0039;offre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117309</code_ogr>
+<libelle>Etablir un cahier des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100129</code_ogr>
+<libelle>Code des march&#0233;s publics</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123036</code_ogr>
+<libelle>Former un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123037</code_ogr>
+<libelle>Sensibiliser un public non averti</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>123035</code_ogr>
+<libelle>Bonnes Pratiques Agricoles (BPA)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122807</code_ogr>
+<libelle>R&#0233;aliser un pr&#0233;l&#0232;vement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117185</code_ogr>
+<libelle>R&#0233;aliser des mesures</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>100131</code_ogr>
+<libelle>Biologie v&#0233;g&#0233;tale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100132</code_ogr>
+<libelle>Biologie animale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100130</code_ogr>
+<libelle>Caract&#0233;ristiques des produits chimiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101869</code_ogr>
+<libelle>R&#0233;glementation phytosanitaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121998</code_ogr>
+<libelle>Produits phytosanitaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100142</code_ogr>
+<libelle>Propri&#0233;t&#0233;s des produits v&#0233;t&#0233;rinaires</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>100149</code_ogr>
+<libelle>Pathologies animales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>A1303</code_rome_cible>
+<libelle_rome_cible>Ing&#0233;nierie en agriculture et environnement naturel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1206</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1802</code_rome_cible>
+<libelle_rome_cible>D&#0233;veloppement local</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2402</code_rome_cible>
+<libelle_rome_cible>Recherche en sciences de l&#0039;univers, de la mati&#0232;re et du vivant</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

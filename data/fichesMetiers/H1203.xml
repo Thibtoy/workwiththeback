@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>H1203</code_rome>
+<intitule>Conception et dessin produits m&#0233;caniques</intitule>
+<code_ogr>214</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="59">
+<item_app>
+<code_ogr>11652</code_ogr>
+<libelle>Calculateur / Calculatrice &#0233;tudes en m&#0233;canique</libelle>
+<libelle_court>Calculateur / Calculatrice &#0233;tudes en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12239</code_ogr>
+<libelle>Chef de projet en conception industrielle en m&#0233;canique</libelle>
+<libelle_court>Chef de projet en conception industrielle en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12820</code_ogr>
+<libelle>Concepteur / Conceptrice de produits industriels m&#0233;caniques</libelle>
+<libelle_court>Concepteur / Conceptrice de produits industriels m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12825</code_ogr>
+<libelle>Concepteur / Conceptrice en produits m&#0233;caniques</libelle>
+<libelle_court>Concepteur / Conceptrice en produits m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14035</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;&#0233;tudes en m&#0233;canique</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;&#0233;tudes en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14040</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;ex&#0233;cution en m&#0233;canique</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;ex&#0233;cution en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14046</code_ogr>
+<libelle>Dessinateur / Dessinatrice en architecture m&#0233;canique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en architecture m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14047</code_ogr>
+<libelle>Dessinateur / Dessinatrice en architecture navale</libelle>
+<libelle_court>Dessinateur / Dessinatrice en architecture navale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14051</code_ogr>
+<libelle>Dessinateur / Dessinatrice en carrosserie automobile</libelle>
+<libelle_court>Dessinateur / Dessinatrice en carrosserie automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14052</code_ogr>
+<libelle>Dessinateur / Dessinatrice en charpente m&#0233;tallique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en charpente m&#0233;tallique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14053</code_ogr>
+<libelle>Dessinateur / Dessinatrice en chaudronnerie</libelle>
+<libelle_court>Dessinateur / Dessinatrice en chaudronnerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14054</code_ogr>
+<libelle>Dessinateur / Dessinatrice en construction a&#0233;ronautique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en construction a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14055</code_ogr>
+<libelle>Dessinateur / Dessinatrice en construction m&#0233;canique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en construction m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14056</code_ogr>
+<libelle>Dessinateur / Dessinatrice en construction m&#0233;tallique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en construction m&#0233;tallique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14057</code_ogr>
+<libelle>Dessinateur / Dessinatrice en construction navale</libelle>
+<libelle_court>Dessinateur / Dessinatrice en construction navale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14060</code_ogr>
+<libelle>Dessinateur / Dessinatrice en hydraulique et pneumatique</libelle>
+<libelle_court>Dessinateur / Dessinatrice en hydraulique et pneumatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14062</code_ogr>
+<libelle>Dessinateur / Dessinatrice en installations industrielles</libelle>
+<libelle_court>Dessinateur / Dessinatrice en installations industrielles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14064</code_ogr>
+<libelle>Dessinateur / Dessinatrice en machines sp&#0233;ciales</libelle>
+<libelle_court>Dessinateur / Dessinatrice en machines sp&#0233;ciales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14069</code_ogr>
+<libelle>Dessinateur / Dessinatrice en menuiserie aluminium</libelle>
+<libelle_court>Dessinateur / Dessinatrice en menuiserie aluminium</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14070</code_ogr>
+<libelle>Dessinateur / Dessinatrice en menuiserie PVC</libelle>
+<libelle_court>Dessinateur / Dessinatrice en menuiserie PVC</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14072</code_ogr>
+<libelle>Dessinateur / Dessinatrice en outillage</libelle>
+<libelle_court>Dessinateur / Dessinatrice en outillage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14073</code_ogr>
+<libelle>Dessinateur / Dessinatrice en plasturgie</libelle>
+<libelle_court>Dessinateur / Dessinatrice en plasturgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14076</code_ogr>
+<libelle>Dessinateur / Dessinatrice en structures m&#0233;caniques</libelle>
+<libelle_court>Dessinateur / Dessinatrice en structures m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14077</code_ogr>
+<libelle>Dessinateur / Dessinatrice en structures m&#0233;talliques</libelle>
+<libelle_court>Dessinateur / Dessinatrice en structures m&#0233;talliques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14078</code_ogr>
+<libelle>Dessinateur / Dessinatrice en syst&#0232;mes m&#0233;caniques</libelle>
+<libelle_court>Dessinateur / Dessinatrice en syst&#0232;mes m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14079</code_ogr>
+<libelle>Dessinateur / Dessinatrice en t&#0244;lerie</libelle>
+<libelle_court>Dessinateur / Dessinatrice en t&#0244;lerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14080</code_ogr>
+<libelle>Dessinateur / Dessinatrice en tuyauterie industrielle</libelle>
+<libelle_court>Dessinateur / Dessinatrice en tuyauterie industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14089</code_ogr>
+<libelle>Dessinateur / Dessinatrice petites &#0233;tudes en m&#0233;canique</libelle>
+<libelle_court>Dessinateur / Dessinatrice petites &#0233;tudes en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14013</code_ogr>
+<libelle>Dessinateur calculateur / Dessinatrice calculatrice en chaudronnerie</libelle>
+<libelle_court>Dessinateur(trice) calculateur(trice) en chaudronnerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14085</code_ogr>
+<libelle>Dessinateur industriel / Dessinatrice industrielle en m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice) industriel(le) en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14095</code_ogr>
+<libelle>Dessinateur-mouliste / Dessinatrice-mouliste</libelle>
+<libelle_court>Dessinateur-mouliste / Dessinatrice-mouliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14096</code_ogr>
+<libelle>Dessinateur-pr&#0233;parateur / Dessinatrice-pr&#0233;paratrice en m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-pr&#0233;parateur(trice) en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14108</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en architecture m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en architecture m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14109</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en architecture navale</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en architecture navale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14110</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en chaudronnerie</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en chaudronnerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14111</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en conception m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en conception m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14112</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en construction a&#0233;ronautique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) construction a&#0233;ronautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14113</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en construction automobile</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en construction automobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14114</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en construction m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en construction m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14115</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en construction m&#0233;tallique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en construction m&#0233;tallique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14116</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en construction navale</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en construction navale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14119</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en hydraulique</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en hydraulique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14120</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en installations industrielles</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) installations industrielles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14121</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en machines sp&#0233;ciales</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en machines sp&#0233;ciales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14124</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en m&#0233;canique</libelle>
+<libelle_court>Dessinateur-projeteur / Dessinatrice-projeteuse en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14126</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en moules et outillages</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en moules et outillages</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14127</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en outillages</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en outillages</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14128</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en plasturgie</libelle>
+<libelle_court>Dessinateur-projeteur/Dessinatrice-projeteuse en plasturgie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14129</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en structures m&#0233;caniques</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en structures m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14130</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en structures m&#0233;talliques</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en structures m&#0233;talliques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14131</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en syst&#0232;mes m&#0233;caniques</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en syst&#0232;mes m&#0233;caniques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14132</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en t&#0244;lerie</libelle>
+<libelle_court>Dessinateur-projeteur / Dessinatrice-projeteuse en t&#0244;lerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14133</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse en tuyauterie industrielle</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se) en tuyauterie industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14136</code_ogr>
+<libelle>Dessinateur-projeteur / Dessinatrice-projeteuse mouliste</libelle>
+<libelle_court>Dessinateur-projeteur / Dessinatrice-projeteuse mouliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14135</code_ogr>
+<libelle>Dessinateur-projeteur industriel / Dessinatrice-projeteuse industrielle en m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se)industriel(le) en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14137</code_ogr>
+<libelle>Dessinateur-projeteur-catalogue / Dessinatrice-projeteuse-catalogue en m&#0233;canique</libelle>
+<libelle_court>Dessinateur(trice)-projeteur(se)-catalogue en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16374</code_ogr>
+<libelle>Maquettiste en conception industrielle</libelle>
+<libelle_court>Maquettiste en conception industrielle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19721</code_ogr>
+<libelle>Technicien / Technicienne de bureau d&#0039;&#0233;tudes en conception industrielle en m&#0233;canique</libelle>
+<libelle_court>Technicien(ne) bureau &#0233;tudes conception ind en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20047</code_ogr>
+<libelle>Technicien / Technicienne en conception industrielle en m&#0233;canique</libelle>
+<libelle_court>Technicien(ne) conception industrielle en m&#0233;canique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+R&#0233;alise la conception m&#0233;canique et physique de pi&#0232;ces, produits, &#0233;quipements ou installations et les formalise par des plans norm&#0233;s de d&#0233;tails, de sous-ensembles ou d&#0039;ensembles et des dossiers de d&#0233;finition. Intervenir &#0224; partir de sp&#0233;cifications fonctionnelles, d&#0039;analyses documentaires, de cahiers des charges, de commandes et des besoins client.
+Peut coordonner un projet ou une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un BTS/DUT dans le secteur de l&#0039;entreprise (g&#0233;nie m&#0233;canique, structures m&#0233;talliques, chaudronnerie, plasturgie, ...).
+La ma&#0238;trise d&#0039;un ou plusieurs logiciels de Conception et Dessin Assist&#0233;s par Ordinateur -CAO/DAO- est requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises industrielles, de soci&#0233;t&#0233;s de services, de bureaux d&#0039;&#0233;tudes, d&#0039;ing&#0233;nierie, de m&#0233;thodes en relation avec diff&#0233;rents services et intervenants (production, m&#0233;thodes, essais, clients, sous-traitants, fournisseurs, ...).
+Elle varie selon le secteur (fabrication d&#0039;&#0233;quipements, de produits, ...) et le mode d&#0039;organisation (projet, travail en r&#0233;seau, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="33">
+<item_env>
+<code_ogr>23735</code_ogr>
+<libelle>Bureau d&#0039;&#0233;tudes et d&#0039;ing&#0233;nierie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23391</code_ogr>
+<libelle>A&#0233;ronautique, spatial</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23395</code_ogr>
+<libelle>Alimentaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23404</code_ogr>
+<libelle>Armement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23410</code_ogr>
+<libelle>Automobile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23424</code_ogr>
+<libelle>Bois, ameublement</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23436</code_ogr>
+<libelle>Chimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23437</code_ogr>
+<libelle>Chimie fine</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23453</code_ogr>
+<libelle>Construction navale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23469</code_ogr>
+<libelle>Eco-industrie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23474</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23476</code_ogr>
+<libelle>Electrom&#0233;nager</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23477</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23480</code_ogr>
+<libelle>Energie, nucl&#0233;aire, fluide</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23498</code_ogr>
+<libelle>Ferroviaire</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23515</code_ogr>
+<libelle>Habillement, cuir, textile</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23530</code_ogr>
+<libelle>Industrie cosm&#0233;tique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23531</code_ogr>
+<libelle>Industrie du papier, carton</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23534</code_ogr>
+<libelle>Information et communication</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23552</code_ogr>
+<libelle>M&#0233;canique, travail des m&#0233;taux</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23558</code_ogr>
+<libelle>M&#0233;tallurgie, sid&#0233;rurgie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23568</code_ogr>
+<libelle>Optique, optronique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23573</code_ogr>
+<libelle>Parachimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23582</code_ogr>
+<libelle>P&#0233;trochimie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23585</code_ogr>
+<libelle>Plasturgie, caoutchouc, composites</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23640</code_ogr>
+<libelle>Sport et loisirs</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23673</code_ogr>
+<libelle>Verre, mat&#0233;riaux de construction</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>104419</code_ogr>
+<libelle>Identifier la demande et r&#0233;aliser les &#0233;bauches, sch&#0233;mas de pi&#0232;ces, syst&#0232;mes, sous-ensembles ou ensembles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104420</code_ogr>
+<libelle>R&#0233;aliser les relev&#0233;s dimensionnels de pi&#0232;ces, sous-ensembles ou ensembles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104421</code_ogr>
+<libelle>Etudier et concevoir des pi&#0232;ces, sous-ensembles ou ensembles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104407</code_ogr>
+<libelle>R&#0233;aliser et faire &#0233;voluer les sch&#0233;mas, les plans de d&#0233;tails, de sous-ensembles ou d&#0039;ensembles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>104408</code_ogr>
+<libelle>Constituer et faire &#0233;voluer les nomenclatures des plans, dossiers de d&#0233;finition</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124811</code_ogr>
+<libelle>Identifier des contraintes dimensionnelles, fonctionnelles et physiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>104423</code_ogr>
+<libelle>D&#0233;terminer les sp&#0233;cifications et les cotations des pi&#0232;ces, sous-ensembles ou ensembles</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>101397</code_ogr>
+<libelle>Logiciels de mod&#0233;lisation et simulation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119520</code_ogr>
+<libelle>Technologie de Groupe Assist&#0233;e par Ordinateur (TGAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119425</code_ogr>
+<libelle>Logiciels de Conception de Fabrication Assist&#0233;e par Ordinateur (CFAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119672</code_ogr>
+<libelle>Conception et Dessin Assist&#0233;s par Ordinateur (CAO/DAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104425</code_ogr>
+<libelle>Hydraulique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104424</code_ogr>
+<libelle>M&#0233;canique productique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126026</code_ogr>
+<libelle>R&#0233;sistance Des Mat&#0233;riaux (RDM)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122425</code_ogr>
+<libelle>M&#0233;thodes et outils de r&#0233;solution de probl&#0232;mes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103167</code_ogr>
+<libelle>M&#0233;trologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104415</code_ogr>
+<libelle>Automatisme</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>104426</code_ogr>
+<libelle>Intervenir dans le domaine de la construction m&#0233;canique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>105952</code_ogr>
+<libelle>Intervenir dans le domaine de la chaudronnerie, t&#0244;lerie et tuyauterie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104428</code_ogr>
+<libelle>Intervenir dans le domaine des structures m&#0233;talliques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104429</code_ogr>
+<libelle>Intervenir dans le domaine des outillages et moules industriels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104430</code_ogr>
+<libelle>Intervenir dans le domaine des machines sp&#0233;ciales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104431</code_ogr>
+<libelle>Intervenir dans le domaine des Plastiques, caoutchouc et composites</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>120632</code_ogr>
+<libelle>Elaborer un dossier de fabrication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117334</code_ogr>
+<libelle>Concevoir un dossier d&#0039;ex&#0233;cution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117335</code_ogr>
+<libelle>Concevoir un dossier technique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117309</code_ogr>
+<libelle>Etablir un cahier des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121931</code_ogr>
+<libelle>V&#0233;rifier la conformit&#0233; d&#0039;une r&#0233;alisation avec un cahier des charges</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117328</code_ogr>
+<libelle>V&#0233;rifier la faisabilit&#0233; technique d&#0039;un produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>104418</code_ogr>
+<libelle>M&#0233;thodes d&#0039;analyse (syst&#0233;mique, fonctionnelle, de risques, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114552</code_ogr>
+<libelle>Etudier et identifier des &#0233;volutions de pi&#0232;ces, composants, sous-ensembles, ensembles, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>117180</code_ogr>
+<libelle>N&#0233;gocier un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124007</code_ogr>
+<libelle>Contr&#0244;ler la r&#0233;alisation d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>117146</code_ogr>
+<libelle>S&#0233;lectionner des fournisseurs, sous-traitants, prestataires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>104410</code_ogr>
+<libelle>Assister techniquement les services de l&#0039;entreprise ou les clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121413</code_ogr>
+<libelle>Classer des biblioth&#0232;ques de r&#0233;f&#0233;rences ou des banques de donn&#0233;es techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121414</code_ogr>
+<libelle>Actualiser des biblioth&#0232;ques de r&#0233;f&#0233;rences ou des banques de donn&#0233;es techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113325</code_ogr>
+<libelle>Piloter un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>120246</code_ogr>
+<libelle>Gestion de projet</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>F1104</code_rome_cible>
+<libelle_rome_cible>Dessin BTP et paysage</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1202</code_rome_cible>
+<libelle_rome_cible>Conception et dessin de produits &#0233;lectriques et &#0233;lectroniques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1207</code_rome_cible>
+<libelle_rome_cible>R&#0233;daction technique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1404</code_rome_cible>
+<libelle_rome_cible>Intervention technique en m&#0233;thodes et industrialisation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="8">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1407</code_rome_cible>
+<libelle_rome_cible>Relation technico-commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1102</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie d&#0039;affaires</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1204</code_rome_cible>
+<libelle_rome_cible>Design industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1206</code_rome_cible>
+<libelle_rome_cible>Management et ing&#0233;nierie &#0233;tudes, recherche et d&#0233;veloppement industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2109</code_rome_cible>
+<libelle_rome_cible>Enseignement technique et professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1101</code_rome_cible>
+<libelle_rome_cible>Achats</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K2110</code_rome>
+<intitule>Formation en conduite de v&#0233;hicules</intitule>
+<code_ogr>413</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="18">
+<item_app>
+<code_ogr>10275</code_ogr>
+<libelle>Adjoint / Adjointe au responsable d&#0039;auto-&#0233;cole</libelle>
+<libelle_court>Adjoint / Adjointe au responsable d&#0039;auto-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38393</code_ogr>
+<libelle>Animateur / Animatrice de stages permis &#0224; points</libelle>
+<libelle_court>Animateur / Animatrice de stages permis &#0224; points</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14851</code_ogr>
+<libelle>Enseignant / Enseignante de la conduite et de la s&#0233;curit&#0233; routi&#0232;re</libelle>
+<libelle_court>Enseignant(e) de la conduite et de la s&#0233;curit&#0233; routi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15126</code_ogr>
+<libelle>Formateur / Formatrice conduite d&#0039;engins de travaux publics</libelle>
+<libelle_court>Formateur / Formatrice conduite d&#0039;engins de travaux publics</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15127</code_ogr>
+<libelle>Formateur / Formatrice conduite d&#0039;engins motoris&#0233;s et de levage</libelle>
+<libelle_court>Formateur(trice) conduite d&#0039;engins motoris&#0233;s et de levage</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15133</code_ogr>
+<libelle>Formateur / Formatrice de conducteurs routiers</libelle>
+<libelle_court>Formateur / Formatrice de conducteurs routiers</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15138</code_ogr>
+<libelle>Formateur / Formatrice de moniteurs d&#0039;auto-&#0233;cole</libelle>
+<libelle_court>Formateur / Formatrice de moniteurs d&#0039;auto-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15273</code_ogr>
+<libelle>G&#0233;rant / G&#0233;rante d&#0039;auto-&#0233;cole</libelle>
+<libelle_court>G&#0233;rant / G&#0233;rante d&#0039;auto-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15940</code_ogr>
+<libelle>Inspecteur / Inspectrice de la conduite et de la s&#0233;curit&#0233; routi&#0232;re</libelle>
+<libelle_court>Inspecteur(trice) de la conduite et de la s&#0233;curit&#0233; routi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15971</code_ogr>
+<libelle>Inspecteur / Inspectrice du permis de conduire</libelle>
+<libelle_court>Inspecteur / Inspectrice du permis de conduire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15972</code_ogr>
+<libelle>Inspecteur / Inspectrice du permis de conduire et de la s&#0233;curit&#0233; routi&#0232;re</libelle>
+<libelle_court>Inspecteur(trice) permis de conduire et de s&#0233;curit&#0233; routi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16723</code_ogr>
+<libelle>Moniteur / Monitrice d&#0039;auto-&#0233;cole</libelle>
+<libelle_court>Moniteur / Monitrice d&#0039;auto-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16724</code_ogr>
+<libelle>Moniteur / Monitrice d&#0039;auto-&#0233;cole groupe lourds</libelle>
+<libelle_court>Moniteur / Monitrice d&#0039;auto-&#0233;cole groupe lourds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16725</code_ogr>
+<libelle>Moniteur / Monitrice de bateau-&#0233;cole</libelle>
+<libelle_court>Moniteur / Monitrice de bateau-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16745</code_ogr>
+<libelle>Moniteur / Monitrice moto</libelle>
+<libelle_court>Moniteur / Monitrice moto</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16746</code_ogr>
+<libelle>Moniteur / Monitrice motocycle</libelle>
+<libelle_court>Moniteur / Monitrice motocycle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16747</code_ogr>
+<libelle>Moniteur / Monitrice poids lourds</libelle>
+<libelle_court>Moniteur / Monitrice poids lourds</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18659</code_ogr>
+<libelle>Responsable d&#0039;auto-&#0233;cole</libelle>
+<libelle_court>Responsable d&#0039;auto-&#0233;cole</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Instruit des candidats, des stagiaires &#0224; la s&#0233;curit&#0233; (routi&#0232;re, en mer, ...) et &#0224; la conduite de v&#0233;hicules &#0224; moteur ou d&#0039;engins de levage en vue de la ma&#0238;trise d&#0039;un v&#0233;hicule ou l&#0039;obtention d&#0039;un permis sp&#0233;cifique selon la r&#0233;glementation.
+Peut r&#0233;aliser le contr&#0244;le d&#0039;&#0233;preuves de permis (th&#0233;oriques, pratiques), le contr&#0244;le administratif et p&#0233;dagogique des auto-&#0233;coles et les examens d&#0039;acc&#0232;s &#0224; la profession de moniteur.
+Peut coordonner une &#0233;quipe, diriger une structure et en g&#0233;rer le budget.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="6">
+Cet emploi/m&#0233;tier est accessible avec un Brevet pour l&#0039;Exercice de la Profession d&#0039;Enseignant de la Conduite Automobile et de la S&#0233;curit&#0233; Routi&#0232;re -BEPECASER-, (mentions sp&#0233;cifiques deux roues, poids lourds) ou le titre professionnel d&#0039;Enseignant de la conduite et de la s&#0233;curit&#0233; routi&#0232;re, et l&#0039;autorisation d&#0039;enseigner d&#0233;livr&#0233;e par la Pr&#0233;fecture.
+Le permis B et un permis sp&#0233;cifique A, C, C1, CE, C1E, D, D1, DE, D1E (pr&#0233;c&#0233;demment A, C, E, D) sont obligatoires pour la conduite sur route.
+Le Brevet d&#0039;Animateur de Formation des Conducteurs Responsables d&#0039;Infractions -BAFCRI- est obligatoire pour l&#0039;animation de stages permettant &#0224; des conducteurs de r&#0233;cup&#0233;rer leurs points.
+La fonction d&#0039;exploitant d&#0039;auto-&#0233;cole est accessible avec une exp&#0233;rience professionnelle de 3 ans comme moniteur et l&#0039;obtention du Certificat de capacit&#0233; de gestion.
+La fonction d&#0039;inspecteur du permis de conduire et de la s&#0233;curit&#0233; routi&#0232;re est accessible sur concours avec un Bac.
+La fonction de moniteur de bateau-&#0233;cole, accessible sans dipl&#0244;me, n&#0233;cessite la possession des permis enseign&#0233;s (mer, rivi&#0232;re, ...).
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;&#0233;coles de conduite, centres de formation, services de l&#0039;Etat, ... en contact avec diff&#0233;rents intervenants (clients, institutionnel, &#0233;coles, entreprises, ...).
+Elle varie selon la structure (&#0233;cole de conduite, centre de formation, services de l&#0039;Etat, ...), le type de v&#0233;hicule/engin (automobile, moto, poids lourd, bateau, engin de travaux publics, ...) et le positionnement (formation, contr&#0244;le administratif, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="14">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23718</code_ogr>
+<libelle>Bateau &#0233;cole</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23771</code_ogr>
+<libelle>Centre de formation pour adultes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23808</code_ogr>
+<libelle>Collectivit&#0233; territoriale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23853</code_ogr>
+<libelle>Ecole de conduite</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23420</code_ogr>
+<libelle>B&#0226;timent et Travaux Publics -BTP-</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23458</code_ogr>
+<libelle>D&#0233;fense nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23544</code_ogr>
+<libelle>Machinisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23567</code_ogr>
+<libelle>Nautisme</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23659</code_ogr>
+<libelle>Transport/logistique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>124590</code_ogr>
+<libelle>&#0201;valuer le nombre d&#0039;heure de code, de conduite ou de pilotage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124589</code_ogr>
+<libelle>Renseigner sur le d&#0233;roulement des cours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123125</code_ogr>
+<libelle>Enseigner une discipline &#0224; un groupe de personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123191</code_ogr>
+<libelle>Former &#0224; la conduite d&#0039;un v&#0233;hicule</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123049</code_ogr>
+<libelle>Accompagner un &#0233;l&#0232;ve dans l&#0039;apprentissage de la conduite</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123048</code_ogr>
+<libelle>Evaluer la conduite d&#0039;un &#0233;l&#0232;ve</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123050</code_ogr>
+<libelle>Renseigner des documents de suivi et d&#0039;&#0233;valuation d&#0039;un &#0233;l&#0232;ve</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123877</code_ogr>
+<libelle>Contr&#0244;ler une maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>110398</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; fluviale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100246</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; maritime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108568</code_ogr>
+<libelle>R&#0232;gles de conduite et de s&#0233;curit&#0233; routi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100248</code_ogr>
+<libelle>Droit maritime</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123036</code_ogr>
+<libelle>Former un public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="54">
+<item_as_stp>
+<code_ogr>106655</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; routi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119596</code_ogr>
+<libelle>Sensibilisation &#0224; la pr&#0233;vention des risques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118136</code_ogr>
+<libelle>Environnement / nature</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123455</code_ogr>
+<libelle>Permis de conduire A</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123456</code_ogr>
+<libelle>Permis de conduire B</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126452</code_ogr>
+<libelle>Permis de conduire BE</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126453</code_ogr>
+<libelle>Permis de conduire C1</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126454</code_ogr>
+<libelle>Permis de conduire C1E</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126455</code_ogr>
+<libelle>Permis de conduire CE</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123457</code_ogr>
+<libelle>Permis de conduire D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126456</code_ogr>
+<libelle>Permis de conduire D1</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126457</code_ogr>
+<libelle>Permis de conduire D1E</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126458</code_ogr>
+<libelle>Permis de conduire DE</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123458</code_ogr>
+<libelle>Permis de conduire E</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123459</code_ogr>
+<libelle>Permis de conduire E (C)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123460</code_ogr>
+<libelle>Permis de conduire E (D)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123453</code_ogr>
+<libelle>Permis Carte mer</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123451</code_ogr>
+<libelle>Permis bateau de plaisance option eaux int&#0233;rieures</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123449</code_ogr>
+<libelle>Permis bateau de plaisance option c&#0244;ti&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123450</code_ogr>
+<libelle>Permis plaisance option c&#0244;ti&#0232;re - Extension hauturi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121298</code_ogr>
+<libelle>Brevet d&#0039;Animateur pour la Formation des Conducteurs Responsables d&#0039;Infractions (BAFCRI)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121299</code_ogr>
+<libelle>Brevet pour l&#0039;Exercice de la Profession d&#0039;Enseignant de la Conduite Automobile et de la S&#0233;curit&#0233; Routi&#0232;re (BEPECASER)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121300</code_ogr>
+<libelle>Brevet pour l&#0039;Exercice de la Profession d&#0039;Enseignant de la Conduite Automobile et de la S&#0233;curit&#0233; Routi&#0232;re (BEPECASER) mention deux-roues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120409</code_ogr>
+<libelle>Formation Initiale Minimum Obligatoire (FIMO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123723</code_ogr>
+<libelle>Formation Continue Obligatoire (FCO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120406</code_ogr>
+<libelle>Engins de chantier (CACES R 372)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121308</code_ogr>
+<libelle>Ponts roulants (CACES R 318)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123701</code_ogr>
+<libelle>Tracteur et petits engins de chantiers mobiles (CACES R 372-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123704</code_ogr>
+<libelle>Engins d&#0039;extraction ou de chargement &#0224; d&#0233;placement s&#0233;quentiel (CACES R 372-2)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>29</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123705</code_ogr>
+<libelle>Engins d&#0039;extraction &#0224; d&#0233;placement alternatif (CACES R 372-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>30</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123707</code_ogr>
+<libelle>Engins de chargement &#0224; d&#0233;placement alternatif (CACES R 372-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>31</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123715</code_ogr>
+<libelle>Engins de finition &#0224; d&#0233;placement lent (CACES R 372-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>32</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123716</code_ogr>
+<libelle>Engins de r&#0233;glage &#0224; d&#0233;placement alternatif (CACES R 372-6)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>33</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123713</code_ogr>
+<libelle>Engins de compactage &#0224; d&#0233;placement alternatif (CACES R 372-7)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>34</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123717</code_ogr>
+<libelle>Engins de transport ou d&#0039;extraction transport (CACES R 372-8)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>35</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123699</code_ogr>
+<libelle>Engins de manutention, chariot de chantier (CACES R 372-9)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>36</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123703</code_ogr>
+<libelle>D&#0233;placement, chargement et d&#0233;chargement (CACES R 372-10)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>37</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121309</code_ogr>
+<libelle>Grues (CACES R 377)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>38</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123708</code_ogr>
+<libelle>Grues &#0224; tour (CACES R 377) &#0224; montage automatis&#0233; (GMA) ou &#0224; montage par &#0233;l&#0233;ment (GME)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>39</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121310</code_ogr>
+<libelle>Grues mobiles (CACES R 383)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>40</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123711</code_ogr>
+<libelle>Grue &#0224; treillis sur porteur, grue &#0224; treillis automotrice (CACES R 383-1A)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>41</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123714</code_ogr>
+<libelle>Grue &#0224; treillis sur chenilles (CACES R 383-2A)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>42</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123712</code_ogr>
+<libelle>Grue t&#0233;lescopique sur porteur, grue t&#0233;lescopique automotrice (CACES R 383-1B)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>43</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123719</code_ogr>
+<libelle>Grue t&#0233;lescopique sur chenilles (CACES R 383-2B)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>44</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123720</code_ogr>
+<libelle>Grue &#0224; treillis sur rails (CACES R 383-2C)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>45</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121311</code_ogr>
+<libelle>Plates-formes &#0233;l&#0233;vatrices mobiles de personnes ou PEMP (CACES R 386)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>46</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120407</code_ogr>
+<libelle>Chariots automoteurs de manutention &#0224; conducteur port&#0233; (CACES R 389)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>47</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123696</code_ogr>
+<libelle>Transpalettes &#0224; conducteur port&#0233; et pr&#0233;parateurs de commandes au sol (CACES R 389-1)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>48</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123697</code_ogr>
+<libelle>Chariots tracteurs et &#0224; plateau porteur de capacit&#0233; inf&#0233;rieure &#0224; 6 000 kg (CACES R 389-2)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>49</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123698</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; inf&#0233;rieure ou &#0233;gale &#0224; 6000 kg (CACES R 389-3)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>50</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123718</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs en porte-&#0224;-faux de capacit&#0233; sup&#0233;rieure &#0224; 6000 kg (CACES R 389-4)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>51</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123721</code_ogr>
+<libelle>Chariots &#0233;l&#0233;vateurs &#0224; m&#0226;t r&#0233;tractable (CACES R 389-5)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>52</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>123722</code_ogr>
+<libelle>D&#0233;placement, chargement, transfert de chariots sans activit&#0233; de production (CACES R 389-6)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>53</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120408</code_ogr>
+<libelle>Grues auxiliaires de chargement de v&#0233;hicules (CACES R 390)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>54</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123899</code_ogr>
+<libelle>Organiser le planning des activit&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121621</code_ogr>
+<libelle>Actualiser des outils de formation / p&#0233;dagogiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121620</code_ogr>
+<libelle>Concevoir des outils de formation / p&#0233;dagogiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122069</code_ogr>
+<libelle>D&#0233;terminer les capacit&#0233;s des candidats &#0224; la conduite de v&#0233;hicules (voitures, poids lourds, motos)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>122076</code_ogr>
+<libelle>Contr&#0244;ler les m&#0233;thodes p&#0233;dagogiques des moniteurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122077</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;application de la r&#0233;glementation professionnelle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122078</code_ogr>
+<libelle>Contr&#0244;ler la capacit&#0233; des candidats moniteurs &#0224; enseigner la conduite</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121275</code_ogr>
+<libelle>Organiser des activit&#0233;s d&#0039;enqu&#0234;tes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>109802</code_ogr>
+<libelle>Diriger un service, une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102216</code_ogr>
+<libelle>Gestion budg&#0233;taire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="5">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1404</code_rome_cible>
+<libelle_rome_cible>Relation commerciale en vente de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1103</code_rome_cible>
+<libelle_rome_cible>Supervision d&#0039;entretien et gestion de v&#0233;hicules</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>18798</code_appellation_cible>
+<libelle_appellation_cible>Responsable de parc de v&#0233;hicules</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1302</code_rome_cible>
+<libelle_rome_cible>Direction de petite ou moyenne entreprise</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4201</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;exploitation des transports routiers de marchandises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>N4202</code_rome_cible>
+<libelle_rome_cible>Direction d&#0039;exploitation des transports routiers de personnes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

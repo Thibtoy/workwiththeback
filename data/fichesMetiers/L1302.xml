@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1302</code_rome>
+<intitule>Production et administration spectacle, cin&#0233;ma et audiovisuel</intitule>
+<code_ogr>443</code_ogr>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="48">
+<item_app>
+<code_ogr>10303</code_ogr>
+<libelle>Administrateur / Administratrice de compagnie de danse</libelle>
+<libelle_court>Administrateur / Administratrice de compagnie de danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10304</code_ogr>
+<libelle>Administrateur / Administratrice de compagnie de th&#0233;&#0226;tre</libelle>
+<libelle_court>Administrateur / Administratrice de compagnie de th&#0233;&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10306</code_ogr>
+<libelle>Administrateur / Administratrice de production cin&#0233;ma</libelle>
+<libelle_court>Administrateur / Administratrice de production cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38459</code_ogr>
+<libelle>Administrateur / Administratrice de production de spectacles</libelle>
+<libelle_court>Administrateur / Administratrice de production de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10310</code_ogr>
+<libelle>Administrateur / Administratrice de th&#0233;&#0226;tre</libelle>
+<libelle_court>Administrateur / Administratrice de th&#0233;&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38460</code_ogr>
+<libelle>Administrateur / Administratrice de tourn&#0233;es spectacle</libelle>
+<libelle_court>Administrateur / Administratrice de tourn&#0233;es spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10311</code_ogr>
+<libelle>Administrateur / Administratrice d&#0039;orchestre</libelle>
+<libelle_court>Administrateur / Administratrice d&#0039;orchestre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11244</code_ogr>
+<libelle>Assistant / Assistante de production spectacle</libelle>
+<libelle_court>Assistant / Assistante de production spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38463</code_ogr>
+<libelle>Assistant / Assistante d&#0039;&#0233;mission audiovisuelle</libelle>
+<libelle_court>Assistant / Assistante d&#0039;&#0233;mission audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38089</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de production audiovisuelle</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de production audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38090</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de production cin&#0233;matographique</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de production cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38091</code_ogr>
+<libelle>Attach&#0233; / Attach&#0233;e de production de spectacles</libelle>
+<libelle_court>Attach&#0233; / Attach&#0233;e de production de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38461</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e d&#0039;antenne audiovisuelle</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e d&#0039;antenne audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11834</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de postproduction</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de postproduction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11836</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de production audiovisuelle</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de production audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11837</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de production cin&#0233;matographique</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de production cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11838</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de production de spectacles</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de production de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38299</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re de programme audiovisuel</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re de programme audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38462</code_ogr>
+<libelle>Directeur / Directrice artistique spectacle</libelle>
+<libelle_court>Directeur / Directrice artistique spectacle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14208</code_ogr>
+<libelle>Directeur / Directrice d&#0039;antenne radio</libelle>
+<libelle_court>Directeur / Directrice d&#0039;antenne radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14209</code_ogr>
+<libelle>Directeur / Directrice d&#0039;antenne t&#0233;l&#0233;vision</libelle>
+<libelle_court>Directeur / Directrice d&#0039;antenne t&#0233;l&#0233;vision</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14210</code_ogr>
+<libelle>Directeur / Directrice de ballet</libelle>
+<libelle_court>Directeur / Directrice de ballet</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14238</code_ogr>
+<libelle>Directeur / Directrice de cirque</libelle>
+<libelle_court>Directeur / Directrice de cirque</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14244</code_ogr>
+<libelle>Directeur / Directrice de compagnie de danse</libelle>
+<libelle_court>Directeur / Directrice de compagnie de danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14245</code_ogr>
+<libelle>Directeur / Directrice de compagnie de th&#0233;&#0226;tre</libelle>
+<libelle_court>Directeur / Directrice de compagnie de th&#0233;&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14255</code_ogr>
+<libelle>Directeur / Directrice de festival</libelle>
+<libelle_court>Directeur / Directrice de festival</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14266</code_ogr>
+<libelle>Directeur / Directrice de la danse</libelle>
+<libelle_court>Directeur / Directrice de la danse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14272</code_ogr>
+<libelle>Directeur / Directrice de la musique</libelle>
+<libelle_court>Directeur / Directrice de la musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14304</code_ogr>
+<libelle>Directeur / Directrice de production audiovisuelle</libelle>
+<libelle_court>Directeur / Directrice de production audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14305</code_ogr>
+<libelle>Directeur / Directrice de production cin&#0233;matographique</libelle>
+<libelle_court>Directeur / Directrice de production cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14306</code_ogr>
+<libelle>Directeur / Directrice de production de spectacles</libelle>
+<libelle_court>Directeur / Directrice de production de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14333</code_ogr>
+<libelle>Directeur / Directrice de th&#0233;&#0226;tre</libelle>
+<libelle_court>Directeur / Directrice de th&#0233;&#0226;tre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14463</code_ogr>
+<libelle>Directeur musical / Directrice musicale</libelle>
+<libelle_court>Directeur musical / Directrice musicale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14861</code_ogr>
+<libelle>Entrepreneur / Entrepreneuse de spectacles</libelle>
+<libelle_court>Entrepreneur / Entrepreneuse de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18081</code_ogr>
+<libelle>Producteur / Productrice cin&#0233;ma</libelle>
+<libelle_court>Producteur / Productrice cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18087</code_ogr>
+<libelle>Producteur / Productrice de musique</libelle>
+<libelle_court>Producteur / Productrice de musique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18096</code_ogr>
+<libelle>Producteur / Productrice de spectacles</libelle>
+<libelle_court>Producteur / Productrice de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18105</code_ogr>
+<libelle>Producteur / Productrice phonographique</libelle>
+<libelle_court>Producteur / Productrice phonographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18106</code_ogr>
+<libelle>Producteur / Productrice radio</libelle>
+<libelle_court>Producteur / Productrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18108</code_ogr>
+<libelle>Producteur / Productrice t&#0233;l&#0233;vision</libelle>
+<libelle_court>Producteur / Productrice t&#0233;l&#0233;vision</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18100</code_ogr>
+<libelle>Producteur d&#0233;l&#0233;gu&#0233; / Productrice d&#0233;l&#0233;gu&#0233;e</libelle>
+<libelle_court>Producteur d&#0233;l&#0233;gu&#0233; / Productrice d&#0233;l&#0233;gu&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18103</code_ogr>
+<libelle>Producteur ex&#0233;cutif / Productrice ex&#0233;cutive</libelle>
+<libelle_court>Producteur ex&#0233;cutif / Productrice ex&#0233;cutive</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18184</code_ogr>
+<libelle>Programmateur / Programmatrice de spectacles</libelle>
+<libelle_court>Programmateur / Programmatrice de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18185</code_ogr>
+<libelle>Programmateur / Programmatrice radio</libelle>
+<libelle_court>Programmateur / Programmatrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18750</code_ogr>
+<libelle>Responsable de la programmation audiovisuelle</libelle>
+<libelle_court>Responsable de la programmation audiovisuelle</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18751</code_ogr>
+<libelle>Responsable de la programmation de spectacles</libelle>
+<libelle_court>Responsable de la programmation de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19378</code_ogr>
+<libelle>Secr&#0233;taire de production cin&#0233;ma</libelle>
+<libelle_court>Secr&#0233;taire de production cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19379</code_ogr>
+<libelle>Secr&#0233;taire de production de spectacles</libelle>
+<libelle_court>Secr&#0233;taire de production de spectacles</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Met en oeuvre et supervise la production de spectacles, de disques, de projets audiovisuels ou cin&#0233;matographiques.
+Assure la gestion budg&#0233;taire, administrative et l&#0039;encadrement du personnel d&#0039;une production, d&#0039;une compagnie ou d&#0039;un lieu de spectacle.
+Peut d&#0233;finir et mettre en oeuvre le projet artistique d&#0039;un &#0233;tablissement (th&#0233;&#0226;tre, orchestre, cirque, ...).
+Peut &#0233;laborer un concept d&#0039;&#0233;mission, un projet de spectacle, de film, ...
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, ...) &#0224; Bac+5 (Master Professionnel, Ecole de commerce, ...) en administration, gestion, droit ou en gestion et administration des entreprises culturelles.
+Il est &#0233;galement accessible avec une exp&#0233;rience professionnelle dans les secteurs du spectacle, du cin&#0233;ma, de la t&#0233;l&#0233;vision ou de la radio sans dipl&#0244;me particulier.
+Une connaissance ou une pratique d&#0039;un domaine artistique (musique, danse, art dramatique, arts du cirque, ...) peut &#0234;tre demand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de soci&#0233;t&#0233;s de production (cha&#0238;nes de t&#0233;l&#0233;vision, radios, ...), de postproduction, de compagnies (danse, musique, th&#0233;&#0226;tre, cirque, ...), dans des lieux de cr&#0233;ation/diffusion de spectacles en relation avec des &#0233;quipes artistiques, techniques et administratives.
+Elle peut impliquer des d&#0233;placements (tournages, tourn&#0233;es, ...) et un &#0233;loignement du domicile de plusieurs jours.
+La r&#0233;mun&#0233;ration est constitu&#0233;e d&#0039;un fixe parfois compl&#0233;t&#0233; par un pourcentage sur les recettes g&#0233;n&#0233;r&#0233;es par l&#0039;exploitation du film, disque, ...
+L&#0039;obtention d&#0039;une autorisation d&#0039;exercice d&#0233;livr&#0233;e par le Centre National du Cin&#0233;ma (CNC) est requise pour la production de films.
+Une licence d&#0039;entrepreneur de spectacles d&#0233;livr&#0233;e par la Pr&#0233;fecture est requise pour l&#0039;organisation ou la diffusion de spectacles.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="15">
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23905</code_ogr>
+<libelle>Entreprise d&#0039;&#0233;dition phonographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24012</code_ogr>
+<libelle>Orchestre</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24085</code_ogr>
+<libelle>Soci&#0233;t&#0233; de post-production cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23603</code_ogr>
+<libelle>Publicit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23606</code_ogr>
+<libelle>Radio</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23648</code_ogr>
+<libelle>T&#0233;l&#0233;vision</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="13">
+<item_ab>
+<code_ogr>119659</code_ogr>
+<libelle>S&#0233;lectionner un projet en coh&#0233;rence avec une politique artistique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122891</code_ogr>
+<libelle>D&#0233;terminer les conditions de r&#0233;alisation d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119109</code_ogr>
+<libelle>D&#0233;finir les moyens humains, mat&#0233;riels et financiers d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125758</code_ogr>
+<libelle>&#0201;tudier un devis g&#0233;n&#0233;ral et par poste selon les indications d&#0039;une &#0233;quipe de r&#0233;alisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>117243</code_ogr>
+<libelle>Etablir un devis</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124059</code_ogr>
+<libelle>&#0201;tablir un dossier de demande de financement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124097</code_ogr>
+<libelle>Promouvoir un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121661</code_ogr>
+<libelle>N&#0233;gocier des partenariats</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>117246</code_ogr>
+<libelle>Etablir un contrat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119478</code_ogr>
+<libelle>Elaborer un budget</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124525</code_ogr>
+<libelle>Constituer des &#0233;quipes de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124524</code_ogr>
+<libelle>Recruter du personnel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="13">
+<item_ab_stp>
+<code_ogr>118319</code_ogr>
+<libelle>Dispositifs de financement culturel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120886</code_ogr>
+<libelle>Logiciels comptables</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100343</code_ogr>
+<libelle>L&#0233;gislation sociale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104155</code_ogr>
+<libelle>Gestion financi&#0232;re</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109129</code_ogr>
+<libelle>Types de produits audiovisuels/cin&#0233;matographiques (film, reportage, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109128</code_ogr>
+<libelle>Paysage Audiovisuel Fran&#0231;ais</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="10">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>113325</code_ogr>
+<libelle>Piloter un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125083</code_ogr>
+<libelle>Concevoir la programmation d&#0039;un projet artistique (spectacle, t&#0233;l&#0233;vision, radio)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>124010</code_ogr>
+<libelle>&#0201;laborer une grille de programme</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125220</code_ogr>
+<libelle>Elaborer un concept d&#0039;&#0233;mission radiophonique, t&#0233;l&#0233;vis&#0233;e ou un projet de spectacle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124214</code_ogr>
+<libelle>Demander une autorisation de tournage ou de repr&#0233;sentation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>109333</code_ogr>
+<libelle>Superviser l&#0039;acheminement et l&#0039;installation de la logistique et de la signal&#0233;tique sur le lieu d&#0039;un spectacle ou d&#0039;un tournage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115407</code_ogr>
+<libelle>Juger le montage d&#0039;un film, d&#0039;un spectacle, d&#0039;un enregistrement et proposer des modifications avant diffusion/lancement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109132</code_ogr>
+<libelle>Etapes de montage de film</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123867</code_ogr>
+<libelle>Contr&#0244;ler la qualit&#0233; de la diffusion d&#0039;un programme t&#0233;l&#0233;visuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119639</code_ogr>
+<libelle>Etudier l&#0039;impact d&#0039;une oeuvre sur un public et ses retomb&#0233;es m&#0233;diatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124383</code_ogr>
+<libelle>R&#0233;aliser un suivi financier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121491</code_ogr>
+<libelle>Mettre en place des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1303</code_rome_cible>
+<libelle_rome_cible>Promotion d&#0039;artistes et de spectacles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1301</code_rome_cible>
+<libelle_rome_cible>Mise en sc&#0232;ne de spectacles vivants</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1304</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation cin&#0233;matographique et audiovisuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

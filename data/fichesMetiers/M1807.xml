@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>M1807</code_rome>
+<intitule>Exploitation de syst&#0232;mes de communication et de commandement</intitule>
+<code_ogr>496</code_ogr>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="38">
+<item_app>
+<code_ogr>10286</code_ogr>
+<libelle>Adjoint / Adjointe chef de centre de t&#0233;l&#0233;traitement mobile aux arm&#0233;es</libelle>
+<libelle_court>Adjoint(e) chef de centre de t&#0233;l&#0233;traitement mobile arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10708</code_ogr>
+<libelle>Agent / Agente d&#0039;exploitation des syst&#0232;mes d&#0039;information et de communication aux arm&#0233;es</libelle>
+<libelle_court>Agent(e) exploitation syst&#0232;mes info et communic aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10941</code_ogr>
+<libelle>Analyste de signaux &#0233;lectromagn&#0233;tiques</libelle>
+<libelle_court>Analyste de signaux &#0233;lectromagn&#0233;tiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10942</code_ogr>
+<libelle>Analyste des services techniques du renseignement</libelle>
+<libelle_court>Analyste des services techniques du renseignement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15004</code_ogr>
+<libelle>Exploitant / Exploitante des supports hertziens radio satellitaire</libelle>
+<libelle_court>Exploitant(e) des supports hertziens radio satellitaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15005</code_ogr>
+<libelle>Exploitant / Exploitante des syst&#0232;mes de guerre &#0233;lectronique</libelle>
+<libelle_court>Exploitant / Exploitante des syst&#0232;mes de guerre &#0233;lectronique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15006</code_ogr>
+<libelle>Exploitant / Exploitante des t&#0233;l&#0233;communications</libelle>
+<libelle_court>Exploitant / Exploitante des t&#0233;l&#0233;communications</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15009</code_ogr>
+<libelle>Exploitant / Exploitante faisceaux hertziens</libelle>
+<libelle_court>Exploitant / Exploitante faisceaux hertziens</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15016</code_ogr>
+<libelle>Exploitant / Exploitante syst&#0232;me composante projetable</libelle>
+<libelle_court>Exploitant / Exploitante syst&#0232;me composante projetable</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15015</code_ogr>
+<libelle>Exploitant / Exploitante syst&#0232;me d&#0039;information et de communication aux arm&#0233;es</libelle>
+<libelle_court>Exploitant(e) de syst&#0232;mes d&#0039;info et de com aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15017</code_ogr>
+<libelle>Exploitant / Exploitante transmissions</libelle>
+<libelle_court>Exploitant / Exploitante transmissions</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15435</code_ogr>
+<libelle>Guetteur / Guetteuse de la flotte</libelle>
+<libelle_court>Guetteur / Guetteuse de la flotte</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16038</code_ogr>
+<libelle>Intercepteur / Interceptrice graphie aux arm&#0233;es</libelle>
+<libelle_court>Intercepteur / Interceptrice graphie aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16039</code_ogr>
+<libelle>Intercepteur / Interceptrice technique aux arm&#0233;es</libelle>
+<libelle_court>Intercepteur / Interceptrice technique aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16040</code_ogr>
+<libelle>Intercepteur traducteur / Interceptrice traductrice de langues aux arm&#0233;es</libelle>
+<libelle_court>Intercepteur(trice) traducteur(trice) de langues aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16197</code_ogr>
+<libelle>Linguiste d&#0039;&#0233;coute aux arm&#0233;es</libelle>
+<libelle_court>Linguiste d&#0039;&#0233;coute aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38515</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de surveillance de la circulation maritime</libelle>
+<libelle_court>Op&#0233;rateur(trice) de surveillance de la circulation maritime</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38516</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice des syst&#0232;mes de combat en op&#0233;rations navales</libelle>
+<libelle_court>Op&#0233;rateur(trice) des syst&#0232;mes de combat op&#0233;rations navales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17194</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice &#0233;coute</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice &#0233;coute</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17263</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice radio</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice radio</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17264</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice radiographiste</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice radiographiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17339</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice syst&#0232;me qualifi&#0233; aux arm&#0233;es</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice syst&#0232;me qualifi&#0233; aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17243</code_ogr>
+<libelle>Op&#0233;rateur navigateur / Op&#0233;ratrice navigatrice terrestre aux arm&#0233;es</libelle>
+<libelle_court>Op&#0233;rateur(trice) navigateur(trice) terrestre aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18273</code_ogr>
+<libelle>Radiot&#0233;l&#0233;graphiste</libelle>
+<libelle_court>Radiot&#0233;l&#0233;graphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19696</code_ogr>
+<libelle>Technicien / Technicienne communication aux arm&#0233;es</libelle>
+<libelle_court>Technicien / Technicienne communication aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19511</code_ogr>
+<libelle>Technicien / Technicienne des syst&#0232;mes d&#0039;information et de t&#0233;l&#0233;communications</libelle>
+<libelle_court>Technicien(ne) syst&#0232;mes d&#0039;information et  t&#0233;l&#0233;communications</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19958</code_ogr>
+<libelle>Technicien / Technicienne d&#0233;tection et analyse des signaux &#0233;lectromagn&#0233;tiques</libelle>
+<libelle_court>Technicien(ne) d&#0233;tect et analyse des signaux &#0233;lectromagn&#0233;t</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19983</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;exploitation t&#0233;l&#0233;communication</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;exploitation t&#0233;l&#0233;communication</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20044</code_ogr>
+<libelle>Technicien / Technicienne en communication</libelle>
+<libelle_court>Technicien / Technicienne en communication</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20144</code_ogr>
+<libelle>Technicien / Technicienne exploitation syst&#0232;mes acoustiques</libelle>
+<libelle_court>Technicien / Technicienne exploitation syst&#0232;mes acoustiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20240</code_ogr>
+<libelle>Technicien / Technicienne r&#0233;seau de transmission de donn&#0233;es aux arm&#0233;es</libelle>
+<libelle_court>Technicien(ne) r&#0233;seau de transmission de donn&#0233;es aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20250</code_ogr>
+<libelle>Technicien / Technicienne s&#0233;curit&#0233; des communications aux arm&#0233;es</libelle>
+<libelle_court>Technicien(ne) s&#0233;curit&#0233; des communications aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14141</code_ogr>
+<libelle>Technicien d&#0233;tecteur / Technicienne d&#0233;tectrice anti-sous-marins sp&#0233;cialiste des op&#0233;rations des forces navales et sous-marines</libelle>
+<libelle_court>Technicien(ne) d&#0233;tecteur(trice) anti-sous-marins</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14140</code_ogr>
+<libelle>Technicien d&#0233;tecteur / Technicienne d&#0233;tectrice sp&#0233;cialiste des op&#0233;rations des forces navales et sous-marines</libelle>
+<libelle_court>Technicien(ne) d&#0233;tecteur(trice) sp&#0233;cialiste forces navales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20142</code_ogr>
+<libelle>Technicien exploitant / Technicienne exploitante de syst&#0232;mes de guerre &#0233;lectronique</libelle>
+<libelle_court>Technicien(ne) exploitant(e) syst&#0232;mes de guerre &#0233;lectronique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20265</code_ogr>
+<libelle>Technicien sup&#0233;rieur / Technicienne sup&#0233;rieure d&#0233;tection &#0233;lectromagn&#0233;tique sol-air aux arm&#0233;es</libelle>
+<libelle_court>Technicien(e) sup d&#0233;tection &#0233;lectromagn&#0233;tique sol-air arm&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20423</code_ogr>
+<libelle>Transfiliste aux arm&#0233;es</libelle>
+<libelle_court>Transfiliste aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20425</code_ogr>
+<libelle>Transmetteur / Transmettrice aux arm&#0233;es</libelle>
+<libelle_court>Transmetteur / Transmettrice aux arm&#0233;es</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Surveille, met en oeuvre, s&#0233;curise les syst&#0232;mes d&#0039;information et de communication et r&#0233;alise le traitement des informations, provenant de donn&#0233;es et capteurs d&#0039;informations selon les r&#0232;gles de la structure.
+Peut diriger une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un CAP/BEP en &#0233;lectronique.
+Une formation militaire et des qualifications sont d&#0233;livr&#0233;es en structures militaires.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein des arm&#0233;es (de terre, de l&#0039;air, marine nationale), des services de l&#0039;Etat, en contact avec diff&#0233;rents intervenants (interarm&#0233;es, institutionnels, ...). Elle peut impliquer des d&#0233;placements et un &#0233;loignement du domicile de plusieurs jours ou mois.
+Elle varie selon l&#0039;arm&#0233;e (de terre, de l&#0039;air, marine, ...), le lieu (terrestre, maritime), le type d&#0039;op&#0233;ration (communication, guerre &#0233;lectronique, ...), l&#0039;&#0233;quipement et le mat&#0233;riel.
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+Le port d&#0039;une tenue professionnelle (casque, uniforme, ...) peut &#0234;tre requis.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="7">
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23402</code_ogr>
+<libelle>Arm&#0233;e de l&#0039;air</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23403</code_ogr>
+<libelle>Arm&#0233;e de Terre</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23509</code_ogr>
+<libelle>Gendarmerie Nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23535</code_ogr>
+<libelle>Informatique et t&#0233;l&#0233;communications</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23548</code_ogr>
+<libelle>Marine Nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23591</code_ogr>
+<libelle>Police nationale</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>109906</code_ogr>
+<libelle>Contr&#0244;ler le fonctionnement des &#0233;quipements, des syst&#0232;mes et vecteurs d&#0039;information</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109907</code_ogr>
+<libelle>Surveiller la performance, la capacit&#0233;, la qualit&#0233; du r&#0233;seau et adapter les &#0233;quipements, syst&#0232;mes et vecteurs d&#0039;informations</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>109908</code_ogr>
+<libelle>Rechercher ou recueillir les donn&#0233;es, signaux, mesures, images, transmis ou &#0233;mis et les identifier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>119114</code_ogr>
+<libelle>Traiter l&#0039;information (collecter, classer et mettre &#0224; jour)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124804</code_ogr>
+<libelle>Rep&#0233;rer une anomalie ou un dysfonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108190</code_ogr>
+<libelle>Renseigner les personnels, le commandement, les institutionnels, ... sur les interventions et les &#0233;volutions de la situation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="10">
+<item_ab_stp>
+<code_ogr>116757</code_ogr>
+<libelle>Proc&#0233;dures de maintenance de syst&#0232;mes d&#0039;information</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116758</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de syst&#0232;mes d&#0039;information</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109912</code_ogr>
+<libelle>Audiovisuel &#0233;lectronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104598</code_ogr>
+<libelle>Optronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104107</code_ogr>
+<libelle>Syst&#0232;me d&#0039;information et de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>121411</code_ogr>
+<libelle>M&#0233;thode de classement et d&#0039;archivage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>105666</code_ogr>
+<libelle>Electrom&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115534</code_ogr>
+<libelle>Surveiller des zones terrestres, maritimes, a&#0233;riennes et orienter des interventions ou des op&#0233;rations de recherche, d&#0039;assistance, de secours</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>125189</code_ogr>
+<libelle>Analyser un signal &#0233;lectromagn&#0233;tique ou acoustique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>119361</code_ogr>
+<libelle>Interpr&#0233;ter un signal &#0233;lectromagn&#0233;tique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119360</code_ogr>
+<libelle>Interpr&#0233;ter un signal acoustique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115536</code_ogr>
+<libelle>Surveiller et analyser des communications et des &#0233;missions</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102553</code_ogr>
+<libelle>Linguistique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109915</code_ogr>
+<libelle>Techniques de renseignement</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115537</code_ogr>
+<libelle>Traiter et transmettre des informations chiffr&#0233;es ou cod&#0233;es</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106844</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; Informatique et T&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123620</code_ogr>
+<libelle>Contr&#0244;ler une op&#0233;ration de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122329</code_ogr>
+<libelle>Planifier des interventions de maintenance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115538</code_ogr>
+<libelle>D&#0233;finir (conditionnement, logistique, ...) ou monter des &#0233;quipements, des syst&#0232;mes et des vecteurs d&#0039;information</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123338</code_ogr>
+<libelle>Am&#0233;nager et implanter sur zone du mat&#0233;riel et des dispositifs de combat, de d&#0233;fense ou de protection</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106594</code_ogr>
+<libelle>G&#0233;nie civil</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123649</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;application d&#0039;une r&#0233;glementation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122660</code_ogr>
+<libelle>Diriger des actions militaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>122661</code_ogr>
+<libelle>Coordonner des moyens op&#0233;rationnels militaires</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="9">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1302</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance d&#0039;automatismes</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1304</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance d&#0039;&#0233;quipements industriels et d&#0039;exploitation</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1305</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance &#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1307</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance t&#0233;l&#0233;coms et courants faibles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1309</code_rome_cible>
+<libelle_rome_cible>Maintenance &#0233;lectrique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1401</code_rome_cible>
+<libelle_rome_cible>Maintenance informatique et bureautique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1602</code_rome_cible>
+<libelle_rome_cible>Maintenance d&#0039;a&#0233;ronefs</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1701</code_rome_cible>
+<libelle_rome_cible>Personnel de la D&#0233;fense</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1801</code_rome_cible>
+<libelle_rome_cible>Administration de syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1504</code_rome_cible>
+<libelle_rome_cible>Intervention technique en contr&#0244;le essai qualit&#0233; en &#0233;lectricit&#0233; et &#0233;lectronique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1703</code_rome_cible>
+<libelle_rome_cible>Direction op&#0233;rationnelle de la d&#0233;fense</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1808</code_rome_cible>
+<libelle_rome_cible>Information g&#0233;ographique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

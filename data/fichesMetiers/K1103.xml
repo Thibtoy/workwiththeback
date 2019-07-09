@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1103</code_rome>
+<intitule>D&#0233;veloppement personnel et bien-&#0234;tre de la personne</intitule>
+<code_ogr>366</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="19">
+<item_app>
+<code_ogr>12676</code_ogr>
+<libelle>Coach en d&#0233;veloppement personnel</libelle>
+<libelle_court>Coach en d&#0233;veloppement personnel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13407</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en aromath&#0233;rapie</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en aromath&#0233;rapie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13416</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en d&#0233;veloppement personnel</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en d&#0233;veloppement personnel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13431</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en herboristerie</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en herboristerie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13441</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en naturopathie</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en naturopathie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13447</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re en phytoth&#0233;rapie</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re en phytoth&#0233;rapie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13468</code_ogr>
+<libelle>Conseiller matrimonial / Conseill&#0232;re matrimoniale</libelle>
+<libelle_court>Conseiller matrimonial / Conseill&#0232;re matrimoniale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14833</code_ogr>
+<libelle>Energ&#0233;ticien / Energ&#0233;ticienne</libelle>
+<libelle_court>Energ&#0233;ticien / Energ&#0233;ticienne</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16054</code_ogr>
+<libelle>Intervenant / Intervenante en auriculoth&#0233;rapie</libelle>
+<libelle_court>Intervenant / Intervenante en auriculoth&#0233;rapie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16056</code_ogr>
+<libelle>Intervenant / Intervenante en bio&#0233;nergie</libelle>
+<libelle_court>Intervenant / Intervenante en bio&#0233;nergie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16057</code_ogr>
+<libelle>Intervenant / Intervenante en &#0233;tiopathie</libelle>
+<libelle_court>Intervenant / Intervenante en &#0233;tiopathie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16058</code_ogr>
+<libelle>Intervenant / Intervenante en iridologie</libelle>
+<libelle_court>Intervenant / Intervenante en iridologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16059</code_ogr>
+<libelle>Intervenant / Intervenante en kin&#0233;siologie</libelle>
+<libelle_court>Intervenant / Intervenante en kin&#0233;siologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16060</code_ogr>
+<libelle>Intervenant / Intervenante en m&#0233;decine chinoise</libelle>
+<libelle_court>Intervenant / Intervenante en m&#0233;decine chinoise</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16062</code_ogr>
+<libelle>Intervenant / Intervenante en r&#0233;flexologie plantaire</libelle>
+<libelle_court>Intervenant / Intervenante en r&#0233;flexologie plantaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13452</code_ogr>
+<libelle>Praticien / Praticienne en reiki</libelle>
+<libelle_court>Praticien / Praticienne en reiki</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17964</code_ogr>
+<libelle>Praticien / Praticienne en shiatsu</libelle>
+<libelle_court>Praticien / Praticienne en shiatsu</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18498</code_ogr>
+<libelle>Relaxologue</libelle>
+<libelle_court>Relaxologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19456</code_ogr>
+<libelle>Sophrologue</libelle>
+<libelle_court>Sophrologue</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Met en place des actions de d&#0233;veloppement  personnel, selon la m&#0233;thode utilis&#0233;e, afin de favoriser le bien-&#0234;tre de la personne.
+Peut mettre en place des actions de conseil, coaching.
+Peut diriger une entreprise.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="7">
+Cet emploi/m&#0233;tier est accessible sans dipl&#0244;me particulier.
+Des formations sp&#0233;cifiques peuvent en faciliter l&#0039;exercice.
+L&#0039;enseignement de ces pratiques ne donne pas syst&#0233;matiquement lieu &#0224; des dipl&#0244;mes nationaux. Ces dipl&#0244;mes, &#0224; eux seuls, ne donnent pas droit &#0224; l&#0039;exercice d&#0039;une profession de sant&#0233;.
+Pour en savoir plus :
+http://social-sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/article/pratiques-de-soins-non-conventionnelles
+http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/o%C3%B9-la-d%C3%A9celer/les-d%C3%A9rives-sectaires-dans-le-domaine-de-la-sant%C3%A9/quell
+http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/o%C3%B9-la-d%C3%A9celer/les-d%C3%A9rives-sectaires-dans-le-domaine-de-la-sant%C3%A9/que-0
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="7">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises ou en exercice ind&#0233;pendant, parfois en relation avec diff&#0233;rents intervenants et en contact avec le public.
+Les intervenants en d&#0233;veloppement personnel ou bien &#0234;tre de la personne ne sont pas n&#0233;cessairement des professionnels de sant&#0233;. S&#0039;ils ne  le sont pas et qu&#0039;ils exercent dans le champ de la pratique m&#0233;dicale ou pharmaceutique, ils peuvent &#0234;tre poursuivis pour exercice ill&#0233;gal de la m&#0233;decine ou de la pharmacie (articles L.4161-5 et L.4211-1 du Code de la sant&#0233; publique). Les s&#0233;ances de d&#0233;veloppement personnel ou de bien &#0234;tre ne peuvent en aucun cas se substituer &#0224; une consultation m&#0233;dicale.
+Selon l&#0039;intentionnalit&#0233; de l&#0039;intervenant, la pratique de d&#0233;veloppement personnel et de bien-&#0234;tre peut pr&#0233;senter un risque pour la personne.
+Pour en savoir plus :
+http://social-sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/article/pratiques-de-soins-non-conventionnelles
+http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/o%C3%B9-la-d%C3%A9celer/les-d%C3%A9rives-sectaires-dans-le-domaine-de-la-sant%C3%A9/quell
+http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/o%C3%B9-la-d%C3%A9celer/les-d%C3%A9rives-sectaires-dans-le-domaine-de-la-sant%C3%A9/que-0
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23725</code_ogr>
+<libelle>Boutique, commerce de d&#0233;tail</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23777</code_ogr>
+<libelle>Centre de remise en forme</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23975</code_ogr>
+<libelle>Organisme de formation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="4">
+<item_ab>
+<code_ogr>107792</code_ogr>
+<libelle>Identifier la demande de la personne, cerner son environnement et l&#0039;informer sur la prestation (techniques, objectifs, co&#0251;t, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107793</code_ogr>
+<libelle>Proposer des conseils en mati&#0232;re de bien-&#0234;tre et d&#0039;hygi&#0232;ne de vie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>121490</code_ogr>
+<libelle>Organiser des actions de communication</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123182</code_ogr>
+<libelle>Animer une r&#0233;union</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="7">
+<item_ab_stp>
+<code_ogr>103848</code_ogr>
+<libelle>Techniques d&#0039;animation de groupe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102336</code_ogr>
+<libelle>Techniques de gestion du stress</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102066</code_ogr>
+<libelle>Techniques d&#0039;&#0233;coute et de la relation &#0224; la personne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100541</code_ogr>
+<libelle>Techniques de communication</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126137</code_ogr>
+<libelle>El&#0233;ments de base en psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126233</code_ogr>
+<libelle>El&#0233;ments de base en anatomie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>126343</code_ogr>
+<libelle>Techniques de conduite de r&#0233;union</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126092</code_ogr>
+<libelle>Mettre en place des actions associ&#0233;es &#0224; la sp&#0233;cialit&#0233; de d&#0233;veloppement personnel ou de bien &#0234;tre &#0224; la personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="4">
+<item_as_stp>
+<code_ogr>126347</code_ogr>
+<libelle>D&#0233;veloppement personnel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126138</code_ogr>
+<libelle>Pratiques naturelles</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126095</code_ogr>
+<libelle>Pratiques &#0233;nerg&#0233;tiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>107269</code_ogr>
+<libelle>Techniques de relaxation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>121434</code_ogr>
+<libelle>Coacher des particuliers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107810</code_ogr>
+<libelle>Coacher des salari&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>107811</code_ogr>
+<libelle>Coacher des sportifs professionnels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121419</code_ogr>
+<libelle>Techniques de coaching</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115080</code_ogr>
+<libelle>Pratiquer une s&#0233;ance individuelle ou collective (relaxation, exercices d&#0039;improvisation, ...) et guider le ou les participants pendant la s&#0233;ance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115081</code_ogr>
+<libelle>Communiquer les fondements de la m&#0233;thode utilis&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>121698</code_ogr>
+<libelle>Proposer un service, produit adapt&#0233; &#0224; la demande client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117256</code_ogr>
+<libelle>Contractualiser une vente</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100340</code_ogr>
+<libelle>Techniques de vente</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123920</code_ogr>
+<libelle>Proposer un accompagnement &#0224; la personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119787</code_ogr>
+<libelle>Animer une formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1301</code_rome_cible>
+<libelle_rome_cible>Management de magasin de d&#0233;tail</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1403</code_rome_cible>
+<libelle_rome_cible>Relation commerciale aupr&#0232;s de particuliers</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

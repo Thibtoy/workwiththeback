@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1902</code_rome>
+<intitule>Collaboration juridique</intitule>
+<code_ogr>401</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="34">
+<item_app>
+<code_ogr>11218</code_ogr>
+<libelle>Assistant / Assistante de cabinet juridique</libelle>
+<libelle_court>Assistant / Assistante de cabinet juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11238</code_ogr>
+<libelle>Assistant / Assistante de justice</libelle>
+<libelle_court>Assistant / Assistante de justice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11252</code_ogr>
+<libelle>Assistant / Assistante de service juridique</libelle>
+<libelle_court>Assistant / Assistante de service juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11315</code_ogr>
+<libelle>Assistant notarial / Assistante notariale</libelle>
+<libelle_court>Assistant notarial / Assistante notariale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11461</code_ogr>
+<libelle>Auxiliaire juridique</libelle>
+<libelle_court>Auxiliaire juridique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12655</code_ogr>
+<libelle>Clerc</libelle>
+<libelle_court>Clerc</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12656</code_ogr>
+<libelle>Clerc asserment&#0233;</libelle>
+<libelle_court>Clerc asserment&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12657</code_ogr>
+<libelle>Clerc aux formalit&#0233;s</libelle>
+<libelle_court>Clerc aux formalit&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12658</code_ogr>
+<libelle>Clerc aux formalit&#0233;s de notaire</libelle>
+<libelle_court>Clerc aux formalit&#0233;s de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12659</code_ogr>
+<libelle>Clerc d&#0039;avocat</libelle>
+<libelle_court>Clerc d&#0039;avocat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12660</code_ogr>
+<libelle>Clerc de commissaire-priseur</libelle>
+<libelle_court>Clerc de commissaire-priseur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12661</code_ogr>
+<libelle>Clerc de notaire</libelle>
+<libelle_court>Clerc de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12662</code_ogr>
+<libelle>Clerc d&#0039;huissier</libelle>
+<libelle_court>Clerc d&#0039;huissier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12663</code_ogr>
+<libelle>Clerc formaliste</libelle>
+<libelle_court>Clerc formaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12664</code_ogr>
+<libelle>Clerc hors rang</libelle>
+<libelle_court>Clerc hors rang</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12665</code_ogr>
+<libelle>Clerc hors rang de notaire</libelle>
+<libelle_court>Clerc hors rang de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12666</code_ogr>
+<libelle>Clerc r&#0233;dacteur</libelle>
+<libelle_court>Clerc r&#0233;dacteur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12667</code_ogr>
+<libelle>Clerc significateur</libelle>
+<libelle_court>Clerc significateur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12668</code_ogr>
+<libelle>Clerc significateur asserment&#0233; d&#0039;huissier</libelle>
+<libelle_court>Clerc significateur asserment&#0233; d&#0039;huissier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12704</code_ogr>
+<libelle>Collaborateur d&#0039;huissier charg&#0233; / Collaboratrice d&#0039;huissier charg&#0233;e de recouvrement</libelle>
+<libelle_court>Collaborateur(trice) d&#0039;huissier charg&#0233;(e) de recouvrement</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38421</code_ogr>
+<libelle>Formaliste</libelle>
+<libelle_court>Formaliste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15423</code_ogr>
+<libelle>Greffier / Greffi&#0232;re</libelle>
+<libelle_court>Greffier / Greffi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15424</code_ogr>
+<libelle>Greffier / Greffi&#0232;re en chef</libelle>
+<libelle_court>Greffier / Greffi&#0232;re en chef</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17972</code_ogr>
+<libelle>Premier clerc</libelle>
+<libelle_court>Premier clerc</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17973</code_ogr>
+<libelle>Premier clerc d&#0039;avocat</libelle>
+<libelle_court>Premier clerc d&#0039;avocat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18069</code_ogr>
+<libelle>Principal clerc</libelle>
+<libelle_court>Principal clerc</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18070</code_ogr>
+<libelle>Principal clerc adjoint</libelle>
+<libelle_court>Principal clerc adjoint</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18071</code_ogr>
+<libelle>Principal clerc adjoint de notaire</libelle>
+<libelle_court>Principal clerc adjoint de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18072</code_ogr>
+<libelle>Principal clerc d&#0039;avocat</libelle>
+<libelle_court>Principal clerc d&#0039;avocat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18073</code_ogr>
+<libelle>Principal clerc de commissaire-priseur</libelle>
+<libelle_court>Principal clerc de commissaire-priseur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18074</code_ogr>
+<libelle>Principal clerc de notaire</libelle>
+<libelle_court>Principal clerc de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18075</code_ogr>
+<libelle>Principal clerc d&#0039;huissier</libelle>
+<libelle_court>Principal clerc d&#0039;huissier</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19499</code_ogr>
+<libelle>Sous-principal clerc d&#0039;avocat</libelle>
+<libelle_court>Sous-principal clerc d&#0039;avocat</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19500</code_ogr>
+<libelle>Sous-principal clerc de notaire</libelle>
+<libelle_court>Sous-principal clerc de notaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="5">
+R&#0233;alise l&#0039;appui administratif (courrier, recherche d&#0039;information, constitution d&#0039;un fonds documentaire, ...) d&#0039;un professionnel du droit (notaire, huissier, ...) ou d&#0039;une entreprise.
+R&#0233;dige des actes ou des documents &#0224; valeur juridique.
+Peut authentifier des actes juridictionnels (interrogatoire, reconstitution, ...). Peut &#0233;tablir des constats (&#0233;tats des lieux, adult&#0232;res, d&#0233;g&#0226;ts divers, ...).
+Peut participer &#0224; l&#0039;organisation et &#0224; l&#0039;animation d&#0039;une vente aux ench&#0232;res publiques.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible &#0224; partir d&#0039;un dipl&#0244;me de niveau Bac (Bac g&#0233;n&#0233;ral, capacit&#0233; en droit, ...) compl&#0233;t&#0233; par une formation &#0224; l&#0039;Ecole Nationale des Greffes, Ecole Nationale de Proc&#0233;dure, Ecole de Notariat, ...
+Un dipl&#0244;me de niveau Bac+2 (BTS, L2, ...) &#0224; bac+4 (M1, ...) en droit est exig&#0233; pour les postes de clercs.
+La pratique d&#0039;une langue &#0233;trang&#0232;re, en particulier l&#0039;anglais, peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de structures priv&#0233;es (&#0233;tude, office, entreprise, ...) ou publiques (tribunal judiciaire, administratif, ...), en relation avec diff&#0233;rents intervenants (experts, avocats, huissiers, ...).
+Elle varie selon le type de structure (soci&#0233;t&#0233; commerciale, office, tribunal, ...).
+Elle peut s&#0039;exercer les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et &#0234;tre soumise &#0224; des astreintes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="8">
+<item_env>
+<code_ogr>23706</code_ogr>
+<libelle>Association</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23749</code_ogr>
+<libelle>Cabinet juridique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23926</code_ogr>
+<libelle>Etude de commissaire-priseur</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23927</code_ogr>
+<libelle>Etude d&#0039;huissier</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23928</code_ogr>
+<libelle>Etude notariale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24121</code_ogr>
+<libelle>Tribunal administratif</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24125</code_ogr>
+<libelle>Tribunal de police</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="6">
+<item_ab>
+<code_ogr>124377</code_ogr>
+<libelle>R&#0233;aliser une gestion administrative</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120206</code_ogr>
+<libelle>R&#0233;aliser une recherche documentaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>118837</code_ogr>
+<libelle>R&#0233;diger des actes / proc&#0233;dures juridiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>118838</code_ogr>
+<libelle>Accomplir des d&#0233;marches aupr&#0232;s d&#0039;organismes publics ou priv&#0233;s pour le compte de clients</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108323</code_ogr>
+<libelle>V&#0233;rifier l&#0039;authenticit&#0233; de documents, de titres de propri&#0233;t&#0233; ou l&#0039;exactitude d&#0039;un inventaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123561</code_ogr>
+<libelle>Conseiller un client sur des questions d&#0039;ordre juridique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="9">
+<item_ab_stp>
+<code_ogr>122756</code_ogr>
+<libelle>Proc&#0233;dure civile judiciaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122754</code_ogr>
+<libelle>R&#0233;daction d&#0039;actes juridiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108317</code_ogr>
+<libelle>Droit notarial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107844</code_ogr>
+<libelle>Code de proc&#0233;dure p&#0233;nale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101489</code_ogr>
+<libelle>Droit du travail</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101359</code_ogr>
+<libelle>Droit commercial</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101559</code_ogr>
+<libelle>Droit civil</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108116</code_ogr>
+<libelle>Droit europ&#0233;en</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="9">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122896</code_ogr>
+<libelle>D&#0233;terminer les d&#0233;lais de proc&#0233;dures d&#0039;ex&#0233;cution</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121382</code_ogr>
+<libelle>Assister un magistrat lors d&#0039;audiences (retranscription, compte-rendus)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>108328</code_ogr>
+<libelle>St&#0233;nographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124626</code_ogr>
+<libelle>Remettre des actes et jugements en lieu et place d&#0039;un huissier</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="4">
+<item_as>
+<code_ogr>118871</code_ogr>
+<libelle>R&#0233;aliser un &#0233;tat des lieux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>126100</code_ogr>
+<libelle>Constater des d&#0233;g&#0226;ts mat&#0233;riels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124132</code_ogr>
+<libelle>R&#0233;aliser une mise sous scell&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>118989</code_ogr>
+<libelle>Etablir un proc&#0232;s-verbal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115239</code_ogr>
+<libelle>R&#0233;ceptionner et enregistrer un d&#0233;p&#0244;t de r&#0232;glements de jeux (loto sportif, loterie, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>123578</code_ogr>
+<libelle>Classer des documents et pi&#0232;ces de r&#0233;f&#0233;rence</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123579</code_ogr>
+<libelle>Inventorier des documents et pi&#0232;ces de r&#0233;f&#0233;rence</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>115241</code_ogr>
+<libelle>Organiser une vente aux ench&#0232;res, l&#0039;expertise et le transport des biens et assister le commissaire-priseur lors des ventes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125166</code_ogr>
+<libelle>Expertiser des biens</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>121847</code_ogr>
+<libelle>Techniques de vente aux ench&#0232;res</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>101358</code_ogr>
+<libelle>Techniques d&#0039;expertise de biens</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>120695</code_ogr>
+<libelle>Traiter des dossiers de contentieux (litiges, r&#0233;clamations ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>101342</code_ogr>
+<libelle>Proc&#0233;dures de recouvrement de cr&#0233;ances</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>11218</code_appellation_source>
+<libelle_appellation_source>Assistant / Assistante de cabinet juridique</libelle_appellation_source>
+<code_appellation_source>11238</code_appellation_source>
+<libelle_appellation_source>Assistant / Assistante de justice</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1607</code_rome_cible>
+<libelle_rome_cible>Secr&#0233;tariat</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>19396</code_appellation_cible>
+<libelle_appellation_cible>Secr&#0233;taire juridique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="3">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>11238</code_appellation_source>
+<libelle_appellation_source>Assistant / Assistante de justice</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1102</code_rome_cible>
+<libelle_rome_cible>Aide aux b&#0233;n&#0233;ficiaires d&#0039;une mesure de protection juridique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>12661</code_appellation_source>
+<libelle_appellation_source>Clerc de notaire</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1901</code_rome_cible>
+<libelle_rome_cible>Aide et m&#0233;diation judiciaire</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>12661</code_appellation_source>
+<libelle_appellation_source>Clerc de notaire</libelle_appellation_source>
+<code_appellation_source>17973</code_appellation_source>
+<libelle_appellation_source>Premier clerc d&#0039;avocat</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1903</code_rome_cible>
+<libelle_rome_cible>D&#0233;fense et conseil juridique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

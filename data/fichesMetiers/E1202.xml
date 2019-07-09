@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>E1202</code_rome>
+<intitule>Production en laboratoire cin&#0233;matographique</intitule>
+<code_ogr>128</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="28">
+<item_app>
+<code_ogr>10647</code_ogr>
+<libelle>Agent / Agente d&#0039;encadrement de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Agent/Agente d&#0039;encadrement de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12708</code_ogr>
+<libelle>Colleur / Colleuse de films cin&#0233;matographiques</libelle>
+<libelle_court>Colleur / Colleuse de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13653</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse sensitom&#0233;trique en traitement de films cin&#0233;matographiques</libelle>
+<libelle_court>Contr&#0244;leur(se) sensitom&#0233;trique traitement films cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13915</code_ogr>
+<libelle>D&#0233;doubleur / D&#0233;doubleuse de films cin&#0233;matographiques</libelle>
+<libelle_court>D&#0233;doubleur / D&#0233;doubleuse de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13989</code_ogr>
+<libelle>D&#0233;rusheur / D&#0233;rusheuse</libelle>
+<libelle_court>D&#0233;rusheur / D&#0233;rusheuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14149</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse de n&#0233;gatifs de films cin&#0233;matographiques</libelle>
+<libelle_court>D&#0233;veloppeur(se) de n&#0233;gatifs de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14151</code_ogr>
+<libelle>D&#0233;veloppeur / D&#0233;veloppeuse de positifs de films cin&#0233;matographiques</libelle>
+<libelle_court>D&#0233;veloppeur(se) de positifs de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14768</code_ogr>
+<libelle>Employ&#0233; / Employ&#0233;e de laboratoire de tirage cin&#0233;matographique</libelle>
+<libelle_court>Employ&#0233;/Employ&#0233;e de laboratoire de tirage cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14887</code_ogr>
+<libelle>Essuyeur / Essuyeuse de films cin&#0233;matographiques</libelle>
+<libelle_court>Essuyeur / Essuyeuse de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14904</code_ogr>
+<libelle>Etalonneur / Etalonneuse de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Etalonneur / Etalonneuse de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16847</code_ogr>
+<libelle>Monteur / Monteuse n&#0233;gatif de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Monteur / Monteuse n&#0233;gatif de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16848</code_ogr>
+<libelle>Monteur / Monteuse n&#0233;gatif d&#0039;&#0233;dition cin&#0233;matographique</libelle>
+<libelle_court>Monteur / Monteuse n&#0233;gatif d&#0039;&#0233;dition cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16852</code_ogr>
+<libelle>Monteur / Monteuse positif de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Monteur / Monteuse positif de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16853</code_ogr>
+<libelle>Monteur / Monteuse premier positif</libelle>
+<libelle_court>Monteur / Monteuse premier positif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17105</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17107</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de laboratoire de tirage cin&#0233;matographique</libelle>
+<libelle_court>Op&#0233;rateur(trice) de laboratoire de tirage cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17162</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de t&#0233;l&#0233;cin&#0233;ma</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de t&#0233;l&#0233;cin&#0233;ma</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17442</code_ogr>
+<libelle>Ouvrier / Ouvri&#0232;re de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Ouvrier / Ouvri&#0232;re de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18196</code_ogr>
+<libelle>Projectionniste de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Projectionniste de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18757</code_ogr>
+<libelle>Responsable de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Responsable de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18762</code_ogr>
+<libelle>Responsable de laboratoire de tirage cin&#0233;matographique</libelle>
+<libelle_court>Responsable de laboratoire de tirage cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19219</code_ogr>
+<libelle>Restaurateur / Restauratrice de films cin&#0233;matographiques</libelle>
+<libelle_court>Restaurateur / Restauratrice de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19346</code_ogr>
+<libelle>S&#0233;cheur / S&#0233;cheuse de films cin&#0233;matographiques</libelle>
+<libelle_court>S&#0233;cheur / S&#0233;cheuse de films cin&#0233;matographiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19349</code_ogr>
+<libelle>S&#0233;cheur / S&#0233;cheuse en laboratoire cin&#0233;matographique</libelle>
+<libelle_court>S&#0233;cheur / S&#0233;cheuse en laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19798</code_ogr>
+<libelle>Technicien / Technicienne de laboratoire de tirage cin&#0233;matographique</libelle>
+<libelle_court>Technicien(ne) de laboratoire de tirage cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20336</code_ogr>
+<libelle>Tireur / Tireuse premier positif</libelle>
+<libelle_court>Tireur / Tireuse premier positif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20337</code_ogr>
+<libelle>Tireur / Tireuse s&#0233;rie de laboratoire cin&#0233;matographique</libelle>
+<libelle_court>Tireur / Tireuse s&#0233;rie de laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20655</code_ogr>
+<libelle>V&#0233;rificateur / V&#0233;rificatrice en laboratoire cin&#0233;matographique</libelle>
+<libelle_court>V&#0233;rificateur/V&#0233;rificatrice en laboratoire cin&#0233;matographique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Effectue tout ou partie des op&#0233;rations de traitement de films cin&#0233;matographiques (conduite de machines automatis&#0233;es de d&#0233;veloppement et de tirage, montage, &#0233;talonnage, essuyage, projection) selon les r&#0232;gles de s&#0233;curit&#0233; et les imp&#0233;ratifs de production.
+Peut effectuer la maintenance de premier niveau des machines et &#0233;quipements.
+Peut coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe ou diriger un laboratoire cin&#0233;matographique.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un CAP ou un Bac professionnel en photographie, chimie, ...
+Il est &#0233;galement accessible sans dipl&#0244;me particulier ni exp&#0233;rience professionnelle.
+Un BTS en audiovisuel peut &#0234;tre demand&#0233;.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de laboratoires, de soci&#0233;t&#0233;s de post-production cin&#0233;matographiques en concertation avec l&#0039;&#0233;quipe de r&#0233;alisation (r&#0233;alisateur, &#0233;quipe de tournage, ...).
+Elle varie selon la taille et le degr&#0233; d&#0039;automatisation de la structure.
+Elle peut s&#0039;exercer par roulement, les fins de semaine.
+L&#0039;activit&#0233; peut s&#0039;effectuer en chambre noire.
+Le port d&#0039;&#0233;quipements de protection (blouse, gants, masque, ...) peut &#0234;tre exig&#0233;.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="5">
+<item_env>
+<code_ogr>23983</code_ogr>
+<libelle>Laboratoire cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24085</code_ogr>
+<libelle>Soci&#0233;t&#0233; de post-production cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24844</code_ogr>
+<libelle>Travail en ind&#0233;pendant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="14">
+<item_ab>
+<code_ogr>102671</code_ogr>
+<libelle>R&#0233;ceptionner les films r&#0233;alis&#0233;s par l&#0039;&#0233;quipe de tournage et les contr&#0244;ler</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102672</code_ogr>
+<libelle>R&#0233;aliser les contr&#0244;les chimiques des bains de d&#0233;veloppement des n&#0233;gatifs et les contr&#0244;les sensitom&#0233;triques de l&#0039;&#0233;mulsion</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>123337</code_ogr>
+<libelle>Alimenter une machine industrielle en mati&#0232;re ou produit</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125754</code_ogr>
+<libelle>Lancer et surveiller le d&#0233;veloppement et le tirage de films</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120277</code_ogr>
+<libelle>R&#0233;gler les param&#0232;tres des machines et des &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102675</code_ogr>
+<libelle>Transf&#0233;rer le film cin&#0233;matographique sur vid&#0233;o &#0224; partir du t&#0233;l&#0233;cin&#0233;ma et num&#0233;riser les rushes pour un montage virtuel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125426</code_ogr>
+<libelle>Classer des plans non s&#0233;lectionn&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125425</code_ogr>
+<libelle>Marquer des prises choisies par un r&#0233;alisateur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125021</code_ogr>
+<libelle>Former des bobines aux dimensions des machines et projecteur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125475</code_ogr>
+<libelle>Enregistrer et transmettre les donn&#0233;es d&#0039;un film n&#0233;gatif vers une machine de d&#0233;veloppement du positif</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125474</code_ogr>
+<libelle>&#0201;talonner un film n&#0233;gatif</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102679</code_ogr>
+<libelle>Contr&#0244;ler les rushes, les synchroniser avec la bande son et surveiller leur projection</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125692</code_ogr>
+<libelle>R&#0233;aliser une copie z&#0233;ro</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125693</code_ogr>
+<libelle>Effectuer des tirages s&#0233;ries</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="13">
+<item_ab_stp>
+<code_ogr>102683</code_ogr>
+<libelle>Utilisation de t&#0233;l&#0233;cin&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102682</code_ogr>
+<libelle>Utilisation de console d&#0039;&#0233;talonnage cin&#0233;matographique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102681</code_ogr>
+<libelle>Utilisation de table et de station de montage cin&#0233;matographique traditionnelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102690</code_ogr>
+<libelle>R&#0232;gles de manipulation de produits toxiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102689</code_ogr>
+<libelle>Proc&#0233;dures de tirage s&#0233;rie de films cin&#0233;matographiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102645</code_ogr>
+<libelle>Caract&#0233;ristiques des &#0233;mulsions</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100017</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102687</code_ogr>
+<libelle>Techniques de montage virtuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102686</code_ogr>
+<libelle>Techniques de montage d&#0039;images photochimiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102647</code_ogr>
+<libelle>Optique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102688</code_ogr>
+<libelle>Proc&#0233;dures de num&#0233;risation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>117676</code_ogr>
+<libelle>Modalit&#0233;s d&#0039;approvisionnement en produits de traitements cin&#0233;matographiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="7">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125973</code_ogr>
+<libelle>Restaurer un film</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>116932</code_ogr>
+<libelle>Suivre l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>125971</code_ogr>
+<libelle>D&#0233;finir des besoins en approvisionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>119860</code_ogr>
+<libelle>Pr&#0233;parer les commandes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>117577</code_ogr>
+<libelle>Contr&#0244;ler l&#0039;&#0233;tat des stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>123660</code_ogr>
+<libelle>Ranger des produits ou marchandises selon leurs dates de validit&#0233; et les conditions de conservation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114218</code_ogr>
+<libelle>Diagnostiquer une panne ou un dysfonctionnement d&#0039;&#0233;quipements et le pr&#0233;senter aux services maintenance, d&#0233;panneur, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119762</code_ogr>
+<libelle>D&#0233;finir des besoins en formation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1203</code_rome_cible>
+<libelle_rome_cible>Production en laboratoire photographique</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="1">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1507</code_rome_cible>
+<libelle_rome_cible>Montage audiovisuel et post-production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

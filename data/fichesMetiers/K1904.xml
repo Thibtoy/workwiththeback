@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1904</code_rome>
+<intitule>Magistrature</intitule>
+<code_ogr>403</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="26">
+<item_app>
+<code_ogr>11477</code_ogr>
+<libelle>Avocat g&#0233;n&#0233;ral / Avocate g&#0233;n&#0233;rale</libelle>
+<libelle_court>Avocat g&#0233;n&#0233;ral / Avocate g&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12768</code_ogr>
+<libelle>Commissaire &#0224; la Cour des comptes</libelle>
+<libelle_court>Commissaire &#0224; la Cour des comptes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13346</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re &#0224; la Cour de cassation</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re &#0224; la Cour de cassation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13347</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re &#0224; la Cour des comptes</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re &#0224; la Cour des comptes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13351</code_ogr>
+<libelle>Conseiller / Conseill&#0232;re au tribunal administratif</libelle>
+<libelle_court>Conseiller / Conseill&#0232;re au tribunal administratif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16103</code_ogr>
+<libelle>Juge</libelle>
+<libelle_court>Juge</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16104</code_ogr>
+<libelle>Juge d&#0039;application des peines</libelle>
+<libelle_court>Juge d&#0039;application des peines</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16105</code_ogr>
+<libelle>Juge de grande instance</libelle>
+<libelle_court>Juge de grande instance</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16106</code_ogr>
+<libelle>Juge de police</libelle>
+<libelle_court>Juge de police</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16107</code_ogr>
+<libelle>Juge de proximit&#0233;</libelle>
+<libelle_court>Juge de proximit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16108</code_ogr>
+<libelle>Juge des affaires familiales</libelle>
+<libelle_court>Juge des affaires familiales</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16109</code_ogr>
+<libelle>Juge des enfants</libelle>
+<libelle_court>Juge des enfants</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16110</code_ogr>
+<libelle>Juge des libert&#0233;s et de la d&#0233;tention</libelle>
+<libelle_court>Juge des libert&#0233;s et de la d&#0233;tention</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16111</code_ogr>
+<libelle>Juge des r&#0233;f&#0233;r&#0233;s</libelle>
+<libelle_court>Juge des r&#0233;f&#0233;r&#0233;s</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16112</code_ogr>
+<libelle>Juge d&#0039;instance</libelle>
+<libelle_court>Juge d&#0039;instance</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16113</code_ogr>
+<libelle>Juge d&#0039;instruction</libelle>
+<libelle_court>Juge d&#0039;instruction</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16292</code_ogr>
+<libelle>Magistrat / Magistrate</libelle>
+<libelle_court>Magistrat / Magistrate</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16293</code_ogr>
+<libelle>Magistrat / Magistrate de liaison</libelle>
+<libelle_court>Magistrat / Magistrate de liaison</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18054</code_ogr>
+<libelle>Pr&#0233;sident / Pr&#0233;sidente du tribunal administratif</libelle>
+<libelle_court>Pr&#0233;sident / Pr&#0233;sidente du tribunal administratif</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18055</code_ogr>
+<libelle>Pr&#0233;sident / Pr&#0233;sidente du tribunal de commerce</libelle>
+<libelle_court>Pr&#0233;sident / Pr&#0233;sidente du tribunal de commerce</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18056</code_ogr>
+<libelle>Pr&#0233;sident / Pr&#0233;sidente du tribunal de grande instance</libelle>
+<libelle_court>Pr&#0233;sident / Pr&#0233;sidente du tribunal de grande instance</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18079</code_ogr>
+<libelle>Procureur / Procureure de la R&#0233;publique</libelle>
+<libelle_court>Procureur / Procureure de la R&#0233;publique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18080</code_ogr>
+<libelle>Procureur g&#0233;n&#0233;ral / Procureure g&#0233;n&#0233;rale</libelle>
+<libelle_court>Procureur g&#0233;n&#0233;ral / Procureure g&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19553</code_ogr>
+<libelle>Substitut / Substitute du Procureur de la R&#0233;publique</libelle>
+<libelle_court>Substitut / Substitute du Procureur de la R&#0233;publique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19554</code_ogr>
+<libelle>Substitut g&#0233;n&#0233;ral / Substitute g&#0233;n&#0233;rale</libelle>
+<libelle_court>Substitut g&#0233;n&#0233;ral / Substitute g&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20684</code_ogr>
+<libelle>Vice procureur / Vice procureure de la R&#0233;publique</libelle>
+<libelle_court>Vice procureur / Vice procureure de la R&#0233;publique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Etudie les plaintes et les suites &#0224; donner aux dossiers qui lui sont soumis.
+D&#0233;finit la proc&#0233;dure &#0224; suivre et les investigations &#0224; mener pour mettre les affaires en &#0233;tat d&#0039;&#0234;tre jug&#0233;es.
+Peut juger des litiges en conformit&#0233; avec le droit. Peut requ&#0233;rir une peine conform&#0233;ment &#0224; la loi et selon l&#0039;int&#0233;r&#0234;t des personnes ou de la collectivit&#0233;.
+Peut se d&#0233;placer sur le lieu des affaires pour enqu&#0234;ter.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+4 (M1, IUP, ...) en droit ou &#0233;tudes politiques compl&#0233;t&#0233; par une formation &#0224; l&#0039;Ecole Nationale de la Magistrature.
+Un casier judiciaire exempt de toute mention contradictoire est obligatoire.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="4">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;une juridiction judiciaire ou administrative, en relation avec diff&#0233;rents services (sociaux, &#0233;ducatifs, de police, ...).
+Elle peut impliquer des d&#0233;placements (sur les lieux d&#0039;enqu&#0234;tes, ...).
+Elle varie selon la juridiction, la structure (Tribunal de Grande Instance, Cour d&#0039;appel, ...), la fonction (juge, procureur, ...).
+Elle peut s&#0039;exercer en horaires d&#0233;cal&#0233;s, les fins de semaine, jours f&#0233;ri&#0233;s, de nuit et peut &#0234;tre soumise &#0224; des astreintes.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="10">
+<item_env>
+<code_ogr>23828</code_ogr>
+<libelle>Conseil de Prud&#0039;hommes</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23837</code_ogr>
+<libelle>Cour d&#0039;appel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23838</code_ogr>
+<libelle>Cour d&#0039;assises</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23839</code_ogr>
+<libelle>Cour de cassation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24121</code_ogr>
+<libelle>Tribunal administratif</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24122</code_ogr>
+<libelle>Tribunal correctionnel</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24123</code_ogr>
+<libelle>Tribunal de commerce</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24124</code_ogr>
+<libelle>Tribunal de grande instance</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24125</code_ogr>
+<libelle>Tribunal de police</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24126</code_ogr>
+<libelle>Tribunal d&#0039;instance</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="7">
+<item_ab>
+<code_ogr>124521</code_ogr>
+<libelle>Traiter la demande des plaignants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124520</code_ogr>
+<libelle>Recevoir la demande des plaignants</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124424</code_ogr>
+<libelle>D&#0233;finir une proc&#0233;dure judiciaire &#0224; suivre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123555</code_ogr>
+<libelle>Instruire des affaires civiles, p&#0233;nales et administratives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123553</code_ogr>
+<libelle>Auditionner des parties, t&#0233;moins</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123554</code_ogr>
+<libelle>Collecter des preuves en vue d&#0039;une affaire juridique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122731</code_ogr>
+<libelle>Conduire une information judiciaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="5">
+<item_ab_stp>
+<code_ogr>107246</code_ogr>
+<libelle>M&#0233;decine l&#0233;gale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122756</code_ogr>
+<libelle>Proc&#0233;dure civile judiciaire</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107844</code_ogr>
+<libelle>Code de proc&#0233;dure p&#0233;nale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108027</code_ogr>
+<libelle>Droit p&#0233;nal</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108344</code_ogr>
+<libelle>Direction d&#0039;enqu&#0234;te</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="6">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>120695</code_ogr>
+<libelle>Traiter des dossiers de contentieux (litiges, r&#0233;clamations ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124423</code_ogr>
+<libelle>Arr&#0234;ter une proc&#0233;dure judiciaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>122345</code_ogr>
+<libelle>D&#0233;fendre l&#0039;int&#0233;r&#0234;t public</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>103228</code_ogr>
+<libelle>Droit public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122176</code_ogr>
+<libelle>Coordonner des services de police et de gendarmerie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>121275</code_ogr>
+<libelle>Organiser des activit&#0233;s d&#0039;enqu&#0234;tes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>108093</code_ogr>
+<libelle>M&#0233;thodes d&#0039;investigation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>122085</code_ogr>
+<libelle>Constater des faits, des accidents de la circulation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122086</code_ogr>
+<libelle>Assister &#0224; une autopsie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115254</code_ogr>
+<libelle>R&#0233;aliser le suivi d&#0039;application des peines des condamn&#0233;s (permission de sortie, r&#0233;duction de peine, d&#0233;marches de r&#0233;insertion, ...)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115255</code_ogr>
+<libelle>Trouver une solution amiable pour r&#0233;gler un litige entre propri&#0233;taires et locataires, faire respecter une servitude de passage, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1404</code_rome_cible>
+<libelle_rome_cible>Mise en oeuvre et pilotage de la politique des pouvoirs publics</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2108</code_rome_cible>
+<libelle_rome_cible>Enseignement sup&#0233;rieur</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>E1205</code_rome>
+<intitule>R&#0233;alisation de contenus multim&#0233;dias</intitule>
+<code_ogr>131</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="48">
+<item_app>
+<code_ogr>10328</code_ogr>
+<libelle>Affichiste</libelle>
+<libelle_court>Affichiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10969</code_ogr>
+<libelle>Animateur / Animatrice 2D</libelle>
+<libelle_court>Animateur / Animatrice 2D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10970</code_ogr>
+<libelle>Animateur / Animatrice 3D</libelle>
+<libelle_court>Animateur / Animatrice 3D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12140</code_ogr>
+<libelle>Chef de fabrication d&#0039;&#0233;dition publicitaire</libelle>
+<libelle_court>Chef de fabrication d&#0039;&#0233;dition publicitaire</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12375</code_ogr>
+<libelle>Chef de studio de cr&#0233;ations graphiques</libelle>
+<libelle_court>Chef de studio de cr&#0233;ations graphiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12718</code_ogr>
+<libelle>Coloriste num&#0233;rique</libelle>
+<libelle_court>Coloriste num&#0233;rique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13907</code_ogr>
+<libelle>D&#0233;corateur / D&#0233;coratrice graphiste</libelle>
+<libelle_court>D&#0233;corateur / D&#0233;coratrice graphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13995</code_ogr>
+<libelle>Designer / Designeuse d&#0039;interactivit&#0233;</libelle>
+<libelle_court>Designer / Designeuse d&#0039;interactivit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13999</code_ogr>
+<libelle>Designer / Designeuse graphique</libelle>
+<libelle_court>Designer / Designeuse graphique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38782</code_ogr>
+<libelle>Designer web mobile</libelle>
+<libelle_court>Designer web mobile</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14018</code_ogr>
+<libelle>Dessinateur / Dessinatrice de bande dessin&#0233;e</libelle>
+<libelle_court>Dessinateur / Dessinatrice de bande dessin&#0233;e</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14023</code_ogr>
+<libelle>Dessinateur / Dessinatrice de presse</libelle>
+<libelle_court>Dessinateur / Dessinatrice de presse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14027</code_ogr>
+<libelle>Dessinateur / Dessinatrice d&#0039;&#0233;dition</libelle>
+<libelle_court>Dessinateur / Dessinatrice d&#0039;&#0233;dition</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14074</code_ogr>
+<libelle>Dessinateur / Dessinatrice en publicit&#0233;</libelle>
+<libelle_court>Dessinateur / Dessinatrice en publicit&#0233;</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14083</code_ogr>
+<libelle>Dessinateur / Dessinatrice graphiste</libelle>
+<libelle_court>Dessinateur / Dessinatrice graphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15381</code_ogr>
+<libelle>Gouacheur / Gouacheuse en films d&#0039;animation</libelle>
+<libelle_court>Gouacheur / Gouacheuse en films d&#0039;animation</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15395</code_ogr>
+<libelle>Graphiste concepteur / conceptrice</libelle>
+<libelle_court>Graphiste concepteur / conceptrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15398</code_ogr>
+<libelle>Graphiste multim&#0233;dia</libelle>
+<libelle_court>Graphiste multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38710</code_ogr>
+<libelle>Graphiste 2 D</libelle>
+<libelle_court>Graphiste 2 D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38709</code_ogr>
+<libelle>Graphiste 2 D - jeux vid&#0233;o</libelle>
+<libelle_court>Graphiste 2 D - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38711</code_ogr>
+<libelle>Graphiste 3 D</libelle>
+<libelle_court>Graphiste 3 D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15509</code_ogr>
+<libelle>Illustrateur / Illustratrice</libelle>
+<libelle_court>Illustrateur / Illustratrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15511</code_ogr>
+<libelle>Illustrateur / Illustratrice graphiste</libelle>
+<libelle_court>Illustrateur / Illustratrice graphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15559</code_ogr>
+<libelle>Infographiste</libelle>
+<libelle_court>Infographiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15560</code_ogr>
+<libelle>Infographiste effets sp&#0233;ciaux</libelle>
+<libelle_court>Infographiste effets sp&#0233;ciaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15561</code_ogr>
+<libelle>Infographiste en image de synth&#0232;se</libelle>
+<libelle_court>Infographiste en image de synth&#0232;se</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15562</code_ogr>
+<libelle>Infographiste en multim&#0233;dia</libelle>
+<libelle_court>Infographiste en multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15563</code_ogr>
+<libelle>Infographiste int&#0233;grateur / int&#0233;gratrice</libelle>
+<libelle_court>Infographiste int&#0233;grateur / int&#0233;gratrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15564</code_ogr>
+<libelle>Infographiste web master</libelle>
+<libelle_court>Infographiste web master</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38714</code_ogr>
+<libelle>Infographiste 3 D</libelle>
+<libelle_court>Infographiste 3 D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16031</code_ogr>
+<libelle>Int&#0233;grateur / Int&#0233;gratrice graphiste</libelle>
+<libelle_court>Int&#0233;grateur / Int&#0233;gratrice graphiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16032</code_ogr>
+<libelle>Int&#0233;grateur / Int&#0233;gratrice multim&#0233;dia</libelle>
+<libelle_court>Int&#0233;grateur / Int&#0233;gratrice multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16172</code_ogr>
+<libelle>Layout man / woman</libelle>
+<libelle_court>Layout man / woman</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38708</code_ogr>
+<libelle>Lead graphiste - jeux vid&#0233;o</libelle>
+<libelle_court>Lead graphiste - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16373</code_ogr>
+<libelle>Maquettiste en arts graphiques</libelle>
+<libelle_court>Maquettiste en arts graphiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38713</code_ogr>
+<libelle>Modeleur / Modeleuse 3 D</libelle>
+<libelle_court>Modeleur / Modeleuse 3 D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38712</code_ogr>
+<libelle>Modeleur textureur / Modeleuse textureuse 3D - jeux vid&#0233;o</libelle>
+<libelle_court>Modeleur textureur / Modeleuse textureuse 3D - jeux vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16708</code_ogr>
+<libelle>Mod&#0233;lisateur / Mod&#0233;lisatrice 3D</libelle>
+<libelle_court>Mod&#0233;lisateur / Mod&#0233;lisatrice 3D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>140943</code_ogr>
+<libelle>Motion designer multim&#0233;dia</libelle>
+<libelle_court>Motion designer multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18310</code_ogr>
+<libelle>R&#0233;alisateur / R&#0233;alisatrice multim&#0233;dia</libelle>
+<libelle_court>R&#0233;alisateur / R&#0233;alisatrice multim&#0233;dia</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19289</code_ogr>
+<libelle>Roughman / Roughwoman en arts graphiques</libelle>
+<libelle_court>Roughman / Roughwoman en arts graphiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38216</code_ogr>
+<libelle>St&#0233;r&#0233;ographe 3D</libelle>
+<libelle_court>St&#0233;r&#0233;ographe 3D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19532</code_ogr>
+<libelle>Story boarder</libelle>
+<libelle_court>Story boarder</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20073</code_ogr>
+<libelle>Technicien / Technicienne en image de synth&#0232;se 3D</libelle>
+<libelle_court>Technicien / Technicienne en image de synth&#0232;se 3D</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>126550</code_ogr>
+<libelle>UI - user interface designer</libelle>
+<libelle_court>UI - user interface designer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>126549</code_ogr>
+<libelle>UX - user experience designer</libelle>
+<libelle_court>UX - user experience designer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20687</code_ogr>
+<libelle>Vid&#0233;ographiste</libelle>
+<libelle_court>Vid&#0233;ographiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20726</code_ogr>
+<libelle>Web designer</libelle>
+<libelle_court>Web designer</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+Cr&#0233;e tout ou partie d&#0039;&#0233;l&#0233;ments graphiques et visuels en vue de produire un document imprim&#0233;, audiovisuel ou multim&#0233;dia (livre, plaquette, page web, cd-rom, film d&#0039;animation, jeux vid&#0233;o, ...).
+Peut se sp&#0233;cialiser dans le traitement d&#0039;un ou plusieurs m&#0233;dias (textes, images, son, animation, vid&#0233;o, page Internet, ...) entrant dans la composition d&#0039;un support de communication.
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS, ...) &#0224; Master (Dipl&#0244;me des arts appliqu&#0233;s, Master professionnel, ...) dans le secteur de l&#0039;art, des arts graphiques, de la communication, de la publicit&#0233;.
+Il est &#0233;galement accessible avec un dipl&#0244;me de niveau CAP/BEP &#0224; Bac (Bac professionnel, ...) compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans le m&#0234;me secteur ou sur pr&#0233;sentation de travaux personnels.
+La ma&#0238;trise de l&#0039;outil informatique (palette graphique, images de synth&#0232;se, ...) est exig&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;entreprises de communication, de publicit&#0233;, de presse, d&#0039;&#0233;dition, de marketing, de studios de cr&#0233;ation graphique ou de films d&#0039;animation, ..., en relation avec diff&#0233;rents services et intervenants (direction artistique, fabrication, clients, imprimeurs, photographes, ...).
+Elle varie selon le secteur (publicit&#0233;, cr&#0233;ation graphique, multim&#0233;dia, presse, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23686</code_ogr>
+<libelle>Agence de communication</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23691</code_ogr>
+<libelle>Agence de promotion et de marketing direct</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23867</code_ogr>
+<libelle>Entreprise</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24111</code_ogr>
+<libelle>Studio de cr&#0233;ation graphique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>38679</code_ogr>
+<libelle>Studio de d&#0233;veloppement de jeux vid&#0233;o</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24112</code_ogr>
+<libelle>Studio de films d&#0039;animation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23524</code_ogr>
+<libelle>Imprimerie</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23603</code_ogr>
+<libelle>Publicit&#0233;</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23374</code_ogr>
+<libelle>Au domicile de l&#0039;intervenant</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>118637</code_ogr>
+<libelle>Analyser les besoins du client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125294</code_ogr>
+<libelle>Traduire un concept ou un script en repr&#0233;sentation visuelle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125662</code_ogr>
+<libelle>R&#0233;aliser des &#0233;l&#0233;ments graphiques de composition &#0224; l&#0039;aide d&#0039;outils graphiques informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125979</code_ogr>
+<libelle>Traiter des images num&#0233;riques (colorim&#0233;trie, cadrage etc.)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102725</code_ogr>
+<libelle>Concevoir la mise en page et enrichir le document (int&#0233;gration texte, image, correction, ...) selon les r&#0232;gles typographiques et la charte graphique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124505</code_ogr>
+<libelle>Mod&#0233;liser des &#0233;l&#0233;ments graphiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124506</code_ogr>
+<libelle>D&#0233;finir la composition d&#0039;&#0233;l&#0233;ments graphiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>102727</code_ogr>
+<libelle>Animer les &#0233;l&#0233;ments d&#0039;une image (restitution des mouvements image par image, d&#0233;finition des trajectoires)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124970</code_ogr>
+<libelle>Contr&#0244;ler la conformit&#0233; de r&#0233;alisation d&#0039;un projet</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123863</code_ogr>
+<libelle>D&#0233;terminer des actions correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="18">
+<item_ab_stp>
+<code_ogr>102532</code_ogr>
+<libelle>Technologies de l&#0039;accessibilit&#0233; num&#0233;rique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102731</code_ogr>
+<libelle>Techniques de gestion de r&#0233;seaux pr&#0233;presse</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118354</code_ogr>
+<libelle>Techniques de s&#0233;paration Cyan Magenta Jaune Noir</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100610</code_ogr>
+<libelle>Techniques de dessin</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102531</code_ogr>
+<libelle>Techniques d&#0039;infographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102646</code_ogr>
+<libelle>Colorim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>122238</code_ogr>
+<libelle>Typographie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102461</code_ogr>
+<libelle>Cha&#0238;ne graphique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102730</code_ogr>
+<libelle>Proc&#0233;d&#0233;s et contraintes d&#0039;impression</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102462</code_ogr>
+<libelle>Droit de la propri&#0233;t&#0233; intellectuelle</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102734</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curisation de fichiers informatiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102732</code_ogr>
+<libelle>Langages de programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119515</code_ogr>
+<libelle>Logiciels d&#0039;image de synth&#0232;se</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119523</code_ogr>
+<libelle>Logiciels d&#0039;&#0233;dition multim&#0233;dia</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119196</code_ogr>
+<libelle>Logiciel de montage photo</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120869</code_ogr>
+<libelle>Logiciels de cr&#0233;ation vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119226</code_ogr>
+<libelle>Publication Assist&#0233;e par Ordinateur (PAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="11">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="15">
+<item_as>
+<code_ogr>102735</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire une affiche</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102736</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire une bande dessin&#0233;e</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102737</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un Cd-rom</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102738</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un conditionnement, emballage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>104468</code_ogr>
+<libelle>R&#0233;aliser des dessins artistiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102740</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un dessin anim&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102741</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un film d&#0039;animation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102742</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un film publicitaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102743</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un jeu vid&#0233;o</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125768</code_ogr>
+<libelle>R&#0233;aliser la maquette et la mise en forme d&#0039;un journal</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125767</code_ogr>
+<libelle>R&#0233;aliser la maquette et la mise en forme d&#0039;un livre</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102746</code_ogr>
+<libelle>R&#0233;aliser les &#0233;l&#0233;ments graphiques et visuels en vue de produire un logotype</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102748</code_ogr>
+<libelle>R&#0233;aliser un panneau d&#0039;exposition, pr&#0233;sentoir, stand</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125771</code_ogr>
+<libelle>Concevoir une plaquette ou un d&#0233;pliant publicitaire</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125258</code_ogr>
+<libelle>Concevoir une signal&#0233;tique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="8">
+<item_as>
+<code_ogr>102751</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en animation 2D</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>102752</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en animation 3D</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102753</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en animation vectorielle</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102754</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en images</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102755</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en son</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102756</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en textes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>102757</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration en vid&#0233;o</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>126503</code_ogr>
+<libelle>Utiliser des outils de traitement ou d&#0039;int&#0233;gration d&#0039;effets sp&#0233;ciaux VFX - Visual effects</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>119513</code_ogr>
+<libelle>Logiciel d&#0039;animation 2D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119514</code_ogr>
+<libelle>Logiciel d&#0039;animation 3D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126130</code_ogr>
+<libelle>Utiliser des logiciels</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>31</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="31">
+<item_as_stp>
+<code_ogr>120752</code_ogr>
+<libelle>Logiciel After Effects</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116424</code_ogr>
+<libelle>Logiciel Anime Studio</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116426</code_ogr>
+<libelle>Logiciel Arnold</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116429</code_ogr>
+<libelle>Logiciel Blender</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116461</code_ogr>
+<libelle>Logiciel Character Studio</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116431</code_ogr>
+<libelle>Logiciel Cin&#0233;ma 4D</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116421</code_ogr>
+<libelle>Logiciel 3DS MAX</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116432</code_ogr>
+<libelle>Logiciel Corel Draw</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116434</code_ogr>
+<libelle>Logiciel Dreamweaver</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116435</code_ogr>
+<libelle>Logiciel Fireworks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116436</code_ogr>
+<libelle>Logiciel Flash</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116437</code_ogr>
+<libelle>Logiciel FrameMaker</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116440</code_ogr>
+<libelle>Logiciel Houdini</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120739</code_ogr>
+<libelle>Logiciel Illustrator</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116442</code_ogr>
+<libelle>Logiciel InDesign</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116444</code_ogr>
+<libelle>Logiciel LightWave</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116462</code_ogr>
+<libelle>Logiciel Maya</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116445</code_ogr>
+<libelle>Logiciel Matchmover</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>18</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116446</code_ogr>
+<libelle>Logiciel Mental-ray / V-ray</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>19</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116447</code_ogr>
+<libelle>Logiciel Motion Builder</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>20</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116448</code_ogr>
+<libelle>Logiciel Nuke</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>21</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116449</code_ogr>
+<libelle>Logiciel Page Maker</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>22</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116450</code_ogr>
+<libelle>Logiciel Painter</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>23</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120738</code_ogr>
+<libelle>Logiciel Photoshop</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>24</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116454</code_ogr>
+<libelle>Logiciel Quark Express</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>25</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116455</code_ogr>
+<libelle>Logiciel Realflow</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>26</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116433</code_ogr>
+<libelle>Logiciels StopMotion / iStopMotion</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>27</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116457</code_ogr>
+<libelle>Logiciel Toon Boom</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>28</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>126504</code_ogr>
+<libelle>Logiciel TVPaint</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>29</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116459</code_ogr>
+<libelle>Logiciel XSI Softimage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>30</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>116460</code_ogr>
+<libelle>Logiciel Zbrush</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>31</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="6">
+<item_as>
+<code_ogr>125831</code_ogr>
+<libelle>R&#0233;aliser le design d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121650</code_ogr>
+<libelle>Concevoir l&#0039;arborescence d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>118540</code_ogr>
+<libelle>Concevoir l&#0039;ergonomie de la navigation sur un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>118539</code_ogr>
+<libelle>D&#0233;finir l&#0039;identit&#0233; sonore d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>118543</code_ogr>
+<libelle>D&#0233;finir l&#0039;identit&#0233; visuelle d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>122597</code_ogr>
+<libelle>D&#0233;finir les contenus et rubriques d&#0039;un site web</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>102788</code_ogr>
+<libelle>Langage informatique HTML</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102789</code_ogr>
+<libelle>Langage informatique Javascript</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124689</code_ogr>
+<libelle>D&#0233;finir un concept cr&#0233;atif en fonction du support choisi</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114228</code_ogr>
+<libelle>Int&#0233;grer des effets visuels ou sonores &#0224; des s&#0233;quences vid&#0233;o</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102790</code_ogr>
+<libelle>Techniques de compositing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124606</code_ogr>
+<libelle>Contr&#0244;ler un syst&#0232;me d&#0039;imposition num&#0233;rique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124604</code_ogr>
+<libelle>Contr&#0244;ler un syst&#0232;me de gravure directe de plaque d&#0039;impression</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124603</code_ogr>
+<libelle>Computer To Plate (CTP)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124605</code_ogr>
+<libelle>Computer To Film (CTF)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125898</code_ogr>
+<libelle>Concevoir un logiciel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125864</code_ogr>
+<libelle>D&#0233;finir les crit&#0232;res d&#0039;analyse de l&#0039;exp&#0233;rience utilisateur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as>
+<item_as>
+<code_ogr>121035</code_ogr>
+<libelle>Concevoir des interfaces UX/UI</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>124974</code_ogr>
+<libelle>Techniques de storytelling - communication narrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>121036</code_ogr>
+<libelle>UX/UI Design</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119712</code_ogr>
+<libelle>Design d&#0039;interface utilisateur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121646</code_ogr>
+<libelle>Enregistrer les donn&#0233;es d&#0039;une commande</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>121706</code_ogr>
+<libelle>Techniques commerciales</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119842</code_ogr>
+<libelle>Management</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="4">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1104</code_rome_cible>
+<libelle_rome_cible>Conception de contenus multim&#0233;dias</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1306</code_rome_cible>
+<libelle_rome_cible>Pr&#0233;presse</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>15397</code_appellation_cible>
+<libelle_appellation_cible>Graphiste metteur / metteuse en page</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1204</code_rome_cible>
+<libelle_rome_cible>Design industriel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>14003</code_appellation_cible>
+<libelle_appellation_cible>Designer / Designeuse maquettiste</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1510</code_rome_cible>
+<libelle_rome_cible>Films d&#0039;animation et effets sp&#0233;ciaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>B1101</code_rome_cible>
+<libelle_rome_cible>Cr&#0233;ation en arts plastiques</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>20686</code_appellation_cible>
+<libelle_appellation_cible>Vid&#0233;aste</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1304</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation cin&#0233;matographique et audiovisuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

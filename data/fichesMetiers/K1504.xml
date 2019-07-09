@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1504</code_rome>
+<intitule>Contr&#0244;le et inspection du Tr&#0233;sor Public</intitule>
+<code_ogr>387</code_ogr>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="12">
+<item_app>
+<code_ogr>11808</code_ogr>
+<libelle>Charg&#0233; / Charg&#0233;e de l&#0039;ex&#0233;cution de la d&#0233;pense publique</libelle>
+<libelle_court>Charg&#0233; / Charg&#0233;e de l&#0039;ex&#0233;cution de la d&#0233;pense publique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12211</code_ogr>
+<libelle>Chef de poste du Tr&#0233;sor public</libelle>
+<libelle_court>Chef de poste du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12351</code_ogr>
+<libelle>Chef de service en tr&#0233;sorerie g&#0233;n&#0233;rale</libelle>
+<libelle_court>Chef de service en tr&#0233;sorerie g&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13629</code_ogr>
+<libelle>Contr&#0244;leur / Contr&#0244;leuse du Tr&#0233;sor public</libelle>
+<libelle_court>Contr&#0244;leur / Contr&#0244;leuse du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15976</code_ogr>
+<libelle>Inspecteur / Inspectrice du Tr&#0233;sor public</libelle>
+<libelle_court>Inspecteur / Inspectrice du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17655</code_ogr>
+<libelle>Percepteur / Perceptrice</libelle>
+<libelle_court>Percepteur / Perceptrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18330</code_ogr>
+<libelle>Receveur / Receveuse du Tr&#0233;sor public</libelle>
+<libelle_court>Receveur / Receveuse du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18334</code_ogr>
+<libelle>Receveur-percepteur / Receveuse-perceptrice du Tr&#0233;sor public</libelle>
+<libelle_court>Receveur-percepteur / Receveuse-perceptrice du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18403</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse d&#0039;avances</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse d&#0039;avances</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18405</code_ogr>
+<libelle>R&#0233;gisseur / R&#0233;gisseuse de recettes</libelle>
+<libelle_court>R&#0233;gisseur / R&#0233;gisseuse de recettes</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20437</code_ogr>
+<libelle>Tr&#0233;sorier / Tr&#0233;sori&#0232;re du Tr&#0233;sor public</libelle>
+<libelle_court>Tr&#0233;sorier / Tr&#0233;sori&#0232;re du Tr&#0233;sor public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20441</code_ogr>
+<libelle>Tr&#0233;sorier payeur g&#0233;n&#0233;ral / Tr&#0233;sori&#0232;re payeuse g&#0233;n&#0233;rale</libelle>
+<libelle_court>Tr&#0233;sorier payeur g&#0233;n&#0233;ral / Tr&#0233;sori&#0232;re payeuse g&#0233;n&#0233;rale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="3">
+V&#0233;rifie et contr&#0244;le la gestion financi&#0232;re des fonds publics de l&#0039;Etat, des collectivit&#0233;s locales et des &#0233;tablissements publics, selon les r&#0232;gles de comptabilit&#0233; publique. R&#0233;alise les op&#0233;rations de recouvrement des recettes publiques et g&#0232;re les fonds d&#0233;pos&#0233;s aupr&#0232;s de l&#0039;Etat.
+Intervient en expert aupr&#0232;s des d&#0233;cideurs publics et des entreprises.
+Peut effectuer la gestion des fonds d&#0233;pos&#0233;s dans les caisses du Tr&#0233;sor.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="2">
+Cet emploi/m&#0233;tier est accessible sur concours du Minist&#0232;re de l&#0039;Economie, des Finances et de l&#0039;Industrie avec un dipl&#0244;me de niveau Bac (Bac g&#0233;n&#0233;ral, capacit&#0233; en droit, ...) pour le poste de contr&#0244;leur du Tr&#0233;sor Public et un dipl&#0244;me de niveau Licence (L3), Dipl&#0244;me de Comptabilit&#0233; et de Gestion -DCG- ... pour le poste d&#0039;inspecteur du Tr&#0233;sor public.
+Un casier judiciaire exempt de toute mention contradictoire est obligatoire.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de tr&#0233;soreries, de tr&#0233;soreries g&#0233;n&#0233;rales, d&#0039;&#0233;tablissements de formation du Tr&#0233;sor Public (Ecole Nationale du Tr&#0233;sor public ou centre de formation Professionnelle et Universitaire), de l&#0039;administration centrale du Minist&#0232;re de l&#0039;Economie, des Finances et de l&#0039;Industrie, en contact avec les &#0233;lus locaux, les comptables publics, les usagers (particuliers, entreprises, ...).
+Elle peut impliquer des d&#0233;placements (enqu&#0234;tes, v&#0233;rifications, ...) et &#0234;tre soumise &#0224; des variations saisonni&#0232;res (taxe d&#0039;habitation, r&#0233;ception des d&#0233;clarations d&#0039;imp&#0244;ts, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="4">
+<item_env>
+<code_ogr>24007</code_ogr>
+<libelle>Minist&#0232;re / Administration centrale</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23975</code_ogr>
+<libelle>Organisme de formation</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24046</code_ogr>
+<libelle>Recette des finances</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24120</code_ogr>
+<libelle>Tr&#0233;sorerie</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>125854</code_ogr>
+<libelle>Renseigner un public, des usagers</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>109607</code_ogr>
+<libelle>Accueillir les personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123476</code_ogr>
+<libelle>Piloter des op&#0233;rations de recouvrement de cr&#0233;ances</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>123477</code_ogr>
+<libelle>R&#0233;aliser des op&#0233;rations de recouvrement de cr&#0233;ances</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124318</code_ogr>
+<libelle>R&#0233;aliser une gestion comptable</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>122068</code_ogr>
+<libelle>Contr&#0244;ler les d&#0233;penses et les recettes publiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>108104</code_ogr>
+<libelle>R&#0233;aliser des prestations d&#0039;expertise et de conseil en gestion budg&#0233;taire, financi&#0232;re et fiscale</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122057</code_ogr>
+<libelle>Promouvoir les services d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>122056</code_ogr>
+<libelle>Conseiller des entreprises en mati&#0232;re de finance et d&#0039;&#0233;conomie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="11">
+<item_ab_stp>
+<code_ogr>100118</code_ogr>
+<libelle>Fiscalit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>118975</code_ogr>
+<libelle>Outils bureautiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107981</code_ogr>
+<libelle>Droit administratif</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101489</code_ogr>
+<libelle>Droit du travail</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103228</code_ogr>
+<libelle>Droit public</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107983</code_ogr>
+<libelle>Finances publiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>101360</code_ogr>
+<libelle>Comptabilit&#0233; g&#0233;n&#0233;rale</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>123802</code_ogr>
+<libelle>Analyse de patrimoine financier</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120888</code_ogr>
+<libelle>Gestion comptable</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>120889</code_ogr>
+<libelle>Gestion administrative</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>108086</code_ogr>
+<libelle>Droit priv&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="4">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123380</code_ogr>
+<libelle>G&#0233;rer des fonds d&#0233;pos&#0233;s aupr&#0232;s de l&#0039;Etat</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>119394</code_ogr>
+<libelle>Proc&#0233;der au contr&#0244;le interne d&#0039;une structure</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124421</code_ogr>
+<libelle>R&#0233;aliser le suivi d&#0039;un contr&#0244;le interne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>121055</code_ogr>
+<libelle>D&#0233;terminer des mesures correctives</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1503</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le et inspection des imp&#0244;ts</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1505</code_rome_cible>
+<libelle_rome_cible>Protection des consommateurs et contr&#0244;le des &#0233;changes commerciaux</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="2">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1203</code_rome_cible>
+<libelle_rome_cible>Comptabilit&#0233;</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1204</code_rome_cible>
+<libelle_rome_cible>Contr&#0244;le de gestion</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>I1401</code_rome>
+<intitule>Maintenance informatique et bureautique</intitule>
+<code_ogr>320</code_ogr>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="42">
+<item_app>
+<code_ogr>10484</code_ogr>
+<libelle>Agent / Agente de maintenance de machines de bureau</libelle>
+<libelle_court>Agent / Agente de maintenance de machines de bureau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10486</code_ogr>
+<libelle>Agent / Agente de maintenance de mat&#0233;riels de reprographie</libelle>
+<libelle_court>Agent / Agente de maintenance de mat&#0233;riels de reprographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10490</code_ogr>
+<libelle>Agent / Agente de maintenance en bureautique</libelle>
+<libelle_court>Agent / Agente de maintenance en bureautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10497</code_ogr>
+<libelle>Agent / Agente de maintenance en informatique</libelle>
+<libelle_court>Agent / Agente de maintenance en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10504</code_ogr>
+<libelle>Agent / Agente de maintenance sur syst&#0232;mes d&#0039;impression et de reprographie</libelle>
+<libelle_court>Agent(e) maintenance syst&#0232;mes impression et reprographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10505</code_ogr>
+<libelle>Agent / Agente de maintenance sur t&#0233;l&#0233;copieurs</libelle>
+<libelle_court>Agent / Agente de maintenance sur t&#0233;l&#0233;copieurs</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11194</code_ogr>
+<libelle>Assistant / Assistante aux utilisateurs en informatique</libelle>
+<libelle_court>Assistant / Assistante aux utilisateurs en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11311</code_ogr>
+<libelle>Assistant / Assistante micro-informatique</libelle>
+<libelle_court>Assistant / Assistante micro-informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11341</code_ogr>
+<libelle>Assistant / Assistante sur site informatique</libelle>
+<libelle_court>Assistant / Assistante sur site informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12412</code_ogr>
+<libelle>Chef d&#0039;&#0233;quipe de help desk en informatique</libelle>
+<libelle_court>Chef d&#0039;&#0233;quipe de help desk en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13753</code_ogr>
+<libelle>Correspondant / Correspondante micro-informatique</libelle>
+<libelle_court>Correspondant / Correspondante micro-informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>13975</code_ogr>
+<libelle>D&#0233;panneur / D&#0233;panneuse en micro-informatique grand public</libelle>
+<libelle_court>D&#0233;panneur / D&#0233;panneuse en micro-informatique grand public</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16001</code_ogr>
+<libelle>Installateur / Installatrice de mat&#0233;riels de reprographie</libelle>
+<libelle_court>Installateur / Installatrice de mat&#0233;riels de reprographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38821</code_ogr>
+<libelle>Installateur d&#0233;panneur / Installatrice d&#0233;panneuse en informatique</libelle>
+<libelle_court>Installateur(trice) d&#0233;panneur(se)  en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18589</code_ogr>
+<libelle>Responsable centre d&#0039;appels en maintenance informatique</libelle>
+<libelle_court>Responsable centre d&#0039;appels en maintenance informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19138</code_ogr>
+<libelle>Responsable micro-informatique</libelle>
+<libelle_court>Responsable micro-informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>24855</code_ogr>
+<libelle>Superviseur / Superviseuse help desk en informatique</libelle>
+<libelle_court>Superviseur / Superviseuse help desk en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>24856</code_ogr>
+<libelle>Superviseur / Superviseuse hot line en informatique</libelle>
+<libelle_court>Superviseur / Superviseuse hot line en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19575</code_ogr>
+<libelle>Support aux utilisateurs en informatique</libelle>
+<libelle_court>Support aux utilisateurs en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19578</code_ogr>
+<libelle>Support technique hot line en informatique</libelle>
+<libelle_court>Support technique hot line en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19658</code_ogr>
+<libelle>Technicien / Technicienne assistance &#0224; la client&#0232;le en informatique</libelle>
+<libelle_court>Technicien(ne) assistance &#0224; la client&#0232;le en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19777</code_ogr>
+<libelle>Technicien / Technicienne de help desk en informatique</libelle>
+<libelle_court>Technicien / Technicienne de help desk en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19778</code_ogr>
+<libelle>Technicien / Technicienne de hot line en informatique</libelle>
+<libelle_court>Technicien / Technicienne de hot line en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19816</code_ogr>
+<libelle>Technicien / Technicienne de maintenance de r&#0233;seaux informatiques</libelle>
+<libelle_court>Technicien(ne) de maintenance de r&#0233;seaux informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19817</code_ogr>
+<libelle>Technicien / Technicienne de maintenance de r&#0233;seaux t&#0233;l&#0233;matiques</libelle>
+<libelle_court>Technicien(ne) de maintenance de r&#0233;seaux t&#0233;l&#0233;matiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19822</code_ogr>
+<libelle>Technicien / Technicienne de maintenance de syst&#0232;mes informatiques</libelle>
+<libelle_court>Technicien(ne) de maintenance de syst&#0232;mes informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19836</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en bureautique</libelle>
+<libelle_court>Technicien / Technicienne de maintenance en bureautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19841</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en informatique</libelle>
+<libelle_court>Technicien / Technicienne de maintenance en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19847</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en mat&#0233;riel de bureau</libelle>
+<libelle_court>Technicien/Technicienne de maintenance en mat&#0233;riel de bureau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19855</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en mat&#0233;riels informatiques</libelle>
+<libelle_court>Technicien(ne) de maintenance en mat&#0233;riels informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19857</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en micro-informatique</libelle>
+<libelle_court>Technicien/Technicienne de maintenance en micro-informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19858</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en microsyst&#0232;mes informatiques</libelle>
+<libelle_court>Technicien(ne) de maintenance en microsyst&#0232;mes informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19860</code_ogr>
+<libelle>Technicien / Technicienne de maintenance en mon&#0233;tique</libelle>
+<libelle_court>Technicien / Technicienne de maintenance en mon&#0233;tique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19924</code_ogr>
+<libelle>Technicien / Technicienne de Service Apr&#0232;s Vente -SAV- en informatique</libelle>
+<libelle_court>Technicien/Technicienne Service Apr&#0232;s Vente en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19925</code_ogr>
+<libelle>Technicien / Technicienne de Service Apr&#0232;s-Vente -SAV- en bureautique</libelle>
+<libelle_court>Technicien/Technicienne Service Apr&#0232;s Vente en bureautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20096</code_ogr>
+<libelle>Technicien / Technicienne en micro-informatique et bureautique</libelle>
+<libelle_court>Technicien/Technicienne en micro-informatique et bureautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20097</code_ogr>
+<libelle>Technicien / Technicienne en micro-informatique et r&#0233;seaux</libelle>
+<libelle_court>Technicien / Technicienne en micro-informatique et r&#0233;seaux</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20118</code_ogr>
+<libelle>Technicien / Technicienne en r&#0233;seau local informatique</libelle>
+<libelle_court>Technicien / Technicienne en r&#0233;seau local informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20127</code_ogr>
+<libelle>Technicien / Technicienne en t&#0233;l&#0233;assistance en informatique</libelle>
+<libelle_court>Technicien / Technicienne en t&#0233;l&#0233;assistance en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38884</code_ogr>
+<libelle>Technicien / Technicienne support de proximit&#0233; en informatique</libelle>
+<libelle_court>Technicien(ne) support de proximit&#0233; en informatique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20274</code_ogr>
+<libelle>Technicien / Technicienne support en bureautique</libelle>
+<libelle_court>Technicien / Technicienne support en bureautique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20275</code_ogr>
+<libelle>Technicien / Technicienne support en syst&#0232;mes t&#0233;l&#0233;informatiques</libelle>
+<libelle_court>Technicien(ne) support en syst&#0232;mes t&#0233;l&#0233;informatiques</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="4">
+Effectue le d&#0233;pannage, l&#0039;entretien et l&#0039;installation d&#0039;&#0233;quipements ou de parcs d&#0039;&#0233;quipements informatiques ou bureautiques (mat&#0233;riels, logiciels, r&#0233;seaux, ...), selon les r&#0232;gles de s&#0233;curit&#0233; et la r&#0233;glementation.
+Peut conseiller, former et assister les utilisateurs (sur site, par t&#0233;l&#0233;maintenance, t&#0233;l&#0233;assistance, ...).
+Peut assembler ou int&#0233;grer un &#0233;quipement (configurations standards ou sp&#0233;cifiques, ...).
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="5">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac (Bac Professionnel, Brevet professionnel, ...) &#0224; Bac+2 (BTS, DUT) en informatique, &#0233;lectronique, &#0233;lectrotechnique, ...
+Il est &#0233;galement accessible avec un CAP/BEP en bureautique, reprographie,... ou avec une exp&#0233;rience professionnelle dans le secteur de l&#0039;informatique.
+Un dipl&#0244;me de niveau BAC+2 &#0224; BAC+4 peut &#0234;tre requis pour les superviseurs et pour les responsables de centres d&#0039;appels.
+Une habilitation aux risques d&#0039;origine &#0233;lectrique est souvent exig&#0233;e.
+La pratique de l&#0039;anglais (vocabulaire technique) peut &#0234;tre requise.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="3">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein de soci&#0233;t&#0233;s de services (entreprises de services num&#0233;riques - ESN, ...), de soci&#0233;t&#0233;s sp&#0233;cialis&#0233;es en informatique (assembleurs, installateurs-int&#0233;grateurs, constructeurs de mat&#0233;riels, ...), de service de maintenance de soci&#0233;t&#0233;s, des arm&#0233;es, en contact avec diff&#0233;rents services et intervenants (administratif, comptabilit&#0233;, client, ...).
+Elle peut impliquer des d&#0233;placements et &#0234;tre soumise &#0224; des astreintes.
+Elle varie selon le type d&#0039;intervention (assistance hot line, help desk, int&#0233;gration en atelier, sur plate-forme, d&#0233;ploiement sur sites clients, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23766</code_ogr>
+<libelle>Centre d&#0039;appels</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24095</code_ogr>
+<libelle>Entreprise de Services Num&#0233;riques - ESN</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23909</code_ogr>
+<libelle>Entreprise industrielle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23934</code_ogr>
+<libelle>Fabricant assembleur</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23388</code_ogr>
+<libelle>Administration / Services de l&#0039;Etat</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23401</code_ogr>
+<libelle>Arm&#0233;e</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23445</code_ogr>
+<libelle>Commerce/grande distribution</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23446</code_ogr>
+<libelle>Commerce/vente</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23452</code_ogr>
+<libelle>Constructeur de mat&#0233;riel informatique</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23535</code_ogr>
+<libelle>Informatique et t&#0233;l&#0233;communications</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="8">
+<item_ab>
+<code_ogr>106836</code_ogr>
+<libelle>Diagnostiquer &#0224; distance un dysfonctionnement informatique mat&#0233;riel ou logiciel</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124813</code_ogr>
+<libelle>Identifier des ressources n&#0233;cessaires &#0224; la r&#0233;solution d&#0039;un dysfonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106838</code_ogr>
+<libelle>Guider l&#0039;utilisateur pour r&#0233;soudre le dysfonctionnement ou prendre le contr&#0244;le du syst&#0232;me &#0224; distance</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106758</code_ogr>
+<libelle>Identifier les phases d&#0039;intervention &#0224; partir des informations du diagnostic help desk, de la hot line, des dossiers constructeur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106839</code_ogr>
+<libelle>Changer ou r&#0233;parer un &#0233;l&#0233;ment ou un ensemble d&#0233;fectueux</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>106840</code_ogr>
+<libelle>Configurer le poste de travail aux besoins de l&#0039;utilisateur et effectuer les tests de fonctionnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>106841</code_ogr>
+<libelle>R&#0233;aliser les op&#0233;rations de nettoyage et de r&#0233;glage sur les mat&#0233;riels et &#0233;quipements</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>102694</code_ogr>
+<libelle>Renseigner les supports de suivi d&#0039;intervention et transmettre les informations au service concern&#0233;</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="17">
+<item_ab_stp>
+<code_ogr>106771</code_ogr>
+<libelle>Micro-informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104548</code_ogr>
+<libelle>Informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102732</code_ogr>
+<libelle>Langages de programmation informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106846</code_ogr>
+<libelle>Proc&#0233;dures relatives aux licences et garanties</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106845</code_ogr>
+<libelle>Proc&#0233;dures de d&#0233;ploiement d&#0039;installation</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116821</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de mat&#0233;riel informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103562</code_ogr>
+<libelle>Technologie des fibres optiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>106844</code_ogr>
+<libelle>R&#0232;gles de s&#0233;curit&#0233; Informatique et T&#0233;l&#0233;coms</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>113245</code_ogr>
+<libelle>Normes qualit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>124908</code_ogr>
+<libelle>Protection des donn&#0233;es num&#0233;riques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103070</code_ogr>
+<libelle>Lecture de plan, de sch&#0233;ma</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119506</code_ogr>
+<libelle>Logiciels de Gestion de Maintenance Assist&#0233;e par Ordinateur (GMAO)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119077</code_ogr>
+<libelle>Logiciels de gestion d&#0039;appels t&#0233;l&#0233;phoniques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>119436</code_ogr>
+<libelle>Logiciels de gestion de parc informatique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103501</code_ogr>
+<libelle>Utilisation d&#0039;appareils de mesure &#0233;lectrique (multim&#0232;tre, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="13">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126530</code_ogr>
+<libelle>Installer, entretenir et d&#0233;panner des &#0233;quipements informatiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="17">
+<item_as_stp>
+<code_ogr>109759</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation IBM Aix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>118402</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation AS 400</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109766</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Gcos</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109761</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation HP-Ux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109762</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Irix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109763</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Linux</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109767</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation MacOS</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109768</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation MVS</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109760</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Solaris</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109758</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Unix</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>109764</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation Windows</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113292</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique Android</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113250</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique Apache Tomcat</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>13</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113839</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique Open BSD</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>14</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113840</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique Sun OS</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>15</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113268</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique VirtualBox</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>16</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>113269</code_ogr>
+<libelle>Syst&#0232;me d&#0039;exploitation informatique VMWare (virtualisation d&#0039;architecture)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>17</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>124184</code_ogr>
+<libelle>R&#0233;aliser une intervention n&#0233;cessitant une habilitation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>124200</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux hors tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>124201</code_ogr>
+<libelle>Habilitations &#0233;lectriques de travaux sous tension</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>106858</code_ogr>
+<libelle>R&#0233;aliser une configuration standard sur un poste de travail</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106859</code_ogr>
+<libelle>Installer ou configurer un &#0233;quipement dans l&#0039;environnement client</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106860</code_ogr>
+<libelle>Installer ou configurer un serveur r&#0233;seau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106861</code_ogr>
+<libelle>Principes d&#0039;int&#0233;gration de mat&#0233;riels et de logiciels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>106862</code_ogr>
+<libelle>Intervenir &#0224; distance dans le cadre d&#0039;une organisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>106863</code_ogr>
+<libelle>Intervenir sur sites/clients dans le cadre d&#0039;une organisation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123318</code_ogr>
+<libelle>Int&#0233;grer des composants d&#0039;&#0233;quipements informatiques ou bureautiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>104514</code_ogr>
+<libelle>M&#0233;canique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114938</code_ogr>
+<libelle>R&#0233;aliser un c&#0226;blage r&#0233;seau de mat&#0233;riels informatiques ou bureautiques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106864</code_ogr>
+<libelle>Connectique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>124347</code_ogr>
+<libelle>D&#0233;monter un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124392</code_ogr>
+<libelle>Recycler des composants &#0233;lectroniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>106865</code_ogr>
+<libelle>R&#0233;glementation sur les d&#0233;chets des &#0233;quipements &#0233;lectriques et &#0233;lectroniques - DEEE</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="3">
+<item_as>
+<code_ogr>121021</code_ogr>
+<libelle>&#0201;tablir un devis d&#0039;intervention</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124648</code_ogr>
+<libelle>Evaluer les d&#0233;lais d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+<item_as>
+<code_ogr>124647</code_ogr>
+<libelle>Evaluer les co&#0251;ts d&#0039;une prestation</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100038</code_ogr>
+<libelle>Chiffrage/calcul de co&#0251;t</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>9</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>114940</code_ogr>
+<libelle>D&#0233;ployer des modes de fonctionnement d&#0233;grad&#0233;s (solution d&#0039;attente) d&#0039;un &#0233;quipement informatique ou bureautique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>10</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117570</code_ogr>
+<libelle>Renseigner un syst&#0232;me de suivi de stocks</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>119508</code_ogr>
+<libelle>Logiciels de gestion de stocks</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>11</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123194</code_ogr>
+<libelle>Former un public &#0224; l&#0039;utilisation d&#0039;un &#0233;quipement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>109995</code_ogr>
+<libelle>Utilisation de syst&#0232;me informatique (embarqu&#0233; ou fixe)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>12</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>119788</code_ogr>
+<libelle>Assister techniquement des collaborateurs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>117344</code_ogr>
+<libelle>Elaborer des propositions commerciales</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>13</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="1">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1307</code_rome_cible>
+<libelle_rome_cible>Installation et maintenance t&#0233;l&#0233;coms et courants faibles</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="7">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1402</code_rome_cible>
+<libelle_rome_cible>Relation commerciale grands comptes et entreprises</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>13362</code_appellation_cible>
+<libelle_appellation_cible>Conseiller commercial / Conseill&#0232;re commerciale en biens d&#0039;&#0233;quipement aupr&#0232;s des entreprises</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1407</code_rome_cible>
+<libelle_rome_cible>Relation technico-commerciale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>H1101</code_rome_cible>
+<libelle_rome_cible>Assistance et support technique client</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>I1402</code_rome_cible>
+<libelle_rome_cible>R&#0233;paration de biens &#0233;lectrodomestiques et multim&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2109</code_rome_cible>
+<libelle_rome_cible>Enseignement technique et professionnel</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38238</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice bureautique</libelle_appellation_cible>
+<code_appellation_cible>38242</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice informatique</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>M1810</code_rome_cible>
+<libelle_rome_cible>Production et exploitation de syst&#0232;mes d&#0039;information</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

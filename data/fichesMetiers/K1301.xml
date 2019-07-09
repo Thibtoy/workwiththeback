@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>K1301</code_rome>
+<intitule>Accompagnement m&#0233;dicosocial</intitule>
+<code_ogr>375</code_ogr>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="14">
+<item_app>
+<code_ogr>140948</code_ogr>
+<libelle>Accompagnant &#0233;ducatif et social / Accompagnante &#0233;ducative et sociale en structure collective</libelle>
+<libelle_court>Accompagnant(e) &#0233;ducatif (ve) social(e) structure collective</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10219</code_ogr>
+<libelle>Accompagnateur m&#0233;dicosocial / Accompagnatrice m&#0233;dicosociale</libelle>
+<libelle_court>Accompagnateur m&#0233;dicosocial / Accompagnatrice m&#0233;dicosociale</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10220</code_ogr>
+<libelle>Accompagnateur m&#0233;dicosocial / Accompagnatrice m&#0233;dicosociale d&#0039;activit&#0233;s de la vie journali&#0232;re</libelle>
+<libelle_court>Accompagnateur(trice) m&#0233;dicosocial(e) vie journali&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10221</code_ogr>
+<libelle>Accompagnateur m&#0233;dicosocial / Accompagnatrice m&#0233;dicosociale de personnes d&#0233;pendantes</libelle>
+<libelle_court>Accompagnateur(trice) m&#0233;dicosocial(e) de personne d&#0233;pendante</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10222</code_ogr>
+<libelle>Accompagnateur m&#0233;dicosocial / Accompagnatrice m&#0233;dicosociale de personnes en post-cure</libelle>
+<libelle_court>Accompagnateur(trice) m&#0233;dicosocial(e) personnes en post-cure</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>10856</code_ogr>
+<libelle>Aide m&#0233;dico-psychologique</libelle>
+<libelle_court>Aide m&#0233;dico-psychologique</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38389</code_ogr>
+<libelle>Assistant / Assistante de soins en g&#0233;rontologie</libelle>
+<libelle_court>Assistant / Assistante de soins en g&#0233;rontologie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11457</code_ogr>
+<libelle>Auxiliaire d&#0039;Int&#0233;gration Scolaire -AIS-</libelle>
+<libelle_court>Auxiliaire d&#0039;Int&#0233;gration Scolaire -AIS-</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11466</code_ogr>
+<libelle>Av&#0233;jiste</libelle>
+<libelle_court>Av&#0233;jiste</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14592</code_ogr>
+<libelle>Educateur / Educatrice en locomotion</libelle>
+<libelle_court>Educateur / Educatrice en locomotion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16017</code_ogr>
+<libelle>Instructeur / Instructrice en locomotion</libelle>
+<libelle_court>Instructeur / Instructrice en locomotion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>16053</code_ogr>
+<libelle>Intervenant / Intervenante en accompagnement m&#0233;dicosocial</libelle>
+<libelle_court>Intervenant / Intervenante en accompagnement m&#0233;dicosocial</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18391</code_ogr>
+<libelle>R&#0233;&#0233;ducateur / R&#0233;&#0233;ducatrice en autonomie de la vie journali&#0232;re</libelle>
+<libelle_court>R&#0233;&#0233;ducateur/R&#0233;&#0233;ducatrice en autonomie de la vie journali&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>18392</code_ogr>
+<libelle>R&#0233;&#0233;ducateur / R&#0233;&#0233;ducatrice en locomotion</libelle>
+<libelle_court>R&#0233;&#0233;ducateur / R&#0233;&#0233;ducatrice en locomotion</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+Aide et accompagne les personnes handicap&#0233;es ou d&#0233;pendantes dans la r&#0233;alisation des actes de la vie quotidienne, afin de favoriser le maintien ou le d&#0233;veloppement de leur autonomie.
+Peut enseigner les techniques de locomotion aux personnes malvoyantes ou non-voyantes.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+L&#0039;emploi/m&#0233;tier d&#0039;Aide M&#0233;dico-Psychologique est accessible avec le Dipl&#0244;me d&#0039;Etat d&#0039;Accompagnant Educatif et Social - DEAES (pr&#0233;c&#0233;demment Dipl&#0244;me d&#0039;Etat d&#0039;Aide M&#0233;dico Psychologique -DEAMP).
+Une formation compl&#0233;mentaire peut &#0234;tre requise pour l&#0039;accompagnateur d&#0039;activit&#0233;s de la vie journali&#0232;re.
+L&#0039;emploi/m&#0233;tier d&#0039;instructeur en locomotion est accessible avec un dipl&#0244;me et une exp&#0233;rience professionnelle dans le secteur m&#0233;dicosocial ou de l&#0039;enseignement (psychomotricien, ergoth&#0233;rapeute, &#0233;ducateur sp&#0233;cialis&#0233;, enseignant d&#0039;&#0233;ducation physique et sportive, ...) compl&#0233;t&#0233;s par le Certificat d&#0039;Aptitude &#0224; l&#0039;Education et &#0224; la R&#0233;&#0233;ducation de la Locomotion -CAERL-.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="2">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce au sein d&#0039;associations, d&#0039;&#0233;tablissements hospitaliers, de maisons de retraite, ... ou sur le lieu de vie des personnes en relation avec diff&#0233;rents intervenants (m&#0233;decins, travailleurs sociaux, intervenants param&#0233;dicaux, famille, ...).
+Elle varie selon la structure, le type d&#0039;intervention et le public (personnes d&#0233;pendantes, handicap&#0233;es, ...).
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="6">
+<item_env>
+<code_ogr>23776</code_ogr>
+<libelle>Centre de r&#0233;&#0233;ducation et de r&#0233;adaptation fonctionnelle</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23920</code_ogr>
+<libelle>Etablissement d&#0039;enseignement sp&#0233;cialis&#0233;</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23922</code_ogr>
+<libelle>Etablissement m&#0233;dical (h&#0244;pital, clinique, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23942</code_ogr>
+<libelle>Foyer / centre d&#0039;h&#0233;bergement</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24050</code_ogr>
+<libelle>R&#0233;sidence de personnes &#0226;g&#0233;es</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23375</code_ogr>
+<libelle>Au domicile de particulier</libelle>
+<code_type_section_env>3</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="9">
+<item_ab>
+<code_ogr>123893</code_ogr>
+<libelle>Analyser le contexte de vie d&#0039;une personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>I</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107834</code_ogr>
+<libelle>Analyser la situation et les besoins de la personne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107913</code_ogr>
+<libelle>Pr&#0233;senter &#0224; la personne les activit&#0233;s d&#0039;aide ou d&#0039;&#0233;veil et d&#0233;finir les modalit&#0233;s de mise en oeuvre et d&#0039;accompagnement</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>i</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107662</code_ogr>
+<libelle>Accompagner la personne dans les gestes de la vie quotidienne</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107915</code_ogr>
+<libelle>Identifier les modifications de l&#0039;&#0233;tat de la personne et en informer l&#0039;&#0233;quipe soignante</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>107916</code_ogr>
+<libelle>Conseiller la personne sur des aides techniques (aides visuelles, d&#0233;ambulateur) ou installer le mat&#0233;riel (pose de barri&#0232;re de protection, r&#0233;glage de hauteur de table)</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>107917</code_ogr>
+<libelle>Echanger avec la personne sur son ressenti (mal-&#0234;tre, satisfaction, ...) et l&#0039;orienter vers un m&#0233;decin, assistant de service social, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>124612</code_ogr>
+<libelle>Renseigner des documents m&#0233;dico-administratifs</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>C</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>120683</code_ogr>
+<libelle>Collaborer avec l&#0039;ensemble des intervenants &#0224; la r&#0233;alisation d&#0039;un objectif commun</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>e</riasec_mineur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="8">
+<item_ab_stp>
+<code_ogr>119325</code_ogr>
+<libelle>Psychomotricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107539</code_ogr>
+<libelle>Psychologie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>100414</code_ogr>
+<libelle>R&#0232;gles d&#0039;hygi&#0232;ne et d&#0039;asepsie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102066</code_ogr>
+<libelle>Techniques d&#0039;&#0233;coute et de la relation &#0224; la personne</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107373</code_ogr>
+<libelle>Identification des signes et du degr&#0233; de la douleur</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107775</code_ogr>
+<libelle>Techniques de conduite d&#0039;entretien</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103885</code_ogr>
+<libelle>Gestes d&#0039;urgence et de secours</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>107666</code_ogr>
+<libelle>Manipulation d&#0039;&#0233;quipement (lit m&#0233;dicalis&#0233;, l&#0232;ve malade, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="5">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115113</code_ogr>
+<libelle>Dispenser des soins d&#0039;hygi&#0232;ne et de confort, distribuer les m&#0233;dicaments ou en v&#0233;rifier la prise par les personnes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>107376</code_ogr>
+<libelle>Soins de nursing</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123447</code_ogr>
+<libelle>Former des personnes malvoyantes, non-voyantes &#0224; des strat&#0233;gies compensatrices</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="3">
+<item_as_stp>
+<code_ogr>102633</code_ogr>
+<libelle>Langage Parl&#0233; Compl&#0233;t&#0233; -LPC-</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>119375</code_ogr>
+<libelle>Langue des signes</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102631</code_ogr>
+<libelle>Braille</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115115</code_ogr>
+<libelle>Proposer et mettre en place des solutions techniques (rep&#0232;res tactiles, alertes sonores, ...) pour des personnes malvoyantes ou non-voyantes</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115116</code_ogr>
+<libelle>Animer et mettre en place des groupes de parole ou d&#0039;&#0233;change pour des personnes en suivi m&#0233;dicosocial</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>103848</code_ogr>
+<libelle>Techniques d&#0039;animation de groupe</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>123855</code_ogr>
+<libelle>Accompagner des &#0233;l&#0232;ves handicap&#0233;s</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>100090</code_ogr>
+<libelle>Techniques p&#0233;dagogiques</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="2">
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1205</code_rome_cible>
+<libelle_rome_cible>Information sociale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+<item_mob_pr><code_type_mobilite>1</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K1207</code_rome_cible>
+<libelle_rome_cible>Intervention socio&#0233;ducative</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16740</code_appellation_cible>
+<libelle_appellation_cible>Moniteur &#0233;ducateur / Monitrice &#0233;ducatrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_pr>
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>D1405</code_rome_cible>
+<libelle_rome_cible>Conseil en information m&#0233;dicale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1304</code_rome_cible>
+<libelle_rome_cible>Aide en pu&#0233;riculture</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>J1501</code_rome_cible>
+<libelle_rome_cible>Soins d&#0039;hygi&#0232;ne, de confort du patient</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>K2111</code_rome_cible>
+<libelle_rome_cible>Formation professionnelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>38236</code_appellation_cible>
+<libelle_appellation_cible>Formateur / Formatrice action sociale</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>

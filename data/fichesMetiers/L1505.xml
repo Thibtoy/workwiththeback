@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fiche_emploi_metier>
+<type_fiche>2</type_fiche>
+<libelle_type_fiche>priorise</libelle_type_fiche>
+<version_SI>
+<version_rome>338</version_rome>
+<date_version_si>01/03/2019</date_version_si>
+<mois_version_si>Mars</mois_version_si>
+<annee_version_si>2019</annee_version_si>
+</version_SI>
+<bloc_code_rome>
+<code_rome>L1505</code_rome>
+<intitule>Image cin&#0233;matographique et t&#0233;l&#0233;visuelle</intitule>
+<code_ogr>451</code_ogr>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</bloc_code_rome>
+<bloc_appellation nbItemAppellation="21">
+<item_app>
+<code_ogr>11198</code_ogr>
+<libelle>Assistant cadreur / Assistante cadreuse</libelle>
+<libelle_court>Assistant cadreur / Assistante cadreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11316</code_ogr>
+<libelle>Assistant op&#0233;rateur / Assistante op&#0233;ratrice de prise de vues</libelle>
+<libelle_court>Assistant op&#0233;rateur / Assistante op&#0233;ratrice de prise de vues</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11638</code_ogr>
+<libelle>Cadreur / Cadreuse</libelle>
+<libelle_court>Cadreur / Cadreuse</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>11659</code_ogr>
+<libelle>Cameraman / Camerawoman</libelle>
+<libelle_court>Cameraman / Camerawoman</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12583</code_ogr>
+<libelle>Chef op&#0233;rateur / op&#0233;ratrice de prise de vues</libelle>
+<libelle_court>Chef op&#0233;rateur / op&#0233;ratrice de prise de vues</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12588</code_ogr>
+<libelle>Chef op&#0233;rateur / op&#0233;ratrice image</libelle>
+<libelle_court>Chef op&#0233;rateur / op&#0233;ratrice image</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12589</code_ogr>
+<libelle>Chef op&#0233;rateur / op&#0233;ratrice lumi&#0232;re</libelle>
+<libelle_court>Chef op&#0233;rateur / op&#0233;ratrice lumi&#0232;re</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>12591</code_ogr>
+<libelle>Chef op&#0233;rateur / op&#0233;ratrice vid&#0233;o</libelle>
+<libelle_court>Chef op&#0233;rateur / op&#0233;ratrice vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14145</code_ogr>
+<libelle>Deuxi&#0232;me assistant op&#0233;rateur / Deuxi&#0232;me assistante op&#0233;ratrice</libelle>
+<libelle_court>Deuxi&#0232;me assistant op&#0233;rateur/Deuxi&#0232;me assistante op&#0233;ratrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>14273</code_ogr>
+<libelle>Directeur / Directrice de la photographie</libelle>
+<libelle_court>Directeur / Directrice de la photographie</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>15643</code_ogr>
+<libelle>Ing&#0233;nieur / Ing&#0233;nieure de la vision</libelle>
+<libelle_court>Ing&#0233;nieur / Ing&#0233;nieure de la vision</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17133</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de plateau</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de plateau</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17144</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice de prise de vues</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice de prise de vues</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38472</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice image</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice image</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38471</code_ogr>
+<libelle>Op&#0233;rateur / Op&#0233;ratrice vid&#0233;o</libelle>
+<libelle_court>Op&#0233;rateur / Op&#0233;ratrice vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>17970</code_ogr>
+<libelle>Premier assistant op&#0233;rateur / Premi&#0232;re assistante op&#0233;ratrice</libelle>
+<libelle_court>Premier assistant op&#0233;rateur / Premi&#0232;re assistante op&#0233;ratrice</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19980</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;exploitation et de maintenance des &#0233;quipements audiovisuels</libelle>
+<libelle_court>Technicien(ne) exploitation maintenance &#0233;quipt audiovisuel</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19988</code_ogr>
+<libelle>Technicien / Technicienne d&#0039;exploitation vid&#0233;o</libelle>
+<libelle_court>Technicien / Technicienne d&#0039;exploitation vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>38473</code_ogr>
+<libelle>Technicien / Technicienne prompteur</libelle>
+<libelle_court>Technicien / Technicienne prompteur</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>20284</code_ogr>
+<libelle>Technicien / Technicienne vid&#0233;o</libelle>
+<libelle_court>Technicien / Technicienne vid&#0233;o</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+<item_app>
+<code_ogr>19669</code_ogr>
+<libelle>Technicien banc-titre / Technicienne banc-titre</libelle>
+<libelle_court>Technicien banc-titre / Technicienne banc-titre</libelle_court>
+<priorisation>1</priorisation>
+</item_app>
+</bloc_appellation>
+<definition nbItemDefinition="2">
+R&#0233;alise l&#0039;installation et les r&#0233;glages du mat&#0233;riel de prise de vues (cam&#0233;ra, cam&#0233;scope, moniteur, ...), d&#0039;&#0233;clairage (projecteurs, spots, ...) et effectue les prises de vues des sc&#0232;nes, des s&#0233;quences de tournages, de spectacles selon les imp&#0233;ratifs de la production (d&#0233;lais, budgets, programmation, ...).
+Peut coordonner une &#0233;quipe.
+</definition>
+<acces_emploi_metier nbItemAccesEmploiMetier="3">
+Cet emploi/m&#0233;tier est accessible avec un dipl&#0244;me de niveau Bac+2 (BTS) &#0224; Bac+5 (Master, Ecole d&#0039;audiovisuel, ...) en audiovisuel (sp&#0233;cialit&#0233; image) compl&#0233;t&#0233; par une exp&#0233;rience professionnelle dans le secteur.
+Les recrutements sont ouverts sur contrat de travail &#0224; dur&#0233;e d&#0233;termin&#0233;e d&#0039;usage, parfois sur contrat de travail &#0224; dur&#0233;e ind&#0233;termin&#0233;e (cha&#0238;nes de t&#0233;l&#0233;vision, soci&#0233;t&#0233;s de production, ...).
+Une bonne acuit&#0233; visuelle est recommand&#0233;e.
+</acces_emploi_metier>
+<condition_exercice_activite nbItemConditionExercice="5">
+L&#0039;activit&#0233; de cet emploi/m&#0233;tier s&#0039;exerce pour des soci&#0233;t&#0233;s de production, des compagnies, ... sur des lieux de tournage (plateaux, studios de t&#0233;l&#0233;vision, ...), de spectacle en coordination avec des &#0233;quipes techniques (&#0233;clairage, d&#0233;cors, machinerie, ...) et en contact avec diff&#0233;rents intervenants (r&#0233;alisation, production, interpr&#0232;tes, journalistes, ...).
+Elle peut impliquer des d&#0233;placements (reportages, tournages, ...) et un &#0233;loignement du domicile de plusieurs jours.
+Elle varie selon le secteur (cin&#0233;ma, t&#0233;l&#0233;vision, spectacle vivant, ...), les types de prises de vues (a&#0233;riennes, sous-marines, ...) et la nature du projet (concert, pi&#0232;ce de th&#0233;&#0226;tre, reportage, long-m&#0233;trage, ...).
+L&#0039;activit&#0233; est soumise au rythme de la programmation des spectacles et des tournages.
+L&#0039;activit&#0233; peut s&#0039;effectuer en r&#0233;gie, en studio, &#0224; l&#0039;ext&#0233;rieur, en zone &#0224; risques (reportages en zone de guerre, ...) et impliquer la manipulation de charges.
+</condition_exercice_activite>
+<bloc_environnement_de_travail nbItemEnvTrav="11">
+<item_env>
+<code_ogr>23805</code_ogr>
+<libelle>Cirque</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23821</code_ogr>
+<libelle>Compagnie artistique (th&#0233;&#0226;tre, danse, arts de la rue, ...)</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24029</code_ogr>
+<libelle>Parc de loisirs</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24059</code_ogr>
+<libelle>Salle de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24086</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production audiovisuelle, cin&#0233;matographique</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24087</code_ogr>
+<libelle>Soci&#0233;t&#0233; de production de spectacles</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>24093</code_ogr>
+<libelle>Soci&#0233;t&#0233; de services</libelle>
+<code_type_section_env>1</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23409</code_ogr>
+<libelle>Audiovisuel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23441</code_ogr>
+<libelle>Cin&#0233;ma</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23487</code_ogr>
+<libelle>Ev&#0232;nementiel</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+<item_env>
+<code_ogr>23639</code_ogr>
+<libelle>Spectacle vivant</libelle>
+<code_type_section_env>2</code_type_section_env>
+<priorisation>1</priorisation>
+</item_env>
+</bloc_environnement_de_travail>
+<bloc_activites_de_base nbBlocActiviteBase="1">
+<activites_de_base nbItemActivite_AB="10">
+<item_ab>
+<code_ogr>125420</code_ogr>
+<libelle>Identifier des caract&#0233;ristiques de prises de vues en fonction d&#0039;un sc&#0233;nario</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125231</code_ogr>
+<libelle>D&#0233;terminer le type et l&#0039;emplacement de l&#0039;&#0233;clairage pour un tournage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125999</code_ogr>
+<libelle>S&#0233;lectionner le mat&#0233;riel de prise de vues et d&#0039;&#0233;clairage appropri&#0233; &#0224; un tournage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125763</code_ogr>
+<libelle>Installer le mat&#0233;riel et les &#0233;quipements sur un lieu de tournage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125836</code_ogr>
+<libelle>R&#0233;gler des cam&#0233;ras</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>124208</code_ogr>
+<libelle>Installer du mat&#0233;riel d&#0039;&#0233;clairage</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+<item_ab>
+<code_ogr>125837</code_ogr>
+<libelle>Corriger les d&#0233;fauts techniques d&#0039;un enregistrement vid&#0233;o</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125017</code_ogr>
+<libelle>Cadrer des plans</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>125018</code_ogr>
+<libelle>Effectuer des prises de plan selon les instructions de la r&#0233;gie, du r&#0233;alisateur</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_ab>
+<item_ab>
+<code_ogr>115445</code_ogr>
+<libelle>R&#0233;aliser la maintenance de premier niveau ou les r&#0233;parations de mat&#0233;riel de prise de vues, des &#0233;quipements vid&#0233;o, ...</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_ab>
+</activites_de_base>
+<savoir_theorique_et_proceduraux nbItemSTP_AB="12">
+<item_ab_stp>
+<code_ogr>102702</code_ogr>
+<libelle>Techniques de prise de vue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109166</code_ogr>
+<libelle>Types de plans de vue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109129</code_ogr>
+<libelle>Types de produits audiovisuels/cin&#0233;matographiques (film, reportage, ...)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102599</code_ogr>
+<libelle>Utilisation de cam&#0233;ra</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102647</code_ogr>
+<libelle>Optique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102717</code_ogr>
+<libelle>Electricit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>103130</code_ogr>
+<libelle>Normes de s&#0233;curit&#0233;</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109271</code_ogr>
+<libelle>Types d&#0039;&#0233;clairages</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>8</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109257</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riels d&#0039;&#0233;clairage</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>9</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>102644</code_ogr>
+<libelle>Caract&#0233;ristiques des mat&#0233;riels de prise de vues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>10</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>109272</code_ogr>
+<libelle>Proc&#0233;dures de montage de mat&#0233;riel de prise de vues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>11</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+<item_ab_stp>
+<code_ogr>116745</code_ogr>
+<libelle>Proc&#0233;dures d&#0039;entretien de mat&#0233;riels de prise de vues</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>12</position_item>
+<priorisation>1</priorisation>
+</item_ab_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AB="0">
+</savoir_action>
+</bloc_activites_de_base>
+<bloc_activites_specifiques nbBlocActiviteSpecifique="8">
+<bloc>
+<position_bloc>1</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>117874</code_ogr>
+<libelle>R&#0233;aliser des prises de vues</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="7">
+<item_as_stp>
+<code_ogr>117873</code_ogr>
+<libelle>Equipement cam&#0233;ra portable (&#0224; l&#0039;&#0233;paule)</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117875</code_ogr>
+<libelle>Equipement cam&#0233;ra sur grue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117878</code_ogr>
+<libelle>Equipement cam&#0233;ra sur tr&#0233;pied</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>3</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117879</code_ogr>
+<libelle>Equipement engin t&#0233;l&#0233;command&#0233; de prise de vue</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>4</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117880</code_ogr>
+<libelle>Equipement plateau banc-titre</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>5</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>117876</code_ogr>
+<libelle>Equipement steadicam</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>6</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>120869</code_ogr>
+<libelle>Logiciels de cr&#0233;ation vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>7</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>2</position_bloc>
+<activite_specifique nbItemActivite_AS="2">
+<item_as>
+<code_ogr>125023</code_ogr>
+<libelle>Transporter des consommables de prise de vue</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+<item_as>
+<code_ogr>125024</code_ogr>
+<libelle>Constituer des rapports cam&#0233;ra</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102711</code_ogr>
+<libelle>Manipulation de bobine</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>3</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>125402</code_ogr>
+<libelle>Enregistrer des s&#0233;quences vid&#0233;os sur un support num&#0233;rique</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>4</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>126320</code_ogr>
+<libelle>R&#0233;aliser le montage vid&#0233;o</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>A</riasec_majeur>
+<riasec_mineur>c</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>100518</code_ogr>
+<libelle>Techniques de montage vid&#0233;o</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>102687</code_ogr>
+<libelle>Techniques de montage virtuel</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>5</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>115444</code_ogr>
+<libelle>Diffuser des enregistrements vid&#0233;o &#0224; l&#0039;antenne, surveiller la qualit&#0233; de l&#0039;image (nettet&#0233;, couleurs, ...) et la corriger en r&#0233;gie</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+<riasec_mineur>a</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="1">
+<item_as_stp>
+<code_ogr>102646</code_ogr>
+<libelle>Colorim&#0233;trie</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>6</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>119210</code_ogr>
+<libelle>Assurer une maintenance de premier niveau</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>R</riasec_majeur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="2">
+<item_as_stp>
+<code_ogr>118331</code_ogr>
+<libelle>Utilisation d&#0039;outillages manuels</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+<item_as_stp>
+<code_ogr>104413</code_ogr>
+<libelle>Electronique</libelle>
+<code_type_competence>1</code_type_competence>
+<position_item>2</position_item>
+<priorisation>1</priorisation>
+</item_as_stp>
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>7</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>121060</code_ogr>
+<libelle>Former du personnel &#0224; des proc&#0233;dures et techniques</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>S</riasec_majeur>
+<riasec_mineur>r</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+<bloc>
+<position_bloc>8</position_bloc>
+<activite_specifique nbItemActivite_AS="1">
+<item_as>
+<code_ogr>102359</code_ogr>
+<libelle>Coordonner l&#0039;activit&#0233; d&#0039;une &#0233;quipe</libelle>
+<code_type_activite>3</code_type_activite>
+<code_type_item_activite>2</code_type_item_activite>
+<position_item>1</position_item>
+<priorisation>1</priorisation>
+<riasec_majeur>E</riasec_majeur>
+<riasec_mineur>s</riasec_mineur>
+</item_as>
+</activite_specifique>
+<savoir_theorique_et_proceduraux nbItemSTP_AS="0">
+</savoir_theorique_et_proceduraux>
+<savoir_action nbItemSA_AS="0">
+</savoir_action>
+</bloc>
+</bloc_activites_specifiques>
+<bloc_mobilites>
+<mobilites_proches nbItemMob="0">
+</mobilites_proches>
+<mobilites_si_evolution nbItemMob="4">
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source> </libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>E1106</code_rome_cible>
+<libelle_rome_cible>Journalisme et information m&#0233;dia</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16097</code_appellation_cible>
+<libelle_appellation_cible>Journaliste reporter / reportrice d&#0039;images</libelle_appellation_cible>
+<code_appellation_cible>18550</code_appellation_cible>
+<libelle_appellation_cible>Reporter / Reportrice</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1304</code_rome_cible>
+<libelle_rome_cible>R&#0233;alisation cin&#0233;matographique et audiovisuelle</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1507</code_rome_cible>
+<libelle_rome_cible>Montage audiovisuel et post-production</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>16866</code_appellation_cible>
+<libelle_appellation_cible>Monteur / Monteuse vid&#0233;o</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+<item_mob_ev><code_type_mobilite>2</code_type_mobilite>
+<liste_appellation_source>
+<code_appellation_source>0</code_appellation_source>
+<libelle_appellation_source>Toutes les appellations</libelle_appellation_source>
+</liste_appellation_source>
+<code_rome_cible>L1509</code_rome_cible>
+<libelle_rome_cible>R&#0233;gie g&#0233;n&#0233;rale</libelle_rome_cible>
+<liste_appellation_cible>
+<code_appellation_cible>0</code_appellation_cible>
+<libelle_appellation_cible>Toutes les appellations</libelle_appellation_cible>
+</liste_appellation_cible>
+</item_mob_ev>
+</mobilites_si_evolution>
+</bloc_mobilites>
+</fiche_emploi_metier>
