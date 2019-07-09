@@ -20,5 +20,9 @@
 		"password-hash": "^1.2.2",
 		"sequelize": "^5.8.7",
 		"xml-js": "^1.6.11"
-	}
+	},
+
+	"engines": {
+    "node": "12.1.0"
+  	}
 }
