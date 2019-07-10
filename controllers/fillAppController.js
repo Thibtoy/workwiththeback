@@ -108,6 +108,10 @@ exports.addOffer= function(req, res) {
 		 			res.status(400).json(err);
 		 		})
 		 })
+		 .catch(err => {
+		 	console.log(err)
+		 	res.status(400).json(err);
+		 });
 }
 
 exports.offers = function(req, res) {
