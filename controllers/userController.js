@@ -18,7 +18,10 @@ exports.signUp = function(req, res) {
 				else if(!user) {
 					let params = {table: type, fields: req.body};
  					query.create(params, function(err, data){
- 						if (err) res.status(400).json(err);
+ 						if (err) {
+ 							console.log(err);
+ 							res.status(400).json(err);
+ 						}
  						else {
  							let token = jwt.sign({id: data.insertId, table: type}, secret);
  							sendValidationMail(req.body.email, token);
