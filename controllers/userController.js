@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken');
 const config = require('../config/config');
 const query = require('../models/query.js');
 const nodeMailer = require('nodemailer');
-const mg = require('nodemailer-mailgun-transport');
+const mailgun = require('mailgun-js');
 
 
 exports.signUp = function(req, res) {
@@ -78,14 +78,9 @@ exports.authenticated = function(req, res) {
 }
 
 function sendValidationMail(mail, token) {
-	let auth = {
-			auth:{
-				api_key: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8',
-				domain: 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org',
-			},
-		}
+	const DOMAIN = 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org',
+	const mg = mailgun({apikey: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8', domain: DOMAIN});
 
-	let transporter = nodeMailer.createTransport(mg(auth));
 	let mailConfig = {
 		from: 'cabanes.thibault@gmail.com',
         to: mail,
@@ -102,13 +97,13 @@ function sendValidationMail(mail, token) {
         	  '			</body>'+
         	  '		</html>'
 	}
-	transporter.sendMail(mailConfig, function(error, info){
-     	if(error){
+	
+	mg.messages().send(mailConfig, function(error, info){
+		if(error){
         	return console.log(error);
      	}
      	else console.log(info);
 	});
-	transporter.close();
 }
 
 //signUp Mongo's Method:
