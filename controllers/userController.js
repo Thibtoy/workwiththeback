@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken');
 const config = require('../config/config');
 const query = require('../models/query.js');
 const nodeMailer = require('nodemailer');
-const mailgun = require('mailgun-js');
+const secret = process.env.SECRET || config.SECRET
 
 
 exports.signUp = function(req, res) {
@@ -42,7 +42,7 @@ exports.login = function(req, res) {
 			else if (!user || user.activated === 0) res.status(200).json({message: 'This user does not exists'});
 			else if (pH.verify(req.body.password, user.password)) {
 				let name = (user.firstName)?user.firstName+' '+user.lastName: user.name;
-				let token = jwt.sign({logged: true, id:user.id, name: name, role: req.body.type}, config.SECRET);
+				let token = jwt.sign({logged: true, id:user.id, name: name, role: req.body.type}, secret);
 				res.status(200).json({authenticate: true, token: token, message: 'Successfully connected'});
 			}
 			else res.status(200).json({authenticate: false, message: 'Incorrect password'});
@@ -52,7 +52,7 @@ exports.login = function(req, res) {
 exports.activateAccount = function(req, res) {
 	let token = req.query.token;
 	console.log(req.query);
-	jwt.verify(token, config.SECRET, function(err, decoded){
+	jwt.verify(token, secret, function(err, decoded){
 		if (err) res.status(400).json('Authentication Faillure, maybe the link that you followed is expired :3');
 		else {
 			query.update({table: decoded.table, fields: {activated: 1}, where:{id: decoded.id}})
@@ -69,7 +69,7 @@ exports.activateAccount = function(req, res) {
 }
 
 exports.authenticated = function(req, res) {
-	jwt.verify(req.body.token, config.SECRET, function(err, decoded){
+	jwt.verify(req.body.token, secret, function(err, decoded){
 		if (err) res.status(400).json(err);
 		else {
 			res.status(200).json({auth: true, user: decoded});
@@ -78,8 +78,13 @@ exports.authenticated = function(req, res) {
 }
 
 function sendValidationMail(mail, token) {
-	const DOMAIN = 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org';
-	const mg = mailgun({apiKey: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8', domain: DOMAIN});
+	let transporter = nodeMailer.createTransport({
+			service: 'gmail',
+			auth: {
+				user: process.env.MAIL || config.MAIL,
+				pass: process.env.MAIL_KEY || config.GMAILKEY,
+			}
+		});
 
 	let mailConfig = {
 		from: 'cabanes.thibault@gmail.com',
@@ -98,12 +103,12 @@ function sendValidationMail(mail, token) {
         	  '		</html>'
 	}
 
-	mg.messages().send(mailConfig, function(error, info){
-		if(error){
+	transporter.sendMail(mailConfig, function(error, info){
+     	if(error){
         	return console.log(error);
      	}
-     	else console.log(info);
 	});
+	transporter.close();
 }
 
 //signUp Mongo's Method:
