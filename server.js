@@ -26,8 +26,8 @@ const userRoute = require('./config/routes/user');
 	  userRoute(app);
 
 //à commenter une fois les datas insérées
-const dataRoute = require('./config/routes/data');
-	  dataRoute(app);
+// const dataRoute = require('./config/routes/data');
+// 	  dataRoute(app);
 
 const fillAppRoute = require('./config/routes/fillApp');
 	  fillAppRoute(app);
