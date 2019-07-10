@@ -82,12 +82,12 @@ function sendValidationMail(mail, token) {
 			auth:{
 				api_key: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8',
 				domain: 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org',
-			}
+			},
 		}
 
 	let transporter = nodeMailer.createTransport(mg(auth));
 	let mailConfig = {
-		from: 'noreply@noreply.com',
+		from: 'cabanes.thibault@gmail.com',
         to: mail,
         subject: 'Account validation WorkWithTheBest',
         html: '<!DOCTYPE html>'+
