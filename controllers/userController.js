@@ -35,12 +35,8 @@ exports.signUp = function(req, res) {
 
 exports.login = function(req, res) {
 		let params = {fields: '*', table: req.body.type, where:{email: req.body.email}};
-		let db = query.connect(function(err){
-			if (err) throw err;
-		})
-		db.find(params, function(err, user){
+		query.find(params, function(err, user){
 			console.log(user);
-			db.end();
 			if (err) res.status(400).json(err);
 			else if (!user || user.activated === 0) res.status(200).json({message: 'This user does not exists'});
 			else if (pH.verify(req.body.password, user.password)) {
