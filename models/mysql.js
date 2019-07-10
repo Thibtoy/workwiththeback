@@ -8,7 +8,8 @@ const connection = {
 		database: 'heroku_4828e0c88395693'
 	},
 	init: () => {
-		return mysql.createConnection(this.params);
+		let that = this;
+		return mysql.createConnection(that.params);
 	}
 };
 
