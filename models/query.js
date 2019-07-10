@@ -98,7 +98,7 @@ exports.create = function(options, result) {
 	connection.connect(function(err){
 		if (err) throw err;
 	})
-	return db.query(query, params, function(err, data){
+	return connection.query(query, params, function(err, data){
 		connection.end()
 		if (err) return result(err, null);
 		else return result(false, data);
@@ -117,7 +117,7 @@ exports.test = function(options) {
 	connection.connect(function(err){
 		if (err) throw err;
 	})
-		return db.query(query, params, function(err, data){
+		return connection.query(query, params, function(err, data){
 			connection.end()
 			if (err) return reject(err);
 			else return resolve(data.insertId);
@@ -149,7 +149,7 @@ exports.update = function(options) {
 	connection.connect(function(err){
 		if (err) throw err;
 	})
-		return db.query(query, values, function(error, result){
+		return connection.query(query, values, function(error, result){
 			connection.end();
 			if (error) reject(error);
 			resolve('success');			
