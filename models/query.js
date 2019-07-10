@@ -94,7 +94,12 @@ exports.create = function(options, result) {
 	}
 	let query = 'INSERT INTO '+options.table+' SET ? ';
 	console.log(query);
+	let connection = mysql.createConnection(db);
+	connection.connect(function(err){
+		if (err) throw err;
+	})
 	return db.query(query, params, function(err, data){
+		connection.end()
 		if (err) return result(err, null);
 		else return result(false, data);
 	})
@@ -108,7 +113,12 @@ exports.test = function(options) {
 		}
 		let query = 'INSERT INTO '+options.table+' SET ? ';
 		console.log(query);
+		let connection = mysql.createConnection(db);
+	connection.connect(function(err){
+		if (err) throw err;
+	})
 		return db.query(query, params, function(err, data){
+			connection.end()
 			if (err) return reject(err);
 			else return resolve(data.insertId);
 		})
@@ -135,7 +145,12 @@ exports.update = function(options) {
 		}
 		query += where; 
 		console.log(query, values);
+		let connection = mysql.createConnection(db);
+	connection.connect(function(err){
+		if (err) throw err;
+	})
 		return db.query(query, values, function(error, result){
+			connection.end();
 			if (error) reject(error);
 			resolve('success');			
 		})		
