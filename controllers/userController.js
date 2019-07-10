@@ -78,7 +78,7 @@ exports.authenticated = function(req, res) {
 }
 
 function sendValidationMail(mail, token) {
-	const DOMAIN = 'https://api.mailgun.net/v3/sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org';
+	const DOMAIN = 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org';
 	const mg = mailgun({apiKey: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8', domain: DOMAIN});
 
 	let mailConfig = {
