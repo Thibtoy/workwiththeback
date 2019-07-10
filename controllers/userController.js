@@ -87,7 +87,7 @@ function sendValidationMail(mail, token) {
 
 	let transporter = nodeMailer.createTransport(mg(auth));
 	let mailConfig = {
-		from: '<noreply>',
+		from: 'noreply@noreply.com',
         to: mail,
         subject: 'Account validation WorkWithTheBest',
         html: '<!DOCTYPE html>'+
