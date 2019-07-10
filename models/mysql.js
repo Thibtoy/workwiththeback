@@ -1,6 +1,6 @@
 
 
-var connection = {
+const connection = {
 		host: 'us-cdbr-iron-east-02.cleardb.net',
 		user: 'b3019958943076',
 		password: '0d3022ea',

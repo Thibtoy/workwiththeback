@@ -64,12 +64,12 @@ exports.find = function(options, results) {
 	if (options.orderBy) query += ' ORDER BY '+options.orderBy.field+' '+options.orderBy.order;
 	if (options.limit) query += ' LIMIT '+options.limit;
 	console.log(query);
-	db = mysql.createConnection(db);
-	db.connect(function(err){
+	let connection = mysql.createConnection(db);
+	connection.connect(function(err){
 		if (err) throw err;
 	})
-	return db.query(query, function(err, data){
-		db.end();
+	return connection.query(query, function(err, data){
+		connection.end();
 		if (err) return results(err, null);
 		else if(data.length === 0) return results(null, false);
 		else if(data.length === 1) return results(null, data[0]);
