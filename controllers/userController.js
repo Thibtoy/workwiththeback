@@ -106,6 +106,7 @@ function sendValidationMail(mail, token) {
      	if(error){
         	return console.log(error);
      	}
+     	else console.log('coucou');
 	});
 	transporter.close();
 }
