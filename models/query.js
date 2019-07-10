@@ -1,4 +1,5 @@
 const db = require('./mysql.js');
+const mysql = require('mysql');
 
 function mysqlEscape(str) {
     return str.replace(/[\0\x08\x09\x1a\n\r"'\\\%]/g, function (char) {
@@ -63,7 +64,7 @@ exports.find = function(options, results) {
 	if (options.orderBy) query += ' ORDER BY '+options.orderBy.field+' '+options.orderBy.order;
 	if (options.limit) query += ' LIMIT '+options.limit;
 	console.log(query);
-	db = db.init();
+	db = mysql.createConnection(db);
 	db.connect(function(err){
 		if (err) throw err;
 	})
