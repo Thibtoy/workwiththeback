@@ -79,9 +79,11 @@ exports.authenticated = function(req, res) {
 
 function sendValidationMail(mail, token) {
 	let auth = {
+			auth:{
 				api_key: 'bb513e1639cfbfce90f78ddfbdf37269-afab6073-804c9ba8',
 				domain: 'sandboxc68386a08292495fbd0b6bf44318a49e.mailgun.org',
 			}
+		}
 
 	let transporter = nodeMailer.createTransport(mg(auth));
 	let mailConfig = {
@@ -96,7 +98,7 @@ function sendValidationMail(mail, token) {
     		  '			<body>'+
     		  '				<div><p>Congratulations, your registration on WorkWithTheBest is almost done.<br />'+
     		  '				Click on the link below to validate your account!</p><br />'+
-    		  '				<a href="https://evening-forest-89198.herokuapp.com/activateAccount?token='+token+'>Click Here</a>'+
+    		  '				<a href="https://evening-forest-89198.herokuapp.com/activateAccount?token='+token+'">Click Here</a>'+
         	  '			</body>'+
         	  '		</html>'
 	}
