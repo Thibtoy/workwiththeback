@@ -2,10 +2,9 @@
 //const {User} = require('../models/sequelize');
 const pH = require('password-hash');
 const jwt = require('jsonwebtoken');
-const config = require('../config/config');
 const query = require('../models/query.js');
 const nodeMailer = require('nodemailer');
-const secret = process.env.SECRET || config.SECRET
+const secret = process.env.SECRET || require('../config/config').SECRET;
 
 
 exports.signUp = function(req, res) {
@@ -21,7 +20,7 @@ exports.signUp = function(req, res) {
  					query.create(params, function(err, data){
  						if (err) res.status(400).json(err);
  						else {
- 							let token = jwt.sign({id: data.insertId, table: type}, config.SECRET);
+ 							let token = jwt.sign({id: data.insertId, table: type}, secret);
  							sendValidationMail(req.body.email, token);
  							res.status(201).json({created: true, message:data});
  						}
@@ -81,8 +80,8 @@ function sendValidationMail(mail, token) {
 	let transporter = nodeMailer.createTransport({
 			service: 'gmail',
 			auth: {
-				user: process.env.MAIL || config.MAIL,
-				pass: process.env.MAIL_KEY || config.GMAILKEY,
+				user: process.env.MAIL || require('../config/config').MAIL,
+				pass: process.env.MAIL_KEY || require('../config/config').GMAILKEY,
 			}
 		});
 
