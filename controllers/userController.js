@@ -35,7 +35,7 @@ exports.signUp = function(req, res) {
 }
 
 exports.login = function(req, res) {
-	jwt.verify(req.body.securityToken, config.SECRET, function(err, decoded){
+	jwt.verify(req.body.securityToken, secret, function(err, decoded){
 		if (err) res.status(200).json({faillure: true, message: 'The form has expired'});
 		else {
 			let params = {fields: '*', table: req.body.type, where:{email: req.body.email}};
