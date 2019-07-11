@@ -1,10 +1,9 @@
-
-
+//On paramètre les identifiants de connexion
 const connection = {
-		host: 'us-cdbr-iron-east-02.cleardb.net',
-		user: 'b3019958943076',
-		password: '0d3022ea',
-		database: 'heroku_4828e0c88395693'
+		host: process.env.DATABASE_URL || 'localhost',
+		user: process.env.DATABASE_USER || 'root',
+		password: process.env.DATABASE_PASS || 'root',
+		database: process.env.DATABASE_NAME || 'WorkWithTheBest',
 }
 
 // connection.connect(function(err){
@@ -12,6 +11,7 @@ const connection = {
 // 	console.log('db connected')
 // })
 
+//On exportes 'connection'
 module.exports = connection;
 
 // var connection;
