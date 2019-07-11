@@ -71,7 +71,7 @@ exports.activateAccount = function(req, res) {
 }
 
 exports.authenticated = function(req, res) {
-	jwt.verify(req.body.token, config.SECRET, function(err, decoded){
+	jwt.verify(req.body.token, secret, function(err, decoded){
 		if (err) {
 			res.status(400).json(err);
 		}
@@ -83,7 +83,7 @@ exports.authenticated = function(req, res) {
 }
 
 exports.securityToken = function (req, res) {
-	let token = jwt.sign({form: true}, config.SECRET, {expiresIn: 180});
+	let token = jwt.sign({form: true}, secret, {expiresIn: 180});
 	res.status(200).json(token);
 }
 
@@ -91,7 +91,7 @@ function refreshToken(decoded) {
 	let now = new Date();
 	let remainingTime = decoded.exp - parseInt(now.getTime().toString().slice(0, 10), 10);
 	if (remainingTime < 420) {
-		return jwt.sign({logged: true, id:decoded.id, name: decoded.name, role: decoded.role}, config.SECRET, {expiresIn: 900})
+		return jwt.sign({logged: true, id:decoded.id, name: decoded.name, role: decoded.role}, secret, {expiresIn: 900})
 	}
 	else return false;
 }
