@@ -10,6 +10,9 @@ module.exports = function(app) {
 	app.route('/authenticated')
 		.post(userController.authenticated);
 
+	app.route('/securityToken')
+		.post(userController.securityToken);
+
 	app.route('/activateAccount')
 		.get(userController.activateAccount);
 }

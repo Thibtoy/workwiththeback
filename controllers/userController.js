@@ -5,10 +5,9 @@ const jwt = require('jsonwebtoken');
 const query = require('../models/query.js');
 const nodeMailer = require('nodemailer');
 const secret = process.env.SECRET || require('../config/config').SECRET;
-
+const frontPath = process.env.FRONT_PATH || 'http://localhost:3000/'
 
 exports.signUp = function(req, res) {
-	console.log(req.body);
 			req.body.password = pH.generate(req.body.password);
 			let type = req.body.type;
 			delete req.body.type;
@@ -19,11 +18,10 @@ exports.signUp = function(req, res) {
 					let params = {table: type, fields: req.body};
  					query.create(params, function(err, data){
  						if (err) {
- 							console.log(err);
  							res.status(400).json(err);
  						}
  						else {
- 							let token = jwt.sign({id: data.insertId, table: type}, secret);
+ 							let token = jwt.sign({id: data.insertId, table: type}, secret, {expiresIn: 86400});
  							sendValidationMail(req.body.email, token);
  							res.status(201).json({created: true, message:data});
  						}
@@ -37,33 +35,35 @@ exports.signUp = function(req, res) {
 }
 
 exports.login = function(req, res) {
-		let params = {fields: '*', table: req.body.type, where:{email: req.body.email}};
-		query.find(params, function(err, user){
-			console.log(user);
-			if (err) res.status(400).json(err);
-			else if (!user || user.activated === 0) res.status(200).json({message: 'This user does not exists'});
-			else if (pH.verify(req.body.password, user.password)) {
-				let name = (user.firstName)?user.firstName+' '+user.lastName: user.name;
-				let token = jwt.sign({logged: true, id:user.id, name: name, role: req.body.type}, secret);
-				res.status(200).json({authenticate: true, token: token, message: 'Successfully connected'});
-			}
-			else res.status(200).json({authenticate: false, message: 'Incorrect password'});
-		});
+	jwt.verify(req.body.securityToken, config.SECRET, function(err, decoded){
+		if (err) res.status(200).json({faillure: true, message: 'The form has expired'});
+		else {
+			let params = {fields: '*', table: req.body.type, where:{email: req.body.email}};
+			query.find(params, function(err, user){
+				if (err) res.status(400).json(err);
+				else if (!user || user.activated === 0) res.status(200).json({message: 'This user does not exists'});
+				else if (pH.verify(req.body.password, user.password)) {
+					let name = (user.firstName)?user.firstName+' '+user.lastName: user.name;
+					let token = jwt.sign({logged: true, id:user.id, name: name, role: req.body.type}, secret, {expiresIn: 900});
+					res.status(200).json({authenticate: true, token: token, message: 'Successfully connected'});
+				}
+				else res.status(200).json({authenticate: false, message: 'Incorrect password'});
+			});
+		}
+	});
 }
 
 exports.activateAccount = function(req, res) {
 	let token = req.query.token;
-	console.log(req.query);
 	jwt.verify(token, secret, function(err, decoded){
 		if (err) res.status(400).json('Authentication Faillure, maybe the link that you followed is expired :3');
 		else {
 			query.update({table: decoded.table, fields: {activated: 1}, where:{id: decoded.id}})
 				.then(() => {
-					res.redirect('https://work-with-the-best.herokuapp.com/');
+					res.redirect(frontPath);
 			})
 				.catch((err) => {
-					console.log(err);
-					res.status(400).json('Activation faillure, something went wrong');
+					res.status(400).json('Activation faillure, something went wrong, please try again in a few minutes');
 				})
 		}
 	})
@@ -71,12 +71,29 @@ exports.activateAccount = function(req, res) {
 }
 
 exports.authenticated = function(req, res) {
-	jwt.verify(req.body.token, secret, function(err, decoded){
-		if (err) res.status(400).json(err);
+	jwt.verify(req.body.token, config.SECRET, function(err, decoded){
+		if (err) {
+			res.status(400).json(err);
+		}
 		else {
-			res.status(200).json({auth: true, user: decoded});
+			let token = refreshToken(decoded);
+			res.status(200).json({auth: true, user: decoded, token});
 		};
 	});
+}
+
+exports.securityToken = function (req, res) {
+	let token = jwt.sign({form: true}, config.SECRET, {expiresIn: 180});
+	res.status(200).json(token);
+}
+
+function refreshToken(decoded) {
+	let now = new Date();
+	let remainingTime = decoded.exp - parseInt(now.getTime().toString().slice(0, 10), 10);
+	if (remainingTime < 420) {
+		return jwt.sign({logged: true, id:decoded.id, name: decoded.name, role: decoded.role}, config.SECRET, {expiresIn: 900})
+	}
+	else return false;
 }
 
 function sendValidationMail(mail, token) {
