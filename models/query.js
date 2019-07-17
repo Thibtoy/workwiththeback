@@ -63,7 +63,6 @@ exports.find = function(options, results) {
 	if (options.where) query += where(options.where);
 	if (options.orderBy) query += ' ORDER BY '+options.orderBy.field+' '+options.orderBy.order;
 	if (options.limit) query += ' LIMIT '+options.limit;
-	console.log(query);
 	let connection = mysql.createConnection(db);
 	connection.connect(function(err){
 		if (err) throw err;
@@ -93,7 +92,6 @@ exports.create = function(options, result) {
 		params[field] = mysqlEscape(options.fields[field].toString());
 	}
 	let query = 'INSERT INTO '+options.table+' SET ? ';
-	console.log(query);
 	let connection = mysql.createConnection(db);
 	connection.connect(function(err){
 		if (err) throw err;
@@ -112,11 +110,10 @@ exports.test = function(options) {
 			params[field] = mysqlEscape(options.fields[field].toString());
 		}
 		let query = 'INSERT INTO '+options.table+' SET ? ';
-		console.log(query);
 		let connection = mysql.createConnection(db);
-	connection.connect(function(err){
-		if (err) throw err;
-	})
+		connection.connect(function(err){
+			if (err) throw err;
+		})
 		return connection.query(query, params, function(err, data){
 			connection.end()
 			if (err) return reject(err);
@@ -144,15 +141,29 @@ exports.update = function(options) {
 			count++
 		}
 		query += where; 
-		console.log(query, values);
 		let connection = mysql.createConnection(db);
-	connection.connect(function(err){
-		if (err) throw err;
-	})
+		connection.connect(function(err){
+			if (err) throw err;
+		})
 		return connection.query(query, values, function(error, result){
-			connection.end();
 			if (error) reject(error);
 			resolve('success');			
 		})		
+	})
+}
+
+exports.delete = function(options) {
+	return new Promise(function(resolve, reject) {
+		let query = 'DELETE FROM '+mysqlEscape(options.table)+' WHERE id='+mysqlEscape(options.id);
+		let connection = mysql.createConnection(db);
+		connection.connect(function(err){
+			if (err) throw err;
+		})
+		console.log(query);
+		return connection.query(query, function(err, success){
+			connection.end();
+			if (err) reject(err);
+			else resolve(success)
+		})
 	})
 }

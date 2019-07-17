@@ -5,6 +5,9 @@ const connection = {
 		password: process.env.DATABASE_PASS || 'root',
 		database: process.env.DATABASE_NAME || 'WorkWithTheBest',
 }
+//On exporte notre constante connection
+module.exports = connection;
+
 
 // connection.connect(function(err){
 // 	if (err) throw err;
@@ -12,7 +15,6 @@ const connection = {
 // })
 
 //On exportes 'connection'
-module.exports = connection;
 
 // var connection;
 

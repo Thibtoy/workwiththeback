@@ -18,4 +18,7 @@ module.exports = function(app) {
 
 	app.route('/updateOffer')
 	   .put(fillAppController.updateOffer);
+
+	app.route('/deleteOffer')
+	   .delete(fillAppController.deleteOffer);
 }

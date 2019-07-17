@@ -1,4 +1,5 @@
 const query = require('../models/query');
+
 exports.carrousel = function(req, res) {
 	let name = (req.body.type === 'users')? req.body.type+'.firstName, '+req.body.type+'.lastName':req.body.type+'.name';
 	let params = {
@@ -16,14 +17,11 @@ exports.carrousel = function(req, res) {
 		orderBy: {field: req.body.type+'Offers.Id', order: 'DESC'},
 		limit: 5,
 	};
-	
 	query.find(params, function(err, data){
 		if(err) {
-			console.log(err);
 			res.status(200).json(err);
 		}
 		else {
-			console.log(data);
 			res.status(200).json(data);
 		}
 	})
@@ -41,14 +39,11 @@ exports.wordResearch = function(req, res) {
 		},
 		limit: 5,
 	}
-
 	query.find(params, function(err, data){
 		if(err) {
-			console.log(err);
 			res.status(400).json(err);
 		}
 		else {
-			console.log(data);
 			res.status(200).json(data);
 		}
 	})
@@ -95,21 +90,18 @@ exports.addOffer= function(req, res) {
 		 				query.test(params)
 		 					 .then(data => {resolve(true)})
 		 					 .catch(err => {reject(err)})
-		 			})
+		 			});
 		 			promises.push(promise);
 		 	}
 		 	Promise.all(promises)
 		 		.then(data => {
-		 			console.log(data);
 		 			res.status(201).json('created');
 		 		})
 		 		.catch(err => {
-		 			console.log(err);
 		 			res.status(400).json(err);
-		 		})
+		 		});
 		 })
 		 .catch(err => {
-		 	console.log(err)
 		 	res.status(400).json(err);
 		 });
 }
@@ -123,7 +115,6 @@ exports.offers = function(req, res) {
 		orderBy: {field: offer.type+'Offers.Id', order: 'DESC'},
 		limit: 5,
 	}
-
 	query.find(params, function(err, data){
 		if (err) res.status(400).json(err);
 		else res.status(200).json(data);
@@ -132,23 +123,19 @@ exports.offers = function(req, res) {
 
 exports.getOffer = function(req, res) {
 	let offer = req.body;	
-
 	let promise1 = new Promise(function(resolve, reject){
 		let params = {
 			table: offer.type+'Offers',
-			fields: 'title, content, startDate, endDate, ownerId, active',
+			fields: 'title, content, startDate, endDate, ownerId',
 			where: {[offer.type+'Offers.id']: offer.id},
 		}
-
 		query.find(params, function(err, data){
 			if (err) reject(err);
 			else {
-				console.log(data);
 				resolve(data);
 			}
 		});
 	});			
-
 	let promise2 = new Promise(function(resolve, reject){
 		let params = {
 			table: offer.type+'OffersToLocation AS link',
@@ -163,7 +150,6 @@ exports.getOffer = function(req, res) {
 			else resolve(data);
 		});
 	});
-
 	let promise3 = new Promise(function(resolve, reject){
 		let params = {
 			table: offer.type+'OffersToActivity AS link',
@@ -178,31 +164,98 @@ exports.getOffer = function(req, res) {
 			else resolve(data);
 		});
 	});
-
 	Promise.all([promise1, promise2, promise3])
 				 .then(data => res.status(200).json(data))
 				 .catch(err => {
-				 	console.log(err);
 				 	res.status(400).json(err)
 				 });
 }
 
 exports.updateOffer = function(req, res) {
+	let conditions = {};
+	let promises = []; 
 	let params = {
 		table: req.body.role+'Offers', 
-		fields: {
-			title: req.body.title,
-			content: req.body.content,
-			startDate: req.body.startDate,
-			endDate: req.body.endDate,
-		},
+		fields: {},
 		where: {id: req.body.id},
 	}
+	for (let field in req.body.updated) {
+		params.fields[field] = req.body[field]; 
+		conditions.update = true;
+	}
+	if (conditions.update) {
+		promises.push(
+			new Promise (function(resolve, reject){
+				query.update(params)
+		 			.then(data => resolve(data))
+		 			.catch(err => reject(err));
+			})
+		);	
+	}
 
-	query.update(params)
-		 .then(data => res.status(200).json(data))
-		 .catch(err => {
-		 	console.log(err);
-		 	res.status(400).json(err)
-		 });
+	for (let field in req.body.remove) {
+		promises.push(
+			new Promise (function(resolve, reject){
+				let record = {
+					table: req.body.role+'OffersTo'+req.body.remove[field], 
+					id: field
+				}
+				query.delete(record)
+					.then(data => resolve(data))
+					.catch(err => reject(err));
+			})
+		)
+	}
+	for (let prop in req.body.locationsList) {
+		let params = {
+		 	table: req.body.role+'OffersToLocation',
+		 	fields: {
+		 		offerId: req.body.id,
+		 		locationId: prop,
+		 	},
+		}
+		promises.push(
+			new Promise(function(resolve, reject){
+		 		query.test(params)
+		 			.then(data => {resolve(true)})
+		 			.catch(err => {reject(err)});
+		 	})
+		);
+	}
+	for (let prop in req.body.activityList) {
+		let params = {
+		 	table: req.body.role+'OffersToActivity',
+		 	fields: {
+		 		offerId: req.body.id,
+		 		activityId: prop,
+		 	},
+		}
+		promises.push(
+			new Promise(function(resolve, reject){
+		 		query.test(params)
+		 			.then(data => {resolve(true)})
+		 			.catch(err => {reject(err)});
+		 	})
+		 );
+	}
+	if (promises.length > 0){
+		Promise.all(promises)
+			.then(data => res.status(200).json(data))
+			.catch(err => res.status(400).json(err)); 
+	}
+	else res.status(400).json('nothing to update');
+}
+
+exports.deleteOffer = function(req, res) {
+	console.log(req);
+	let record = {
+		table: req.body.type+'Offers',
+		id: req.body.id,
+	}
+	query.delete(record)
+		.then(data => res.status(200).json(data))
+		.catch(err => {
+			console.log(err);
+			res.status(400).json(err)
+		});
 }
