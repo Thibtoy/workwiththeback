@@ -53,6 +53,11 @@ exports.login = function(req, res) {
 	});
 }
 
+exports.anonymVisit = function(req, res) {
+	let token = jwt.sign({role: 'visitor'}, secret, {expiresIn: 900});
+	res.status(200).json(token);
+}
+
 exports.activateAccount = function(req, res) {
 	let token = req.query.token;
 	jwt.verify(token, secret, function(err, decoded){

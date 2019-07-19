@@ -4,6 +4,9 @@ module.exports = function(app) {
 	app.route('/carrousel')
 	   .post(fillAppController.carrousel);
 
+	app.route('/dashboard')
+	   .post(fillAppController.dashboard);
+
 	app.route('/wordResearch')
 	   .post(fillAppController.wordResearch);
 

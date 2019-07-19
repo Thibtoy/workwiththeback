@@ -7,6 +7,9 @@ module.exports = function(app) {
 	app.route('/login')
 		.post(userController.login);
 
+	app.route('/anonymVisit')
+		.post(userController.anonymVisit);
+
 	app.route('/authenticated')
 		.post(userController.authenticated);
 
