@@ -26,52 +26,88 @@ function mysqlEscape(str) {
     });
 }
 
-function innerJoin(innerJ) {
+function join(toJoin, type='INNER') {
 	let query = '';
-	for (let prop in innerJ) {
-		query += ' INNER JOIN '+innerJ[prop].table+' ON '+innerJ[prop].on;
+	for (let prop in toJoin) {
+		query += ' '+type+' JOIN '+toJoin[prop].table+' ON '+toJoin[prop].on;
 	}
 	return query;
 }
 
 function where(where) {
 	let query = ' WHERE ';
-		let count = 0;
+	let started = false;
 		for (let param in where){
 			if (param === 'like') {
 				for (let field in where[param]){
+					(started)? query+= 'AND ': started = true;
 					where[param][field].forEach(function(item, i){
-						query += (i === 0)? field+" LIKE '"+mysqlEscape(item.toString())+
+						query += (i === 0)? "("+field+" LIKE '"+mysqlEscape(item.toString())+
 						"%'" : " '%"+mysqlEscape(item.toString())+"%'";
 					})
 				}
+				query+= ")";
 			}
-			else {
-				query += (count === 0)? param+" = '"+mysqlEscape(where[param].toString())+
-				"'" : ' OR '+param+" = '"+mysqlEscape(where[param].toString())+"'";
-				count++
+			else if (param === 'and') {
+				let count = 0;
+				(started)? query+= 'AND ': started = true;
+				for (let field in where[param]){
+					query += (count === 0)? "("+field+" = '"+mysqlEscape(where[param][field].toString())+
+					"' " : ' AND '+field+" = '"+mysqlEscape(where[param][field].toString())+"'";
+					count++
+				}
+				query+= ")";
+			}
+			else if (typeof where[param] !== 'string' && where[param].length) {
+				(started)? query+= 'AND ': started = true;
+				where[param].forEach(function(item, i) {
+					query += (i === 0)? "("+param+" = '"+mysqlEscape(item.toString())+"' " : ' OR '+param+
+					" = '"+mysqlEscape(item.toString())+"'";
+				})
+				query+= ")";
+			}
+			else if(typeof where[param] === 'string' || typeof where[param] === 'number'){
+				query += (started)? "AND ("+param+" = '"+mysqlEscape(where[param].toString())+
+				"' " : '('+param+" = '"+mysqlEscape(where[param].toString())+"'";
+				query+= ")";
+				started = true;
 			}
 		}
 		return query;
 }
 
+function fieldConcat(fields) {
+	let query = '';
+	for (let field in fields) {
+		query += ", GROUP_CONCAT(DISTINCT "+field+"."+fields[field]+") AS "+field+fields[field];
+	}
+	return query;
+}
+
+
+//SELECT GROUP_CONCAT(DISTINCT locations.name) AS location, startDate, endDate FROM usersOffers INNER JOIN users ON users.id = usersOffers.ownerId INNER JOIN usersOffersToLocation AS ToLoc ON usersOffers.id = ToLoc.offerId INNER JOIN locations ON ToLoc.locationId = locations.id WHERE active = '1' GROUP BY usersOffers.id
+
 exports.find = function(options, results) {
 	let query = 'SELECT '
-	if (options.distinct) query += 'DISTINCT ';
-	query += options.fields+' FROM '+options.table;
-	if (options.innerJoin) query += innerJoin(options.innerJoin);
+	query += options.fields;
+	if (options.fieldConcat) query += fieldConcat(options.fieldConcat);
+	query += ' FROM '+options.table;
+	if (options.leftJoin) query += join(options.leftJoin, 'LEFT');
+	if (options.innerJoin) query += join(options.innerJoin);
 	if (options.where) query += where(options.where);
+	if (options.groupBy) query += ' GROUP BY '+options.groupBy.field;
 	if (options.orderBy) query += ' ORDER BY '+options.orderBy.field+' '+options.orderBy.order;
 	if (options.limit) query += ' LIMIT '+options.limit;
 	let connection = mysql.createConnection(db);
 	connection.connect(function(err){
 		if (err) throw err;
-	})
+	});
+	console.log(query);
 	return connection.query(query, function(err, data){
 		connection.end();
 		if (err) return results(err, null);
 		else if(data.length === 0) return results(null, false);
-		else if(data.length === 1) return results(null, data[0]);
+		else if (data.length === 1) return results(null, data[0]);
 		else {
 			let total = [];
 			data.forEach(function(item){
@@ -145,6 +181,7 @@ exports.update = function(options) {
 		connection.connect(function(err){
 			if (err) throw err;
 		})
+		console.log( query, values);
 		return connection.query(query, values, function(error, result){
 			if (error) reject(error);
 			resolve('success');			

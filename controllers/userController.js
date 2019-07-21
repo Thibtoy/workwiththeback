@@ -1,5 +1,3 @@
-//const Users = require('../models/userModel');
-//const {User} = require('../models/sequelize');
 const pH = require('password-hash');
 const jwt = require('jsonwebtoken');
 const query = require('../models/query.js');
