@@ -7,12 +7,10 @@ exports.dataDistricts = function(req, res) {
 	axios.get('https://geo.api.gouv.fr/departements').then(response => {
 		let data = [];
 		let promises = [];
-
 		response.data.forEach(function(item){
 			let dpt = {name: item.nom, code: item.code};
 			data.push(dpt);
 		});
-
 		data.forEach(function(item, i){
 			promises.push(	
 				new Promise(function(resolve, reject) {query.test({table: 'districts', fields: item})
@@ -21,7 +19,6 @@ exports.dataDistricts = function(req, res) {
 				})
 			);
 		});
-
 		Promise.all(promises)
 		.then(success => {
 			res.status(201).send('all good');

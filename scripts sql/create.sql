@@ -16,7 +16,8 @@ CREATE TABLE WorkWithTheBest.locations (
 
 ALTER TABLE WorkWithTheBest.locations
 ADD CONSTRAINT FOREIGN KEY(districtId) 
-REFERENCES WorkWithTheBest.districts(id);
+REFERENCES WorkWithTheBest.districts(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.activityTitle (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -33,7 +34,8 @@ CREATE TABLE WorkWithTheBest.activity (
 
 ALTER TABLE WorkWithTheBest.activity
 ADD CONSTRAINT FOREIGN KEY(activityTitleId) 
-REFERENCES WorkWithTheBest.activityTitle(id);
+REFERENCES WorkWithTheBest.activityTitle(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.users (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -60,15 +62,19 @@ CREATE TABLE WorkWithTheBest.userToActivity (
 
 ALTER TABLE WorkWithTheBest.userToLocation
 ADD CONSTRAINT FOREIGN KEY(userId)
-REFERENCES WorkWithTheBest.users(id),
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (locationId)
-REFERENCES WorkWithTheBest.locations(id);
+REFERENCES WorkWithTheBest.locations(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 ALTER TABLE WorkWithTheBest.userToActivity
 ADD CONSTRAINT FOREIGN KEY(userId)
-REFERENCES WorkWithTheBest.users(id),
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (activityId)
-REFERENCES WorkWithTheBest.activity(id); 
+REFERENCES WorkWithTheBest.activity(id)
+ON DELETE CASCADE ON UPDATE CASCADE; 
 
 CREATE TABLE WorkWithTheBest.companies (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -96,15 +102,19 @@ CREATE TABLE WorkWithTheBest.companyToActivity (
 
 ALTER TABLE WorkWithTheBest.companyToLocation
 ADD CONSTRAINT FOREIGN KEY (companyId)
-REFERENCES WorkWithTheBest.companies(id),
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (locationId)
-REFERENCES WorkWithTheBest.locations(id);
+REFERENCES WorkWithTheBest.locations(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 ALTER TABLE WorkWithTheBest.companyToActivity
 ADD CONSTRAINT FOREIGN KEY(companyId)
-REFERENCES WorkWithTheBest.companies(id),
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (activityId)
-REFERENCES WorkWithTheBest.activity(id);
+REFERENCES WorkWithTheBest.activity(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.usersOffers (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -118,7 +128,8 @@ CREATE TABLE WorkWithTheBest.usersOffers (
 
 ALTER TABLE WorkWithTheBest.usersOffers
 ADD CONSTRAINT FOREIGN KEY (ownerId)
-REFERENCES WorkWithTheBest.users(id);
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.usersOffersToLocation(
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -128,9 +139,11 @@ CREATE TABLE WorkWithTheBest.usersOffersToLocation(
 
 ALTER TABLE WorkWithTheBest.usersOffersToLocation
 ADD CONSTRAINT FOREIGN KEY (offerId)
-REFERENCES WorkWithTheBest.usersOffers(id),
+REFERENCES WorkWithTheBest.usersOffers(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (locationId)
-REFERENCES WorkWithTheBest.locations(id);
+REFERENCES WorkWithTheBest.locations(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.usersOffersToActivity(
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -140,9 +153,11 @@ CREATE TABLE WorkWithTheBest.usersOffersToActivity(
 
 ALTER TABLE WorkWithTheBest.usersOffersToActivity
 ADD CONSTRAINT FOREIGN KEY (offerId)
-REFERENCES WorkWithTheBest.usersOffers(id),
+REFERENCES WorkWithTheBest.usersOffers(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (activityId)
-REFERENCES WorkWithTheBest.activity(id);
+REFERENCES WorkWithTheBest.activity(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.companiesOffers (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -156,7 +171,8 @@ CREATE TABLE WorkWithTheBest.companiesOffers (
 
 ALTER TABLE WorkWithTheBest.companiesOffers
 ADD CONSTRAINT FOREIGN KEY (ownerId)
-REFERENCES WorkWithTheBest.companies(id);
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.companiesOffersToLocation(
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -166,9 +182,11 @@ CREATE TABLE WorkWithTheBest.companiesOffersToLocation(
 
 ALTER TABLE WorkWithTheBest.companiesOffersToLocation
 ADD CONSTRAINT FOREIGN KEY (offerId)
-REFERENCES WorkWithTheBest.companiesOffers(id),
+REFERENCES WorkWithTheBest.companiesOffers(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (locationId)
-REFERENCES WorkWithTheBest.locations(id);
+REFERENCES WorkWithTheBest.locations(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.companiesOffersToActivity(
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -178,9 +196,11 @@ CREATE TABLE WorkWithTheBest.companiesOffersToActivity(
 
 ALTER TABLE WorkWithTheBest.companiesOffersToActivity
 ADD CONSTRAINT FOREIGN KEY (offerId)
-REFERENCES WorkWithTheBest.companiesOffers(id),
+REFERENCES WorkWithTheBest.companiesOffers(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (activityId)
-REFERENCES WorkWithTheBest.activity(id);
+REFERENCES WorkWithTheBest.activity(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 
 CREATE TABLE WorkWithTheBest.contract (
@@ -193,9 +213,11 @@ CREATE TABLE WorkWithTheBest.contract (
 
 ALTER TABLE WorkWithTheBest.contract
 ADD CONSTRAINT FOREIGN KEY (userId)
-REFERENCES WorkWithTheBest.users(id),
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (companyId)
-REFERENCES WorkWithTheBest.companies(id);
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.userNote (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -207,9 +229,11 @@ CREATE TABLE WorkWithTheBest.userNote (
 
 ALTER TABLE WorkWithTheBest.userNote
 ADD CONSTRAINT FOREIGN KEY (contractId)
-REFERENCES WorkWithTheBest.contract(id),
+REFERENCES WorkWithTheBest.contract(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (userID)
-REFERENCES WorkWithTheBest.users(id);
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.companyNote (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -221,9 +245,11 @@ CREATE TABLE WorkWithTheBest.companyNote (
 
 ALTER TABLE WorkWithTheBest.companyNote
 ADD CONSTRAINT FOREIGN KEY (contractId)
-REFERENCES WorkWithTheBest.contract(id),
+REFERENCES WorkWithTheBest.contract(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (companyID)
-REFERENCES WorkWithTheBest.companies(id);
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE TABLE WorkWithTheBest.link (
 	id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -233,9 +259,11 @@ CREATE TABLE WorkWithTheBest.link (
 
 ALTER TABLE WorkWithTheBest.link
 ADD CONSTRAINT FOREIGN KEY (userId)
-REFERENCES WorkWithTheBest.users(id),
+REFERENCES WorkWithTheBest.users(id)
+ON DELETE CASCADE ON UPDATE CASCADE,
 ADD CONSTRAINT FOREIGN KEY (companyId)
-REFERENCES WorkWithTheBest.companies(id);
+REFERENCES WorkWithTheBest.companies(id)
+ON DELETE CASCADE ON UPDATE CASCADE;
 
 
 

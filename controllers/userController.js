@@ -12,7 +12,7 @@ exports.signUp = function(req, res) {
 			let params = {fields: 'id', table: type, where:{email: req.body.email}};
 			query.find(params, function(err, user){
 				if (err) res.status(400).json(err);
-				else if(!user) {
+				else if(!user[0]) {
 					let params = {table: type, fields: req.body};
  					query.create(params, function(err, data){
  						if (err) {
@@ -39,10 +39,10 @@ exports.login = function(req, res) {
 			let params = {fields: '*', table: req.body.type, where:{email: req.body.email}};
 			query.find(params, function(err, user){
 				if (err) res.status(400).json(err);
-				else if (!user || user.activated === 0) res.status(200).json({message: 'This user does not exists'});
-				else if (pH.verify(req.body.password, user.password)) {
-					let name = (user.firstName)?user.firstName+' '+user.lastName: user.name;
-					let token = jwt.sign({logged: true, id:user.id, name: name, role: req.body.type}, secret, {expiresIn: 900});
+				else if (!user[0] || user[0].activated === 0) res.status(200).json({message: 'This user does not exists'});
+				else if (pH.verify(req.body.password, user[0].password)) {
+					let name = (user[0].firstName)?user[0].firstName+' '+user[0].lastName: user[0].name;
+					let token = jwt.sign({logged: true, id:user[0].id, name: name, role: req.body.type}, secret, {expiresIn: 900});
 					res.status(200).json({authenticate: true, token: token, message: 'Successfully connected'});
 				}
 				else res.status(200).json({authenticate: false, message: 'Incorrect password'});

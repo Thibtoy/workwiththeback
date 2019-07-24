@@ -1,12 +1,12 @@
 //On paramètre les identifiants de connexion
-const connection = {
+const dbConfig = {
 		host: process.env.DATABASE_URL || 'localhost',
 		user: process.env.DATABASE_USER || 'root',
 		password: process.env.DATABASE_PASS || 'root',
 		database: process.env.DATABASE_NAME || 'WorkWithTheBest',
 }
-//On exporte notre constante connection
-module.exports = connection;
+//On exporte notre constante dbConfig
+module.exports = dbConfig;
 
 
 // connection.connect(function(err){

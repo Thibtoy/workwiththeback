@@ -1,16 +1,17 @@
 const query = require('../models/query');
 
 exports.carrousel = function(req, res) {
-	let name = (req.body.type === 'users')? req.body.type+'.firstName, '+req.body.type+'.lastName':req.body.type+'.name';
+	let name = (req.body.type === 'users')? req.body.type+'.firstName, '+
+			req.body.type+'.lastName':req.body.type+'.name';
 	let params = {
 		fields: req.body.type+'Offers.ownerId, '+req.body.type+
-		'Offers.id, title, content, '+name+', startDate, endDate',
+			'Offers.id, title, content, '+name+', startDate, endDate',
 		fieldConcat: {locations: 'name'}, 
 		table: req.body.type+'Offers', 
 		leftJoin: {
 			first:{table: req.body.type, on: req.body.type+'.id = '+req.body.type+'Offers.ownerId'},
 			second:{table: req.body.type+'OffersToLocation AS ToLoc', on: req.body.type+
-			'Offers.id = ToLoc.offerId'},
+				'Offers.id = ToLoc.offerId'},
 			third:{table: 'locations', on: 'ToLoc.locationId = locations.id'}
 		},
 		where:{active: 1},
@@ -20,14 +21,9 @@ exports.carrousel = function(req, res) {
 
 	};
 	query.find(params, function(err, data){
-		if(err) {
-			console.log(err);
-			res.status(200).json(err);
-		}
-		else {
-			res.status(200).json(data);
-		}
-	})
+		if(err) res.status(400).json(err);
+		else res.status(200).json(data);
+	});
 }
 
 exports.dashboard = function(req, res) {
@@ -36,25 +32,25 @@ exports.dashboard = function(req, res) {
 	req.body.tables.forEach(function(table){
 		let name = (table === 'companies')? 'name' : 'firstName, lastName';
 		let params = {
-		fields: table+'Offers.ownerId, '+table+
-		'Offers.id, title, content, '+table+'.'+name+', startDate, endDate',
-		fieldConcat: {locations: 'name', districts: 'code', activity: 'name', activityTitle: 'name'}, 
-		table: table+'Offers',
-		leftJoin: {		
-			first:{table: table, on: table+'.id = '+table+'Offers.ownerId'},
-			second:{table: table+'OffersToLocation AS  ToLoc', on: table+
-			'Offers.id = ToLoc.offerId'},
-			third:{table: 'locations', on: 'ToLoc.locationId = locations.id'},
-			fourth: {table: table+'OffersToActivity AS ToAct', on: table+
-			'Offers.id = ToAct.offerId'},
-			fifth: {table: 'activity', on: 'ToAct.activityId = activity.id'},
-			sixth: {table: 'districts', on: 'locations.districtId = districts.id'},
-			seventh: {table: 'activityTitle', on: 'activity.activityTitleId = activityTitle.id'},
-		},
-		where: req.body.where,
-		groupBy: {field: table+'Offers.id'},
-		orderBy: {field: table+'Offers.id', order: 'DESC'},
-	};
+			fields: table+'Offers.ownerId, '+table+
+				'Offers.id, title, content, '+table+'.'+name+', startDate, endDate',
+			fieldConcat: {locations: 'name', districts: 'code', activity: 'name', activityTitle: 'name'}, 
+			table: table+'Offers',
+			leftJoin: {		
+				first:{table: table, on: table+'.id = '+table+'Offers.ownerId'},
+				second:{table: table+'OffersToLocation AS  ToLoc', on: table+
+					'Offers.id = ToLoc.offerId'},
+				third:{table: 'locations', on: 'ToLoc.locationId = locations.id'},
+				fourth: {table: table+'OffersToActivity AS ToAct', on: table+
+					'Offers.id = ToAct.offerId'},
+				fifth: {table: 'activity', on: 'ToAct.activityId = activity.id'},
+				sixth: {table: 'districts', on: 'locations.districtId = districts.id'},
+				seventh: {table: 'activityTitle', on: 'activity.activityTitleId = activityTitle.id'},
+			},
+			where: req.body.where,
+			groupBy: {field: table+'Offers.id'},
+			orderBy: {field: table+'Offers.id', order: 'DESC'},
+		};
 		promises.push(
 			new Promise (function(resolve, reject) {
 				query.find(params, function(err, data){
@@ -66,21 +62,21 @@ exports.dashboard = function(req, res) {
 	});
 	Promise.all(promises)
 		.then(data => res.status(200).json(data))
-		.catch(err => res.status(200).json(err));
+		.catch(err => res.status(400).json(err));
 }
 
 exports.wordResearch = function(req, res) {
-	console.log(req.body.word);
 	let fields = req.body.table+'.id, '+req.body.table+'.name';
 	let params = {
 		fields: fields,
 		table: req.body.table,
 		where: {
-			like: {
-				[req.body.table+'.name']: req.body.word.split(' '),
-			},
+			like: {[req.body.table+'.name']: req.body.word.split(' '),},
 		},
 		limit: 5,
+	}
+	if (req.body.table === 'districts' && parseInt(req.body.word) > 0) {
+		params.where = {[req.body.table+'.code']: req.body.word};
 	}
 	if(req.body.table === 'locations') {
 		params.fields+= ', districts.code AS code';
@@ -175,7 +171,7 @@ exports.getOffer = function(req, res) {
 	let promise1 = new Promise(function(resolve, reject){
 		let params = {
 			table: offer.type+'Offers',
-			fields: 'title, content, startDate, endDate, ownerId',
+			fields: 'title, content, startDate, endDate, ownerId, active',
 			where: {[offer.type+'Offers.id']: offer.id},
 		}
 		query.find(params, function(err, data){

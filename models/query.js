@@ -1,4 +1,4 @@
-const db = require('./mysql.js');
+const dbConfig = require('./mysql.js');
 const mysql = require('mysql');
 
 function mysqlEscape(str) {
@@ -40,7 +40,7 @@ function where(where) {
 		for (let param in where){
 			if (param === 'like') {
 				for (let field in where[param]){
-					(started)? query+= 'AND ': started = true;
+					(started)? query+= ' AND ': started = true;
 					where[param][field].forEach(function(item, i){
 						query += (i === 0)? "("+field+" LIKE '"+mysqlEscape(item.toString())+
 						"%'" : " '%"+mysqlEscape(item.toString())+"%'";
@@ -50,7 +50,7 @@ function where(where) {
 			}
 			else if (param === 'and') {
 				let count = 0;
-				(started)? query+= 'AND ': started = true;
+				(started)? query+= ' AND ': started = true;
 				for (let field in where[param]){
 					query += (count === 0)? "("+field+" = '"+mysqlEscape(where[param][field].toString())+
 					"' " : ' AND '+field+" = '"+mysqlEscape(where[param][field].toString())+"'";
@@ -59,7 +59,7 @@ function where(where) {
 				query+= ")";
 			}
 			else if (typeof where[param] !== 'string' && where[param].length) {
-				(started)? query+= 'AND ': started = true;
+				(started)? query+= ' AND ': started = true;
 				where[param].forEach(function(item, i) {
 					query += (i === 0)? "("+param+" = '"+mysqlEscape(item.toString())+"' " : ' OR '+param+
 					" = '"+mysqlEscape(item.toString())+"'";
@@ -67,7 +67,7 @@ function where(where) {
 				query+= ")";
 			}
 			else if(typeof where[param] === 'string' || typeof where[param] === 'number'){
-				query += (started)? "AND ("+param+" = '"+mysqlEscape(where[param].toString())+
+				query += (started)? " AND ("+param+" = '"+mysqlEscape(where[param].toString())+
 				"' " : '('+param+" = '"+mysqlEscape(where[param].toString())+"'";
 				query+= ")";
 				started = true;
@@ -98,7 +98,7 @@ exports.find = function(options, results) {
 	if (options.groupBy) query += ' GROUP BY '+options.groupBy.field;
 	if (options.orderBy) query += ' ORDER BY '+options.orderBy.field+' '+options.orderBy.order;
 	if (options.limit) query += ' LIMIT '+options.limit;
-	let connection = mysql.createConnection(db);
+	let connection = mysql.createConnection(dbConfig);
 	connection.connect(function(err){
 		if (err) throw err;
 	});
@@ -107,7 +107,7 @@ exports.find = function(options, results) {
 		connection.end();
 		if (err) return results(err, null);
 		else if(data.length === 0) return results(null, false);
-		else if (data.length === 1) return results(null, data[0]);
+		else if (data.length === 1) return results(null, [data[0]]);
 		else {
 			let total = [];
 			data.forEach(function(item){
@@ -128,7 +128,7 @@ exports.create = function(options, result) {
 		params[field] = mysqlEscape(options.fields[field].toString());
 	}
 	let query = 'INSERT INTO '+options.table+' SET ? ';
-	let connection = mysql.createConnection(db);
+	let connection = mysql.createConnection(dbConfig);
 	connection.connect(function(err){
 		if (err) throw err;
 	})
@@ -146,7 +146,7 @@ exports.test = function(options) {
 			params[field] = mysqlEscape(options.fields[field].toString());
 		}
 		let query = 'INSERT INTO '+options.table+' SET ? ';
-		let connection = mysql.createConnection(db);
+		let connection = mysql.createConnection(dbConfig);
 		connection.connect(function(err){
 			if (err) throw err;
 		})
@@ -177,7 +177,7 @@ exports.update = function(options) {
 			count++
 		}
 		query += where; 
-		let connection = mysql.createConnection(db);
+		let connection = mysql.createConnection(dbConfig);
 		connection.connect(function(err){
 			if (err) throw err;
 		})
@@ -192,7 +192,7 @@ exports.update = function(options) {
 exports.delete = function(options) {
 	return new Promise(function(resolve, reject) {
 		let query = 'DELETE FROM '+mysqlEscape(options.table)+' WHERE id='+mysqlEscape(options.id);
-		let connection = mysql.createConnection(db);
+		let connection = mysql.createConnection(dbConfig);
 		connection.connect(function(err){
 			if (err) throw err;
 		})
