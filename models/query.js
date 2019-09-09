@@ -37,6 +37,7 @@ function join(toJoin, type='INNER') {
 function where(where) {
 	let query = ' WHERE ';
 	let started = false;
+	let between = false;
 		for (let param in where){
 			if (param === 'like') {
 				for (let field in where[param]){
@@ -57,6 +58,15 @@ function where(where) {
 					count++
 				}
 				query+= ")";
+			}
+			else if ((param === 'endDate' || param === 'startDate') && where[param].length > 0) {
+				let operator = (param === 'startDate')? '>=' : '<=';
+				query += (started)? " AND ("+param+" "+operator+" '"+mysqlEscape(where[param].toString())+
+				"' " : '('+param+" "+operator+" '"+mysqlEscape(where[param].toString())+"'";
+				query+= ")";
+				started = true;
+				between = true;
+
 			}
 			else if (typeof where[param] !== 'string' && where[param].length) {
 				(started)? query+= ' AND ': started = true;
@@ -105,7 +115,9 @@ exports.find = function(options, results) {
 	console.log(query);
 	return connection.query(query, function(err, data){
 		connection.end();
-		if (err) return results(err, null);
+		if (err) {
+			console.log(err);
+			return results(err, null);}
 		else if(data.length === 0) return results(null, false);
 		else if (data.length === 1) return results(null, [data[0]]);
 		else {

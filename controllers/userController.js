@@ -3,7 +3,8 @@ const jwt = require('jsonwebtoken');
 const query = require('../models/query.js');
 const nodeMailer = require('nodemailer');
 const secret = process.env.SECRET || require('../config/config').SECRET;
-const frontPath = process.env.FRONT_PATH || 'http://localhost:3000/'
+const frontPath = process.env.FRONT_PATH || 'http://localhost:3000/';
+const path = process.env.BACK_PATH || 'http://localhost:8000/';
 
 exports.signUp = function(req, res) {
 			req.body.password = pH.generate(req.body.password);
@@ -63,7 +64,7 @@ exports.activateAccount = function(req, res) {
 		else {
 			query.update({table: decoded.table, fields: {activated: 1}, where:{id: decoded.id}})
 				.then(() => {
-					res.redirect(frontPath);
+					res.redirect(frontPath+'redirection/activatedSuccessfully');
 			})
 				.catch((err) => {
 					res.status(400).json('Activation faillure, something went wrong, please try again in a few minutes');
@@ -120,7 +121,7 @@ function sendValidationMail(mail, token) {
     		  '			<body>'+
     		  '				<div><p>Congratulations, your registration on WorkWithTheBest is almost done.<br />'+
     		  '				Click on the link below to validate your account!</p><br />'+
-    		  '				<a href="https://evening-forest-89198.herokuapp.com/activateAccount?token='+token+'">Click Here</a>'+
+    		  '				<a href="'+path+'activateAccount?token='+token+'">Click Here</a>'+
         	  '			</body>'+
         	  '		</html>'
 	}
